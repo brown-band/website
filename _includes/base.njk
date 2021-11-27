@@ -2,29 +2,43 @@
 <html>
   <head>
     <title>{{ title }}</title>
-    <link rel="stylesheet" href="/assets/min.css" />
+    <link rel="stylesheet" href="/assets/bootstrap.css" />
     <link rel="stylesheet" href="/assets/styles.css" />
+    <script async src="/assets/bootstrap.js"></script>
   </head>
   <body>
-    <nav tabindex="-1" onclick="this.focus()">
-      <ul class="container">
-        <li>
-          <a class="pagename" href="#">
-            <img src="/assets/elrod.png" height="78" /> The Brown Band
-          </a>
-        </li>
-        <li>
-          <a href="#">One</a>
-        </li>
-        <li>
-          <a href="#">Two</a>
-        </li>
-        <li>
-          <a href="#">Three</a>
-        </li>
-      </ul>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-brown">
+      <div class="container">
+        <a class="navbar-brand me-5" href="#">
+          <img class="m-1" src="/assets/elrod.png" height="50" />
+          <span style="font-weight: 500">The Brown Band</span>
+        </a>
+        <button
+          class="navbar-toggler"
+          type="button"
+          data-bs-toggle="collapse"
+          data-bs-target="#navbarSupportedContent"
+          aria-controls="navbarSupportedContent"
+          aria-expanded="false"
+          aria-label="Toggle navigation"
+        >
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+          <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+            <li class="nav-item">
+              <a class="nav-link" href="#">One</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#">Two</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#">Three</a>
+            </li>
+          </ul>
+        </div>
+      </div>
     </nav>
-    <button class="btn-close btn btn-sm">×</button>
-    <div class="container">{{ content | safe }}</div>
+    <div class="container my-2">{{ content | safe }}</div>
   </body>
 </html>
