@@ -2,3 +2,26 @@
   --bs-bg-opacity: 1;
   background: #271b0c;
 }
+.bg-brown2 {
+  --bs-bg-opacity: 1;
+  background: #382710;
+}
+.bg-brown3 {
+  --bs-bg-opacity: 1;
+  background: #483314;
+}
+.bg-brown4 {
+  --bs-bg-opacity: 1;
+  background: #593f17;
+}
+@media (min-width: 992px) {
+  .lg-shadow-brown {
+    box-shadow: 0 0.35rem 1rem 0.4rem #593f1755 !important;
+  }
+}
+
+.dropdown-header {
+  user-select: none;
+  -webkit-user-select: none;
+  pointer-events: none;
+}

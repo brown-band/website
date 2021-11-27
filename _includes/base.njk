@@ -7,7 +7,7 @@
     <script async src="/assets/bootstrap.js"></script>
   </head>
   <body>
-    <nav class="navbar navbar-expand-lg navbar-dark bg-brown">
+    <nav class="navbar navbar-expand-lg navbar-dark bg-brown2">
       <div class="container">
         <a class="navbar-brand me-5" href="#">
           <img class="m-1" src="/assets/elrod.png" height="50" />
@@ -25,17 +25,7 @@
           <span class="navbar-toggler-icon"></span>
         </button>
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
-          <ul class="navbar-nav me-auto mb-2 mb-lg-0">
-            <li class="nav-item">
-              <a class="nav-link" href="#">One</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="#">Two</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="#">Three</a>
-            </li>
-          </ul>
+          {% include "./nav.njk" %}
         </div>
       </div>
     </nav>

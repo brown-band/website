@@ -1,0 +1,73 @@
+- title: People
+  content:
+    - title: Band Board
+      url: /people/band-board
+    - title: Schedule
+      url: /schedule
+    - title: Join the Band!
+      url: /join-band
+    - title: Constitution
+      url: /constitution
+
+    - heading: Sections
+    - title: Flutes
+      url: /sections/flutes
+    - title: Clarinets
+      url: /sections/clarinets
+    - title: Saxophones & Mellophones (S&M)
+      url: /sections/s&m
+    - title: Trumpets
+      url: /sections/trumpets
+    - title: Low Brass
+      url: /sections/low-brass
+    - title: Percussion
+      url: /sections/percussion
+
+- title: Media
+  content:
+    - title: Buttons
+      url: /buttons
+    - title: Photos
+      url: /photos
+    - title: Recordings
+      url: /recordings
+    - title: Videos
+      url: /videos
+    - title: Lyrics
+      url: /lyrics
+    - title: Scripts
+      url: /show-scripts
+    - title: Alumni Newsletters
+      url: /alumni-newsletters
+
+- title: History
+  content:
+    - title: About Us
+      url: /about-us
+    - title: Elrod Snidley
+      url: /elrod-snidley
+    - title: Sound Off!
+      url: /sound
+    - title: 75 Years in Pictures
+      url: "/75-years-pictures"
+
+# todo: Members
+
+- title: More Info
+  content:
+    - title: Giving
+      url: /giving
+    - title: Visiting Bands
+      url: /visiting-bands
+    - title: Ivy Bands
+      url: /ivy-bands
+    - title: Ivy Bands Agreement
+      url: /ivy-bands-agreement
+
+    - heading: Commencement
+    - title: Schedule
+      url: /commencement-schedule
+    - title: Student Signup
+      url: https://docs.google.com/forms/d/1gDBvdABCfKt4JbuEdR2kOVR5RRp4gmNPoyUYlx0Q6cs/viewform?usp=send_form
+    - title: Alumni Signup
+      url: /commencement-sign-alumni

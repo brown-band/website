@@ -1,0 +1,28 @@
+<ul class="navbar-nav">
+  {% for dropdown in nav %}
+  <li class="nav-item dropdown mx-1">
+    <button
+      class="nav-link dropdown-toggle bg-transparent border-0"
+      style="outline: 0"
+      id="dropdownMenuLink"
+      data-bs-toggle="dropdown"
+      aria-expanded="false"
+    >
+      {{dropdown.title}}
+    </button>
+
+    <ul
+      class="dropdown-menu dropdown-menu-dark bg-brown4 rounded-3 lg-shadow-brown"
+      aria-labelledby="dropdownMenuLink"
+    >
+      {% for link in dropdown.content %}{% if link.heading %}
+      <li><hr class="dropdown-divider" /></li>
+      <li><h6 class="dropdown-header">{{link.heading}}</h6></li>
+      {% else %}
+      <li><a class="dropdown-item" href="{{link.url}}">{{link.title}}</a></li>
+      {% endif %}{% endfor %}
+    </ul>
+  </li>
+  {% endfor %}
+  <li class="nav-item"><a href="/contact" class="nav-link">Contact</a></li>
+</ul>
