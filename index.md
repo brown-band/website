@@ -1,0 +1,5 @@
+---
+layout: base
+---
+
+# Hello, world!

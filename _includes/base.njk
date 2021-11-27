@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>{{ title }}</title>
+    <link rel="stylesheet" href="/assets/min.css" />
+    <link rel="stylesheet" href="/assets/styles.css" />
+  </head>
+  <body>
+    <nav tabindex="-1" onclick="this.focus()">
+      <ul class="container">
+        <li>
+          <a class="pagename" href="#">
+            <img src="/assets/elrod.png" height="78" /> The Brown Band
+          </a>
+        </li>
+        <li>
+          <a href="#">One</a>
+        </li>
+        <li>
+          <a href="#">Two</a>
+        </li>
+        <li>
+          <a href="#">Three</a>
+        </li>
+      </ul>
+    </nav>
+    <button class="btn-close btn btn-sm">×</button>
+    <div class="container">{{ content | safe }}</div>
+  </body>
+</html>
