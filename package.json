@@ -1,0 +1,12 @@
+{
+  "private": true,
+  "scripts": {
+    "start": "eleventy --serve",
+    "build": "eleventy",
+    "format": "prettier --write ."
+  },
+  "devDependencies": {
+    "@11ty/eleventy": "^0.12.1",
+    "prettier": "2.5.0"
+  }
+}
