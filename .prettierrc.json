@@ -1,4 +1,4 @@
 {
-  "proseWrap": "always",
+  "proseWrap": "never",
   "overrides": [{ "files": ["*.njk"], "options": { "parser": "html" } }]
 }

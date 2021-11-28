@@ -2,23 +2,11 @@
 title: Join the Band!
 ---
 
-_Are you a Brown University undergraduate, grad student, or employee? Does your
-heart swell with pride whenever a touchdown, basket, or goal is scored in
-defense of Brunonia's honor? Do your friends refuse to attend sporting events
-with you because they are embarrassed by your loud and heartfelt cheering? Do
-you like bagels? If yes, you're already Brown Band material - all you have to do
-now is join up!_
+_Are you a Brown University undergraduate, grad student, or employee? Does your heart swell with pride whenever a touchdown, basket, or goal is scored in defense of Brunonia's honor? Do your friends refuse to attend sporting events with you because they are embarrassed by your loud and heartfelt cheering? Do you like bagels? If yes, you're already Brown Band material - all you have to do now is join up!_
 
 ## Why join the band?
 
-The Band is a fun-loving group of Brunonians who help to keep school spirit
-alive at Brown. Whether we are following the football team on the road, cheering
-on men's and women's basketball and hockey here in Providence, or playing for
-major school events, such as Convocation, we are Ever True to Brown. We interact
-with alumni, administrators and other students, sharing our love for Brown and
-leading our appreciative audiences in displaying our school spirit. And when the
-night falls, we party like there's no tomorrow. Here are some other reasons to
-join:
+The Band is a fun-loving group of Brunonians who help to keep school spirit alive at Brown. Whether we are following the football team on the road, cheering on men's and women's basketball and hockey here in Providence, or playing for major school events, such as Convocation, we are Ever True to Brown. We interact with alumni, administrators and other students, sharing our love for Brown and leading our appreciative audiences in displaying our school spirit. And when the night falls, we party like there's no tomorrow. Here are some other reasons to join:
 
 <ol type="A">
 <li>Free food. Everybody loves free things. Free food is something to love.
@@ -46,26 +34,10 @@ Peace.
 
 ## What is required to join the band?
 
-The honest and complete answer is absolutely nothing. We know that your time is
-valuable, so the band doesn't have strict attendance requirements. If you can't
-make all the games, you can choose to come to few each semester, and no one
-would think twice if you were a slacker busy person. Come when you want, leave
-when you want, and have as much fun as you want.
+The honest and complete answer is absolutely nothing. We know that your time is valuable, so the band doesn't have strict attendance requirements. If you can't make all the games, you can choose to come to few each semester, and no one would think twice if you were a slacker busy person. Come when you want, leave when you want, and have as much fun as you want.
 
-Don't play or own any instruments? That's fine with us too. We will teach you
-how to play the instrument of your choice - heck, we'll even let you borrow one
-so you can take it to your dorm and disturb all your friends. All we ask is if
-you can clap in rhythm (drums is for you) or if you can blow hard (the trumpet,
-my friend).
+Don't play or own any instruments? That's fine with us too. We will teach you how to play the instrument of your choice - heck, we'll even let you borrow one so you can take it to your dorm and disturb all your friends. All we ask is if you can clap in rhythm (drums is for you) or if you can blow hard (the trumpet, my friend).
 
 ## So how do I sign up?
 
-Just come to our rehearsals on every Tuesday at 6pm
-at [Fulton](http://maps.google.com/maps?f=q&hl=en&geocode=&q=02912&layer=c&ie=UTF8&ll=41.830769,-71.396263&spn=0.01164,0.027122&z=16&om=0&cbll=41.82493,-71.397235&cbp=2,88.36903800626904,,0,4.302723791111387),
-which is on the corner of Hope and Benevolent Streets (just behind the Orwig
-Music building). We'll give you a tour of our facilities and a taste of the
-music you'll be soon playing. Feel free to email
-the [Recording Secretary](/band-board#RecordingSecretary) to get on our mailing
-list. Or, if you have any questions, email anyone on [Band Board](/band-board).
-Lastly, check the [schedule](/schedule) to see our upcoming games. We look
-forward to welcoming you to the Brown Band!
+Just come to our rehearsals on every Tuesday at 6pm at [Fulton](http://maps.google.com/maps?f=q&hl=en&geocode=&q=02912&layer=c&ie=UTF8&ll=41.830769,-71.396263&spn=0.01164,0.027122&z=16&om=0&cbll=41.82493,-71.397235&cbp=2,88.36903800626904,,0,4.302723791111387), which is on the corner of Hope and Benevolent Streets (just behind the Orwig Music building). We'll give you a tour of our facilities and a taste of the music you'll be soon playing. Feel free to email the [Recording Secretary](/band-board#RecordingSecretary) to get on our mailing list. Or, if you have any questions, email anyone on [Band Board](/band-board). Lastly, check the [schedule](/schedule) to see our upcoming games. We look forward to welcoming you to the Brown Band!
