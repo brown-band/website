@@ -35,7 +35,6 @@
   content:
     - title: Buttons
       url: /buttons/
-      disabled: true
     - title: Photos
       url: /photos/
       disabled: true

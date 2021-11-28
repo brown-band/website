@@ -7,6 +7,7 @@ module.exports = (eleventyConfig) => {
 
   // Assets
   eleventyConfig.addPassthroughCopy("assets");
+  eleventyConfig.addPassthroughCopy("buttons/*/*.jpg");
   eleventyConfig.addPassthroughCopy({
     "node_modules/bootstrap/dist/css/bootstrap.min.css": "assets/bootstrap.css",
     "node_modules/bootstrap/dist/js/bootstrap.min.js": "assets/bootstrap.js",
@@ -14,6 +15,7 @@ module.exports = (eleventyConfig) => {
       "assets/bootstrap.min.js.map",
   });
   eleventyConfig.addWatchTarget("assets");
+  eleventyConfig.addWatchTarget("buttons/*/*.json");
 
   // Shortcodes
   eleventyConfig.addFilter("page_title", function (title) {

@@ -1,0 +1,111 @@
+<p>
+  <em>
+    It just wouldn't be complete if we cheered on the Bears without paying our
+    due respects to the opposition. Hence, we have the infamous buttons, a
+    different set for each football game (plus a special one for homecoming)
+    churned out every year. The Band proudly wears them, and we pass them out
+    for free to anyone at the football game who wants one!
+  </em>
+</p>
+<p>
+  <em>
+    The current season's buttons are displayed below. They are only released the
+    Tuesday before the football game! Don't forget to get your hands on one
+    before they are all gone.
+  </em>
+</p>
+
+<h2>{{buttons.currentYear}} Season</h2>
+<table class="table table-sm">
+  <thead>
+    <tr>
+      <th>School</th>
+      <th>Button</th>
+    </tr>
+  </thead>
+  <tbody>
+    {% for button in buttons.currentYearButtons %}
+    <tr>
+      <td>{{button.school}}</td>
+      <td>
+        <a href="{{button.image}}">
+          <img
+            alt="{{button.label}}"
+            title="{{button.label}}"
+            src="{{button.image}}"
+            width="100"
+            height="100"
+          />
+        </a>
+      </td>
+    </tr>
+    {% endfor %}
+  </tbody>
+</table>
+
+{% for school in buttons.bySchool %}
+<h2>{{school.name}}</h2>
+<table class="table table-sm">
+  <thead>
+    <tr>
+      <th>Year</th>
+      <th>Button</th>
+    </tr>
+  </thead>
+  <tbody>
+    {% for button in school.buttons %}
+    <tr>
+      <td>{{button.year}}</td>
+      <td>
+        {% if button.image %} <a href="{{button.image}}">{{button.label}}</a> {%
+        else %} {{button.label}} {% endif %}
+      </td>
+    </tr>
+    {% endfor %}
+  </tbody>
+</table>
+{% endfor %}
+
+<h2>Special Buttons</h2>
+<table class="table table-sm">
+  <thead>
+    <tr>
+      <th>Year</th>
+      <th>School</th>
+      <th>Button</th>
+    </tr>
+  </thead>
+  <tbody>
+    {% for button in specialButtons %}
+    <tr>
+      <td>{{button.year}}</td>
+      <td>{{button.school}}</td>
+      <td>
+        <a href="{{button.image}}">{{button.label}}</a>
+      </td>
+    </tr>
+    {% endfor %}
+  </tbody>
+</table>
+
+<h2>Secret Mystery Buttons</h2>
+<em>if you know what year these are please tell us &lt;3</em>
+<table class="table table-sm">
+  <thead>
+    <tr>
+      <th>Year/School</th>
+      <th>Button</th>
+    </tr>
+  </thead>
+  <tbody>
+    {% for button in buttons.unknown %}
+    <tr>
+      <td>{{button.about}}</td>
+      <td>
+        {% if button.image %} <a href="{{button.image}}">{{button.label}}</a> {%
+        else %} {{button.label}} {% endif %}
+      </td>
+    </tr>
+    {% endfor %}
+  </tbody>
+</table>
