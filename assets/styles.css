@@ -3,6 +3,14 @@
   --brown-2: #382710;
   --brown-3: #483314;
   --brown-4: #593f17;
+  color-scheme: light dark;
+  --bs-body-bg: transparent;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bs-body-color: white;
+  }
 }
 
 .bg-brown {
@@ -43,6 +51,13 @@
     width: 180px;
   }
 }
+
+@media (prefers-color-scheme: dark) and (min-width: 768px) {
+  .lg-shadow-brown {
+    box-shadow: 0 0.35rem 1rem 0.4rem #271b0c55 !important;
+  }
+}
+
 @media (min-width: 992px) {
   .header-quote {
     width: 300px;
