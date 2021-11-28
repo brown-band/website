@@ -1,7 +1,3 @@
----
-title: Lyrics
----
-
 ## Ever True to Brown (#1)
 
 <cite>Donald Jackson '09</cite>

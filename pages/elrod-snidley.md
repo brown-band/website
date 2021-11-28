@@ -1,7 +1,3 @@
----
-title: Elrod Snidley
----
-
 _Thanks to Doug Ballon '69 for the story of Elrod's life._
 
 The Band's beloved mascot Elrod was the creation of a past Band president with probably the shortest tenure in office in the history of the Band.

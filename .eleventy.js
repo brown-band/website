@@ -15,6 +15,11 @@ module.exports = (eleventyConfig) => {
   });
   eleventyConfig.addWatchTarget("assets");
 
+  // Shortcodes
+  eleventyConfig.addFilter("page_title", function (title) {
+    return title ? `${title} | ${this.ctx.site.title}` : this.ctx.site.title;
+  });
+
   return {
     passthroughFileCopy: true,
     dir: {

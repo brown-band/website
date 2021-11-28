@@ -1,10 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>
-      {% if title %}{{title}} | {{site.title}}{% else %}{{site.title}}{% endif
-      %}
-    </title>
+    <title>{{ title | page_title }}</title>
     <link rel="stylesheet" href="/assets/bootstrap.css" />
     <link rel="stylesheet" href="/assets/styles.css" />
     <script async src="/assets/bootstrap.js"></script>
