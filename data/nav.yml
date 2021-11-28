@@ -2,7 +2,6 @@
   content:
     - title: Band Board
       url: /band-board/
-      disabled: true
     - title: Schedule
       url: /schedule/
       disabled: true

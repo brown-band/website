@@ -1,0 +1,65 @@
+- name: Flutes
+  people:
+    - name: Joie Mills
+      email: joie_mills@brown.edu
+      year: 22
+
+- name: Clarinets
+  people:
+    - name: Elena Song
+      email: elena_song@brown.edu
+      year: 23
+    - name: Adeline Hahn
+      email: adeline_hahn@brown.edu
+      year: 23
+
+- name: Saxophones & Mellophones
+  people:
+    - name: Eliana Hornbuckle
+      email: eliana_hornbuckle@brown.edu
+      year: 24
+    - name: Annie Cimack
+      email: annie_cimack@brown.edu
+      year: 23
+    - name: Noah Vaughn
+      email: noah_vaughan@brown.edu
+      year: 23
+    - name: Rebecca Carcieri
+      email: rebecca_carcieri@brown.edu
+      year: 23
+    - name: Sahdiah Cox
+      email: sahdiah_cox@brown.edu
+      year: 23
+
+- name: Trumpets
+  people:
+    - name: Anh McGrane
+      email: elizabeth_mcgrane@brown.edu
+      year: 22
+    - name: Shaw Miller
+      email: thomas_s_miller@brown.edu
+      year: 23
+
+- name: Low Brass
+  people:
+    - name: William Perry
+      email: william_perry@brown.edu
+      year: 22
+    - name: Christopher Pawul
+      email: christopher_pawul@brown.edu
+      year: 24
+
+- name: Percussion
+  people:
+    - name: Jude Adelman
+      email: jude_adelman@brown.edu
+      year: 23
+    - name: Ryan Burnett
+      email: ryan_burnett@brown.edu
+      year: 22
+    - name: Hannah Joyce
+      email: hannah_joyce1@brown.edu
+      year: 22
+    - name: Amber Fehrs
+      email: amber_fehrs@brown.edu
+      year: 22

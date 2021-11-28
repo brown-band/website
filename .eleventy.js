@@ -7,6 +7,9 @@ module.exports = (eleventyConfig) => {
     "md",
     markdownIt({ html: true }).use(markdownItAttrs)
   );
+  eleventyConfig.setNunjucksEnvironmentOptions({
+    tags: { commentStart: "<#", commentEnd: "#>" },
+  });
 
   // Data
   eleventyConfig.addDataExtension("yml", (contents) =>
@@ -33,6 +36,7 @@ module.exports = (eleventyConfig) => {
 
   return {
     passthroughFileCopy: true,
+    markdownTemplateEngine: "njk",
     dir: {
       input: "pages",
       includes: "../includes",
