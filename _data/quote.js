@@ -52,18 +52,18 @@ const quotes = [
   "An organization that invites you to stuff its body cavity",
 
   //Spring 2005
-  "An organization that&#8217;s 86% effective when used correctly",
+  "An organization that’s 86% effective when used correctly",
   "Does my tongue taste funny to you?",
 
   //Fall 2005
   "An Organization that steals the Harvard drum as often as it can",
-  "An Organization that vote George Clinton in &#8217;94",
+  "An Organization that vote George Clinton in ’94",
   "An Organization that knows how to dampen your campus EEEE",
-  "For a good &#8217;ol 5 cents you can smoke my cigar",
-  "An Organization whose Bari Sax section&#8217;s BAC is higher than the average URI student&#8217;s GPA",
+  "For a good ’ol 5 cents you can smoke my cigar",
+  "An Organization whose Bari Sax section’s BAC is higher than the average URI student’s GPA",
   "NO! IN UR EYE",
   "An organization that pardoned Galileo in 1969",
-  "Shana Tovah? I hardly know &#8217;ah",
+  "Shana Tovah? I hardly know ’ah",
   "An Organization that sang the hit song 'What if God was Pasta Sauce",
   "Ramen AND Women",
 
