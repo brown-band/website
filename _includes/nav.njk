@@ -60,7 +60,7 @@
               {% else %}
               <li>
                 <a
-                  class="dropdown-item{{active(link.url)}}"
+                  class="dropdown-item{{active(link.url)}}{% if link.disabled %} disabled{% endif %}"
                   href="{{link.url}}"
                 >
                   {{- link.title -}}

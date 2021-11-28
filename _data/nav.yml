@@ -1,9 +1,11 @@
 - title: People
   content:
     - title: Band Board
-      url: /people/band-board/
+      url: /band-board/
+      disabled: true
     - title: Schedule
       url: /schedule/
+      disabled: true
     - title: Join the Band!
       url: /join-band/
     - title: Constitution
@@ -12,44 +14,61 @@
     - heading: Sections
     - title: Flutes
       url: /sections/flutes/
+      disabled: true
     - title: Clarinets
       url: /sections/clarinets/
+      disabled: true
     - title: Saxophones & Mellophones (S&M)
       url: /sections/s&m/
+      disabled: true
     - title: Trumpets
       url: /sections/trumpets/
+      disabled: true
     - title: Low Brass
       url: /sections/low-brass/
+      disabled: true
     - title: Percussion
       url: /sections/percussion/
+      disabled: true
 
 - title: Media
   content:
     - title: Buttons
       url: /buttons/
+      disabled: true
     - title: Photos
       url: /photos/
+      disabled: true
     - title: Recordings
       url: /recordings/
+      disabled: true
     - title: Videos
       url: /videos/
+      disabled: true
     - title: Lyrics
       url: /lyrics/
+      disabled: true
     - title: Scripts
       url: /show-scripts/
+      disabled: true
     - title: Alumni Newsletters
       url: /alumni-newsletters/
+      disabled: true
 
 - title: History
   content:
     - title: About Us
       url: /about-us/
+      disabled: true
     - title: Elrod Snidley
       url: /elrod-snidley/
+      disabled: true
     - title: Sound Off!
       url: /sound/
+      disabled: true
     - title: 75 Years in Pictures
       url: /75-years-pictures/
+      disabled: true
 
 # todo: Members
 
@@ -57,17 +76,23 @@
   content:
     - title: Giving
       url: /giving/
+      disabled: true
     - title: Visiting Bands
       url: /visiting-bands/
+      disabled: true
     - title: Ivy Bands
       url: /ivy-bands/
+      disabled: true
     - title: Ivy Bands Agreement
       url: /ivy-bands-agreement/
+      disabled: true
 
     - heading: Commencement
     - title: Schedule
       url: /commencement-schedule/
+      disabled: true
     - title: Student Signup
       url: https://docs.google.com/forms/d/1gDBvdABCfKt4JbuEdR2kOVR5RRp4gmNPoyUYlx0Q6cs/viewform?usp=send_form
     - title: Alumni Signup
       url: /commencement-sign-alumni/
+      disabled: true
