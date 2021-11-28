@@ -1,7 +1,10 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>{{ title }}</title>
+    <title>
+      {% if title %}{{title}} | {{site.title}}{% else %}{{site.title}}{% endif
+      %}
+    </title>
     <link rel="stylesheet" href="/assets/bootstrap.css" />
     <link rel="stylesheet" href="/assets/styles.css" />
     <script async src="/assets/bootstrap.js"></script>
@@ -11,7 +14,11 @@
     <div class="container my-4">
       <div class="row">
         <div class="col-lg-3"></div>
-        <div class="col-lg-6">{{ content | safe }}</div>
+        <div class="col-lg-6">
+          {% if title %}
+          <h1>{{title}}</h1>
+          {% endif %} {{content | safe}}
+        </div>
         <div class="col-lg-3"></div>
       </div>
     </div>
