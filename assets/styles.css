@@ -21,9 +21,30 @@
   --bs-bg-opacity: 1;
   background: var(--brown-4);
 }
-@media (min-width: 992px) {
+
+.header-quote {
+  font-size: 0.8rem;
+  display: inline-block;
+  white-space: normal;
+  word-break: break-word;
+  width: calc(100vw - 158px);
+}
+@media (min-width: 576px) {
+  .header-quote {
+    width: 382px;
+  }
+}
+@media (min-width: 768px) {
   .lg-shadow-brown {
     box-shadow: 0 0.35rem 1rem 0.4rem #593f1755 !important;
+  }
+  .header-quote {
+    width: 180px;
+  }
+}
+@media (min-width: 992px) {
+  .header-quote {
+    width: 300px;
   }
 }
 
