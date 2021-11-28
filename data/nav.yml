@@ -69,16 +69,13 @@
   content:
     - title: Giving
       url: /giving/
-      disabled: true
     - title: Visiting Bands
       url: /visiting-bands/
-      disabled: true
     - title: Ivy Bands
       url: /ivy-bands/
       disabled: true
     - title: Ivy Bands Agreement
       url: /ivy-bands-agreement/
-      disabled: true
 
     - heading: Commencement
     - title: Schedule
