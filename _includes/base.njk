@@ -8,6 +8,12 @@
   </head>
   <body>
     {% include "./nav.njk" %}
-    <div class="container my-2">{{ content | safe }}</div>
+    <div class="container my-4">
+      <div class="row">
+        <div class="col-lg-3"></div>
+        <div class="col-lg-6">{{ content | safe }}</div>
+        <div class="col-lg-3"></div>
+      </div>
+    </div>
   </body>
 </html>
