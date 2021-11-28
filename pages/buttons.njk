@@ -61,11 +61,13 @@
   <tbody>
     {% for button in buttons.currentYearButtons %}
     <tr>
-      <td
-        class="align-middle pe-3"
-        style="text-align: right; font-size: 1.25em; font-weight: bold; color: {{buttons.schools[button.schoolId].color}}"
-      >
-        {{button.school}}
+      <td class="align-middle pe-3" style="text-align: right">
+        <a
+          href="#{{button.schoolId}}"
+          style="font-size: 1.25em; font-weight: bold; color: {{buttons.schools[button.schoolId].color}}"
+        >
+          {{button.school}}
+        </a>
       </td>
       <td>
         <a href="{{button.image}}">
