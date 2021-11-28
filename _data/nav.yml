@@ -42,12 +42,10 @@
     - title: Recordings
       url: /recordings/
       disabled: true
-    - title: Videos
-      url: /videos/
-      disabled: true
+    # - title: Videos
+    #   url: /videos/
     - title: Lyrics
       url: /lyrics/
-      disabled: true
     - title: Scripts
       url: /show-scripts/
       disabled: true
@@ -59,13 +57,10 @@
   content:
     - title: About Us
       url: /about-us/
-      disabled: true
     - title: Elrod Snidley
       url: /elrod-snidley/
-      disabled: true
     - title: Sound Off!
-      url: /sound/
-      disabled: true
+      url: /sound-off/
     - title: 75 Years in Pictures
       url: /75-years-pictures/
       disabled: true
