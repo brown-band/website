@@ -1,14 +1,18 @@
+{% macro active(url) %}{% if url == page.url %} active{% endif %}{% endmacro %}
+{% macro dropdownActive(content) %}{% for link in content
+%}{{active(link.url)}}{% endfor %}{% endmacro %}
+
 <ul class="navbar-nav">
   {% for dropdown in nav %}
   <li class="nav-item dropdown mx-1">
     <button
-      class="nav-link dropdown-toggle bg-transparent border-0"
+      class="nav-link{{dropdownActive(dropdown.content)}} dropdown-toggle bg-transparent border-0"
       style="outline: 0"
       id="dropdownMenuLink"
       data-bs-toggle="dropdown"
       aria-expanded="false"
     >
-      {{dropdown.title}}
+      {{- dropdown.title -}}
     </button>
 
     <ul
@@ -19,10 +23,16 @@
       <li><hr class="dropdown-divider" /></li>
       <li><h6 class="dropdown-header">{{link.heading}}</h6></li>
       {% else %}
-      <li><a class="dropdown-item" href="{{link.url}}">{{link.title}}</a></li>
+      <li>
+        <a class="dropdown-item{{active(link.url)}}" href="{{link.url}}">
+          {{- link.title -}}
+        </a>
+      </li>
       {% endif %}{% endfor %}
     </ul>
   </li>
   {% endfor %}
-  <li class="nav-item"><a href="/contact" class="nav-link">Contact</a></li>
+  <li class="nav-item">
+    <a href="/contact" class="nav-link{{active('/contact')}}">Contact</a>
+  </li>
 </ul>

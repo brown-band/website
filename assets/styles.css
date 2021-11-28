@@ -1,18 +1,25 @@
+:root {
+  --brown-1: #271b0c;
+  --brown-2: #382710;
+  --brown-3: #483314;
+  --brown-4: #593f17;
+}
+
 .bg-brown {
   --bs-bg-opacity: 1;
-  background: #271b0c;
+  background: var(--brown-1);
 }
 .bg-brown2 {
   --bs-bg-opacity: 1;
-  background: #382710;
+  background: var(--brown-2);
 }
 .bg-brown3 {
   --bs-bg-opacity: 1;
-  background: #483314;
+  background: var(--brown-3);
 }
 .bg-brown4 {
   --bs-bg-opacity: 1;
-  background: #593f17;
+  background: var(--brown-4);
 }
 @media (min-width: 992px) {
   .lg-shadow-brown {
@@ -24,4 +31,9 @@
   user-select: none;
   -webkit-user-select: none;
   pointer-events: none;
+}
+
+.dropdown-item.active,
+.dropdown-item:active {
+  background-color: var(--brown-2) !important;
 }
