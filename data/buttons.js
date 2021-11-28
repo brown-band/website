@@ -61,13 +61,13 @@ module.exports = async () => {
         .filter((id) => schools[id].ivy)
         .map((id) => ({
           ...allBySchool.find((s) => s.id === id),
-          color: schools[id].color,
+          ...schools[id],
         })),
       recent: schoolNames
         .filter((id) => !schools[id].ivy)
         .map((id) => ({
           ...allBySchool.find((s) => s.id === id),
-          color: schools[id].color,
+          ...schools[id],
         })),
       other: d3.sort(
         allBySchool

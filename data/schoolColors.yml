@@ -1,27 +1,44 @@
 brown:
   color: "#59260b"
   ivy: true
+  mascot: Bears (Homecoming)
+caroling:
+  color: black
+  ivy: true
+family-weekend:
+  color: black
+  ivy: true
+hockey:
+  color: black
+  ivy: true
 columbia:
   color: "#75b2dd"
   ivy: true
+  mascot: Lions
 cornell:
   color: "#b31b1b"
   ivy: true
+  mascot: Big Red
 dartmouth:
   color: "#00703c"
   ivy: true
+  mascot: Big Green
 harvard:
   color: "#dc143c"
   ivy: true
+  mascot: Crimson
 princeton:
   color: "#ff7f00"
   ivy: true
+  mascot: Tigers
 upenn:
   color: "#0000ff"
   ivy: true
+  mascot: Quakers
 yale:
   color: "#0f4d92"
   ivy: true
+  mascot: Bulldogs
 
 uri:
   color: "#75b2dd"
