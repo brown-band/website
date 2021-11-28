@@ -1,8 +1,8 @@
 ---
 title: Join the Band!
+summary: |
+  Are you a Brown University undergraduate, grad student, or employee? Does your heart swell with pride whenever a touchdown, basket, or goal is scored in defense of Brunonia's honor? Do your friends refuse to attend sporting events with you because they are embarrassed by your loud and heartfelt cheering? Do you like bagels? If yes, you're already Brown Band material - all you have to do now is join up!
 ---
-
-_Are you a Brown University undergraduate, grad student, or employee? Does your heart swell with pride whenever a touchdown, basket, or goal is scored in defense of Brunonia's honor? Do your friends refuse to attend sporting events with you because they are embarrassed by your loud and heartfelt cheering? Do you like bagels? If yes, you're already Brown Band material - all you have to do now is join up!_
 
 ## Why join the band?
 
