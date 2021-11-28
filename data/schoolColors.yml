@@ -1,0 +1,34 @@
+brown:
+  color: "#59260b"
+  ivy: true
+columbia:
+  color: "#75b2dd"
+  ivy: true
+cornell:
+  color: "#b31b1b"
+  ivy: true
+dartmouth:
+  color: "#00703c"
+  ivy: true
+harvard:
+  color: "#dc143c"
+  ivy: true
+princeton:
+  color: "#ff7f00"
+  ivy: true
+upenn:
+  color: "#0000ff"
+  ivy: true
+yale:
+  color: "#0f4d92"
+  ivy: true
+
+uri:
+  color: "#75b2dd"
+  ivy: false
+bryant:
+  color: "#808080"
+  ivy: false
+holy-cross:
+  color: "#993366"
+  ivy: false

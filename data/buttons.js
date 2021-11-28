@@ -18,10 +18,12 @@ module.exports = async () => {
   const allButtons = await Promise.all(
     rawLabels.flatMap(([year, labels]) =>
       Object.entries(labels).map(async ([school, label]) => {
-        const buttonPath = [year, `${slugify(school).toLowerCase()}.jpg`];
+        const schoolId = slugify(school).toLowerCase();
+        const buttonPath = [year, `${schoolId}.jpg`];
         return {
           year: year.split("-")[0],
           school,
+          schoolId,
           label,
           image: (await pathExists(path.join(buttonsDir, ...buttonPath)))
             ? "/buttons/" + buttonPath.join("/")
@@ -31,6 +33,21 @@ module.exports = async () => {
     )
   );
 
+  const schools = await fs
+    .readFile(path.join(__dirname, "schoolColors.yml"))
+    .then(require("js-yaml").load);
+  const schoolNames = Object.keys(schools);
+
+  const allBySchool = d3
+    .groups(allButtons, (d) => d.school)
+    .map(([name, buttons]) => ({
+      name,
+      id: buttons[0].schoolId,
+      buttons: d3.reverse(
+        buttons.map(({ school: _, schoolId: _2, ...button }) => button)
+      ),
+    }));
+
   const currentYear = years[years.length - 1];
   return {
     currentYear,
@@ -38,12 +55,27 @@ module.exports = async () => {
       (b) => b.year === currentYear.split("-")[0]
     ),
 
-    bySchool: d3
-      .groups(allButtons, (d) => d.school)
-      .map(([name, buttons]) => ({
-        name,
-        buttons: d3.reverse(buttons.map(({ school: _, ...button }) => button)),
-      })),
+    schools,
+    bySchool: {
+      ivy: schoolNames
+        .filter((id) => schools[id].ivy)
+        .map((id) => ({
+          ...allBySchool.find((s) => s.id === id),
+          color: schools[id].color,
+        })),
+      recent: schoolNames
+        .filter((id) => !schools[id].ivy)
+        .map((id) => ({
+          ...allBySchool.find((s) => s.id === id),
+          color: schools[id].color,
+        })),
+      other: d3.sort(
+        allBySchool
+          .filter((s) => !schoolNames.includes(s.id))
+          .map((s) => ({ ...s, color: "black" })),
+        (d) => d.name
+      ),
+    },
 
     unknown: (await readJSON("unknown", "labels.json")).map(
       ({ imageName, ...button }) => ({
