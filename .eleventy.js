@@ -1,4 +1,13 @@
+const markdownIt = require("markdown-it");
+const markdownItAttrs = require("markdown-it-attrs");
+
 module.exports = (eleventyConfig) => {
+  // Markdown
+  eleventyConfig.setLibrary(
+    "md",
+    markdownIt({ html: true }).use(markdownItAttrs)
+  );
+
   // Data
   eleventyConfig.addDataExtension("yml", (contents) =>
     require("js-yaml").load(contents)
