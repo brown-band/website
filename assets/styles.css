@@ -28,6 +28,7 @@
   white-space: normal;
   word-break: break-word;
   width: calc(100vw - 158px);
+  min-height: 38px;
 }
 @media (min-width: 576px) {
   .header-quote {
