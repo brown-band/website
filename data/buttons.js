@@ -4,15 +4,16 @@ module.exports = async () => {
   const slugify = (await import("slugify")).default;
   const d3 = await import("d3");
   const { pathExists } = await import("path-exists");
+  const { load: loadYaml } = require("js-yaml");
 
-  const readJSON = (...args) =>
-    fs.readFile(path.join(buttonsDir, ...args), "utf8").then(JSON.parse);
+  const readYaml = (...args) =>
+    fs.readFile(path.join(buttonsDir, ...args), "utf8").then(loadYaml);
 
   const buttonsDir = path.join(path.dirname(__dirname), "buttons");
   const years = (await fs.readdir(buttonsDir)).filter((y) => y !== "unknown");
 
   const rawLabels = await Promise.all(
-    years.map(async (year) => [year, await readJSON(year, "labels.json")])
+    years.map(async (year) => [year, await readYaml(year, "labels.yml")])
   );
 
   const allButtons = await Promise.all(
@@ -35,7 +36,7 @@ module.exports = async () => {
 
   const schools = await fs
     .readFile(path.join(__dirname, "schoolColors.yml"))
-    .then(require("js-yaml").load);
+    .then(loadYaml);
   const schoolNames = Object.keys(schools);
 
   const allBySchool = d3
@@ -77,7 +78,7 @@ module.exports = async () => {
       ),
     },
 
-    unknown: (await readJSON("unknown", "labels.json")).map(
+    unknown: (await readYaml("unknown", "labels.yml")).map(
       ({ imageName, ...button }) => ({
         ...button,
         image: imageName ? `/buttons/unknown/${imageName}.jpg` : null,
