@@ -1,0 +1,57 @@
+---
+title: Protected Page -- Enter password
+---
+
+<script src="/assets/crypto-js.js"></script>
+
+<div id="root">
+  <p>
+    The page you are trying to view is password protected. Enter the password
+    below to proceed. If you have any questions, please email
+    band_web@brown.edu.
+  </p>
+
+  <form class="row my-3" onsubmit="return false">
+    <div class="col-md-8">
+      <label for="passwordInput" class="form-label">
+        Enter the password here, please.
+      </label>
+      <input
+        required
+        type="password"
+        class="form-control"
+        autofocus
+        id="passwordInput"
+        placeholder="hunter2"
+      />
+    </div>
+    <div class="col-md-4" style="display: flex; align-items: flex-end">
+      <button class="btn btn-primary mt-3" type="submit" onclick="decrypt()">
+        Press This Button!
+      </button>
+    </div>
+  </form>
+</div>
+
+<script type="module">
+  const encrypted = await fetch(location.href.replace(/\/$/, ".enc")).then(
+    (res) => res.json()
+  );
+  globalThis.decrypt = () => {
+    globalThis.cipherParams = CryptoJS.lib.CipherParams.create({
+      ciphertext: CryptoJS.enc.Base64.parse(encrypted.ciphertext),
+      iv: CryptoJS.enc.Base64.parse(encrypted.iv),
+      salt: CryptoJS.enc.Base64.parse(encrypted.salt),
+    });
+    const decrypted = CryptoJS.AES.decrypt(cipherParams, passwordInput.value);
+    const html = decrypted.toString(CryptoJS.enc.Utf8);
+    if (html) {
+      document.getElementById("root").innerHTML = html;
+    } else {
+      passwordInput.setCustomValidity(
+        "Incorrect Password. Try again or email band_web@brown.edu!"
+      );
+      passwordInput.classList.add("is-invalid");
+    }
+  };
+</script>
