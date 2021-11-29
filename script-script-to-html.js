@@ -1,8 +1,10 @@
 const xml2js = require("xml2js");
 const dateFns = require("date-fns");
 const listify = require("listify");
-
-// TODO: define `colors`
+const { write } = require("fs");
+const colors = require("js-yaml").load(
+  require("fs").readFileSync("data/schoolColors.yml")
+);
 
 /**
  * @param {string} key
@@ -57,7 +59,10 @@ function renderDate({ day, month, year }) {
 }
 
 function renderScriptWriters(writers) {
-  if (!writers || writers.length === 0) return "";
+  if (!writers) return "";
+  writers = Array.isArray(writers) ? writers : [writers];
+  if (writers.length === 0) return "";
+
   return /* HTML */ `<center style="font-style: italic">
     Script writer${writers.length === 1 ? "" : "s"}:
     ${listify(writers.map((w) => `${w.name} '${w.year.slice(-2)}`))}
@@ -69,6 +74,7 @@ function renderScriptWriters(writers) {
  * @returns {string}
  */
 function scriptTextToHTML(nodes) {
+  if (!nodes) return null;
   return nodes
     .map((node) => {
       const children = node.$$ && scriptTextToHTML(node.$$);
@@ -94,7 +100,7 @@ function scriptTextToHTML(nodes) {
           return `<strong><em>${children}:</em></strong>`;
         case "a":
           return /* HTML */ `
-            <a href="${node.href.replaceAll("&", "&amp;")}">${children}</a>
+            <a href="${node.$.href.replaceAll("&", "&amp;")}">${children}</a>
           `.trim();
         case "sub":
         case "sup":
@@ -152,12 +158,12 @@ async function parseScript(content, data = {}) {
         renderHeader(script) +
         renderScriptSection(
           "Pregame",
-          scriptTextToHTML(orderPreservedScript.pregame.$$),
+          scriptTextToHTML(orderPreservedScript.pregame?.$$),
           { suffix: "<br />" }
         ) +
         renderScriptSection(
           "Halftime",
-          scriptTextToHTML(orderPreservedScript.halftime.$$)
+          scriptTextToHTML(orderPreservedScript.halftime?.$$)
         )
       );
 
@@ -191,12 +197,12 @@ async function parseScript(content, data = {}) {
         renderHeader(script) +
         renderScriptSection(
           "Pregame",
-          scriptTextToHTML(orderPreservedScript.pregame.$$),
+          scriptTextToHTML(orderPreservedScript.pregame?.$$),
           { suffix: "<br />" }
         ) +
         renderScriptSection(
           "Halftime",
-          scriptTextToHTML(orderPreservedScript.halftime.$$)
+          scriptTextToHTML(orderPreservedScript.halftime?.$$)
         )
       );
 
