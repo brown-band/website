@@ -45,8 +45,7 @@
     - title: Lyrics
       url: /lyrics/
     - title: Scripts
-      url: /show-scripts/
-      disabled: true
+      url: /scripts/
     - title: Alumni Newsletters
       url: /alumni-newsletters/
       disabled: true
