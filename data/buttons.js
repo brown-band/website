@@ -59,13 +59,13 @@ module.exports = async () => {
     schools,
     bySchool: {
       ivy: schoolNames
-        .filter((id) => schools[id].ivy)
+        .filter((id) => schools[id].type === "ivy")
         .map((id) => ({
           ...allBySchool.find((s) => s.id === id),
           ...schools[id],
         })),
       recent: schoolNames
-        .filter((id) => !schools[id].ivy)
+        .filter((id) => schools[id].type === "recent")
         .map((id) => ({
           ...allBySchool.find((s) => s.id === id),
           ...schools[id],
@@ -73,7 +73,12 @@ module.exports = async () => {
       other: d3.sort(
         allBySchool
           .filter((s) => !schoolNames.includes(s.id))
-          .map((s) => ({ ...s, color: "black" })),
+          .map((s) => ({ ...s, color: "black" }))
+          .concat(
+            allBySchool
+              .filter((s) => schools[s.id]?.type === "other")
+              .map((s) => ({ ...s, ...schools[s.id] }))
+          ),
         (d) => d.name
       ),
     },

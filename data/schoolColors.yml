@@ -1,51 +1,70 @@
 brown:
-  color: "#59260b"
-  ivy: true
+  color: "#59260b" # Seal Brown
+  type: ivy
   mascot: Bears (Homecoming)
 caroling:
   color: black
-  ivy: true
+  type: ivy
 family-weekend:
   color: black
-  ivy: true
+  type: ivy
 hockey:
   color: black
-  ivy: true
+  type: ivy
 columbia:
-  color: "#75b2dd"
-  ivy: true
+  color: "#75b2dd" # Columbia Blue
+  type: ivy
   mascot: Lions
 cornell:
-  color: "#b31b1b"
-  ivy: true
+  color: "#b31b1b" # Carnelian
+  type: ivy
   mascot: Big Red
 dartmouth:
-  color: "#00703c"
-  ivy: true
+  color: "#00703c" # Dartmouth Green
+  type: ivy
   mascot: Big Green
 harvard:
-  color: "#dc143c"
-  ivy: true
+  color: "#dc143c" # Crimson
+  type: ivy
   mascot: Crimson
 princeton:
-  color: "#ff7f00"
-  ivy: true
+  color: "#ff7f00" # Orange
+  type: ivy
   mascot: Tigers
 upenn:
-  color: "#0000ff"
-  ivy: true
+  color: "#0000ff" # Blue
+  type: ivy
   mascot: Quakers
 yale:
-  color: "#0f4d92"
-  ivy: true
+  color: "#0f4d92" # Yale Blue
+  type: ivy
   mascot: Bulldogs
 
 uri:
-  color: "#75b2dd"
-  ivy: false
+  color: "#75b2dd" # Keaney Blue
+  type: recent
 bryant:
-  color: "#808080"
-  ivy: false
+  color: "#bdb76b" # Dark Khaki
+  type: recent
 holy-cross:
-  color: "#993366"
-  ivy: false
+  color: "#993366" # Purple
+  type: recent
+
+georgetown:
+  color: "#808080" # Gray
+  type: other
+colgate:
+  color: "#800000" # Maroon
+  type: other
+stony-brook:
+  color: "#ff2400" # Scarlet
+  type: other
+st.-lawrence:
+  color: "#ff2400" # Scarlet
+  type: other
+quinnipiac:
+  color: "#0000ff" # Blue
+  type: other
+rpi:
+  color: "#de3163" # Cherry
+  type: other
