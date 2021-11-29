@@ -1,6 +1,8 @@
 const markdownIt = require("markdown-it");
 const markdownItAttrs = require("markdown-it-attrs");
 
+const scriptScript = require("./script-script-to-html");
+
 module.exports = (eleventyConfig) => {
   // Markdown
   eleventyConfig.setLibrary(
@@ -33,6 +35,21 @@ module.exports = (eleventyConfig) => {
   eleventyConfig.addFilter("page_title", function (title) {
     return title ? `${title} | ${this.ctx.site.title}` : this.ctx.site.title;
   });
+
+  eleventyConfig.addExtension("69", {
+    init() {
+      // this.config
+    },
+    outputFileExtension: "html",
+    compile(content, inputPath) {
+      const { config } = this;
+      return (data) => scriptScript.parse(content, data);
+    },
+  });
+
+  eleventyConfig.setTemplateFormats(
+    "html,liquid,ejs,md,hbs,mustache,haml,pug,njk,11ty.js" + ",69"
+  );
 
   return {
     passthroughFileCopy: true,
