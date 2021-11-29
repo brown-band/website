@@ -1,0 +1,24 @@
+<script>
+<script-type name="hockey"/>
+
+<team-names home="Brown" away="Dartmouth"/>
+<date day="05" month="02" year="1983"/>
+<hockey>
+<sp>
+  Ladies and Gentlemen, Friends and Alumni, and all you excited participants, it's the Brown University "Not ready for the Ice Capades" Band.
+</sp>
+<sp>
+  For our opening number, we introduce the hottest new act since Tai an Randy. We ask the audience to please rise and join our own Dorothy Hamlet and Too-Too in dancing to the pop favorite "Hot Stuff". C'mon folks, let's dance!!
+</sp>
+<sp>
+  Wasn't that great? Now look as the band forms everyones favorite ice-maker - the Zamboni, and salutes Barry Manilow by playing "Copacabana". 
+</sp>
+<sp>
+  And now, the moment you've all been waiting for. The Grand Finale -- With a kick and a fall line, it's the Can Can.
+</sp>
+<sp>
+  Be back next Friday when PC and Brown meet in the battle for the prestigious "Seekonk Cup".
+</sp>
+</hockey>
+
+</script>

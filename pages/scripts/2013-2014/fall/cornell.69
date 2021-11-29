@@ -1,0 +1,56 @@
+<script>
+<script-type name="football" />
+
+<team-names home="Cornell" away="Brown" />
+<scores home="35" away="42" />
+<date day="26" month="10" year="2013" />
+<script-writer name="Lena Barsky" year="2014" />
+
+<pregame>
+<sp>
+Ladies and Gentlemen, friends and alumni, presenting an organization that's gonna make it to
+the Super Bowl this year, it's the Brown University "First and ten, do it again, go Bears go!"
+BAAANNNNDDDD!
+</sp>
+<sp>
+We've been coming to these games for years now, but still have no idea what's going on. Can
+someone please tell us what all these fouls mean?
+</sp>
+<sul>
+<sli>a)	Pass interference<smdash/>isn't the whole point of defense to prevent completed passes?</sli>
+<sli>b)	Neutral zone infraction<smdash/>is the field Switzerland?</sli>
+<sli>c)	Running into the kicker<smdash/>RUDE!</sli>
+<sli>d)	Intentional grounding<smdash/>we're all standing on the ground right now... right?</sli>
+<sli>e)	Offsides<smdash/>wait a minute, wrong football... and</sli>
+<sli>f)	THE PRINCETON BAND!</sli>
+</sul>
+<sp>
+Football is hard, so watch now as the Band does something it understands and plays "NFL on Fox."
+</sp>
+<sp><sd>Band forms a football and plays "NFL on Fox."</sd></sp>
+<sp>
+Well, the Band might not know much about football, but we do know that this game is going to be
+ridiculous. Brown's football team is scrappy and dedicated, much like its Band. When anyone tries
+to get in our way, we just play our sweet, sweet tunes and run away screaming. When anyone tries
+to get in the way of our football players, our players just tackle them. I guess we're not that
+similar after all. Watch now as the Band urges its football team to Bring the Victory<smdash/>go Bruno!
+</sp>
+<sp><sd>Band forms a B and plays "Bring the Victory."</sd></sp>
+</pregame>
+
+<halftime>
+<sp>
+Ladies and Gentlemen, friends and alumni, presenting an organization: The Brown University Band.
+</sp>
+<sp>
+Hello fans! We've got a treat for you. Watch now as the Brown Band assembles into a shape and plays some music.
+</sp>
+<sp><sd>Band forms Circle Dance and plays "Don't You Forget About Me."</sd></sp>
+<sp>
+That was exhilarating! We can't wait to head back to Providence and watch our Bears take on the University
+of Pennsylvania Fightin' Pacifists. It's our homecoming game, so we don't know hoya's going to happen... and
+we can't wait to find out! See you on the flipside.
+</sp>
+<sp><sd>#1 off the field.</sd></sp>
+</halftime>
+</script>

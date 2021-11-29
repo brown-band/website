@@ -1,0 +1,15 @@
+<script>
+<script-type name="hockey"/>
+
+<team-names home="Brown" away="Providence College"/>
+<date day="11" month="02" year="1983"/>
+<hockey>
+<sp>
+Ladies and Gentlemen, Friends and Aluminum, it's the Brown University "Salute to the March" Band. We present two popular marches for your entertainment tonight: Colonel Bogey and Sousa's The Thunderer.
+</sp>
+<sp>
+Be back across town tomorrow for the rematch.
+</sp>
+</hockey>
+
+</script>

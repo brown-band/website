@@ -7,11 +7,13 @@
   },
   "devDependencies": {
     "@11ty/eleventy": "^1.0.0-beta.8",
+    "camelcase": "^6.2.1",
     "d3": "^7.1.1",
     "markdown-it-attrs": "^4.1.0",
     "nodemon": "^2.0.15",
     "path-exists": "^5.0.0",
-    "prettier": "2.5.0"
+    "prettier": "2.5.0",
+    "xml2js": "^0.4.23"
   },
   "dependencies": {
     "bootstrap": "^5.1.3",
