@@ -3,13 +3,13 @@
   --brown-2: #382710;
   --brown-3: #483314;
   --brown-4: #593f17;
-  color-scheme: light dark;
-  --bs-body-bg: transparent;
+  /* color-scheme: light dark; */
+  /* --bs-body-bg: transparent; */
 }
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --bs-body-color: white;
+    /* --bs-body-color: white; */
   }
 }
 
