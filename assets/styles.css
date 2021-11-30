@@ -15,18 +15,22 @@
 
 .bg-brown {
   --bs-bg-opacity: 1;
+  --bs-table-bg: var(--brown-1);
   background: var(--brown-1);
 }
 .bg-brown2 {
   --bs-bg-opacity: 1;
+  --bs-table-bg: var(--brown-2);
   background: var(--brown-2);
 }
 .bg-brown3 {
   --bs-bg-opacity: 1;
+  --bs-table-bg: var(--brown-3);
   background: var(--brown-3);
 }
 .bg-brown4 {
   --bs-bg-opacity: 1;
+  --bs-table-bg: var(--brown-4);
   background: var(--brown-4);
 }
 
