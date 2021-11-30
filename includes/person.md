@@ -7,6 +7,6 @@
   {{-person.year-}}
 </h3>
 
-{{person.job}}
+{{person.position.role}}
 
 {{person.bio}}
