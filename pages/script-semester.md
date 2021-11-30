@@ -8,4 +8,4 @@ permalink: "{{semester.permalink}}"
 
 {% for script in semester.scripts %}
 
-- [{{script.title}}]({{semester.permalink}}/{{script.title}}) {% endfor %}
+- [{{script.title}}]({{semester.permalink}}{{script.id}}/) {% endfor %}
