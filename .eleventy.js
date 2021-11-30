@@ -78,8 +78,9 @@ module.exports = (eleventyConfig) => {
   return {
     // enable copyng assets
     passthroughFileCopy: true,
-    // use Nunjucks as the template engine for Markdown
+    // use Nunjucks as the template engine (instead of Liquid)
     markdownTemplateEngine: "njk",
+    htmlTemplateEngine: "njk",
     // configures the locations of various directories
     dir: {
       input: "pages",
