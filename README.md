@@ -116,3 +116,26 @@ That’s it! The build script will automatically pick up the new buttons and add
 4. Add the page to the navbar:
    - To add it at the top level, edit `nav.njk` to add a link to the page (use the “Contact” link as an example)
    - To add it to a menu, edit `nav.yml` by adding an entry somewhere with `title` and `url` properties
+
+---
+
+### Why Eleventy?
+
+I (Jed) chose Eleventy for several reasons.
+
+- I hadn’t used it before and wanted to try something new
+- I like JavaScript and am comfortable writing it
+- Eleventy is a few years old but still quite modern and actively maintained
+- Very little of the content of this repo is actually specific to Eleventy.
+  - Most static site generators have a concept of front matter, data files, layouts, includes, and assets.
+  - The templates are written in a popular template language (Nunjucks), which is quite similar to Liquid (used by Jekyll and others) and Handlebars.
+- Unlike static site generators that offer framework integration (Gatsby, Next.js, Nuxt, …), Eleventy does not impose any requirements or restrictions on the frontend.
+  - For what the band site does now, plain old static HTML with a little vanilla JS sprinkled on top is perfectly adequate.
+  - I built a site with Gatsby once and it is so unnecessarily complicated. Most of the code in this repo is about making a site for the band, not appeasing the framework.
+- The previous website was built with Drupal. PHP bad.
+
+One downside of Eleventy is that, because it’s code-based with no graphical editor, it is less accessible to people with no coding background. However, Markdown is becoming more and more common, and I doubt the band will have a shortage of CS students anytime soon.
+
+While I think I’ve made a sound technical decision in late 2021, I’m not naïve enough to believe that Eleventy will always be the best option. Use your own judgement! Hopefully the work I put into converting the various pieces of historical data into a reasonable format will make it reasonably easy to switch over to a new platform/framework. If the website just needs a fresh coat of paint, you can rewrite `layouts` and `includes` (and throw out Bootstrap if you want) while still keeping Eleventy around.
+
+If you ever get really stuck with something, you can always [reach out to me](mailto:jed@jedfox.com) and I’ll do my best to lend a hand!
