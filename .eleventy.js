@@ -84,6 +84,7 @@ module.exports = (eleventyConfig) => {
     dir: {
       input: "pages",
       includes: "../includes",
+      layouts: "../layouts",
       data: "../data",
       output: "public",
     },

@@ -4,7 +4,6 @@ Welcome to the repository for the Brown Band!
 
 TODO:
 
-- [ ] move templates into `layouts`
 - [ ] figure out what to do with `_redirects`
 
 ## Documentation
@@ -29,12 +28,14 @@ TODO:
   - `scripts.js`: scans the `pages/scripts` folder and formats the data for display both on the script index page and on individual semester indexes.
   - `site.yml`: global metadata for the website (currently just the title)
   - `specialButtons.yml`: list of buttons that don’t fit into any of the existing categories
-- `includes`: templates and layouts
-  - `base.njk`: contains the basic page layout, including the navbar, page title, summary, and page content.
+- `includes`: can be imported using `{% include %}`
+  - (note: included templates use the same output language as the page that includes them)
   - `button-table.njk`: code for rendering the tables on the button page
   - `nav.njk`: renders the navbar, and is responsible for highlighting the active item
   - `people-table.md`: used to make the section leader and appointed position tables
   - `person.md`: used to display band board and conductor bios
+- `layouts`
+  - `base.njk`: contains the basic page layout, including the navbar, page title, summary, and page content.
 - `pages`: the pages on the website. Each page is automatically compiled into HTML by Eleventy.
   - **`scripts`**: show scripts. Add a new subfolder for each year’s scripts. See below for documentation on the script file format.
   - `index.md`: the homepage
