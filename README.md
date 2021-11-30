@@ -10,6 +10,20 @@ TODO:
 
 (this whole thing is probably somewhat out of date, so if you see any issues please correct them)
 
+### Getting Started
+
+This site is a static site powered by [Eleventy (11ty)](https://www.11ty.dev) and hosted on [TBD]. That means that the files in this repository are transformed by a build script producing a folder full of plain HTML files that any static site host can serve.
+
+To get started, make sure you have [Node.js](https://nodejs.org/en/) installed. I recommend using something like [nvm](https://github.com/nvm-sh/nvm) (or my favorite, [asdf](https://asdf-vm.com)), which will automatically pick up the `.node-version` file in this repo and prompt you to install that version of Node.
+
+In a terminal, run `npm install` from this project’s directory to install all dependencies. You can run one of several scripts via `npm run`:
+
+- <code>npm run **start**</code> (or `npm start` for short): Runs Eleventy in development mode, starting a local server and rebuilding whenever you change a file.
+- <code>npm run **build**</code>: Runs Eleventy once, ouptutting the generated site in the `public` folder. Run this before uploading the contents of that folder to a static site host. (There’s typically no need for you to do this, since a new build will be automatically triggered whenever you push updated code to GitHub)
+- <code>npm run **format**</code>: Runs [Prettier](https://prettier.io) to ensure consistent code and document formatting. Ideally, set up your code editor to run Prettier whenever you save a file — check out their [editor integration docs](https://prettier.io/docs/en/editors.html) or search your editor’s package manager for a “Prettier” package.
+
+(Note: I put the current LTS version of Node.js into the `.node-version` file — feel free to update it at any time (after checking to make sure the new version still works right!))
+
 ### File organization
 
 - `assets`: miscellaneous static files
