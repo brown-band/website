@@ -8,6 +8,8 @@ module.exports = (eleventyConfig) => {
     enableRehype: false,
     plugins: [
       "remark-heading-id",
+      "remark-directive",
+      import("./config/remark-directives.mjs"),
       { plugin: "remark-rehype", options: { allowDangerousHtml: true } },
       "rehype-raw",
       "rehype-stringify",
