@@ -15,7 +15,7 @@ date: 2012-10-13
 
 Ladies and Gentlemen, friends and alumni, presenting an organization that just finished watching a marathon of those them there Pirates of the Caribbean movies, it's the Brown University "That Was Kinda Weird, Now We're Back In The Club" BAAAANNNNDDDD!
 
-We heard a rumor that at a Six Flags New Jersey, a reckless ruffian fed a Doritos Locos Taco to an innocent giraffe in the safari portion of the park. We then decided to look for a reputable source on the web to find out if this was real, and, more importantly, if this giraffe was okay. This was the best response that the interwebz showed us: "New Jersey became the first state to legislatively abolish the death penalty...French fries, Mexican dishes such as burritos and tacos, and pasta dishes freely." Way to be New Jersey, way<span class="-69-tab"></span>to<span class="-69-tab"></span>be!
+We heard a rumor that at a Six Flags New Jersey, a reckless ruffian fed a Doritos Locos Taco to an innocent giraffe in the safari portion of the park. We then decided to look for a reputable source on the web to find out if this was real, and, more importantly, if this giraffe was okay. This was the best response that the interwebz showed us: "New Jersey became the first state to legislatively abolish the death penalty...French fries, Mexican dishes such as burritos and tacos, and pasta dishes freely." Way to be New Jersey, way:script-tab to:script-tab be!
 
 :sd[Band forms a giraffe and plays "Jungle Boogie."]
 
@@ -45,7 +45,11 @@ Come on, Chris, pick up the slack! Watch now as the band forms Chris Christie an
 :sd[Band forms Chris Christie and plays "A Hard Day's Night."]
 
 And now, a limerick written by William Shakespeare:\
-_<span class="-69-tab"></span>"There once was a guv'nor named Chris\ <span class="-69-tab"></span>Whose roundness was quite hard to miss!\ <span class="-69-tab"></span>When rub-a-dub-dub\ <span class="-69-tab"></span>He got stuck in the tub!\ <span class="-69-tab"></span>How the heck will he get out of this?"_
+_:script-tab "There once was a guv'nor named Chris\
+:script-tab Whose roundness was quite hard to miss!\
+:script-tab When rub-a-dub-dub\
+:script-tab He got stuck in the tub!\
+:script-tab How the heck will he get out of this?"_
 
 Watch as the band explodes the bathtub to extract the Governor and plays "Come On, Christie!"
 

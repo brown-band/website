@@ -46,15 +46,20 @@ Watch now as the Band forms Lake Cayuga and plays The Time Warp to escape Ithaca
 
 If you weren't aware, Brown's alma mater is a beautiful tune that describes how sad it is to leave Brown once you graduate. Cornell's alma mater, written by H.S. Thompson, is about a girl who dies of consumption. You're probably wondering what we are—why did Hunter S. Thompson write Cornell's alma mater? It turns out he didn't. But we think it would have been much improved if he had, so we gave it our best "Fear and Loathing" shot:
 
-"Far above Cayuga's waters, with its waves of blue,\ <span class="-69-tab"></span>Stands the sleaziest and rudest and most sinister mobs of thugs and wackos ever assembled.\
+"Far above Cayuga's waters, with its waves of blue,\
+:script-tab Stands the sleaziest and rudest and most sinister mobs of thugs and wackos ever assembled.\
 
-Lift the chorus, speed it onward, loud her praises tell:\ <span class="-69-tab"></span>I share a dark suspicion that the life we're leading was a lost cause.\
+Lift the chorus, speed it onward, loud her praises tell:\
+:script-tab I share a dark suspicion that the life we're leading was a lost cause.\
 
-Far above the busy humming of the bustling town,\ <span class="-69-tab"></span>My face was not working properly.\
+Far above the busy humming of the bustling town,\
+:script-tab My face was not working properly.\
 
-Lift the chorus, speed it onward, loud her praises tell:\ <span class="-69-tab"></span>We are like pygmies lost in a maze of haze.\
+Lift the chorus, speed it onward, loud her praises tell:\
+:script-tab We are like pygmies lost in a maze of haze.\
 
-Sentry-like o'er lake and valley towers her regal form,\ <span class="-69-tab"></span>People trembled and cursed when I came into a public room and started screaming in German."
+Sentry-like o'er lake and valley towers her regal form,\
+:script-tab People trembled and cursed when I came into a public room and started screaming in German."
 
 Watch now as the band forms Gonzo the Great and plays a tribute to Hunter S. Thompson.
 

@@ -99,3 +99,7 @@ blockquote {
 ._69-direction {
   font-style: italic;
 }
+
+._69-list {
+  list-style-type: none;
+}

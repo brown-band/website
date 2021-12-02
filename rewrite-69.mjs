@@ -63,7 +63,10 @@ function scriptTextToMDAST(nodes) {
       case "sbr":
         return { type: "break" };
       case "stab":
-        return { type: "html", value: '<span class="-69-tab"></span>' };
+        return [
+          { type: "textDirective", name: "script-tab" },
+          { type: "text", value: " " },
+        ];
       case "smdash":
         return { type: "text", value: "—" };
       // only used once, for 2013 Georgetown
