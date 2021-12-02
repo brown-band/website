@@ -1,6 +1,8 @@
 const scriptScript = require("./script-script-to-html");
 
 module.exports = (eleventyConfig) => {
+  eleventyConfig.ignores.add("pages/scripts/**/*.69");
+
   /**
    * Configure the Markdown parser
    */
