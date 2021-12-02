@@ -2,7 +2,7 @@
   "private": true,
   "scripts": {
     "start": "nodemon --watch .eleventy.js -x 'eleventy --serve'",
-    "build": "eleventy",
+    "build": "rm -r public && eleventy",
     "format": "prettier --write ."
   },
   "devDependencies": {
