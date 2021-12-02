@@ -15,7 +15,7 @@ date: 2018-10-13
 
 Ladies and gentlemen, friends and alumni, presenting an organization that just really loves books it's the Brown University "now if only we knew how to read" BANNNDDDDDDDDDDD!
 
-Hey Princeton, do you have any overdue library books? Because you have ~fine~ written all over you. Word on the street is that you're trying to encourage the "next generation of bibliophiles". That's great news! We used to be bibliophiles ourselves, but the paper cuts were just too much. We even tried to make a stop at your library, but they were completely booked! Watch now as the Band hopes that our illiteracy can be easily cured and plays Doctor Bookworm.
+Hey Princeton, do you have any overdue library books? Because you have \~fine\~ written all over you. Word on the street is that you're trying to encourage the "next generation of bibliophiles". That's great news! We used to be bibliophiles ourselves, but the paper cuts were just too much. We even tried to make a stop at your library, but they were completely booked! Watch now as the Band hopes that our illiteracy can be easily cured and plays Doctor Bookworm.
 
 :sd[Band forms a bookworm and plays Doctor Worm.]
 

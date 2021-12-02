@@ -41,7 +41,6 @@ Don't worry Mom, I think we'll stick to the Naked Donut Run. Watch now as the Ba
 Catch us at halftime, after we spend some time enjoying Cornell's new variety of grape.
 
 Best,\
-
 The Brown University Band
 
 ## Halftime
