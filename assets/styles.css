@@ -103,3 +103,8 @@ blockquote {
 ._69-list {
   list-style-type: none;
 }
+
+._69-tab {
+  display: inline-block;
+  width: 1em;
+}
