@@ -1,17 +1,18 @@
-const markdownIt = require("markdown-it");
-const markdownItAttrs = require("markdown-it-attrs");
-
 const scriptScript = require("./script-script-to-html");
 
 module.exports = (eleventyConfig) => {
   /**
    * Configure the Markdown parser
    */
-  // allow custom attributes on Markdown elements
-  eleventyConfig.setLibrary(
-    "md",
-    markdownIt({ html: true }).use(markdownItAttrs)
-  );
+  eleventyConfig.addPlugin(require("@fec/eleventy-plugin-remark"), {
+    enableRehype: false,
+    plugins: [
+      "remark-heading-id",
+      { plugin: "remark-rehype", options: { allowDangerousHtml: true } },
+      "rehype-raw",
+      "rehype-stringify",
+    ],
+  });
   // avoid conflict between {#id} syntax and comments
   eleventyConfig.setNunjucksEnvironmentOptions({
     tags: { commentStart: "<#", commentEnd: "#>" },

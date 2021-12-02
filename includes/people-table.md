@@ -4,9 +4,9 @@
 {% for position in positions %}
 {% for person in position.people %}
 <tr>
-  <th>
+  <th class="people-table-head">
     
-  {{position.name | safe if loop.first}} {style="margin: 0"}
+  {{position.name | safe if loop.first}}
     
   </th>
   <td><a href="mailto:{{person.email}}">{{person.name}}</a> '{{person.year}}</td>

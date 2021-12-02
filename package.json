@@ -7,13 +7,15 @@
   },
   "devDependencies": {
     "@11ty/eleventy": "^1.0.0-beta.8",
+    "@fec/eleventy-plugin-remark": "github:j-f1/forked-eleventy-plugin-remark#esm",
     "camelcase": "^6.2.1",
     "d3": "^7.1.1",
     "date-fns": "^2.26.0",
-    "markdown-it-attrs": "^4.1.0",
     "nodemon": "^2.0.15",
     "path-exists": "^5.0.0",
     "prettier": "2.5.0",
+    "rehype-raw": "^6.1.0",
+    "remark-heading-id": "^1.0.0",
     "xml2js": "^0.4.23"
   },
   "dependencies": {
