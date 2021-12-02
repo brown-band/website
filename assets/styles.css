@@ -86,3 +86,16 @@ blockquote {
 .people-table-head p {
   margin: 0;
 }
+
+._69-direction::before {
+  content: "[";
+}
+._69-direction::after {
+  content: "]";
+}
+._69-direction::before {
+  content: "[";
+}
+._69-direction {
+  font-style: italic;
+}

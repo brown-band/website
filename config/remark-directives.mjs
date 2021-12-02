@@ -6,7 +6,7 @@ export default () => (nodeTree) =>
         ...node,
         data: {
           hName: "span",
-          hProperties: { className: "-69-direction" },
+          hProperties: { className: "_69-direction" },
         },
       };
     }
@@ -15,7 +15,7 @@ export default () => (nodeTree) =>
         ...node,
         data: {
           hName: "p",
-          hProperties: { className: "-69-direction" },
+          hProperties: { className: "_69-direction" },
         },
       };
     }
