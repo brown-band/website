@@ -31,7 +31,7 @@ module.exports = async () => {
 
   const makeFriendly = (school) =>
     title(school.replaceAll("-", " ").replaceAll("st ", "st. "), {
-      special: ["ADOCH", "NBC", "RPI", "UConn", "UPenn", "URI", "UVM", "SUNY"],
+      special: ["ADOCH", "NBC", "RPI", "UConn", "URI", "UVM", "SUNY"],
     });
 
   return {
