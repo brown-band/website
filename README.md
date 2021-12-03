@@ -27,6 +27,8 @@ In a terminal, run `npm install` from this project’s directory to install all 
 ### File organization
 
 - `assets`: miscellaneous static files
+- `config`: support files that are too big for `.eleventy.js`
+  - `remark-directives.mjs`: [remark](https://remark.js.org) plugin for handling custom syntax used in scripts
 - `buttons`: contains folders for each class year
   - `buttons/*/labels.yml`: contains a mapping from college name → button description
 - `data`: contains a combination of static data (`.yml` files) and scripts that produce the relevant data for the website (`.js` files)
