@@ -1,3 +1,7 @@
+process.on("unhandledRejection", (err) => {
+  console.log(err);
+});
+
 module.exports = (eleventyConfig) => {
   eleventyConfig.ignores.add("pages/scripts/**/*.69");
 
