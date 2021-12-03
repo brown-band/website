@@ -1,6 +1,7 @@
 import fs from "fs/promises";
 import cheerio from "cheerio";
 import d3 from "d3";
+import { dump } from "js-yaml";
 
 const names = [];
 for (const { title, body_value } of JSON.parse(
@@ -17,7 +18,7 @@ for (const { title, body_value } of JSON.parse(
   const games = $("a")
     .toArray()
     .map((el) => ({
-      name: $(el).text(),
+      title: $(el).text(),
       id: $(el)
         .attr("href")
         .replace("http://students.brown.edu/band/show-scripts/", "")
@@ -31,14 +32,7 @@ for (const { title, body_value } of JSON.parse(
       `../pages/scripts/${year}/${semester.toLowerCase()}/index.yml`,
       import.meta.url
     ),
-    `---\nlayout: script-index\n---\n\n` +
-      games
-        .map(
-          (g) =>
-            `- [${g.name}](/scripts/${year}/${semester.toLowerCase()}/${g.id}/)`
-        )
-        .join("\n") +
-      "\n"
+    dump(games)
   );
   // result.push({
   //   title,
