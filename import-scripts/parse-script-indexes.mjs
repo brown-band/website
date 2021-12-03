@@ -1,25 +1,27 @@
 import fs from "fs/promises";
-import xml2js from "xml2js";
+import cheerio from "cheerio";
 
 const result = [];
 for (const { title, body_value } of JSON.parse(
-  await fs.readFile("script-indexes.json")
+  await fs.readFile(new URL("script-indexes.json", import.meta.url))
 )) {
-  const [_, semester, year] = title.split(" ");
-  const links = await xml2js.parseStringPromise(
-    "<body>" + body_value + "</body>",
-    {
-      // explicitRoot: false,
-      // explicitChildren: true,
-      // preserveChildrenOrder: true,
-    }
+  // const [_, semester, year] = title.split(" ");
+  const $ = cheerio.load(body_value);
+  result.push(
+    ...$("a")
+      .toArray()
+      .map((el) =>
+        // text: $(el).text(),
+        $(el)
+          .attr("href")
+          .replace("http://students.brown.edu/band/show-scripts/", "")
+          .replace(/^scripts-\w+-\d+-/, "")
+      )
   );
-  result.push({
-    title,
-    entries: links.body.p.map((p) =>
-      p.a?.[0].$.href.split("-").slice(3).join("-")
-    ),
-  });
+  // result.push({
+  //   title,
+  //   entries: ,
+  // });
 }
 
-console.log(result);
+console.log(new Set(result));
