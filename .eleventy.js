@@ -1,5 +1,3 @@
-const scriptScript = require("./script-script-to-html");
-
 module.exports = (eleventyConfig) => {
   eleventyConfig.ignores.add("pages/scripts/**/*.69");
 
@@ -60,25 +58,6 @@ module.exports = (eleventyConfig) => {
   eleventyConfig.addFilter("page_title", function (title) {
     return title ? `${title} | ${this.ctx.site.title}` : this.ctx.site.title;
   });
-
-  /**
-   * Script parsing
-   */
-  // parse .69 files as scripts
-  eleventyConfig.addExtension("69", {
-    init() {
-      // this.config
-    },
-    outputFileExtension: "html",
-    compile(content, inputPath) {
-      const { config } = this;
-      return (data) => scriptScript.parse(content, data);
-    },
-  });
-  // add .69 to the list of supported extensions
-  eleventyConfig.setTemplateFormats(
-    "html,liquid,ejs,md,hbs,mustache,haml,pug,njk,11ty.js" + ",69"
-  );
 
   return {
     // enable copyng assets

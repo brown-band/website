@@ -39,6 +39,7 @@ In a terminal, run `npm install` from this project’s directory to install all 
   - `scripts.js`: scans the `pages/scripts` folder and formats the data for display both on the script index page and on individual semester indexes.
   - `site.yml`: global metadata for the website (currently just the title)
   - `specialButtons.yml`: list of buttons that don’t fit into any of the existing categories
+- `import-scripts`: ignore this
 - `includes`: can be imported using `{% include %}`
   - (note: included templates use the same output language as the page that includes them)
   - `button-table.njk`: code for rendering the tables on the button page
@@ -51,7 +52,6 @@ In a terminal, run `npm install` from this project’s directory to install all 
   - `scripts`: show scripts. Contains a subfolder for each year’s scripts, with `fall` and `spring` subfolders.
   - `index.md`: the homepage
 - `.eleventy.js`: configuration file for Eleventy. See docs inside the file for more details.
-- `script-script-to-html.js`: converts Script Script (`.69`, an XML format) to HTML
 
 ### Common Tasks
 
