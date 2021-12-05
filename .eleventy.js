@@ -63,6 +63,9 @@ module.exports = (eleventyConfig) => {
     return title ? `${title} | ${this.ctx.site.title}` : this.ctx.site.title;
   });
 
+  // disable printing each page as it is converted (since there are hundreds of them)
+  eleventyConfig.setQuietMode(true);
+
   return {
     // enable copyng assets
     passthroughFileCopy: true,
