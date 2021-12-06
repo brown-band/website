@@ -9,6 +9,7 @@ There are several HTML formats used for the old scripts:
   - h1 headers
   - p->big->big->em->strong subheaders
     - also i->b->p->font
+    - also h2->em
   - directions in p->strong wrapped by parens or brackets
     - also in the format `<p>(<i>...</i>)</p>`
     - also in i->b (and i->b->p)
