@@ -1,5 +1,7 @@
+// @ts-check
+
 const fetchFile = (path) =>
-  fetch(new URL("/" + path, mediaHost))
+  fetch(new URL("/" + path, mediaHost).toString())
     .then((res) => res.arrayBuffer())
     .then(async (data) =>
       crypto.subtle.decrypt(
@@ -16,21 +18,30 @@ const fetchFile = (path) =>
 
 let urlToDispose;
 
+/**
+ * @template {keyof HTMLElementTagNameMap} Name
+ * @param {Name} name
+ */
+const createChild = (name, parent) => {
+  const child = document.createElement(name);
+  parent.appendChild(child);
+  return child;
+};
+
 const renderTrack = (folder, track) => {
   const row = document.createElement("tr");
 
   if (track.header) {
-    const title = document.createElement("th");
+    const title = createChild("th", row);
     title.colSpan = 2;
     title.textContent = track.header;
-    row.appendChild(title);
     return row;
   }
-  const title = document.createElement("td");
+  const title = createChild("td", row);
   title.textContent = track.title;
   row.appendChild(title);
 
-  const button = document.createElement("button");
+  const button = createChild("button", createChild("td", row));
   button.className = "btn btn-secondary btn-sm";
   button.textContent = "Play!";
   /** @type {HTMLAudioElement} */
@@ -39,7 +50,7 @@ const renderTrack = (folder, track) => {
     audio.pause();
     audio.src = "";
     audio.load();
-    audio.style.opacity = 0.5;
+    audio.style.opacity = "0.5";
 
     document.querySelector(".player-wrapper").removeAttribute("hidden");
     document.querySelector(".player-wrapper .now-playing").textContent =
@@ -57,38 +68,29 @@ const renderTrack = (folder, track) => {
         if (urlToDispose) URL.revokeObjectURL(urlToDispose);
         urlToDispose = songURL;
 
-        audio.style.opacity = 1;
+        audio.style.opacity = "1";
         audio.src = songURL;
         audio.play();
       });
   });
 
-  const buttonTd = document.createElement("td");
-  buttonTd.appendChild(button);
-  row.appendChild(buttonTd);
   return row;
 };
 
 const renderAlbum = (album) => {
   const sec = document.createElement("section");
 
-  const header = document.createElement("h2");
-  header.textContent = album.title;
-  sec.appendChild(header);
+  createChild("h2", sec).textContent = album.title;
+  createChild("p", sec).textContent = album.about;
 
-  const about = document.createElement("p");
-  about.textContent = album.about;
-  sec.appendChild(about);
-
-  const table = document.createElement("table");
+  const table = createChild("table", sec);
   table.className = "table";
-  const tbody = document.createElement("tbody");
-  table.appendChild(tbody);
-  sec.appendChild(table);
 
+  const tbody = createChild("tbody", table);
   album.tracks
     .map((t) => renderTrack(album.name, t))
     .forEach((el) => tbody.appendChild(el));
+
   return sec;
 };
 
