@@ -1,12 +1,11 @@
-const fs = require("fs/promises");
-const path = require("path");
+// @ts-check
 
 process.on("unhandledRejection", (err) => {
   console.log(err);
 });
 
 /**
- * @type {(eleventyConfig: import("@11ty/eleventy/src/UserConfig")) => ReturnType<import("@11ty/eleventy/src/defaultConfig")>}
+ * @type {(eleventyConfig: import("@11ty/eleventy/src/UserConfig")) => Partial<ReturnType<import("@11ty/eleventy/src/defaultConfig")>>}
  */
 module.exports = (eleventyConfig) => {
   eleventyConfig.ignores.add("pages/scripts/**/*.69");

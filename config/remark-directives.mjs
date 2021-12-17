@@ -1,7 +1,8 @@
+// @ts-check
 import { map } from "unist-util-map";
 
 export default () => (nodeTree) =>
-  map(nodeTree, (node) => {
+  map(nodeTree, (/** @type {import("mdast").Content} */ node) => {
     if (node.type === "textDirective" && node.name === "script-tab") {
       return {
         type: "element",

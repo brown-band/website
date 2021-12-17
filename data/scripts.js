@@ -1,3 +1,5 @@
+// @ts-check
+
 const fs = require("fs/promises");
 const path = require("path");
 const title = require("title");
@@ -21,7 +23,8 @@ module.exports = async () => {
                   semester,
                   load(
                     await fs.readFile(
-                      path.join(scriptsDir, year, semester, "index.yml")
+                      path.join(scriptsDir, year, semester, "index.yml"),
+                      "utf-8"
                     )
                   ),
                 ])

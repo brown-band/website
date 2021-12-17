@@ -1,7 +1,8 @@
 // @ts-check
 
+/** @returns {Promise<ArrayBuffer>} */
 const fetchFile = (path) =>
-  fetch(new URL("/" + path, mediaHost).toString())
+  fetch(new URL("/" + path, globalThis.mediaHost).toString())
     .then((res) => res.arrayBuffer())
     .then(async (data) =>
       crypto.subtle.decrypt(
@@ -15,6 +16,9 @@ const fetchFile = (path) =>
         data
       )
     );
+
+/** @type {HTMLAudioElement} */
+const audio = document.querySelector(".player-wrapper audio");
 
 let urlToDispose;
 
@@ -44,8 +48,6 @@ const renderTrack = (folder, track) => {
   const button = createChild("button", createChild("td", row));
   button.className = "btn btn-secondary btn-sm";
   button.textContent = "Play!";
-  /** @type {HTMLAudioElement} */
-  const audio = document.querySelector(".player-wrapper audio");
   button.addEventListener("click", () => {
     audio.pause();
     audio.src = "";
@@ -86,6 +88,8 @@ const renderAlbum = (album) => {
   const table = createChild("table", sec);
   table.className = "table";
 
+  const headerRow = createChild("tr", createChild("thead", table));
+
   const tbody = createChild("tbody", table);
   album.tracks
     .map((t) => renderTrack(album.name, t))
@@ -104,6 +108,8 @@ document.addEventListener("password:decrypt", async () => {
 
   document.querySelector(".stop-player").addEventListener("click", () => {
     document.querySelector(".player-wrapper").setAttribute("hidden", "");
-    document.querySelector(".player-wrapper audio").pause();
+    audio.pause();
   });
 });
+
+export {};

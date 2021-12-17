@@ -1,12 +1,20 @@
+// @ts-check
+
 // used by recordings.html
 
-const keys = await fetch(new URL("/keys.json", mediaHost)).then((res) =>
-  res.json()
-);
+const keys = await fetch(
+  new URL("/keys.json", globalThis.mediaHost).toString()
+).then((res) => res.json());
 
 const Base64 = window["base64-arraybuffer"];
 
-document.querySelector(".decrypt-button").disabled = false;
+/** @type {HTMLButtonElement} */ (
+  document.querySelector(".decrypt-button")
+).disabled = false;
+
+/** @type {HTMLInputElement} */
+const passwordInput = document.querySelector("#passwordInput");
+
 globalThis.decrypt = async () => {
   passwordInput.classList.remove("is-invalid");
   passwordInput.setCustomValidity("");
@@ -58,3 +66,5 @@ globalThis.decrypt = async () => {
     );
   }
 };
+
+export {};

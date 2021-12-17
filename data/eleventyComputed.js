@@ -1,3 +1,5 @@
+// @ts-check
+
 const title = require("title");
 
 // Heads up! this **overrides** data set anywhere else, including in the front matter of a page.

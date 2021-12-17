@@ -1,3 +1,5 @@
+// @ts-check
+
 module.exports = () => ({
   all: quotes,
   random: () => quotes[Math.floor(Math.random() * quotes.length)],

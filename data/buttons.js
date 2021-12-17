@@ -1,3 +1,5 @@
+// @ts-check
+
 module.exports = async () => {
   const fs = require("fs/promises");
   const path = require("path");
@@ -11,9 +13,16 @@ module.exports = async () => {
   const buttonsDir = path.join(path.dirname(__dirname), "buttons");
   const years = (await fs.readdir(buttonsDir)).filter((y) => y !== "unknown");
 
-  /** @type {Array<[string, { [key: string]: string }]>} */
   const rawLabels = await Promise.all(
-    years.map(async (year) => [year, await readYaml(year, "labels.yml")])
+    years.map(
+      async (year) =>
+        /** @type {const} */ ([
+          year,
+          /** @type {{ [key: string]: string }} */ (
+            await readYaml(year, "labels.yml")
+          ),
+        ])
+    )
   );
 
   const allButtons = await Promise.all(
@@ -38,8 +47,8 @@ module.exports = async () => {
 
   /** @type {{ [key: string]: { color: string, type: "ivy" | "recent" | "other", mascot?: string } }} */
   const schools = await fs
-    .readFile(path.join(__dirname, "schoolColors.yml"))
-    .then(loadYaml);
+    .readFile(path.join(__dirname, "schoolColors.yml"), "utf-8")
+    .then(/** @type {(_: string) => any} */ (loadYaml));
 
   const allBySchool = d3
     .groups(allButtons, (d) => d.school)
@@ -66,11 +75,12 @@ module.exports = async () => {
     schools,
     bySchool: Object.fromEntries(d3.groups(allBySchool, (d) => d.type)),
 
-    unknown: (await readYaml("unknown", "labels.yml")).map(
-      ({ imageName, ...button }) => ({
+    unknown:
+      /** @type {{about: string, imageName?: number, label: string}[]} */ (
+        await readYaml("unknown", "labels.yml")
+      ).map(({ imageName, ...button }) => ({
         ...button,
         image: imageName ? `/buttons/unknown/${imageName}.jpg` : null,
-      })
-    ),
+      })),
   };
 };
