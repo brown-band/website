@@ -1,4 +1,5 @@
 // @ts-check
+const fs = require("fs");
 
 process.on("unhandledRejection", (err) => {
   console.log(err);
@@ -56,12 +57,23 @@ module.exports = (eleventyConfig) => {
   });
 
   /**
-   * Watch targets
+   * Dev Mode
    */
   // in dev mode, rebuild the site when these files change
   // (pages and data files automatically trigger a rebuild)
   eleventyConfig.addWatchTarget("assets");
   eleventyConfig.addWatchTarget("buttons");
+  eleventyConfig.setBrowserSyncConfig({
+    callbacks: {
+      ready(err, bs) {
+        bs.addMiddleware("*", (req, res) => {
+          res.writeHead(404, { "Content-Type": "text/html; charset=UTF-8" });
+          res.write(fs.readFileSync("public/404.html"));
+          res.end();
+        });
+      },
+    },
+  });
 
   /**
    * Shortcodes
