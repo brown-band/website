@@ -6,11 +6,6 @@ const keys = await fetch(new URL("/keys.json", mediaHost)).then((res) =>
 
 const Base64 = window["base64-arraybuffer"];
 
-const makeIv = (path) =>
-  crypto.subtle
-    .digest("SHA-256", new TextEncoder().encode(path))
-    .then((buf) => buf.slice(0, 16));
-
 document.querySelector(".decrypt-button").disabled = false;
 globalThis.decrypt = async () => {
   passwordInput.classList.remove("is-invalid");
@@ -55,20 +50,7 @@ globalThis.decrypt = async () => {
   const key = extractedKeys.find((k) => k.success)?.key;
   if (key) {
     globalThis.decryptionKey = key;
-    const inventory = await fetch(new URL("/inventory.json", mediaHost))
-      .then((res) => res.arrayBuffer())
-      .then(async (data) =>
-        crypto.subtle.decrypt(
-          {
-            name: "AES-CBC",
-            iv: await makeIv("inventory.json"),
-          },
-          key,
-          data
-        )
-      )
-      .then((decrypted) => JSON.parse(decoder.decode(decrypted)));
-    console.log(inventory);
+    document.dispatchEvent(new CustomEvent("password:decrypt"));
   } else {
     passwordInput.classList.add("is-invalid");
     passwordInput.setCustomValidity(
