@@ -77,8 +77,6 @@ module.exports = (eleventyConfig) => {
   eleventyConfig.setQuietMode(true);
 
   return {
-    // enable copyng assets
-    passthroughFileCopy: true,
     // use Nunjucks as the template engine (instead of Liquid)
     markdownTemplateEngine: "njk",
     htmlTemplateEngine: "njk",
