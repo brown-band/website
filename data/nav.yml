@@ -39,7 +39,6 @@
       disabled: true
     - title: Recordings
       url: /recordings/
-      disabled: true
     # - title: Videos
     #   url: /videos/
     - title: Lyrics
