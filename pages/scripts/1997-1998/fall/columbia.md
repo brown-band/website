@@ -8,7 +8,7 @@ script:
     away:
       name: Columbia
       score: 11
-date: 1997-11-22T05:00:00.000Z
+date: 1997-11-22
 ---
 
 > _The idea to write a show in verse was suggested to me at the 1996 Ivy Band Conference by the Columbia Band's Chief Scribe, who had done it the year before. At the beginning of this year, I went to the Columbia Band's webpage and read their verse script only to discover that, although it was all in rhymed couplets, it regularly switched meters. So, in order to make the idea my own I decided to use blank verse-- iambic pentameter of course. And, of course, it would have to be for the Columbia game._

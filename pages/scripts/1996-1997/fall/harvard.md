@@ -8,7 +8,7 @@ script:
     away:
       name: Brown
       score: 31
-date: 1996-11-09T05:00:00.000Z
+date: 1996-11-09
 ---
 
 ## Halftime:

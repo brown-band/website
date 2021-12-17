@@ -8,7 +8,7 @@ script:
     away:
       name: Brown
       score: 27
-date: 1996-11-23T05:00:00.000Z
+date: 1996-11-23
 ---
 
 ## Pregame:

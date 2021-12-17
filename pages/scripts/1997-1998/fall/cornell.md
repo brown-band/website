@@ -8,7 +8,7 @@ script:
     away:
       name: Cornell
       score: 12
-date: 1997-11-01T05:00:00.000Z
+date: 1997-11-01
 ---
 
 ## Pregame:

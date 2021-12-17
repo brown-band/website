@@ -8,7 +8,7 @@ script:
     away:
       name: URI
       score: 30
-date: 1993-10-02T04:00:00.000Z
+date: 1993-10-02
 ---
 
 ## Pregame:

@@ -8,7 +8,7 @@ script:
     away:
       name: Lafayette
       score: 27
-date: 1997-09-27T04:00:00.000Z
+date: 1997-09-27
 ---
 
 ## Pregame:

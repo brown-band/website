@@ -8,7 +8,7 @@ script:
     away:
       name: Brown
       score: 52
-date: 1997-09-20T04:00:00.000Z
+date: 1997-09-20
 ---
 
 ## Halftime:

@@ -8,7 +8,7 @@ script:
     away:
       name: Cornell
       score: 21
-date: 1993-10-30T04:00:00.000Z
+date: 1993-10-30
 ---
 
 ## Pregame:

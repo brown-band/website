@@ -8,7 +8,7 @@ script:
     away:
       name: Princeton
       score: 30
-date: 1997-10-11T04:00:00.000Z
+date: 1997-10-11
 ---
 
 ## Pregame:

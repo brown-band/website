@@ -8,7 +8,7 @@ script:
     away:
       name: Harvard
       score: 27
-date: 1997-11-08T05:00:00.000Z
+date: 1997-11-08
 ---
 
 > _I collaborated on this script with Erminio Pinque (I still don't know if that's spelled right), the Big Nazo director, who had the idea of trying to do a War of the Worlds thing... hence if the entire script reads something like a radio drama this is on purpose (and has the dual role of serving as a backup in case the on-field mike didn't work, which fortunately didn't happen). The lines as set down here are really more of a guideline... the on-field portions were mainly ad-libbed._

@@ -8,7 +8,7 @@ script:
     away:
       name: Bucknell
       score: 12
-date: 1993-10-16T04:00:00.000Z
+date: 1993-10-16
 ---
 
 ## Pregame:

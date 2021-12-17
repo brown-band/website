@@ -8,7 +8,7 @@ script:
     away:
       name: Brown
       score: 27
-date: 1996-10-12T04:00:00.000Z
+date: 1996-10-12
 ---
 
 <small>_(We won, because we won, because we won, because we won...)_</small>

@@ -8,7 +8,7 @@ script:
     away:
       name: Brown
       score: 9
-date: 1993-10-23T04:00:00.000Z
+date: 1993-10-23
 ---
 
 ## Pregame:

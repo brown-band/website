@@ -8,7 +8,7 @@ script:
     away:
       name: Brown
       score: 7
-date: 1997-11-15T05:00:00.000Z
+date: 1997-11-15
 ---
 
 > _Interesting weekend we just survived (and we did JUST survive)... The Dartmouth Athletic Department wouldn't let either band onto the field, so all shows were performed in the stands as best as could be managed, the visiting stands were closed down due to the snow, so the Band and all the Brown fans had to sit in the home stands mere inches from rabid Dartmouth fans, the Brown Bear got pelted with snowballs, the Band was also snowballed and even taunted by eight-year-olds._

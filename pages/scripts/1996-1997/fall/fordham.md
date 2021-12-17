@@ -8,7 +8,7 @@ script:
     away:
       name: Fordham
       score: 14
-date: 1996-10-19T04:00:00.000Z
+date: 1996-10-19
 ---
 
 ## Pregame:

@@ -8,7 +8,7 @@ script:
     away:
       name: Dartmouth
       score: 27
-date: 1996-11-16T05:00:00.000Z
+date: 1996-11-16
 ---
 
 ## Pregame:

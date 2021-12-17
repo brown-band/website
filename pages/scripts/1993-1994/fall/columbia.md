@@ -8,7 +8,7 @@ script:
     away:
       name: Columbia
       score: 23
-date: 1993-11-20T05:00:00.000Z
+date: 1993-11-20
 ---
 
 ## Halftime:

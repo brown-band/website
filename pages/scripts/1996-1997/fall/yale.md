@@ -8,7 +8,7 @@ script:
     away:
       name: Yale
       score: 30
-date: 1996-09-21T04:00:00.000Z
+date: 1996-09-21
 ---
 
 ## Pregame:
