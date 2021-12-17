@@ -41,8 +41,8 @@ module.exports = (eleventyConfig) => {
   eleventyConfig.addGlobalData("layout", "base");
   // set the domain of the media bucket
   eleventyConfig.addGlobalData(
-    "media_bucket",
-    "https://brownband-test.s3.amazonaws.com"
+    "recordings_url",
+    "https://brown-band-recordings.s3.amazonaws.com"
   );
 
   /**
