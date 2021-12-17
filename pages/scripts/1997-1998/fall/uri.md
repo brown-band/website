@@ -6,7 +6,7 @@ script:
       name: Brown
       score: 23
     away:
-      name: Rhode Island
+      name: URI
       score: 15
 date: 1997-10-18T04:00:00.000Z
 ---

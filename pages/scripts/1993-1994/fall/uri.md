@@ -5,7 +5,7 @@ script:
     home:
       name: Brown
     away:
-      name: Rhode Island
+      name: URI
 date: 1993-10-02T04:00:00.000Z
 ---
 
