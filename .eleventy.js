@@ -1,5 +1,3 @@
-const CryptoJS = require("crypto-js");
-
 const fs = require("fs/promises");
 const path = require("path");
 
@@ -41,6 +39,11 @@ module.exports = (eleventyConfig) => {
   );
   // set the default layout
   eleventyConfig.addGlobalData("layout", "base");
+  // set the domain of the media bucket
+  eleventyConfig.addGlobalData(
+    "media_bucket",
+    "https://brownband-test.s3.amazonaws.com"
+  );
 
   /**
    * Assets
@@ -50,7 +53,7 @@ module.exports = (eleventyConfig) => {
   eleventyConfig.addPassthroughCopy({
     "node_modules/bootstrap/dist/css/bootstrap.min.css*": "assets",
     "node_modules/bootstrap/dist/js/bootstrap.min.js*": "assets",
-    "node_modules/crypto-js/crypto-js.js": "assets/crypto-js.js",
+    "node_modules/base64-arraybuffer/dist/base64-arraybuffer.umd.js*": "assets",
   });
 
   /**
@@ -72,30 +75,6 @@ module.exports = (eleventyConfig) => {
 
   // disable printing each page as it is converted (since there are hundreds of them)
   eleventyConfig.setQuietMode(true);
-
-  // Crypto
-  const encryptedPages = ["./pages/crypto-test.md"];
-  eleventyConfig.addTransform(
-    "encrypt-pages",
-    async function (content, outputPath) {
-      if (encryptedPages.includes(this.inputPath)) {
-        const encrypted = CryptoJS.AES.encrypt(content, "hunter2");
-        await fs.writeFile(
-          outputPath.replace("/index.html", ".enc"),
-          JSON.stringify({
-            ciphertext: encrypted.ciphertext.toString(CryptoJS.enc.Base64),
-            iv: encrypted.iv.toString(CryptoJS.enc.Base64),
-            salt: encrypted.salt.toString(CryptoJS.enc.Base64),
-          })
-        );
-        return fs.readFile(
-          path.dirname(path.dirname(outputPath)) + "/protected-page/index.html"
-        );
-      } else {
-        return content;
-      }
-    }
-  );
 
   return {
     // enable copyng assets
