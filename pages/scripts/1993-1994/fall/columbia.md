@@ -4,8 +4,10 @@ script:
   teams:
     home:
       name: Brown
+      score: 28
     away:
       name: Columbia
+      score: 23
 date: 1993-11-20T05:00:00.000Z
 ---
 
@@ -15,13 +17,25 @@ Ladies and gentlemen, friends and alumni, presenting an organization that enjoys
 
 :sd[Band follows the yellow brick road to the field.]
 
-Every autumn in week number ten,<br> After being slaughtered by Princeton and murdered by Penn,<br> As surely as leaves will fall to the ground,<br> SUNY Harlem will come to play Brown.
+Every autumn in week number ten,\
+After being slaughtered by Princeton and murdered by Penn,\
+As surely as leaves will fall to the ground,\
+SUNY Harlem will come to play Brown.
 
-Yale and Harvard both tasted defeat,<br> And Bucknell was toppled as an added treat,<br> But no football season is truly complete,<br> Till the men in smurf blue have been resoundingly beat.
+Yale and Harvard both tasted defeat,\
+And Bucknell was toppled as an added treat,\
+But no football season is truly complete,\
+Till the men in smurf blue have been resoundingly beat.
 
-The training and practice and hard work and sweat,<br> Is all directed at the Columbia threat,<br> And as the season is winding down,<br> Like death and taxes, we bring the victory to Brown.
+The training and practice and hard work and sweat,\
+Is all directed at the Columbia threat,\
+And as the season is winding down,\
+Like death and taxes, we bring the victory to Brown.
 
-They yell and they curse and they scream and they fuss,<br> But eventually Columbia goes home on their bus.<br> Go home to Harlem - you've lost yet again,<br> But hey - at least your school is still better than Penn!!
+They yell and they curse and they scream and they fuss,\
+But eventually Columbia goes home on their bus.\
+Go home to Harlem - you've lost yet again,\
+But hey - at least your school is still better than Penn!!
 
 Watch now as the Band salutes our team and plays "Ivy Heaven."
 

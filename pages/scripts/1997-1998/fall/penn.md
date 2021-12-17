@@ -4,7 +4,7 @@ script:
   teams:
     home:
       name: Penn
-      score: 314
+      score: 31
     away:
       name: Brown
       score: 10

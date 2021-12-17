@@ -4,8 +4,10 @@ script:
   teams:
     home:
       name: Brown
+      score: 32
     away:
       name: URI
+      score: 27
 date: 1985-09-28
 ---
 

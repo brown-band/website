@@ -4,8 +4,10 @@ script:
   teams:
     home:
       name: Yale
+      score: 10
     away:
       name: Brown
+      score: 9
 date: 1985-09-21
 ---
 

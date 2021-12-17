@@ -4,8 +4,10 @@ script:
   teams:
     home:
       name: Princeton
+      score: 10
     away:
       name: Brown
+      score: 24
 date: 1986-10-04
 ---
 

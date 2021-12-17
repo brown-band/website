@@ -4,8 +4,10 @@ script:
   teams:
     home:
       name: Brown
+      score: 3
     away:
       name: Cornell
+      score: 21
 date: 1993-10-30T04:00:00.000Z
 ---
 

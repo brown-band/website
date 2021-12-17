@@ -4,8 +4,10 @@ script:
   teams:
     home:
       name: Brown
+      score: 22
     away:
       name: Cornell
+      score: 0
 date: 1985-10-19
 ---
 

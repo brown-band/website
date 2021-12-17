@@ -4,8 +4,10 @@ script:
   teams:
     home:
       name: Brown
+      score: 7
     away:
       name: Holy Cross
+      score: 22
 date: 1986-10-25
 ---
 

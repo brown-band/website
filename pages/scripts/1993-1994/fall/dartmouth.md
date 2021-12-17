@@ -4,8 +4,10 @@ script:
   teams:
     home:
       name: Dartmouth
+      score: 39
     away:
       name: Brown
+      score: 16
 date: 1993-11-13T05:00:00.000Z
 ---
 

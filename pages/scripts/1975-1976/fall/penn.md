@@ -3,9 +3,11 @@ script:
   type: football
   teams:
     home:
-      name: Brown
-    away:
       name: Penn
+      score: 8
+    away:
+      name: Brown
+      score: 17
 date: 1975-10-04
 ---
 

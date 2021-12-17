@@ -4,8 +4,10 @@ script:
   teams:
     home:
       name: Harvard
+      score: 19
     away:
       name: Brown
+      score: 31
 date: 1986-11-01
 ---
 
