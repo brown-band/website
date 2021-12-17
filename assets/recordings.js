@@ -14,6 +14,8 @@ const fetchFile = (path) =>
       )
     );
 
+let urlToDispose;
+
 const renderTrack = (folder, track) => {
   const row = document.createElement("tr");
 
@@ -29,13 +31,38 @@ const renderTrack = (folder, track) => {
   row.appendChild(title);
 
   const button = document.createElement("button");
+  button.className = "btn btn-secondary btn-sm";
   button.textContent = "Play!";
-  button.addEventListener("click", () =>
-    console.log(
-      "playing",
-      `${encodeURIComponent(folder)}/${encodeURIComponent(track.file)}`
-    )
-  );
+  /** @type {HTMLAudioElement} */
+  const audio = document.querySelector(".player-wrapper audio");
+  button.addEventListener("click", () => {
+    audio.pause();
+    audio.src = "";
+    audio.load();
+    audio.style.opacity = 0.5;
+
+    document.querySelector(".player-wrapper").removeAttribute("hidden");
+    document.querySelector(".player-wrapper .now-playing").textContent =
+      track.title;
+
+    fetchFile(`${encodeURIComponent(folder)}/${encodeURIComponent(track.file)}`)
+      .then((song) =>
+        URL.createObjectURL(
+          new Blob([song], {
+            type: `audio/${track.file.match(/\.(?<ext>[^.]+)/).groups.ext}`,
+          })
+        )
+      )
+      .then((songURL) => {
+        if (urlToDispose) URL.revokeObjectURL(urlToDispose);
+        urlToDispose = songURL;
+
+        audio.style.opacity = 1;
+        audio.src = songURL;
+        audio.play();
+      });
+  });
+
   const buttonTd = document.createElement("td");
   buttonTd.appendChild(button);
   row.appendChild(buttonTd);
@@ -54,7 +81,7 @@ const renderAlbum = (album) => {
   sec.appendChild(about);
 
   const table = document.createElement("table");
-  table.classList.add("table");
+  table.className = "table";
   const tbody = document.createElement("tbody");
   table.appendChild(tbody);
   sec.appendChild(table);
@@ -72,4 +99,9 @@ document.addEventListener("password:decrypt", async () => {
   const root = document.querySelector("#root");
   root.innerHTML = "";
   inventory.map(renderAlbum).forEach((el) => root.appendChild(el));
+
+  document.querySelector(".stop-player").addEventListener("click", () => {
+    document.querySelector(".player-wrapper").setAttribute("hidden", "");
+    document.querySelector(".player-wrapper audio").pause();
+  });
 });

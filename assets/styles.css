@@ -108,3 +108,24 @@ blockquote {
   display: inline-block;
   width: 1em;
 }
+
+.player {
+  margin-block: 1em;
+  padding: 0.75em 1em;
+}
+.player-wrapper {
+  width: calc(100% + 2em);
+  overflow: hidden;
+  margin-left: -1em;
+  position: sticky;
+  bottom: 1em;
+}
+@media (max-width: 576px) {
+  .player {
+    margin-right: -0.2em;
+    border-width: 0.3rem !important;
+  }
+  .player-wrapper {
+    bottom: -1.3em;
+  }
+}

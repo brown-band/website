@@ -36,6 +36,24 @@ summary: The Brown Band is best known for its scrambling, its skating, and its s
   </form>
 </div>
 
+<div class="player-wrapper" hidden>
+  <div class="player bg-body border rounded-2">
+    <audio controls style="width: 100%"></audio>
+    <div class="d-flex align-items-center mt-2">
+      <span class="flex-fill">
+        Now Playing:
+        <span class="now-playing" style="font-weight: bold">???</span>
+      </span>
+      <button
+        type="button"
+        class="btn-close ms-3 stop-player"
+        aria-label="Stop Playing"
+        style="margin-top: -0.25em"
+      ></button>
+    </div>
+  </div>
+</div>
+
 <script src="/assets/base64-arraybuffer.umd.js"></script>
 <script>
   globalThis.mediaHost = new URL("{{media_bucket}}");
