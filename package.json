@@ -23,6 +23,7 @@
   "dependencies": {
     "base64-arraybuffer": "^1.0.1",
     "bootstrap": "^5.1.3",
+    "date-fns": "^2.27.0",
     "js-yaml": "^4.1.0",
     "listify": "^1.0.3",
     "slugify": "^1.6.3",

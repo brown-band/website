@@ -7,7 +7,9 @@ const { load } = require("js-yaml");
 
 module.exports = async () => {
   const scriptsDir = path.join(path.dirname(__dirname), "pages", "scripts");
-  const years = await fs.readdir(scriptsDir);
+  const years = (await fs.readdir(scriptsDir)).filter(
+    (n) => n != "scripts.11tydata.yml"
+  );
 
   /** @type {{year: string, fall?: string[], spring?: string[]}[]} */
   const allScriptsByYear = await Promise.all(

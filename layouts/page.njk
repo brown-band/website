@@ -1,0 +1,18 @@
+---
+layout: base.njk
+---
+
+<!-- prettier-ignore -->
+<article>
+{% if title %}
+<h1>{{title}}</h1>
+{% endif %}
+
+{% if summary %}
+<blockquote>
+  <p><em>{{summary | safe}}</em></p>
+</blockquote>
+{% endif %}
+
+{{content | safe}}
+</article>

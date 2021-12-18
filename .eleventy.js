@@ -1,5 +1,8 @@
 // @ts-check
 const fs = require("fs");
+/** @type {import('date-fns').format} */
+const formatDate = /** @type {any} */ (require("date-fns/format"));
+const listify = require("listify");
 
 process.on("unhandledRejection", (err) => {
   console.log(err);
@@ -38,7 +41,7 @@ module.exports = (eleventyConfig) => {
     require("js-yaml").load(contents)
   );
   // set the default layout
-  eleventyConfig.addGlobalData("layout", "base");
+  eleventyConfig.addGlobalData("layout", "page.njk");
   // set the domain of the media bucket
   eleventyConfig.addGlobalData(
     "recordings_url",
@@ -82,6 +85,12 @@ module.exports = (eleventyConfig) => {
   // adds the site title at the end of the page title
   eleventyConfig.addFilter("page_title", function (title) {
     return title ? `${title} | ${this.ctx.site.title}` : this.ctx.site.title;
+  });
+  eleventyConfig.addFilter("script_date", function (date) {
+    return formatDate(date, "EEEE, MMMM do, y");
+  });
+  eleventyConfig.addFilter("listify", function (items) {
+    return listify(items ?? []);
   });
 
   // disable printing each page as it is converted (since there are hundreds of them)

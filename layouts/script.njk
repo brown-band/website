@@ -1,0 +1,17 @@
+---
+layout: base
+---
+
+{% macro score(score) %}{% if score %} ({{score}}){% endif %}{% endmacro %}
+
+<article>
+  <header>
+    <h1>
+      {{script.teams.away.name}}{{score(script.teams.away.score)}}
+      at {{script.teams.home.name}}{{score(script.teams.home.score)}}
+    </h1>
+    <h2>{{date | script_date }}</h2>
+    <h3>{{script.writers | listify}}
+  </header>
+  {{content | safe}}
+</article>
