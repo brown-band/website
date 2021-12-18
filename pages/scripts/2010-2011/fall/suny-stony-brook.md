@@ -6,7 +6,7 @@ script:
       name: Brown
       score: 7
     away:
-      name: Harvard
+      name: SUNY Stony Brook
       score: 24
 date: 2010-09-18
 ---

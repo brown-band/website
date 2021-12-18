@@ -1,6 +1,7 @@
 ---
 script:
   type: hockey
+  theme: Under the Sea
   teams:
     home:
       name: Brown

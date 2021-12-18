@@ -6,7 +6,7 @@ script:
       name: Brown
       score: 38
     away:
-      name: U Penn
+      name: Penn
       score: 41
 date: 2000-10-28
 ---

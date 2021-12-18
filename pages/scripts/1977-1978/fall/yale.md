@@ -3,7 +3,7 @@ script:
   type: football
   teams:
     home:
-      name: yale
+      name: Yale
       score: 10
     away:
       name: Brown

@@ -1,6 +1,7 @@
 ---
 script:
   type: hockey
+  theme: Shrek
   teams:
     home:
       name: Brown

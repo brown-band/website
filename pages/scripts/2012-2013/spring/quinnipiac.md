@@ -1,6 +1,7 @@
 ---
 script:
   type: hockey
+  theme: Disney
   teams:
     home:
       name: Brown

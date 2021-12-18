@@ -1,4 +1,5 @@
 ---
+title: Bucknell (Parents’ Weekend)
 script:
   type: football
   teams:

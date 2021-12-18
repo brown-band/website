@@ -1,4 +1,5 @@
 ---
+title: Princeton (Homecoming)
 script:
   type: football
   teams:

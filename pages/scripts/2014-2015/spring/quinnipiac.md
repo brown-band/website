@@ -1,6 +1,7 @@
 ---
 script:
   type: hockey
+  theme: Sidekick
   teams:
     home:
       name: Brown

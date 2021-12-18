@@ -1,6 +1,7 @@
 ---
 script:
   type: hockey
+  theme: Sci-Fi
   teams:
     home:
       name: Brown

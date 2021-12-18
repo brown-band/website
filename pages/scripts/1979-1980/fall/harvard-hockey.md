@@ -1,4 +1,5 @@
 ---
+title: Harvard Hockey
 script:
   type: hockey
   teams:

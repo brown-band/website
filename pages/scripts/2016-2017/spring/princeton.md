@@ -1,6 +1,7 @@
 ---
 script:
   type: hockey
+  theme: Alumni
   teams:
     home:
       name: Brown

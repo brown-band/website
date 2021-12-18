@@ -1,6 +1,7 @@
 ---
 script:
   type: hockey
+  theme: Villain
   teams:
     home:
       name: Brown
