@@ -23,18 +23,22 @@ module.exports = {
             : script.teams,
         }
       : script,
-  title: (data) =>
-    data.title == ""
-      ? data.script?.teams
-        ? data.script.teams.opponent +
+  title(data) {
+    if (data.title) return;
+    if (data.script) {
+      if (data.script.teams) {
+        return (
+          data.script.teams.opponent +
           (data.page.filePathStem.endsWith("-censored") ? " (Censored)" : "") +
           (data.script.type === "hockey" && data.script.theme
             ? ` (${data.script.theme} Ice Show)`
             : "")
-        : data.script?.type === "stealth_show"
-        ? "Stealth Show"
-        : data.script?.type === "adoch"
-        ? "ADOCH"
-        : title(data.page.fileSlug.replaceAll("-", " "), { special: ["NBC"] })
-      : data.title,
+        );
+      }
+      if (data.script.type === "stealth_show") return "Stealth Show";
+      if (data.script.type === "adoch") return "ADOCH";
+    }
+
+    return title(data.page.fileSlug.replaceAll("-", " "), { special: ["NBC"] });
+  },
 };
