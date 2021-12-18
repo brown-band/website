@@ -96,6 +96,8 @@ module.exports = (eleventyConfig) => {
   // disable printing each page as it is converted (since there are hundreds of them)
   eleventyConfig.setQuietMode(true);
 
+  eleventyConfig.addPlugin(require("./config/scripts"));
+
   return {
     // use Nunjucks as the template engine (instead of Liquid)
     markdownTemplateEngine: "njk",

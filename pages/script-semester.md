@@ -1,13 +1,13 @@
 ---
 pagination:
-  data: scripts.bySemester
+  data: scripts.semesterCollections
   size: 1
   alias: semester
 permalink: "{{semester.permalink}}"
 ---
 
-{% for script in semester.scripts %}
+{% for script in collections[semester.collection] %}
 
-- [{{script.title}}]({{semester.permalink}}{{script.id}}/)
+- [{{script.data.script.teams.opponent or script.data.title}}]({{script.url}})
 
 {% endfor %}
