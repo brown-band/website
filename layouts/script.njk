@@ -13,11 +13,11 @@ layout: base
       </h1>
     {% elif scriptType == "adoch" %}
       <h1>A Day on College Hill {{date.getFullYear()}}</h1>
-    {% elif scriptType == "other" %}
-      <h1>{{title}}</h1>
-    {% else %}
+    {% elif opponent %}
       <# when we don't know home/away or scores #>
       <h1>Brown <em>vs</em> {{opponent}}</h1>
+    {% else %}
+      <h1>{{title}}</h1>
     {% endif %}
     <h2>{{date | script_date }}</h2>
     <h3>{{script.writers | listify}}

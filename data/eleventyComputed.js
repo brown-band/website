@@ -24,15 +24,12 @@ module.exports = {
       return (
         data.opponent +
         (data.page.filePathStem.endsWith("-censored") ? " (Censored)" : "") +
-        (data.scriptType === "hockey" && data.iceShowTheme
-          ? ` (${data.iceShowTheme} Ice Show)`
-          : "")
+        (data.iceShowTheme ? ` (${data.iceShowTheme} Ice Show)` : "")
       );
     }
 
-    if (data.scriptType === "stealth_show") return "Stealth Show";
-    if (data.scriptType === "adoch") return "ADOCH";
-
-    return title(data.page.fileSlug.replaceAll("-", " "), { special: ["NBC"] });
+    return title(data.page.fileSlug.replaceAll("-", " "), {
+      special: ["NBC", "ADOCH"],
+    });
   },
 };
