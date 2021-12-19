@@ -1,13 +1,12 @@
 ---
-script:
-  type: football
-  teams:
-    home:
-      name: Brown
-      score: 27
-    away:
-      name: Penn
-      score: 21
+scriptType: football
+teams:
+  home:
+    name: Brown
+    score: 27
+  away:
+    name: Penn
+    score: 21
 date: 1996-10-26
 ---
 

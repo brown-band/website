@@ -1,11 +1,10 @@
 ---
-script:
-  type: hockey
-  teams:
-    home:
-      name: Brown
-    away:
-      name: St. Lawrence
+scriptType: hockey
+teams:
+  home:
+    name: Brown
+  away:
+    name: St. Lawrence
 date: 1986-02-15
 ---
 

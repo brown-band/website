@@ -1,13 +1,12 @@
 ---
-script:
-  type: football
-  teams:
-    home:
-      name: Yale
-      score: 28
-    away:
-      name: Brown
-      score: 7
+scriptType: football
+teams:
+  home:
+    name: Yale
+    score: 28
+  away:
+    name: Brown
+    score: 7
 date: 1981-09-19
 ---
 

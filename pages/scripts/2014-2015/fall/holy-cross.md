@@ -1,13 +1,12 @@
 ---
-script:
-  type: football
-  teams:
-    home:
-      name: Brown
-      score: 27
-    away:
-      name: Holy Cross
-      score: 24
+scriptType: football
+teams:
+  home:
+    name: Brown
+    score: 27
+  away:
+    name: Holy Cross
+    score: 24
 date: 2014-10-11
 ---
 

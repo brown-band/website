@@ -1,13 +1,12 @@
 ---
-script:
-  type: football
-  teams:
-    home:
-      name: Princeton
-      score: 23
-    away:
-      name: Brown
-      score: 27
+scriptType: football
+teams:
+  home:
+    name: Princeton
+    score: 23
+  away:
+    name: Brown
+    score: 27
 date: 1996-10-12
 ---
 

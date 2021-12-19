@@ -1,14 +1,13 @@
 ---
-script:
-  type: hockey
-  theme: Alumni
-  teams:
-    home:
-      name: Brown
-      score: 4
-    away:
-      name: Princeton
-      score: 4
+scriptType: hockey
+iceShowTheme: Alumni
+teams:
+  home:
+    name: Brown
+    score: 4
+  away:
+    name: Princeton
+    score: 4
 date: 2017-02-04
 ---
 

@@ -1,13 +1,12 @@
 ---
-script:
-  type: football
-  teams:
-    home:
-      name: Brown
-      score: 38
-    away:
-      name: Fordham
-      score: 27
+scriptType: football
+teams:
+  home:
+    name: Brown
+    score: 38
+  away:
+    name: Fordham
+    score: 27
 date: 1998-10-17
 ---
 

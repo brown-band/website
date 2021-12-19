@@ -1,13 +1,12 @@
 ---
-script:
-  type: football
-  teams:
-    home:
-      name: Brown
-      score: 20
-    away:
-      name: Yale
-      score: 0
+scriptType: football
+teams:
+  home:
+    name: Brown
+    score: 20
+  away:
+    name: Yale
+    score: 0
 date: 2012-11-03
 ---
 

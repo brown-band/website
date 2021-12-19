@@ -1,13 +1,12 @@
 ---
-script:
-  type: football
-  teams:
-    home:
-      name: Lehigh
-      score: 7
-    away:
-      name: Brown
-      score: 10
+scriptType: football
+teams:
+  home:
+    name: Lehigh
+    score: 7
+  away:
+    name: Brown
+    score: 10
 date: 1987-11-07
 ---
 

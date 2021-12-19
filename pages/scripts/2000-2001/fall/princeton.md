@@ -1,13 +1,12 @@
 ---
-script:
-  type: football
-  teams:
-    home:
-      name: Princeton
-      score: 55
-    away:
-      name: Brown
-      score: 28
+scriptType: football
+teams:
+  home:
+    name: Princeton
+    score: 55
+  away:
+    name: Brown
+    score: 28
 date: 2000-10-14
 ---
 

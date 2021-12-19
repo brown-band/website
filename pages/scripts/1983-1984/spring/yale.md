@@ -1,11 +1,10 @@
 ---
-script:
-  type: hockey
-  teams:
-    home:
-      name: Brown
-    away:
-      name: Yale
+scriptType: hockey
+teams:
+  home:
+    name: Brown
+  away:
+    name: Yale
 date: 1984-02-25
 ---
 

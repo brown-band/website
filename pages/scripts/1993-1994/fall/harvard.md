@@ -1,13 +1,12 @@
 ---
-script:
-  type: football
-  teams:
-    home:
-      name: Brown
-      score: 43
-    away:
-      name: Harvard
-      score: 29
+scriptType: football
+teams:
+  home:
+    name: Brown
+    score: 43
+  away:
+    name: Harvard
+    score: 29
 date: 1993-11-06
 ---
 

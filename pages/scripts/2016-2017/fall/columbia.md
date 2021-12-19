@@ -1,13 +1,12 @@
 ---
-script:
-  type: football
-  teams:
-    home:
-      name: Brown
-      score: 13
-    away:
-      name: Columbia
-      score: 31
+scriptType: football
+teams:
+  home:
+    name: Brown
+    score: 13
+  away:
+    name: Columbia
+    score: 31
 date: 2016-11-12
 ---
 

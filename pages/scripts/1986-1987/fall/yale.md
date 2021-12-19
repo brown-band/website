@@ -1,13 +1,12 @@
 ---
-script:
-  type: football
-  teams:
-    home:
-      name: Brown
-      score: 21
-    away:
-      name: Yale
-      score: 7
+scriptType: football
+teams:
+  home:
+    name: Brown
+    score: 21
+  away:
+    name: Yale
+    score: 7
 date: 1986-09-20
 ---
 

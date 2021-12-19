@@ -1,13 +1,12 @@
 ---
-script:
-  type: football
-  teams:
-    home:
-      name: Brown
-      score: 37
-    away:
-      name: Harvard
-      score: 42
+scriptType: football
+teams:
+  home:
+    name: Brown
+    score: 37
+  away:
+    name: Harvard
+    score: 42
 date: 2000-09-23
 ---
 

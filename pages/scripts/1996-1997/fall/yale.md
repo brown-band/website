@@ -1,13 +1,12 @@
 ---
-script:
-  type: football
-  teams:
-    home:
-      name: Brown
-      score: 0
-    away:
-      name: Yale
-      score: 30
+scriptType: football
+teams:
+  home:
+    name: Brown
+    score: 0
+  away:
+    name: Yale
+    score: 30
 date: 1996-09-21
 ---
 

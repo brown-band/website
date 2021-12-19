@@ -1,13 +1,12 @@
 ---
-script:
-  type: football
-  teams:
-    home:
-      name: Brown
-      score: 24
-    away:
-      name: URI
-      score: 21
+scriptType: football
+teams:
+  home:
+    name: Brown
+    score: 24
+  away:
+    name: URI
+    score: 21
 date: 2017-09-30
 ---
 

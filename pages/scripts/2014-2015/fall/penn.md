@@ -1,13 +1,12 @@
 ---
-script:
-  type: football
-  teams:
-    home:
-      name: Penn
-      score: 13
-    away:
-      name: Brown
-      score: 21
+scriptType: football
+teams:
+  home:
+    name: Penn
+    score: 13
+  away:
+    name: Brown
+    score: 21
 date: 2014-11-01
 ---
 

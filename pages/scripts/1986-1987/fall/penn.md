@@ -1,13 +1,12 @@
 ---
-script:
-  type: football
-  teams:
-    home:
-      name: Brown
-      score: 0
-    away:
-      name: Penn
-      score: 34
+scriptType: football
+teams:
+  home:
+    name: Brown
+    score: 0
+  away:
+    name: Penn
+    score: 34
 date: 1986-10-11
 ---
 

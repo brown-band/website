@@ -1,13 +1,12 @@
 ---
-script:
-  type: football
-  teams:
-    home:
-      name: Army
-      score: 23
-    away:
-      name: Brown
-      score: 17
+scriptType: football
+teams:
+  home:
+    name: Army
+    score: 23
+  away:
+    name: Brown
+    score: 17
 date: 1981-09-26
 ---
 

@@ -1,11 +1,10 @@
 ---
-script:
-  type: hockey
-  teams:
-    home:
-      name: Brown
-    away:
-      name: Princeton
+scriptType: hockey
+teams:
+  home:
+    name: Brown
+  away:
+    name: Princeton
 date: 1988-02-27
 ---
 

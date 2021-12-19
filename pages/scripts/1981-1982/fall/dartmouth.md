@@ -1,13 +1,12 @@
 ---
-script:
-  type: football
-  teams:
-    home:
-      name: Dartmouth
-      score: 38
-    away:
-      name: Brown
-      score: 13
+scriptType: football
+teams:
+  home:
+    name: Dartmouth
+    score: 38
+  away:
+    name: Brown
+    score: 13
 date: 1981-11-14
 ---
 

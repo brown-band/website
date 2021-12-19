@@ -1,13 +1,12 @@
 ---
-script:
-  type: football
-  teams:
-    home:
-      name: Penn
-      score: 17
-    away:
-      name: Brown
-      score: 14
+scriptType: football
+teams:
+  home:
+    name: Penn
+    score: 17
+  away:
+    name: Brown
+    score: 14
 date: 1985-10-12
 ---
 

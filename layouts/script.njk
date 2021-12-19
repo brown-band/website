@@ -6,18 +6,18 @@ layout: base
 
 <article>
   <header>
-    {% if script.teams.home %}
+    {% if teams.home %}
       <h1>
-        {{script.teams.away.name}}{{score(script.teams.away.score)}}
-        at {{script.teams.home.name}}{{score(script.teams.home.score)}}
+        {{teams.away.name}}{{score(teams.away.score)}}
+        at {{teams.home.name}}{{score(teams.home.score)}}
       </h1>
-    {% elif script.type == "adoch" %}
+    {% elif scriptType == "adoch" %}
       <h1>A Day on College Hill {{date.getFullYear()}}</h1>
-    {% elif script.type == "other" %}
+    {% elif scriptType == "other" %}
       <h1>{{title}}</h1>
     {% else %}
       <# when we don't know home/away or scores #>
-      <h1>Brown <em>vs</em> {{script.opponent}}</h1>
+      <h1>Brown <em>vs</em> {{opponent}}</h1>
     {% endif %}
     <h2>{{date | script_date }}</h2>
     <h3>{{script.writers | listify}}

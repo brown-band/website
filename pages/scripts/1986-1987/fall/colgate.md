@@ -1,13 +1,12 @@
 ---
-script:
-  type: football
-  teams:
-    home:
-      name: Brown
-      score: 3
-    away:
-      name: Colgate
-      score: 27
+scriptType: football
+teams:
+  home:
+    name: Brown
+    score: 3
+  away:
+    name: Colgate
+    score: 27
 date: 1986-11-08
 ---
 

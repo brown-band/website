@@ -1,13 +1,12 @@
 ---
-script:
-  type: football
-  teams:
-    home:
-      name: Columbia
-      score: 7
-    away:
-      name: Brown
-      score: 45
+scriptType: football
+teams:
+  home:
+    name: Columbia
+    score: 7
+  away:
+    name: Brown
+    score: 45
 date: 1986-11-22
 ---
 

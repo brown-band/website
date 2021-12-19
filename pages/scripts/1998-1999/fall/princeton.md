@@ -1,13 +1,12 @@
 ---
-script:
-  type: football
-  teams:
-    home:
-      name: Brown
-      score: 17
-    away:
-      name: Princeton
-      score: 31
+scriptType: football
+teams:
+  home:
+    name: Brown
+    score: 17
+  away:
+    name: Princeton
+    score: 31
 date: 1998-10-10
 ---
 

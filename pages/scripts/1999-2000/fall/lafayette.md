@@ -1,13 +1,12 @@
 ---
-script:
-  type: football
-  teams:
-    home:
-      name: Brown
-      score: 35
-    away:
-      name: Lafayette
-      score: 28
+scriptType: football
+teams:
+  home:
+    name: Brown
+    score: 35
+  away:
+    name: Lafayette
+    score: 28
 date: 1999-09-25
 ---
 

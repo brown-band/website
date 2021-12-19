@@ -1,13 +1,12 @@
 ---
-script:
-  type: football
-  teams:
-    home:
-      name: Penn
-      score: 20
-    away:
-      name: Brown
-      score: 17
+scriptType: football
+teams:
+  home:
+    name: Penn
+    score: 20
+  away:
+    name: Brown
+    score: 17
 date: 2012-10-27
 ---
 

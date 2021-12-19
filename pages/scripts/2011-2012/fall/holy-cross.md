@@ -1,13 +1,12 @@
 ---
-script:
-  type: football
-  teams:
-    home:
-      name: Brown
-      score: 20
-    away:
-      name: Holy Cross
-      score: 13
+scriptType: football
+teams:
+  home:
+    name: Brown
+    score: 20
+  away:
+    name: Holy Cross
+    score: 13
 date: 2011-10-08
 ---
 

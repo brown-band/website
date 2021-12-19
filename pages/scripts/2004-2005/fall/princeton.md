@@ -1,13 +1,12 @@
 ---
-script:
-  type: football
-  teams:
-    home:
-      name: Brown
-      score: 10
-    away:
-      name: Princeton
-      score: 24
+scriptType: football
+teams:
+  home:
+    name: Brown
+    score: 10
+  away:
+    name: Princeton
+    score: 24
 date: 2004-10-16
 ---
 

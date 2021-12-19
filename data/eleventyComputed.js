@@ -4,36 +4,34 @@ const title = require("title");
 
 // Heads up! this **overrides** data set anywhere else, including in the front matter of a page.
 module.exports = {
-  script: ({ script }) => ({
-    ...script,
-    ...(script?.teams?.home
-      ? script.teams.home.name === "Brown"
+  teams: ({ teams }) =>
+    teams?.home
+      ? teams.home.name === "Brown"
         ? {
-            opponent: script.teams.away.name,
+            opponent: teams.away.name,
             isHome: true,
           }
         : {
-            opponent: script.teams.home.name,
+            opponent: teams.home.name,
             isHome: false,
           }
-      : null),
-  }),
+      : null,
 
   title(data) {
     if (data.title) return data.title;
 
-    if (data.script.opponent) {
+    if (data.opponent) {
       return (
-        data.script.opponent +
+        data.opponent +
         (data.page.filePathStem.endsWith("-censored") ? " (Censored)" : "") +
-        (data.script.type === "hockey" && data.script.theme
-          ? ` (${data.script.theme} Ice Show)`
+        (data.scriptType === "hockey" && data.iceShowTheme
+          ? ` (${data.iceShowTheme} Ice Show)`
           : "")
       );
     }
 
-    if (data.script.type === "stealth_show") return "Stealth Show";
-    if (data.script.type === "adoch") return "ADOCH";
+    if (data.scriptType === "stealth_show") return "Stealth Show";
+    if (data.scriptType === "adoch") return "ADOCH";
 
     return title(data.page.fileSlug.replaceAll("-", " "), { special: ["NBC"] });
   },

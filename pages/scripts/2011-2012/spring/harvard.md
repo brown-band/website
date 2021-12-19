@@ -1,13 +1,12 @@
 ---
-script:
-  type: hockey
-  teams:
-    home:
-      name: Brown
-      score: 3
-    away:
-      name: Harvard
-      score: 3
+scriptType: hockey
+teams:
+  home:
+    name: Brown
+    score: 3
+  away:
+    name: Harvard
+    score: 3
 date: 2012-02-17
 ---
 

@@ -1,14 +1,13 @@
 ---
-script:
-  type: hockey
-  theme: Villain
-  teams:
-    home:
-      name: Brown
-      score: 1
-    away:
-      name: Cornell
-      score: 2
+scriptType: hockey
+iceShowTheme: Villain
+teams:
+  home:
+    name: Brown
+    score: 1
+  away:
+    name: Cornell
+    score: 2
 date: 2014-02-01
 ---
 

@@ -1,7 +1,6 @@
 ---
-script:
-  type: hockey
-  opponent: RPI
+scriptType: hockey
+opponent: RPI
 date: 1998-02-06
 ---
 

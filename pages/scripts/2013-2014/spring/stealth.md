@@ -1,6 +1,5 @@
 ---
-script:
-  type: stealth_show
+scriptType: stealth_show
 date: 2014-04-17
 ---
 

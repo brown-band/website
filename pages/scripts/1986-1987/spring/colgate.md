@@ -1,11 +1,10 @@
 ---
-script:
-  type: hockey
-  teams:
-    home:
-      name: Brown
-    away:
-      name: Colgate
+scriptType: hockey
+teams:
+  home:
+    name: Brown
+  away:
+    name: Colgate
 date: 1987-02-21
 ---
 

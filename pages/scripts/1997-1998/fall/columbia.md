@@ -1,13 +1,12 @@
 ---
-script:
-  type: football
-  teams:
-    home:
-      name: Brown
-      score: 42
-    away:
-      name: Columbia
-      score: 11
+scriptType: football
+teams:
+  home:
+    name: Brown
+    score: 42
+  away:
+    name: Columbia
+    score: 11
 date: 1997-11-22
 ---
 

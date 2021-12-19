@@ -1,13 +1,12 @@
 ---
-script:
-  type: football
-  teams:
-    home:
-      name: Brown
-      score: 28
-    away:
-      name: Penn
-      score: 48
+scriptType: football
+teams:
+  home:
+    name: Brown
+    score: 28
+  away:
+    name: Penn
+    score: 48
 date: 2015-10-31
 ---
 

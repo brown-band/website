@@ -1,13 +1,12 @@
 ---
-script:
-  type: football
-  teams:
-    home:
-      name: Penn
-      score: 18
-    away:
-      name: Brown
-      score: 24
+scriptType: football
+teams:
+  home:
+    name: Penn
+    score: 18
+  away:
+    name: Brown
+    score: 24
 date: 1979-10-13
 ---
 

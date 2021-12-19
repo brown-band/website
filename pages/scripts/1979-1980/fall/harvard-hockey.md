@@ -1,12 +1,11 @@
 ---
 title: Harvard Hockey
-script:
-  type: hockey
-  teams:
-    home:
-      name: Brown
-    away:
-      name: Harvard
+scriptType: hockey
+teams:
+  home:
+    name: Brown
+  away:
+    name: Harvard
 date: 1979-12-08
 ---
 

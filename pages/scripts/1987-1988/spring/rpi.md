@@ -1,13 +1,12 @@
 ---
-script:
-  type: hockey
-  teams:
-    home:
-      name: Brown
-      score: 0
-    away:
-      name: RPI
-      score: 6
+scriptType: hockey
+teams:
+  home:
+    name: Brown
+    score: 0
+  away:
+    name: RPI
+    score: 6
 date: 1988-02-06
 ---
 

@@ -1,13 +1,12 @@
 ---
-script:
-  type: football
-  teams:
-    home:
-      name: Penn State
-      score: 38
-    away:
-      name: Brown
-      score: 21
+scriptType: football
+teams:
+  home:
+    name: Penn State
+    score: 38
+  away:
+    name: Brown
+    score: 21
 date: 1983-11-05
 ---
 

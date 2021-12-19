@@ -1,11 +1,10 @@
 ---
-script:
-  type: football
-  teams:
-    home:
-      name: Cornell
-    away:
-      name: Brown
+scriptType: football
+teams:
+  home:
+    name: Cornell
+  away:
+    name: Brown
 date: 1986-10-18
 ---
 

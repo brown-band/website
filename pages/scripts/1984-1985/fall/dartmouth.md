@@ -1,13 +1,12 @@
 ---
-script:
-  type: football
-  teams:
-    home:
-      name: Brown
-      score: 11
-    away:
-      name: Dartmouth
-      score: 27
+scriptType: football
+teams:
+  home:
+    name: Brown
+    score: 11
+  away:
+    name: Dartmouth
+    score: 27
 date: 1984-11-10
 ---
 

@@ -1,14 +1,13 @@
 ---
-script:
-  type: hockey
-  theme: Disney
-  teams:
-    home:
-      name: Brown
-      score: 1
-    away:
-      name: Quinnipiac
-      score: 1
+scriptType: hockey
+iceShowTheme: Disney
+teams:
+  home:
+    name: Brown
+    score: 1
+  away:
+    name: Quinnipiac
+    score: 1
 date: 2013-02-01
 ---
 

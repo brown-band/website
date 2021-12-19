@@ -1,13 +1,12 @@
 ---
-script:
-  type: football
-  teams:
-    home:
-      name: Brown
-      score: 37
-    away:
-      name: Fordham
-      score: 14
+scriptType: football
+teams:
+  home:
+    name: Brown
+    score: 37
+  away:
+    name: Fordham
+    score: 14
 date: 2005-10-08
 ---
 

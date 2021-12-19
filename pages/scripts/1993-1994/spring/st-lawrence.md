@@ -1,7 +1,6 @@
 ---
-script:
-  type: hockey
-  opponent: St. Lawrence
+scriptType: hockey
+opponent: St. Lawrence
 date: 1994-03-05
 ---
 

@@ -1,11 +1,10 @@
 ---
-script:
-  type: hockey
-  teams:
-    home:
-      name: Brown
-    away:
-      name: UVM
+scriptType: hockey
+teams:
+  home:
+    name: Brown
+  away:
+    name: UVM
 date: 1986-02-08
 ---
 

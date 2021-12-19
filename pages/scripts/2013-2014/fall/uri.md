@@ -1,13 +1,12 @@
 ---
-script:
-  type: football
-  teams:
-    home:
-      name: Brown
-      score: 31
-    away:
-      name: URI
-      score: 14
+scriptType: football
+teams:
+  home:
+    name: Brown
+    score: 31
+  away:
+    name: URI
+    score: 14
 date: 2013-10-05
 ---
 

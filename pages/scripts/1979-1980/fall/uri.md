@@ -1,13 +1,12 @@
 ---
-script:
-  type: football
-  teams:
-    home:
-      name: Brown
-      score: 31
-    away:
-      name: URI
-      score: 13
+scriptType: football
+teams:
+  home:
+    name: Brown
+    score: 31
+  away:
+    name: URI
+    score: 13
 date: 1979-09-29
 ---
 

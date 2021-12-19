@@ -1,14 +1,13 @@
 ---
-script:
-  type: hockey
-  theme: Alumni
-  teams:
-    home:
-      name: Brown
-      score: 0
-    away:
-      name: RPI
-      score: 3
+scriptType: hockey
+iceShowTheme: Alumni
+teams:
+  home:
+    name: Brown
+    score: 0
+  away:
+    name: RPI
+    score: 3
 date: 2014-02-28
 ---
 

@@ -1,13 +1,12 @@
 ---
-script:
-  type: football
-  teams:
-    home:
-      name: Brown
-      score: 31
-    away:
-      name: Columbia
-      score: 14
+scriptType: football
+teams:
+  home:
+    name: Brown
+    score: 31
+  away:
+    name: Columbia
+    score: 14
 date: 1979-11-17
 ---
 

@@ -1,13 +1,12 @@
 ---
-script:
-  type: football
-  teams:
-    home:
-      name: Brown
-      score: 0
-    away:
-      name: Princeton
-      score: 53
+scriptType: football
+teams:
+  home:
+    name: Brown
+    score: 0
+  away:
+    name: Princeton
+    score: 53
 date: 2017-10-14
 ---
 

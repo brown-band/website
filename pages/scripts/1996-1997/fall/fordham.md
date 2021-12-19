@@ -1,13 +1,12 @@
 ---
-script:
-  type: football
-  teams:
-    home:
-      name: Brown
-      score: 27
-    away:
-      name: Fordham
-      score: 14
+scriptType: football
+teams:
+  home:
+    name: Brown
+    score: 27
+  away:
+    name: Fordham
+    score: 14
 date: 1996-10-19
 ---
 

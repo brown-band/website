@@ -1,11 +1,10 @@
 ---
-script:
-  type: hockey
-  teams:
-    home:
-      name: Brown
-    away:
-      name: Providence College
+scriptType: hockey
+teams:
+  home:
+    name: Brown
+  away:
+    name: Providence College
 date: 1983-02-11
 ---
 

@@ -1,13 +1,12 @@
 ---
-script:
-  type: football
-  teams:
-    home:
-      name: Brown
-      score: 42
-    away:
-      name: Columbia
-      score: 36
+scriptType: football
+teams:
+  home:
+    name: Brown
+    score: 42
+  away:
+    name: Columbia
+    score: 36
 date: 1983-11-19
 ---
 

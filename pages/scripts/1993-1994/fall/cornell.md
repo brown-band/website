@@ -1,13 +1,12 @@
 ---
-script:
-  type: football
-  teams:
-    home:
-      name: Brown
-      score: 3
-    away:
-      name: Cornell
-      score: 21
+scriptType: football
+teams:
+  home:
+    name: Brown
+    score: 3
+  away:
+    name: Cornell
+    score: 21
 date: 1993-10-30
 ---
 

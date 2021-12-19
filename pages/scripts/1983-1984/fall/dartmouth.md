@@ -1,13 +1,12 @@
 ---
-script:
-  type: football
-  teams:
-    home:
-      name: Dartmouth
-      score: 7
-    away:
-      name: Brown
-      score: 25
+scriptType: football
+teams:
+  home:
+    name: Dartmouth
+    score: 7
+  away:
+    name: Brown
+    score: 25
 date: 1983-11-12
 ---
 

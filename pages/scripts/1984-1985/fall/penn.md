@@ -1,13 +1,12 @@
 ---
-script:
-  type: football
-  teams:
-    home:
-      name: Brown
-      score: 14
-    away:
-      name: Penn
-      score: 41
+scriptType: football
+teams:
+  home:
+    name: Brown
+    score: 14
+  away:
+    name: Penn
+    score: 41
 date: 1984-10-13
 ---
 

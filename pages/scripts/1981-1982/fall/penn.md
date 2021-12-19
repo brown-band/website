@@ -1,13 +1,12 @@
 ---
-script:
-  type: football
-  teams:
-    home:
-      name: Penn
-      score: 24
-    away:
-      name: Brown
-      score: 26
+scriptType: football
+teams:
+  home:
+    name: Penn
+    score: 24
+  away:
+    name: Brown
+    score: 26
 date: 1981-10-10
 ---
 

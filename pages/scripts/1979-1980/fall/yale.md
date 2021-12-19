@@ -1,13 +1,12 @@
 ---
-script:
-  type: football
-  teams:
-    home:
-      name: Yale
-      score: 13
-    away:
-      name: Brown
-      score: 12
+scriptType: football
+teams:
+  home:
+    name: Yale
+    score: 13
+  away:
+    name: Brown
+    score: 12
 date: 1979-09-22
 ---
 

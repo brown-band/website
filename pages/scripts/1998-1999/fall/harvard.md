@@ -1,13 +1,12 @@
 ---
-script:
-  type: football
-  teams:
-    home:
-      name: Brown
-      score: 27
-    away:
-      name: Harvard
-      score: 6
+scriptType: football
+teams:
+  home:
+    name: Brown
+    score: 27
+  away:
+    name: Harvard
+    score: 6
 date: 1998-11-07
 ---
 

@@ -1,13 +1,12 @@
 ---
-script:
-  type: football
-  teams:
-    home:
-      name: Brown
-      score: 17
-    away:
-      name: Holy Cross
-      score: 38
+scriptType: football
+teams:
+  home:
+    name: Brown
+    score: 17
+  away:
+    name: Holy Cross
+    score: 38
 date: 1984-10-27
 ---
 

@@ -1,13 +1,12 @@
 ---
-script:
-  type: football
-  teams:
-    home:
-      name: Brown
-      score: 6
-    away:
-      name: Penn
-      score: 0
+scriptType: football
+teams:
+  home:
+    name: Brown
+    score: 6
+  away:
+    name: Penn
+    score: 0
 date: 2011-10-29
 ---
 

@@ -1,13 +1,12 @@
 ---
-script:
-  type: football
-  teams:
-    home:
-      name: Brown
-      score: 28
-    away:
-      name: URI
-      score: 10
+scriptType: football
+teams:
+  home:
+    name: Brown
+    score: 28
+  away:
+    name: URI
+    score: 10
 date: 1977-09-24
 ---
 

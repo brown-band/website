@@ -1,13 +1,12 @@
 ---
-script:
-  type: football
-  teams:
-    home:
-      name: Brown
-      score: 38
-    away:
-      name: Penn
-      score: 41
+scriptType: football
+teams:
+  home:
+    name: Brown
+    score: 38
+  away:
+    name: Penn
+    score: 41
 date: 2000-10-28
 ---
 

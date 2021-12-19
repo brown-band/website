@@ -1,13 +1,12 @@
 ---
-script:
-  type: hockey
-  teams:
-    home:
-      name: Brown
-      score: 1
-    away:
-      name: Cornell
-      score: 4
+scriptType: hockey
+teams:
+  home:
+    name: Brown
+    score: 1
+  away:
+    name: Cornell
+    score: 4
 date: 2013-03-01
 ---
 

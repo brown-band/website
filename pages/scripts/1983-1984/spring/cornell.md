@@ -1,11 +1,10 @@
 ---
-script:
-  type: hockey
-  teams:
-    home:
-      name: Brown
-    away:
-      name: Cornell
+scriptType: hockey
+teams:
+  home:
+    name: Brown
+  away:
+    name: Cornell
 date: 1984-01-28
 ---
 

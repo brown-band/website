@@ -1,13 +1,12 @@
 ---
-script:
-  type: football
-  teams:
-    home:
-      name: Brown
-      score: 56
-    away:
-      name: Cornell
-      score: 40
+scriptType: football
+teams:
+  home:
+    name: Brown
+    score: 56
+  away:
+    name: Cornell
+    score: 40
 date: 2000-10-21
 ---
 

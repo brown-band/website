@@ -1,13 +1,12 @@
 ---
-script:
-  type: football
-  teams:
-    home:
-      name: Brown
-      score: 35
-    away:
-      name: Harvard
-      score: 38
+scriptType: football
+teams:
+  home:
+    name: Brown
+    score: 35
+  away:
+    name: Harvard
+    score: 38
 date: 2005-09-24
 ---
 

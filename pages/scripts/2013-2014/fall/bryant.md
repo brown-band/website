@@ -1,13 +1,12 @@
 ---
-script:
-  type: football
-  teams:
-    home:
-      name: Bryant
-      score: 14
-    away:
-      name: Brown
-      score: 41
+scriptType: football
+teams:
+  home:
+    name: Bryant
+    score: 14
+  away:
+    name: Brown
+    score: 41
 date: 2013-10-12
 ---
 

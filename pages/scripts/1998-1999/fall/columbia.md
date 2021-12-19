@@ -1,13 +1,12 @@
 ---
-script:
-  type: football
-  teams:
-    home:
-      name: Brown
-      score: 10
-    away:
-      name: Columbia
-      score: 3
+scriptType: football
+teams:
+  home:
+    name: Brown
+    score: 10
+  away:
+    name: Columbia
+    score: 3
 date: 1998-11-21
 ---
 

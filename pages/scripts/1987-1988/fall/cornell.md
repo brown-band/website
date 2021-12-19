@@ -1,13 +1,12 @@
 ---
-script:
-  type: football
-  teams:
-    home:
-      name: Brown
-      score: 23
-    away:
-      name: Cornell
-      score: 15
+scriptType: football
+teams:
+  home:
+    name: Brown
+    score: 23
+  away:
+    name: Cornell
+    score: 15
 date: 1987-10-17
 ---
 

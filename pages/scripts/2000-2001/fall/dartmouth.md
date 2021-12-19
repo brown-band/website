@@ -1,13 +1,12 @@
 ---
-script:
-  type: football
-  teams:
-    home:
-      name: Brown
-      score: 34
-    away:
-      name: Dartmouth
-      score: 26
+scriptType: football
+teams:
+  home:
+    name: Brown
+    score: 34
+  away:
+    name: Dartmouth
+    score: 26
 date: 2000-11-11
 ---
 

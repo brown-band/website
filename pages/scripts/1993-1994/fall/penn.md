@@ -1,13 +1,12 @@
 ---
-script:
-  type: football
-  teams:
-    home:
-      name: Penn
-      score: 34
-    away:
-      name: Brown
-      score: 9
+scriptType: football
+teams:
+  home:
+    name: Penn
+    score: 34
+  away:
+    name: Brown
+    score: 9
 date: 1993-10-23
 ---
 

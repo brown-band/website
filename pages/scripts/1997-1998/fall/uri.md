@@ -1,13 +1,12 @@
 ---
-script:
-  type: football
-  teams:
-    home:
-      name: Brown
-      score: 23
-    away:
-      name: URI
-      score: 15
+scriptType: football
+teams:
+  home:
+    name: Brown
+    score: 23
+  away:
+    name: URI
+    score: 15
 date: 1997-10-18
 ---
 

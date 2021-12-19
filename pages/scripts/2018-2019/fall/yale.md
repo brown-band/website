@@ -1,13 +1,12 @@
 ---
-script:
-  type: football
-  teams:
-    home:
-      name: Yale
-      score: 46
-    away:
-      name: Brown
-      score: 16
+scriptType: football
+teams:
+  home:
+    name: Yale
+    score: 46
+  away:
+    name: Brown
+    score: 16
 date: 2018-11-03
 ---
 

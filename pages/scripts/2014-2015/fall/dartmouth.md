@@ -1,13 +1,12 @@
 ---
-script:
-  type: football
-  teams:
-    home:
-      name: Dartmouth
-      score: 44
-    away:
-      name: Brown
-      score: 21
+scriptType: football
+teams:
+  home:
+    name: Dartmouth
+    score: 44
+  away:
+    name: Brown
+    score: 21
 date: 2014-11-15
 ---
 

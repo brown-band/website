@@ -1,7 +1,6 @@
 ---
-script:
-  type: hockey
-  opponent: Colgate
+scriptType: hockey
+opponent: Colgate
 date: 1996-02-16
 ---
 

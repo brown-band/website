@@ -1,13 +1,12 @@
 ---
-script:
-  type: football
-  teams:
-    home:
-      name: Brown
-      score: 17
-    away:
-      name: Princeton
-      score: 20
+scriptType: football
+teams:
+  home:
+    name: Brown
+    score: 17
+  away:
+    name: Princeton
+    score: 20
 date: 1981-10-03
 ---
 

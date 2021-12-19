@@ -1,13 +1,12 @@
 ---
-script:
-  type: football
-  teams:
-    home:
-      name: Brown
-      score: 42
-    away:
-      name: Cornell
-      score: 16
+scriptType: football
+teams:
+  home:
+    name: Brown
+    score: 42
+  away:
+    name: Cornell
+    score: 16
 date: 2014-10-25
 ---
 

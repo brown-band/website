@@ -1,14 +1,13 @@
 ---
-script:
-  type: hockey
-  theme: Meme
-  teams:
-    home:
-      name: Brown
-      score: 1
-    away:
-      name: Cornell
-      score: 5
+scriptType: hockey
+iceShowTheme: Meme
+teams:
+  home:
+    name: Brown
+    score: 1
+  away:
+    name: Cornell
+    score: 5
 date: 2017-02-11
 ---
 

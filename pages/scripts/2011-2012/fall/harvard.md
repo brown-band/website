@@ -1,13 +1,12 @@
 ---
-script:
-  type: football
-  teams:
-    home:
-      name: Harvard
-      score: 24
-    away:
-      name: Brown
-      score: 7
+scriptType: football
+teams:
+  home:
+    name: Harvard
+    score: 24
+  away:
+    name: Brown
+    score: 7
 date: 2011-09-23
 ---
 

@@ -1,13 +1,12 @@
 ---
-script:
-  type: football
-  teams:
-    home:
-      name: Dartmouth
-      score: 24
-    away:
-      name: Brown
-      score: 10
+scriptType: football
+teams:
+  home:
+    name: Dartmouth
+    score: 24
+  away:
+    name: Brown
+    score: 10
 date: 1979-11-10
 ---
 

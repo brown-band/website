@@ -1,13 +1,12 @@
 ---
-script:
-  type: football
-  teams:
-    home:
-      name: Brown
-      score: 21
-    away:
-      name: Stetson
-      score: 31
+scriptType: football
+teams:
+  home:
+    name: Brown
+    score: 21
+  away:
+    name: Stetson
+    score: 31
 date: 2016-10-08
 ---
 

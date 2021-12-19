@@ -1,7 +1,6 @@
 ---
-script:
-  type: hockey
-  opponent: Clarkson
+scriptType: hockey
+opponent: Clarkson
 date: 1998-02-27
 ---
 

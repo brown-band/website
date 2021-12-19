@@ -1,13 +1,12 @@
 ---
-script:
-  type: football
-  teams:
-    home:
-      name: Harvard
-      score: 24
-    away:
-      name: Brown
-      score: 10
+scriptType: football
+teams:
+  home:
+    name: Harvard
+    score: 24
+  away:
+    name: Brown
+    score: 10
 date: 1984-11-03
 ---
 

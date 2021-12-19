@@ -1,13 +1,12 @@
 ---
-script:
-  type: football
-  teams:
-    home:
-      name: Brown
-      score: 7
-    away:
-      name: SUNY Stony Brook
-      score: 24
+scriptType: football
+teams:
+  home:
+    name: Brown
+    score: 7
+  away:
+    name: SUNY Stony Brook
+    score: 24
 date: 2010-09-18
 ---
 

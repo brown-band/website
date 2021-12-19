@@ -1,13 +1,12 @@
 ---
-script:
-  type: football
-  teams:
-    home:
-      name: Harvard
-      score: 7
-    away:
-      name: Brown
-      score: 31
+scriptType: football
+teams:
+  home:
+    name: Harvard
+    score: 7
+  away:
+    name: Brown
+    score: 31
 date: 1996-11-09
 ---
 

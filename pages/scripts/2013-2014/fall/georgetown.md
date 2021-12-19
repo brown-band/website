@@ -1,13 +1,12 @@
 ---
-script:
-  type: football
-  teams:
-    home:
-      name: Brown
-      score: 45
-    away:
-      name: Georgetown
-      score: 7
+scriptType: football
+teams:
+  home:
+    name: Brown
+    score: 45
+  away:
+    name: Georgetown
+    score: 7
 date: 2013-09-21
 ---
 

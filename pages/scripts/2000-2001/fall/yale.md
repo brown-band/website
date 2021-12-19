@@ -1,13 +1,12 @@
 ---
-script:
-  type: football
-  teams:
-    home:
-      name: Brown
-      score: 28
-    away:
-      name: Yale
-      score: 14
+scriptType: football
+teams:
+  home:
+    name: Brown
+    score: 28
+  away:
+    name: Yale
+    score: 14
 date: 2000-11-04
 ---
 

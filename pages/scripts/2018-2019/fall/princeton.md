@@ -1,13 +1,12 @@
 ---
-script:
-  type: football
-  teams:
-    home:
-      name: Princeton
-      score: 48
-    away:
-      name: Brown
-      score: 10
+scriptType: football
+teams:
+  home:
+    name: Princeton
+    score: 48
+  away:
+    name: Brown
+    score: 10
 date: 2018-10-13
 ---
 

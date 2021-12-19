@@ -1,13 +1,12 @@
 ---
-script:
-  type: football
-  teams:
-    home:
-      name: Brown
-      score: 20
-    away:
-      name: Cornell
-      score: 7
+scriptType: football
+teams:
+  home:
+    name: Brown
+    score: 20
+  away:
+    name: Cornell
+    score: 7
 date: 1998-10-31
 ---
 

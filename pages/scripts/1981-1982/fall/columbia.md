@@ -1,13 +1,12 @@
 ---
-script:
-  type: football
-  teams:
-    home:
-      name: Brown
-      score: 23
-    away:
-      name: Columbia
-      score: 20
+scriptType: football
+teams:
+  home:
+    name: Brown
+    score: 23
+  away:
+    name: Columbia
+    score: 20
 date: 1981-11-21
 ---
 

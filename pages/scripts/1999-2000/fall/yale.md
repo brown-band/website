@@ -1,13 +1,12 @@
 ---
-script:
-  type: football
-  teams:
-    home:
-      name: Brown
-      score: 25
-    away:
-      name: Yale
-      score: 24
+scriptType: football
+teams:
+  home:
+    name: Brown
+    score: 25
+  away:
+    name: Yale
+    score: 24
 date: 1999-09-18
 ---
 

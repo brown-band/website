@@ -1,13 +1,12 @@
 ---
-script:
-  type: football
-  teams:
-    home:
-      name: Columbia
-      score: 35
-    away:
-      name: Brown
-      score: 28
+scriptType: football
+teams:
+  home:
+    name: Columbia
+    score: 35
+  away:
+    name: Brown
+    score: 28
 date: 2011-11-19
 ---
 

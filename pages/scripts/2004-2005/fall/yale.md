@@ -1,13 +1,12 @@
 ---
-script:
-  type: football
-  teams:
-    home:
-      name: Brown
-      score: 24
-    away:
-      name: Yale
-      score: 17
+scriptType: football
+teams:
+  home:
+    name: Brown
+    score: 24
+  away:
+    name: Yale
+    score: 17
 date: 2004-11-06
 ---
 

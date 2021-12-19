@@ -1,13 +1,12 @@
 ---
-script:
-  type: football
-  teams:
-    home:
-      name: Brown
-      score: 33
-    away:
-      name: Columbia
-      score: 21
+scriptType: football
+teams:
+  home:
+    name: Brown
+    score: 33
+  away:
+    name: Columbia
+    score: 21
 date: 2004-11-20
 ---
 

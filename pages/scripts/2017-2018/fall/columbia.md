@@ -1,13 +1,12 @@
 ---
-script:
-  type: football
-  teams:
-    home:
-      name: Columbia
-      score: 24
-    away:
-      name: Brown
-      score: 6
+scriptType: football
+teams:
+  home:
+    name: Columbia
+    score: 24
+  away:
+    name: Brown
+    score: 6
 date: 2017-11-18
 ---
 

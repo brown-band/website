@@ -1,14 +1,13 @@
 ---
-script:
-  type: hockey
-  theme: Shrek
-  teams:
-    home:
-      name: Brown
-      score: 3
-    away:
-      name: Colgate
-      score: 3
+scriptType: hockey
+iceShowTheme: Shrek
+teams:
+  home:
+    name: Brown
+    score: 3
+  away:
+    name: Colgate
+    score: 3
 date: 2019-02-16
 ---
 

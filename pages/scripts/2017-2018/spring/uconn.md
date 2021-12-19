@@ -1,14 +1,13 @@
 ---
-script:
-  type: hockey
-  theme: Under the Sea
-  teams:
-    home:
-      name: Brown
-      score: 4
-    away:
-      name: UConn
-      score: 6
+scriptType: hockey
+iceShowTheme: Under the Sea
+teams:
+  home:
+    name: Brown
+    score: 4
+  away:
+    name: UConn
+    score: 6
 date: 2018-02-03
 ---
 

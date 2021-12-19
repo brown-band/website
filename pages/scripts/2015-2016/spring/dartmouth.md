@@ -1,14 +1,13 @@
 ---
-script:
-  type: hockey
-  theme: Alumni
-  teams:
-    home:
-      name: Brown
-      score: 3
-    away:
-      name: Dartmouth
-      score: 6
+scriptType: hockey
+iceShowTheme: Alumni
+teams:
+  home:
+    name: Brown
+    score: 3
+  away:
+    name: Dartmouth
+    score: 6
 date: 2016-02-06
 ---
 

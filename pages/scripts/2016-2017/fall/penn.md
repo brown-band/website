@@ -1,13 +1,12 @@
 ---
-script:
-  type: football
-  teams:
-    home:
-      name: Penn
-      score: 21
-    away:
-      name: Brown
-      score: 14
+scriptType: football
+teams:
+  home:
+    name: Penn
+    score: 21
+  away:
+    name: Brown
+    score: 14
 date: 2016-10-29
 ---
 

@@ -1,13 +1,12 @@
 ---
-script:
-  type: football
-  teams:
-    home:
-      name: Brown
-      score: 28
-    away:
-      name: Cornell
-      score: 7
+scriptType: football
+teams:
+  home:
+    name: Brown
+    score: 28
+  away:
+    name: Cornell
+    score: 7
 date: 1979-10-20
 ---
 

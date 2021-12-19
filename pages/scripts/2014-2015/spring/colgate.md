@@ -1,14 +1,13 @@
 ---
-script:
-  type: hockey
-  theme: Alumni
-  teams:
-    home:
-      name: Brown
-      score: 2
-    away:
-      name: Colgate
-      score: 4
+scriptType: hockey
+iceShowTheme: Alumni
+teams:
+  home:
+    name: Brown
+    score: 2
+  away:
+    name: Colgate
+    score: 4
 date: 2015-02-28
 ---
 

@@ -1,13 +1,12 @@
 ---
-script:
-  type: football
-  teams:
-    home:
-      name: Dartmouth
-      score: 39
-    away:
-      name: Brown
-      score: 16
+scriptType: football
+teams:
+  home:
+    name: Dartmouth
+    score: 39
+  away:
+    name: Brown
+    score: 16
 date: 1993-11-13
 ---
 

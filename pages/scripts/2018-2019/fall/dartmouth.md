@@ -1,13 +1,12 @@
 ---
-script:
-  type: football
-  teams:
-    home:
-      name: Dartmouth
-      score: 49
-    away:
-      name: Brown
-      score: 7
+scriptType: football
+teams:
+  home:
+    name: Dartmouth
+    score: 49
+  away:
+    name: Brown
+    score: 7
 date: 2018-11-17
 ---
 

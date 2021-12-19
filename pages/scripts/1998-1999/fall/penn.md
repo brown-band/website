@@ -1,13 +1,12 @@
 ---
-script:
-  type: football
-  teams:
-    home:
-      name: Brown
-      score: 58
-    away:
-      name: Penn
-      score: 51
+scriptType: football
+teams:
+  home:
+    name: Brown
+    score: 58
+  away:
+    name: Penn
+    score: 51
 date: 1998-10-24
 ---
 

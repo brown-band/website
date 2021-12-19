@@ -1,13 +1,12 @@
 ---
-script:
-  type: football
-  teams:
-    home:
-      name: Brown
-      score: 10
-    away:
-      name: URI
-      score: 8
+scriptType: football
+teams:
+  home:
+    name: Brown
+    score: 10
+  away:
+    name: URI
+    score: 8
 date: 1981-11-07
 ---
 

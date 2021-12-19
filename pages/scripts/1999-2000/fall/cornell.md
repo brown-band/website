@@ -1,13 +1,12 @@
 ---
-script:
-  type: football
-  teams:
-    home:
-      name: Brown
-      score: 33
-    away:
-      name: Cornell
-      score: 28
+scriptType: football
+teams:
+  home:
+    name: Brown
+    score: 33
+  away:
+    name: Cornell
+    score: 28
 date: 1999-10-02
 ---
 

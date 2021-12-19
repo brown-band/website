@@ -1,13 +1,12 @@
 ---
-script:
-  type: football
-  teams:
-    home:
-      name: Dartmouth
-      score: 0
-    away:
-      name: Brown
-      score: 19
+scriptType: football
+teams:
+  home:
+    name: Dartmouth
+    score: 0
+  away:
+    name: Brown
+    score: 19
 date: 1987-11-14
 ---
 

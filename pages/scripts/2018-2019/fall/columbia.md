@@ -1,13 +1,12 @@
 ---
-script:
-  type: football
-  teams:
-    home:
-      name: Brown
-      score: 20
-    away:
-      name: Columbia
-      score: 42
+scriptType: football
+teams:
+  home:
+    name: Brown
+    score: 20
+  away:
+    name: Columbia
+    score: 42
 date: 2018-11-10
 ---
 

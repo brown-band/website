@@ -1,13 +1,12 @@
 ---
-script:
-  type: hockey
-  teams:
-    home:
-      name: Brown
-      score: 5
-    away:
-      name: Clarkson
-      score: 2
+scriptType: hockey
+teams:
+  home:
+    name: Brown
+    score: 5
+  away:
+    name: Clarkson
+    score: 2
 date: 1988-02-13
 ---
 

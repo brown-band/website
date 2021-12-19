@@ -1,13 +1,12 @@
 ---
-script:
-  type: football
-  teams:
-    home:
-      name: Yale
-      score: 3
-    away:
-      name: Brown
-      score: 12
+scriptType: football
+teams:
+  home:
+    name: Yale
+    score: 3
+  away:
+    name: Brown
+    score: 12
 date: 1993-09-18
 ---
 

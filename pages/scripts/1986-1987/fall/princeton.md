@@ -1,13 +1,12 @@
 ---
-script:
-  type: football
-  teams:
-    home:
-      name: Princeton
-      score: 10
-    away:
-      name: Brown
-      score: 24
+scriptType: football
+teams:
+  home:
+    name: Princeton
+    score: 10
+  away:
+    name: Brown
+    score: 24
 date: 1986-10-04
 ---
 

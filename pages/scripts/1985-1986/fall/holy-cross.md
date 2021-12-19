@@ -1,13 +1,12 @@
 ---
-script:
-  type: football
-  teams:
-    home:
-      name: Brown
-      score: 20
-    away:
-      name: Holy Cross
-      score: 20
+scriptType: football
+teams:
+  home:
+    name: Brown
+    score: 20
+  away:
+    name: Holy Cross
+    score: 20
 date: 1985-10-26
 ---
 

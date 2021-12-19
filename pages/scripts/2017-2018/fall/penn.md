@@ -1,13 +1,12 @@
 ---
-script:
-  type: football
-  teams:
-    home:
-      name: Brown
-      score: 7
-    away:
-      name: Penn
-      score: 17
+scriptType: football
+teams:
+  home:
+    name: Brown
+    score: 7
+  away:
+    name: Penn
+    score: 17
 date: 2017-10-28
 ---
 

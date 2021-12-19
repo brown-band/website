@@ -1,14 +1,13 @@
 ---
 title: Dartmouth (at Fenway)
-script:
-  type: football
-  teams:
-    home:
-      name: Brown
-      score: 10
-    away:
-      name: Dartmouth
-      score: 33
+scriptType: football
+teams:
+  home:
+    name: Brown
+    score: 10
+  away:
+    name: Dartmouth
+    score: 33
 date: 2017-11-10
 ---
 

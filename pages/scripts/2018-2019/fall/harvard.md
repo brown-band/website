@@ -1,13 +1,12 @@
 ---
-script:
-  type: football
-  teams:
-    home:
-      name: Brown
-      score: 17
-    away:
-      name: Harvard
-      score: 31
+scriptType: football
+teams:
+  home:
+    name: Brown
+    score: 17
+  away:
+    name: Harvard
+    score: 31
 date: 2018-09-21
 ---
 

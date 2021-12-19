@@ -1,13 +1,12 @@
 ---
-script:
-  type: football
-  teams:
-    home:
-      name: Brown
-      score: 19
-    away:
-      name: Columbia
-      score: 16
+scriptType: football
+teams:
+  home:
+    name: Brown
+    score: 19
+  away:
+    name: Columbia
+    score: 16
 date: 1987-11-21
 ---
 

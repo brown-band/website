@@ -1,13 +1,12 @@
 ---
-script:
-  type: football
-  teams:
-    home:
-      name: Brown
-      score: 35
-    away:
-      name: Georgetown
-      score: 7
+scriptType: football
+teams:
+  home:
+    name: Brown
+    score: 35
+  away:
+    name: Georgetown
+    score: 7
 date: 2018-09-29
 ---
 

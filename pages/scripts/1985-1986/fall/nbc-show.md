@@ -1,6 +1,5 @@
 ---
-script:
-  type: other
+scriptType: other
 date: 1985-10-17
 ---
 

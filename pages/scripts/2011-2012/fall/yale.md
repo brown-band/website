@@ -1,13 +1,12 @@
 ---
-script:
-  type: football
-  teams:
-    home:
-      name: Yale
-      score: 28
-    away:
-      name: Brown
-      score: 34
+scriptType: football
+teams:
+  home:
+    name: Yale
+    score: 28
+  away:
+    name: Brown
+    score: 34
 date: 2011-11-05
 ---
 

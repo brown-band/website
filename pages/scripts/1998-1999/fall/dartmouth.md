@@ -1,13 +1,12 @@
 ---
-script:
-  type: football
-  teams:
-    home:
-      name: Brown
-      score: 28
-    away:
-      name: Dartmouth
-      score: 21
+scriptType: football
+teams:
+  home:
+    name: Brown
+    score: 28
+  away:
+    name: Dartmouth
+    score: 21
 date: 1998-11-14
 ---
 

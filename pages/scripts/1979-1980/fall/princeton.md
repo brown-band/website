@@ -1,13 +1,12 @@
 ---
-script:
-  type: football
-  teams:
-    home:
-      name: Brown
-      score: 31
-    away:
-      name: Princeton
-      score: 12
+scriptType: football
+teams:
+  home:
+    name: Brown
+    score: 31
+  away:
+    name: Princeton
+    score: 12
 date: 1979-10-06
 ---
 

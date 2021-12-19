@@ -1,14 +1,13 @@
 ---
-script:
-  type: hockey
-  theme: Sidekick
-  teams:
-    home:
-      name: Brown
-      score: 3
-    away:
-      name: Quinnipiac
-      score: 5
+scriptType: hockey
+iceShowTheme: Sidekick
+teams:
+  home:
+    name: Brown
+    score: 3
+  away:
+    name: Quinnipiac
+    score: 5
 date: 2015-01-30
 ---
 

@@ -1,13 +1,12 @@
 ---
-script:
-  type: football
-  teams:
-    home:
-      name: Brown
-      score: 7
-    away:
-      name: Harvard
-      score: 41
+scriptType: football
+teams:
+  home:
+    name: Brown
+    score: 7
+  away:
+    name: Harvard
+    score: 41
 date: 1981-10-31
 ---
 

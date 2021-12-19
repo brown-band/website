@@ -1,13 +1,12 @@
 ---
-script:
-  type: football
-  teams:
-    home:
-      name: Brown
-      score: 21
-    away:
-      name: Dartmouth
-      score: 21
+scriptType: football
+teams:
+  home:
+    name: Brown
+    score: 21
+  away:
+    name: Dartmouth
+    score: 21
 date: 1986-11-15
 ---
 

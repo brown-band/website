@@ -1,13 +1,12 @@
 ---
-script:
-  type: football
-  teams:
-    home:
-      name: Brown
-      score: 37
-    away:
-      name: Cornell
-      score: 12
+scriptType: football
+teams:
+  home:
+    name: Brown
+    score: 37
+  away:
+    name: Cornell
+    score: 12
 date: 1997-11-01
 ---
 

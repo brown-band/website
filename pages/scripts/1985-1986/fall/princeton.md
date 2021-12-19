@@ -1,13 +1,12 @@
 ---
-script:
-  type: football
-  teams:
-    home:
-      name: Brown
-      score: 17
-    away:
-      name: Princeton
-      score: 0
+scriptType: football
+teams:
+  home:
+    name: Brown
+    score: 17
+  away:
+    name: Princeton
+    score: 0
 date: 1985-10-05
 ---
 

@@ -1,13 +1,12 @@
 ---
-script:
-  type: football
-  teams:
-    home:
-      name: Brown
-      score: 20
-    away:
-      name: Dartmouth
-      score: 24
+scriptType: football
+teams:
+  home:
+    name: Brown
+    score: 20
+  away:
+    name: Dartmouth
+    score: 24
 date: 2013-11-16
 ---
 

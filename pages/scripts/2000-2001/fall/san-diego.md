@@ -1,13 +1,12 @@
 ---
-script:
-  type: football
-  teams:
-    home:
-      name: Brown
-      score: 36
-    away:
-      name: San Diego
-      score: 20
+scriptType: football
+teams:
+  home:
+    name: Brown
+    score: 36
+  away:
+    name: San Diego
+    score: 20
 date: 2000-09-16
 ---
 

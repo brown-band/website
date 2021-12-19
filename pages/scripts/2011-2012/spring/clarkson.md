@@ -1,13 +1,12 @@
 ---
-script:
-  type: hockey
-  teams:
-    home:
-      name: Brown
-      score: 1
-    away:
-      name: Clarkson
-      score: 3
+scriptType: hockey
+teams:
+  home:
+    name: Brown
+    score: 1
+  away:
+    name: Clarkson
+    score: 3
 date: 2012-02-03
 ---
 

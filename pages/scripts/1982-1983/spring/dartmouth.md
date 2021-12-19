@@ -1,11 +1,10 @@
 ---
-script:
-  type: hockey
-  teams:
-    home:
-      name: Brown
-    away:
-      name: Dartmouth
+scriptType: hockey
+teams:
+  home:
+    name: Brown
+  away:
+    name: Dartmouth
 date: 1983-02-05
 ---
 

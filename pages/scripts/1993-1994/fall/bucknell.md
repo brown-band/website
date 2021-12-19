@@ -1,14 +1,13 @@
 ---
 title: Bucknell (Parents’ Weekend)
-script:
-  type: football
-  teams:
-    home:
-      name: Brown
-      score: 21
-    away:
-      name: Bucknell
-      score: 12
+scriptType: football
+teams:
+  home:
+    name: Brown
+    score: 21
+  away:
+    name: Bucknell
+    score: 12
 date: 1993-10-16
 ---
 

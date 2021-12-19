@@ -1,13 +1,12 @@
 ---
-script:
-  type: football
-  teams:
-    home:
-      name: Princeton
-      score: 19
-    away:
-      name: Brown
-      score: 0
+scriptType: football
+teams:
+  home:
+    name: Princeton
+    score: 19
+  away:
+    name: Brown
+    score: 0
 date: 2012-10-13
 ---
 

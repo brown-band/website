@@ -1,13 +1,12 @@
 ---
-script:
-  type: hockey
-  teams:
-    home:
-      name: Brown
-      score: 4
-    away:
-      name: St. Lawrence
-      score: 3
+scriptType: hockey
+teams:
+  home:
+    name: Brown
+    score: 4
+  away:
+    name: St. Lawrence
+    score: 3
 date: 1986-12-06
 ---
 

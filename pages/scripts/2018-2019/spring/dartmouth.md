@@ -1,14 +1,13 @@
 ---
-script:
-  type: hockey
-  theme: Alumni
-  teams:
-    home:
-      name: Brown
-      score: 2
-    away:
-      name: Dartmouth
-      score: 0
+scriptType: hockey
+iceShowTheme: Alumni
+teams:
+  home:
+    name: Brown
+    score: 2
+  away:
+    name: Dartmouth
+    score: 0
 date: 2019-02-23
 ---
 

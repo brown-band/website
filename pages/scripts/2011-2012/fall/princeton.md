@@ -1,13 +1,12 @@
 ---
-script:
-  type: football
-  teams:
-    home:
-      name: Brown
-      score: 34
-    away:
-      name: Princeton
-      score: 0
+scriptType: football
+teams:
+  home:
+    name: Brown
+    score: 34
+  away:
+    name: Princeton
+    score: 0
 date: 2011-10-15
 ---
 

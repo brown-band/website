@@ -1,13 +1,12 @@
 ---
-script:
-  type: football
-  teams:
-    home:
-      name: Brown
-      score: 42
-    away:
-      name: Yale
-      score: 45
+scriptType: football
+teams:
+  home:
+    name: Brown
+    score: 42
+  away:
+    name: Yale
+    score: 45
 date: 2014-11-08
 ---
 

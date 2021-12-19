@@ -1,11 +1,10 @@
 ---
-script:
-  type: hockey
-  teams:
-    home:
-      name: Brown
-    away:
-      name: Harvard
+scriptType: hockey
+teams:
+  home:
+    name: Brown
+  away:
+    name: Harvard
 date: 1983-02-25
 ---
 

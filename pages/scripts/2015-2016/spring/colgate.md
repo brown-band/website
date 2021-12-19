@@ -1,14 +1,13 @@
 ---
-script:
-  type: hockey
-  theme: Sci-Fi
-  teams:
-    home:
-      name: Brown
-      score: 2
-    away:
-      name: Colgate
-      score: 3
+scriptType: hockey
+iceShowTheme: Sci-Fi
+teams:
+  home:
+    name: Brown
+    score: 2
+  away:
+    name: Colgate
+    score: 3
 date: 2016-02-13
 ---
 

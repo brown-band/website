@@ -1,6 +1,5 @@
 ---
-script:
-  type: other
+scriptType: other
 date: 2014-02-14
 ---
 

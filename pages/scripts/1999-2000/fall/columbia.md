@@ -1,13 +1,12 @@
 ---
-script:
-  type: football
-  teams:
-    home:
-      name: Brown
-      score: 23
-    away:
-      name: Columbia
-      score: 6
+scriptType: football
+teams:
+  home:
+    name: Brown
+    score: 23
+  away:
+    name: Columbia
+    score: 6
 date: 1999-11-20
 ---
 

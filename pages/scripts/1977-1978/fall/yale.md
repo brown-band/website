@@ -1,13 +1,12 @@
 ---
-script:
-  type: football
-  teams:
-    home:
-      name: Yale
-      score: 10
-    away:
-      name: Brown
-      score: 9
+scriptType: football
+teams:
+  home:
+    name: Yale
+    score: 10
+  away:
+    name: Brown
+    score: 9
 date: 1977-09-17
 ---
 

@@ -1,13 +1,12 @@
 ---
-script:
-  type: football
-  teams:
-    home:
-      name: Brown
-      score: 41
-    away:
-      name: Columbia
-      score: 7
+scriptType: football
+teams:
+  home:
+    name: Brown
+    score: 41
+  away:
+    name: Columbia
+    score: 7
 date: 2014-11-22
 ---
 

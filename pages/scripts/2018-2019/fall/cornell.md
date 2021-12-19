@@ -1,13 +1,12 @@
 ---
-script:
-  type: football
-  teams:
-    home:
-      name: Brown
-      score: 16
-    away:
-      name: Cornell
-      score: 34
+scriptType: football
+teams:
+  home:
+    name: Brown
+    score: 16
+  away:
+    name: Cornell
+    score: 34
 date: 2018-10-20
 ---
 

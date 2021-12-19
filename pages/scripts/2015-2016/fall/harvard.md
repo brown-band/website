@@ -1,13 +1,12 @@
 ---
-script:
-  type: football
-  teams:
-    home:
-      name: Harvard
-      score: 53
-    away:
-      name: Brown
-      score: 27
+scriptType: football
+teams:
+  home:
+    name: Harvard
+    score: 53
+  away:
+    name: Brown
+    score: 27
 date: 2015-09-26
 ---
 

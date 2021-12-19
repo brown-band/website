@@ -1,13 +1,12 @@
 ---
-script:
-  type: football
-  teams:
-    home:
-      name: Brown
-      score: 28
-    away:
-      name: Bryant
-      score: 23
+scriptType: football
+teams:
+  home:
+    name: Brown
+    score: 28
+  away:
+    name: Bryant
+    score: 23
 date: 2017-09-16
 ---
 

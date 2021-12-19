@@ -1,13 +1,12 @@
 ---
-script:
-  type: football
-  teams:
-    home:
-      name: Brown
-      score: 27
-    away:
-      name: Yale
-      score: 22
+scriptType: football
+teams:
+  home:
+    name: Brown
+    score: 27
+  away:
+    name: Yale
+    score: 22
 date: 2016-11-05
 ---
 

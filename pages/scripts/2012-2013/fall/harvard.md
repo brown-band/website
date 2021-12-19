@@ -1,13 +1,12 @@
 ---
-script:
-  type: football
-  teams:
-    home:
-      name: Brown
-      score: 31
-    away:
-      name: Harvard
-      score: 45
+scriptType: football
+teams:
+  home:
+    name: Brown
+    score: 31
+  away:
+    name: Harvard
+    score: 45
 date: 2012-09-22
 ---
 
