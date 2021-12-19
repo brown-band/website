@@ -1,0 +1,44 @@
+---
+pagination:
+  data: scripts.semesterCollections
+  size: 1
+  alias: semester
+permalink: "{{semester.permalink}}"
+eleventyComputed:
+  title: "{{semester.title}}"
+---
+
+{% macro score(score) %}{% if score != null %} ({{score}}){% endif %}{% endmacro %}
+
+{% if writers %}
+<p class="h3">Scriptwriters: {{writers | listify}}</p>
+{% endif %}
+
+<nav style="margin-top: 1.5em">
+<h2 class="h6 text-uppercase fw-bold">Table of Contents</h4>
+<ul>
+{% for script in collections[semester.collection] %}
+  <li><a href="#{{script.fileSlug}}">{{script.data.title}}</a></li>
+{% endfor %}
+</ul>
+</nav>
+
+{% for script in collections[semester.collection] %}
+{% if loop.index0 %}<hr style="margin-top: 5em">{% endif %}
+<article id="{{script.fileSlug}}" style="margin-top: 5em">
+  <header style="text-align: center">
+    <h1 class="display-5">
+      {% if script.data.teams.home %}
+        {{script.data.teams.away.name}}{{score(script.data.teams.away.score)}} at
+        {{script.data.teams.home.name}}{{score(script.data.teams.home.score)}}
+      {% elif script.data.opponent %} <# when we don't know home/away or scores #>
+        Brown <em>vs</em> {{script.data.opponent}}
+      {% else %}
+        {{script.data.title}}
+      {% endif %}
+    </h1>
+    <p class="h3">{{script.date | script_date }}</p>
+  </header>
+  {{script.templateContent | safe}}
+</article>
+{% endfor %}
