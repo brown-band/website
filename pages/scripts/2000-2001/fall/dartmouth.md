@@ -20,16 +20,16 @@ Wait - wait - this just in - it seems that it is too close to call which band is
 
 :::script-list
 
-- 10. Couldn't tell the difference between Buchanan and Gore
-- 9. Couldn't tell the difference between Buchanan and Bush
-- 8. Illiterate
-- 7. Too busy makin' up top ten lists
-- 6. Crimson looks bad on Green
-- 5. Bush has an Ivy-league edumacation
-- 4. Identified with his cocaine habit
-- 3. After abusing alcohol for years, he's finally dry - just like Dartmouth
-- 2. They voted for the Green Party candidate - a vote for Nader is a vote for Bush
-- 1. The sheep told me to do it! I swear!
+- 10\. Couldn't tell the difference between Buchanan and Gore
+- 9\. Couldn't tell the difference between Buchanan and Bush
+- 8\. Illiterate
+- 7\. Too busy makin' up top ten lists
+- 6\. Crimson looks bad on Green
+- 5\. Bush has an Ivy-league edumacation
+- 4\. Identified with his cocaine habit
+- 3\. After abusing alcohol for years, he's finally dry - just like Dartmouth
+- 2\. They voted for the Green Party candidate - a vote for Nader is a vote for Bush
+- 1\. The sheep told me to do it! I swear!
 
 :::
 
