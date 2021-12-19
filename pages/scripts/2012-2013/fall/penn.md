@@ -17,29 +17,19 @@ Ladies and Gentlemen, friends and alumni, presenting an organization that'll let
 We're somewhat kinda not really excited to be in the grand City of Brotherly Love and to play an exciting game against Penn State! I meant the University of Pittsburgh! I meant the University of Pennsylvania, the finest public university in all the Philly Cheesesteak-covered land of Philadelphia!
 
 From someplace better I was born and raised/\
-
 In Providence is where I spend most of my days/\
-
 Chilling, relaxing, and being oh so cool/\
-
 Cause I know I play for a much better school/\
-
 When a couple of Penn students up to no good/\
-
 Had us come down to their neighborhood/\
-
 One little scandal in the area and everyone got scared/\
-
 They said, "Get back to Rhode Island far away from here!"
 
 :sd[Band forms a Philly Cheesesteak and plays "Ghostbusters."]
 
 I pulled up to the Van Wickle Gates about 7 or 8/\
-
 And I told the bus driver, "Thanks man, see ya later,"/\
-
 I took a look at my school and was relieved I was there/\
-
 Back to Brown University and Bruno the Bear.
 
 :sd[Band forms a B and plays "Brown Cheering Song."]

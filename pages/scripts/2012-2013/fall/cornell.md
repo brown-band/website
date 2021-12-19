@@ -47,16 +47,12 @@ If you weren't aware, Brown's alma mater is a beautiful tune that describes how 
 
 "Far above Cayuga's waters, with its waves of blue,\
 :script-tab Stands the sleaziest and rudest and most sinister mobs of thugs and wackos ever assembled.\
-
 Lift the chorus, speed it onward, loud her praises tell:\
 :script-tab I share a dark suspicion that the life we're leading was a lost cause.\
-
 Far above the busy humming of the bustling town,\
 :script-tab My face was not working properly.\
-
 Lift the chorus, speed it onward, loud her praises tell:\
 :script-tab We are like pygmies lost in a maze of haze.\
-
 Sentry-like o'er lake and valley towers her regal form,\
 :script-tab People trembled and cursed when I came into a public room and started screaming in German."
 

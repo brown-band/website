@@ -16,7 +16,7 @@ Ladies and Gentlemen, Friends and Alumni, and all ewe little lambs lost, present
 
 It's time to strike up the Band!
 
-During the strike, URI students couldn't learn because of missing faculties. Fortunately, the differences were settled when both sides adopted compromising positions. But now the Brown Band is on strike _and we're demanding._ Also, we'd like to request:\
+During the strike, URI students couldn't learn because of missing faculties. Fortunately, the differences were settled when both sides adopted compromising positions. But now the Brown Band is on strike _and we're demanding._ Also, we'd like to request:
 
 - that Brown University appoint a Dean of Residential Lounges
 - that food be served in the Ratty

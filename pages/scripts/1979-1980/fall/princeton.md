@@ -12,7 +12,7 @@ date: 1979-10-06
 
 ## Halftime
 
-Ladies and Gentlemen, Friends and Alumni, and all you freshmen mothers and fathers, and their parents, its the Brown University Never Never Band. Welcome to the land of make-believe, the land of freshman parent's weekend, the land of Brutopia...\
+Ladies and Gentlemen, Friends and Alumni, and all you freshmen mothers and fathers, and their parents, its the Brown University Never Never Band. Welcome to the land of make-believe, the land of freshman parent's weekend, the land of Brutopia...
 
 - where we always have delicious juicy roast beef for lunch
 - where there _is_ no Princeton band

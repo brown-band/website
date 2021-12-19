@@ -12,19 +12,19 @@ date: 1979-11-17
 
 ## Halftime
 
-Ladies and Gentlemen, Friends and Alumni, Disco Lovers Everywhere, it's the Brown University Saturday Afternoon Fever Band. Disco music, disco dancing, and disco rollerskating have become a highly important, greatly loved part of our culture. And now, disco music has come to Brown. In the fine disco tradition, we bring you the Brown University Disco Course Catalog. First in our book is:\
+Ladies and Gentlemen, Friends and Alumni, Disco Lovers Everywhere, it's the Brown University Saturday Afternoon Fever Band. Disco music, disco dancing, and disco rollerskating have become a highly important, greatly loved part of our culture. And now, disco music has come to Brown. In the fine disco tradition, we bring you the Brown University Disco Course Catalog. First in our book is:
 
 - Disco Chem 12 -- where your partner is unkown\
-  Then there's\
+  Then there's
 - Disco economics -- where it's _assumed_ that you already know how to dance\
-  And\
+  And
 - Disco Thermodynamics or "Disco Inferno"
 - Disco Reli Stu or "Heaven Knows"
 - Disco Child Psych or "Love to Love You Baby"
 - Disco CS 101 or "Ah, Ah, Ah, Ah, Stayin' Alive, Stayin' Alive"
 - Disco Voice & Diction or "You Got A Cute Way of Talkin'"
 - Disco Ornithology or "Disco Duck"\
-  And finally\
+  And finally
 - Disco Topics in Human Sexuality, taught by "Disco Dick Dannenfelser."
 
 Come on and get down as we form a sad excuse for happy feet and play "Copacabana."

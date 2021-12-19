@@ -55,21 +55,14 @@ Princeton: Well... you first.
 
 **Brown: It's a tale as familiar as a tiger's - two lovers kept apart by an endless feud. Shakespeare said it best in his classic story, Brunoneo and Princetoniette:**
 
-\*\*Two universities, both alike in dignity,\
-
+**Two universities, both alike in dignity,\
 In fair New Jersey, where we lay our scene,\
-
 From ancient eight to modern football games\
-
 Where civil sports make civil jerseys unclean.\
-
 From forth the fatal loins of these two schools\
-
 A pair of star-cross'd bands take the stage\
-
 Whose misadventured scrambling overthrows\
-
-Do with their songs bury their teams' rage\*\*
+Do with their songs bury their teams' rage**
 
 **Watch now as the Brown and Princeton Bands join forces to recount a bittersweet tale of forbidden love.**
 
@@ -78,70 +71,45 @@ Do with their songs bury their teams' rage\*\*
 Princeton: A poem from the Princeton University Band.
 
 In New Jersey, the Tiger Band,\
-
 A stately pleasure-dome decreed\
-
 And soon we hoped from Providence-land\
-
 the hunky-chunky Brown-Bear band,\
-
 would run to us with hugs and glee.
 
 But soft! What light from yonder grandstands breaks!\
-
 It is the East, and Brunoneo is the sun!\
-
 With no-one else do we have such fun,\
-
 As Brunoneo—O the ruffles his fur makes
 
 And on his furry forehead these words appear:\
-
 "Hello my name is Brunoneo, lover of lovers..."\
-
 O!\
-
 Our mind is numb, our thoughts are junk,\
-
 Our mouths are dumb, our words are gunk,\
-
 O brownie love, we're in a funk,\
-
 Our hearts drink up, our love is drunk.
 
 :sd[The Princeton Band forms a mug of stout and plays "Love Drunk". The Brown Band fills in the glass.]
 
 **Brown: A poem from the Brown University Band:**
 
-\*\*A band from Rhode Island we are\
-
+**A band from Rhode Island we are\
 We saw orange plaid from afar\
-
 You tickled our fancy\
-
 We got rather antsy\
+How did our pants become ajar?**
 
-How did our pants become ajar?\*\*
-
-\*\*A rivalry keeps us apart\
-
+**A rivalry keeps us apart\
 We've admired you right from the start\
-
 Do you like us or no?\
-
 Will you please be our beaux?\
+Be careful with our fragile heart.**
 
-Be careful with our fragile heart.\*\*
-
-\*\*We wait now to hear your reply\
-
+**We wait now to hear your reply\
 "Please love us," we desp'rately cry\
-
 We can't wait to trombone\
-
 Soon we won't be alone\
-
-In the meantime let's lower our fly.\*\*
+In the meantime let's lower our fly.**
 
 :sd[The Brown Band forms unzipped pants and plays "I Touch Myself."]
 

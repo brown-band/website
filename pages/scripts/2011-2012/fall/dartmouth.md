@@ -18,87 +18,65 @@ Watch now as the band forms a champagne flute and toasts its seniors, limerick-s
 
 :sd[Band forms a champagne glass with senior bubbles and plays "Bits & Pieces" after each senior Limerick.]
 
-\*Justin Ardini, CS Major \
-
+_Justin Ardini, CS Major \
 Pretty good at bari sax, we’d wager.\
-
 Haven’t seen him this year, \
-
 The band now sheds a tear. \
+Someone call him up on his pager!_
 
-Someone call him up on his pager!There once was a bandie named Monica \
-
+_There once was a bandie named Monica \
 Who played the bass drum, not harmonica \
-
 But in a decade or two \
-
 Who knows what she’ll do! \
+Perhaps she’ll produce electronica?_
 
-Perhaps she’ll produce electronica?Beloved head conductor Benny G \
-
+_Beloved head conductor Benny G \
 Sometimes mullet-wearing is he. \
-
 We’re really big fans \
-
 Of his bandana tan. \
+And we feel bad for hitting him with keys!_
 
-And we feel bad for hitting him with keys!O, Maggie “the awesomest!” Goter \
-
+_O, Maggie “the awesomest!” Goter \
 We love her so much we’d promot’er! \
-
 She does her karate, \
-
 Oh damn what a hottie! \
+And she pleases all the tromboners._
 
-And she pleases all the tromboners.There once was a grad student Brandon \
-
+_There once was a grad student Brandon \
 Who played cymbals with reckless abandon \
-
 He drives a white Caddy \
-
 On his trips to the Ratty \
+And as swaggest among us he’s standin’._
 
-And as swaggest among us he’s standin’.Where there’s a bass drum, there’s Jess \
-
+_Where there’s a bass drum, there’s Jess \
 Keeps percussion from being a mess \
-
 What a pretty face! \
-
 Always brightens this place! \
+We will miss her, we must now profess._
 
-We will miss her, we must now profess.Our scriptreader Andrew Leber \
-
+_Our scriptreader Andrew Leber \
 Has a voice that’s better than Bieber \
-
 Always lending a hand \
-
 To help out the band \
+He really is quite the achiever._
 
-He really is quite the achiever.A senior snare player Ben Leib \
-
+_A senior snare player Ben Leib \
 Never ever looks like a dweeb \
-
 His hair is well-coiffed, \
-
 1-2, screw it it roll off \
+More majestic than a great crested grebe (it’s a bird!)_
 
-More majestic than a great crested grebe (it’s a bird!)David Stern, our friendly historian, \
-
+_David Stern, our friendly historian, \
 Is wise as an elf from Lothlorien \
-
 Passion never lacks \
-
 When he plays his sax. \
+He sure wishes he drove a dolorian!_
 
-He sure wishes he drove a dolorian!Ohh Andrea Weber, she climbs rocks! \
-
+_Ohh Andrea Weber, she climbs rocks! \
 Just look at her, what a fine stone cold fox! \
-
 The best president of the Band \
-
 In the entire land, \
-
-She keeps closed the Band’s Pandora’s Box.\*
+She keeps closed the Band’s Pandora’s Box._
 
 Seniors, we love you! But the fun's not over just yet - stay tuned for more cool jokes and hilarious tunes at halftime!
 

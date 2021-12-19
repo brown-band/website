@@ -47,119 +47,89 @@ If you didn't know, today is our senior game! We have so many feelings about our
 
 :sd[Band forms a champagne glass with senior bubbles and plays "Bits & Pieces" after each senior Limerick.]
 
-\*Amy's exit will leave us distressed,\
-
+_Amy's exit will leave us distressed,\
 Her scripts were truly the best\
-
 She has Delaware Pride,\
-
 and would take it in stride\
+When we asked "Are we there yet?" in jest._
 
-When we asked "Are we there yet?" in jest.Of Our Money Godfather Cooper-Troendle,\
-
+_Of Our Money Godfather Cooper-Troendle,\
 Cheering with him sure was pretty fun-dle,\
-
 When he spread and wailed\
-
 Our love never failed\
+We surely will miss him a bundle!_
 
-We surely will miss him a bundle!Fair Brooke is our CorSec from Penn,\
-
+_Fair Brooke is our CorSec from Penn,\
 Upon her we always depend\
-
 On the sax she does honk\
-
 Followed by a good "WONK"\
+Our hearts swell with love for our friend._
 
-Our hearts swell with love for our friend.Our wonderful Prez Sidney Karesh\
-
+_Our wonderful Prez Sidney Karesh\
 Whose smiles we will always cherish,\
-
 Your costumes are sleek\
-
 with particular chic\
+Our love for you will never perish._
 
-Our love for you will never perish.Here's to Jesus, our cool pal \
-
+_Here's to Jesus, our cool pal \
 We love his sick moves during Al.\
-
 A master of kazoo,\
-
 and piccolo, too,\
+And miss him dearly, we shall._
 
-And miss him dearly, we shall.Oh, how we'll miss Kenneth Lin\
-
+_Oh, how we'll miss Kenneth Lin\
 The saxophone section he's in.\
-
 A music maestro he is,\
-
 On the piano, what a whiz\
+When we're with him, the band always wins._
 
-When we're with him, the band always wins.Carlos Lopez is an awesome DJ,\
-
+_Carlos Lopez is an awesome DJ,\
 The guitar, trumpet, and snare he did play\
-
 We'll miss him a lot,\
-
 We'd rather have him than not,\
+Oh please please please don't go away._
 
-Oh please please please don't go away.As one of the Three Musketeers,\
-
+_As one of the Three Musketeers,\
 Armani's smile filled us with cheers,\
-
 To NYC he did lead us,\
-
 On t-bone he did please us,\
+When he leaves we will be filled with tears._
 
-When he leaves we will be filled with tears.We know we will miss Mermelhammer,\
-
+_We know we will miss Mermelhammer,\
 Whose banging on drums made a clamor\
-
 it always was grand\
-
 when he played with one hand\
+while juggling his mallets with glamour._
 
-while juggling his mallets with glamour.Goodbye to our gangly friend Charlie\
-
+_Goodbye to our gangly friend Charlie\
 whose conducting skills were quite gnarly\
-
 he'd get up on the stands\
-
 and wave those perfect hands\
+We'd even watch sometimes, bizarrely._
 
-We'd even watch sometimes, bizarrely.Here's to our scriptwriter Abby,\
-
+_Here's to our scriptwriter Abby,\
 Whose prose was nothing too shabby,\
-
 That skill with a sax\
-
 And spirit to the max\
+Her absence will sure make us crabby!_
 
-Her absence will sure make us crabby!Anaisa is queen with her crown\
-
+_Anaisa is queen with her crown\
 Her spirit radiates throughout Brown\
-
 She rocks on that mello\
-
 Our hearts turn to jello\
+When she leaves we'll collectively frown._
 
-When she leaves we'll collectively frown.Our dear old friend Chris the VP,\
-
+_Our dear old friend Chris the VP,\
 Could sure harmonize to a T,\
-
 As money god was fantastic \
-
 Playing trombone of plastic\
+Without you how sad we will be!_
 
-Without you how sad we will be!We will miss our dear Grandma named Ben\
-
+_We will miss our dear Grandma named Ben\
 Who is always 11 out of 10\
-
 His hats will amuse\
-
 on any instrument he's muse\
-
-His caliber won't be matched again.\*
+His caliber won't be matched again._
 
 We guess this is goodbye, beloved seniors! Thank you for four incredible years, but thankfully we've still got the football game at Columbia Columbia next Friday and all of hockey season to show our love for you. Brown Band out!
 

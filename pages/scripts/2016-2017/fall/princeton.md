@@ -99,12 +99,11 @@ Princeton: You complete me. You will always be the Winnie the Pooh to my Tigger.
 
 **Brown: Let's just warp time and try to comprise our future out of all the best times from our past.**
 
-\
 :sd[Bands form two sides of a heart which come together and play "Time warp"]
 
 Princeton: How about we go find a nice fountain to mess around in? No love lost? No hard feelings?
 
-**Brown: I would like nothing more.**\
+**Brown: I would like nothing more.**
 
 Princeton, Brown: R**u**n **a**w**a**y b**a**nds. R**u**n **a**w**a**y **i**nt**o** th**e** s**u**ns**e**t t**o**g**e**th**e**r.
 

@@ -15,7 +15,6 @@ date: 2017-10-14
 Ladies and gentlemen, friends and alumni, presenting an organization that hopes their family brought dogs too, it's the Brown University "let's not disgrace our families" BANNNDDDDDDDDDDD!
 
 Dear family members,\
-
 We have gathered you here today to give you The Talk. We of course mean your irresponsible usage of memes. To help you get hip with the youths, here's a list of things you should not do on the Internet:
 
 :::script-list

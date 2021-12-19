@@ -43,190 +43,142 @@ In case you didn't know, today is the last home game of the year, and therefore 
 
 :sd[Band forms a champagne glass with senior bubbles and plays "Bits & Pieces" after each senior Limerick.]
 
-\*Our Lena is such a great friend\
-
+_Our Lena is such a great friend\
 On her we could always depend\
-
 Busting through those glass ceilings\
-
 Feeling feelings on feelings\
+Life without her we can't comprehend_
 
-Life without her we can't comprehendCatherine has long led the flutes\
-
+_Catherine has long led the flutes\
 It will be hard to fill in her boots\
-
 A big Rangers fan,\
-
 And loved by the band,\
+Her greatness no one disputes_
 
-Her greatness no one disputesOh what will we do without Nick\
-
+_Oh what will we do without Nick\
 He does this sweet magic trick\
-
 It's called Danger Fall\
-
 And impresses us all\
+The greatest of all the big ticks_
 
-The greatest of all the big ticksWe'll miss our prez Carrie Danielson\
-
+_We'll miss our prez Carrie Danielson\
 Who tries really hard with her puns\
-
 What we'll do next year\
-
 We have no eye-dear\
+With her, the band always won_
 
-With her, the band always wonJulie, we love her a lot\
-
+_Julie, we love her a lot\
 For her, we have a soft spot\
-
 When we change the key\
-
 It feels her with glee\
+She's one of the best that we've got_
 
-She's one of the best that we've gotWe'll miss our sweet flautist named Izzy\
-
+_We'll miss our sweet flautist named Izzy\
 We're sad that she has been so busy\
-
 She rocks it in Al\
-
 So melodious, our pal\
+When she's gone we will be in a tizzy_
 
-When she's gone we will be in a tizzyWe will desperately miss Ronnie Chiou\
-
+_We will desperately miss Ronnie Chiou\
 We beseech him to please never go\
-
 He's a master engineer\
-
 We wish he'd stay here\
+Our love for him will always grow_
 
-Our love for him will always growWe have this one senior named Dara\
-
+_We have this one senior named Dara\
 She's so environmentally aware-a\
-
 She loves to do BOLT\
-
 And to divest coal\
+To her who will ever compare-a?_
 
-To her who will ever compare-a?We'll miss our old CorSec A-Kon\
-
+_We'll miss our old CorSec A-Kon\
 Without her, how will we play on?\
-
 The Olympics, she loves\
-
 She gives lots of hugs\
+Her legacy will always live on_
 
-Her legacy will always live onJohn's graduation we want to postpone\
-
+_John's graduation we want to postpone\
 Plays trumpet with such a sweet tone\
-
 He was a great money god\
-
 Wait, we were supposed to screw in a lightbulb?!?!\
+Don't let him get in his zone_
 
-Don't let him get in his zoneNow Bethany is dear to our heart\
-
+_Now Bethany is dear to our heart\
 For her we'd buy borscht by the cart\
-
 She's long been a FOBB\
-
 She did a great job\
+We'll miss her when we are apart_
 
-We'll miss her when we are apartChimmy is part of our drum line\
-
+_Chimmy is part of our drum line\
 He mixes the drinks for our fun times\
-
 He plays the bass drum\
-
 Without him we'll be glum\
+And his stage directing skills are sublime_
 
-And his stage directing skills are sublimeWe know this guy who loves baseball\
-
+_We know this guy who loves baseball\
 He also loves to catch 'em all\
-
 Without our friend Lewie\
-
 Our eyes will be dewy\
+His notes can be heard above all_
 
-His notes can be heard above allOur dear friend Taran Raghuram\
-
+_Our dear friend Taran Raghuram\
 Who makes us go "Om nom nom nom"\
-
 He led the drum line\
-
 And kept us in time\
+We'll miss him so much when he's gone_
 
-We'll miss him so much when he's goneWe love to love Kayla Rosen\
-
+_We love to love Kayla Rosen\
 We're glad we're the group that she's chosen\
-
 She's a photography pro\
-
 And helps freshmen grow\
+We're sad that her time here is closin'_
 
-We're sad that her time here is closin'There's this one super-senior named Zach\
-
+_There's this one super-senior named Zach\
 We want him to keep coming back\
-
 These years weren't enough\
-
 The future will be tough\
+His energy and flair we will lack_
 
-His energy and flair we will lackWe love our conductor named Adam\
-
+_We love our conductor named Adam\
 For all the years that we've had him\
-
 From Connecticut he came\
-
 Next year won't be the same\
+Stamford Bridgeport New Haven and Haddam_
 
-Stamford Bridgeport New Haven and HaddamOur awesome grandma is Cooper\
-
+_Our awesome grandma is Cooper\
 We think that he's just super duper\
-
 He loves dinosaurs\
-
 And him we adore\
+This grandma sure is a cougar_
 
-This grandma sure is a cougarWe're going to miss our friend Brendon\
-
+_We're going to miss our friend Brendon\
 On his skills as a trump we're dependin'\
-
 The solo, he'd rock\
-
 He's got Vehicle on lock\
+We're sad that his time here is endin'_
 
-We're sad that his time here is endin'Chris Wright is a chemistry whiz\
-
+_Chris Wright is a chemistry whiz\
 He can ace every single quiz\
-
 We really can't lie\
-
 We love his bowtie\
+In all, he's the best in the biz_
 
-In all, he's the best in the bizOur friend Dennis plays the trombone\
-
+_Our friend Dennis plays the trombone\
 His graduation we bemoan\
-
 His perfection is true\
-
 We wish we were you\
+Without him we'll be so alone_
 
-Without him we'll be so aloneZifan is a master of Go\
-
+_Zifan is a master of Go\
 And puts on quite a trump show\
-
 It's really a shame\
-
 It's his last home game\
+He's one of the best we know_
 
-He's one of the best we knowFarewell to our good friend Kyle\
-
+\*Farewell to our good friend Kyle\
 He always goes the extra mile\
-
 He loves Model UN\
-
 He's from Switzerland\
-
 We'll really miss his sunny smile\*
 
 We've got one more game this season, and it's happening in New York City as the Brown Bears take on the Fightin' Cowardly Lions Without a Nerve. We'll miss Historic Brown Stadium, but are looking forward to hockey season! We love you, seniors! BROWN BAND OUT.

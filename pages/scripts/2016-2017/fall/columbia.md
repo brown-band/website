@@ -45,133 +45,70 @@ It's Saturday. Aka November 19. Aka International Men's Day. Aka Adam Driver's b
 
 :sd[Band forms a champagne glass with senior bubbles and plays "Bits and Pieces" after each senior Limerick.]
 
-\*A trumpet, had Gabe always blown\
-
+_A trumpet, had Gabe always blown\
 But he chose to slide into trombone\
-
 With a German hallo\
-
 And his fancy cello\
+No matter which section, Gabe shone_
 
-No matter which section, Gabe shone\*
-
-\*\
-
-Our Chris is the master of Geo\
-
+_Our Chris is the master of Geo\
 He \*rocks\* from Boston to Rio\
-
 With a sax in his hand\
-
 He returned to the band\
+Great praises to his beard do we-owe_
 
-Great praises to his beard do we-owe\*
-
-\*\
-
-Sarah, our bandie who sings\
-
+_Sarah, our bandie who sings\
 Engineering is really her thing\
-
 Clarinet and band history\
-
 Her religion, a mystery\
+Her absence will really quite sting_
 
-Her absence will really quite sting\*
-
-\*\
-
-Charlie Gleason, the band's boy wonder\
-
+_Charlie Gleason, the band's boy wonder\
 Though often, we bandies do blunder\
-
 No, his name isn't Kyle\
-
 'Cause he has \*saxy\* style\
+Pirate scrabble will show his true thunder._
 
-Pirate scrabble will show his true thunder.\*
-
-\*\
-
-As prez, Caleb "salient" Hersh reigns\
-
+_As prez, Caleb "salient" Hersh reigns\
 No one's great as Gaston, so he claims\
-
 With a road beer to bring\
-
 The only true thing\
+the proletarians have to lose are their chains_
 
-the proletarians have to lose are their chains\*
-
-\*\
-
-To P. Kirschner, a great section leader\
-
+_To P. Kirschner, a great section leader\
 Without fail, he keeps the Band's meter\
-
 Leads the bus in our song, \
-
 His shorts, never long,\
+How will we survive without Peter?_
 
-How will we survive without Peter?\*
-
-\*\
-
-Isabella is a fun-loving chick\
-
+_Isabella is a fun-loving chick\
 Who's always rocking out on her picc\
-
 She's Dusky's best pal,\
-
 And our favorite AL,\
+A band without her makes us sick_
 
-A band without her makes us sick\*
-
-\*\
-
-Our beloved conductor Dan Muller\
-
+_Our beloved conductor Dan Muller\
 And trust us, we won't watch another\
-
 At the end of his reign,\
+All aboard the sad twain :sd[Band/Train whistle: choo choo]\
+Without him our lives will be duller_
 
-All aboard the sad twain (Band/Train whistle: choo choo)\
-
-Without him our lives will be duller\*
-
-\*\
-
-Ol' Kyle always had us awestruck,\
-
+_Ol' Kyle always had us awestruck,\
 Without him, the band runs amok\
-
 He's our diamond boy\
-
 He conducts us with joy\
+Next year we'll miss him like... crazy_
 
-Next year we'll miss him like... crazy\*
-
-\*Lainie's script reading, who would've guessed! \*(slowly)\*\
-
-On Halloween, decked out in her best,\
-
+_Lainie's script reading, who would've guessed! \*(slowly)\* On Halloween, decked out in her best,\
 Was in Europe last fall,\
-
 In her absence, we bawl,\
+With her humor, we've always been blessed._
 
-With her humor, we've always been blessed.\*
-
-\*\
-
-Much love to our Grandma H. Siegel\
-
+_Much love to our Grandma H. Siegel\
 She's the precious ring to our Smeagol\
-
 She makes us all grin\
-
 But please, DON'T COME IN\
-
-This Nutmegger can't leave, it's illegal!\*
+This Nutmegger can't leave, it's illegal!_
 
 That's all, folks! To our seniors: With much love, get a job. Everyone else: thanks for bearing with us all season, and join us November 30 as we cheer on Brown Men's Basketball, and later this winter when we turn into the world's best (and only) skating band! Brown Band out!
 

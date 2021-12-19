@@ -38,7 +38,6 @@ Watch now as the band travels back to 1966 and gets suspended from Columbia for 
 :sd[Band forms birth control and plays Hooked on a Feeling.]
 
 Honestly, the Brown Band is just the top-ranked band in the Ivy League. Alphabetically.\
-
 Here's a list of some other things we've done better than you:
 
 :::script-list

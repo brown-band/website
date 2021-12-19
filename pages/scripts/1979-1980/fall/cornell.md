@@ -47,19 +47,19 @@ There are also you alums who make plenty of money but spend it all sending your 
 
 Turning from yields to make Brown well-endowed to fields that are always well-plowed, we look at Cornell :sd[Band turns toward Cornell], and quickly look away. :sd[Band turns quickly back toward Brown].
 
-Udderly disgusted with the real thing, we look at the tradition of how Cornell is portrayed in the media. There are famous cinematic masterpieces such as:\
+Udderly disgusted with the real thing, we look at the tradition of how Cornell is portrayed in the media. There are famous cinematic masterpieces such as:
 
 - Cornell Knowledge
 - Cattle of the Bulge, and
 - The Cow Hunter
 
-Age old classics such as:\
+Age old classics such as:
 
 - Animal Farm
 - Bless the Beasts and the Children, and
 - Curious George
 
-And the Cornell story is told in some of our popular TV shows. There's:\
+And the Cornell story is told in some of our popular TV shows. There's:
 
 - My Mother the Cow
 - CHiPs, and your favorite and mine,

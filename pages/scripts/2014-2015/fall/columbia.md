@@ -18,127 +18,95 @@ At last the time has come: it's the final game of the season, aka our senior gam
 
 :sd[Band forms a champagne glass with senior bubbles and plays "Bits & Pieces" after each senior Limerick.]
 
-\*Brian Brown calls St. Louis his town\
-
+_Brian Brown calls St. Louis his town\
 He's the greatest percussionist around\
-
 He rarely wears sleeves\
-
 We'll cry when he leaves\
+We're so glad B. Brown is at Brown_
 
-We're so glad B. Brown is at BrownOur Jenna's an ice skating queen\
-
+_Our Jenna's an ice skating queen\
 The best that we've ever seen\
-
 She says she's from Canada\
-
 But we say it's Jenneda\
+Life without her would be obscene_
 
-Life without her would be obsceneOur dear friend Margaret is so fun\
-
+_Our dear friend Margaret is so fun\
 She really loves a good pun\
-
 Also butts and booties\
-
 Not bats, but patooties\
+We'll be sad when her time here is done_
 
-We'll be sad when her time here is doneWith Zoe, where do we begin \
-
+_With Zoe, where do we begin \
 She always marches us in \
-
 She enjoys conducting \
-
 bus singing, ghostbusting \
+Such a jam our time with her's been_
 
-Such a jam our time with her's beenWe know a saxophonist named Liz\
-
+_We know a saxophonist named Liz\
 She hails from good ol' Texas (Texiz)\
-
 She gives Providence HOPE\
-
 And is generally dope\
+We know her we really will miss (mizz)_
 
-We know her we really will miss (mizz)Of Matt Gasteiger we'd like to say\
-
+_Of Matt Gasteiger we'd like to say\
 He's perfect in every way\
-
 Of the Blue Room he's king\
-
 With him, our hearts sing\
+Please don't leave, we want you to stay_
 
-Please don't leave, we want you to stayDear Emily once was our mom\
-
+_Dear Emily once was our mom\
 She loved us and always was calm\
-
 Your boards were the best\
-
 Please don't leave the nest\
+'Cause life here with you is the bomb_
 
-'Cause life here with you is the bombMichaela's a fantastic musician\
-
+_Michaela's a fantastic musician\
 We know she has lots of ambition\
-
 She once was in Denmark\
-
 Her absence left its mark\
+Her kindness deserves recognition_
 
-Her kindness deserves recognitionAll hail to our president Elaine\
-
+_All hail to our president Elaine\
 We're sorry we drive you insane\
-
 She crashes with nobility\
-
 Hashtag responsibility\
+Without you, we'll never be the same_
 
-Without you, we'll never be the sameWe know of a great girl named Kristen\
-
+_We know of a great girl named Kristen\
 Who started her Brown days on Wriston\
-
 Her passion is psych\
-
 Brains, behavior, the like\
+Brunonia's halls she'll be missed in_
 
-Brunonia's halls she'll be missed inRyan is a really great guy\
-
+_Ryan is a really great guy\
 He's president of ADPhi\
-
 He's got drumming down pat\
-
 Bass drum's where it's at\
+His departure will cause us to sigh_
 
-His departure will cause us to sighLia is the best that we've got\
-
+_Lia is the best that we've got\
 Flute in hand more often than not\
-
 She's a wonderful pal\
-
 She rocks the solo in Al\
+Without her, we'll be distraught_
 
-Without her, we'll be distraughtWe know of this guy named Scott\
-
+_We know of this guy named Scott\
 We see him dancing a lot\
-
 He'll try to deny it\
-
 But we know it's a riot\
+And that kind of skill can't be taught_
 
-And that kind of skill can't be taughtOur Derek we cannot replace\
-
+_Our Derek we cannot replace\
 We'll never keep up with his pace\
-
 Please don't run away\
-
 We want you to stay\
+In our tackles we'll miss your embrace_
 
-In our tackles we'll miss your embraceWe love our good friend Wenting\
-
+_We love our good friend Wenting\
 Such happiness does she bring\
-
 For her skills on the flute\
-
 We give her a salute\
-
-Wenting, to us, you mean everything\*
+Wenting, to us, you mean everything_
 
 Seniors, we love you! But the fun's not over just yet - stay tuned for more cool jokes and hilarious tunes at halftime!
 

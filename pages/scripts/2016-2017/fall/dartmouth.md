@@ -29,17 +29,11 @@ OUTRO!
 Ladies and gentlemen, friends and alumni, presenting an organization that is ready to introduce ourselves, it's the Brown University "here it comes!" BANNNDDDDDDDDDDD!
 
 My dearest, Keggy,\
-
 From the first moment we laid eyes on your gleaming silver face, we knew it was meant to be. You're everything we've ever wanted: rock solid abs and a steady supply of beer just for me. Hopefully we're the most appealing thing you saw in the tall grass. \
-
 We do think we have really nice sass. \
-
 Do you believe in love at first sight or should we walk by again? \
-
 Run away with us, Keggy. Run away with us to heaven! \
-
 Watch now as the Band forms our love, \
-
 And drinks tequila, an answered prayer from above.
 
 :sd[Band forms a keg and plays Tequila.]

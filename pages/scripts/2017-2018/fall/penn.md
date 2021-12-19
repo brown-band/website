@@ -45,165 +45,101 @@ We know we've already talked about plenty of spooky things today, but here's one
 
 :sd[Band forms a champagne glass with senior bubbles and plays "Bits & Pieces" after each senior Limerick.]
 
-\*Iuliu's toughened from the frozen wasteland\
-
+_Iuliu's toughened from the frozen wasteland\
 Though Romania he calls his homeland\
-
 A musical lover\
-
 Great shows he's helped us discover\
+"Lift with jerking motion" he advises the Band_
 
-"Lift with jerking motion" he advises the Band\*
-
-\*We'll miss our historian, Greer\
-
+_We'll miss our historian, Greer\
 Plays piccolo -- it's easy to hear! \
-
 Not Greer Cheesman the 3,\
-
 Raised in many a country \
+She leads bus songs without any fear._
 
-She leads bus songs without any fear.\*
-
-\*Rock climber and math girl Cass Cole,\
-
+_Rock climber and math girl Cass Cole,\
 Through New Hampshire and China she strolled\
-
 Plays the trumpet and bari\
-
 And she sings Mariachi\
+Without her we'll never be whole._
 
-Without her we'll never be whole.\*
-
-\*Tom Brady is Matt Finn's best thrill,\
-
+_Tom Brady is Matt Finn's best thrill,\
 He's the only pre-med who is chill,\
-
 It's a fact that we know \
-
 Asuhhhh he's a bro\
+Catch him Friday night at Hillel._
 
-Catch him Friday night at Hillel.\*
-
-\*Katie Hay, a great snare drum beater,\
-
+_Katie Hay, a great snare drum beater,\
 In an art studio we often can seek her.\
-
 From the Peach State she hails,\
-
 And through Scotland hiked trails,\
+Though she's a chaser we wish we could keep her._
 
-Though she's a chaser we wish we could keep her.\*
-
-\*Dana Leichter, Grand Poobah of all,\
-
+_Dana Leichter, Grand Poobah of all,\
 Whomst'd've fences and plays ball,\
-
 We're glad that she stayed\
-
 Despite scars she obtained\
+Meep meep meep meep meep is her call._
 
-Meep meep meep meep meep is her call.\*
-
-\*Francesca has written, teehee.\
-
+_Francesca has written, teehee.\
 Lots of jokes for you and for me.\
-
 L.I.'s her dominion, \
-
 Don't show her a minion\
+She'll dismantle the patriarchy!_
 
-She'll dismantle the patriarchy!\*
-
-\*Our fave Slytherin Carol Medina\
-
+_Our fave Slytherin Carol Medina\
 Who loves her companion named TINA\
-
 She carries low brass\
-
 With sass and with class\
+Tuba goddess, we don't need Athena_
 
-Tuba goddess, we don't need Athena\*
-
-\*All bow to Sammy our queen\
-
+_All bow to Sammy our queen\
 Of biology, bones, tea, and meme\
-
 Never contrarian,\
-
 Quite the librarian,\
+Leads the drums in Ooh ahh, Jamamie_
 
-Leads the drums in Ooh ahh, Jamamie\*
-
-\*Alex, our favorite redhead.\
-
+_Alex, our favorite redhead.\
 Plays jazz, golf, Elon, and has said,\
-
 "My Chem knowledge is fleeting,\
-
 My hairline's receding,\
+Why should I even get out of bed?"_
 
-Why should I even get out of bed?"\*
-
-\*At bandquet Max wears a disco suit \
-
+_At bandquet Max wears a disco suit \
 He often takes detours en route \
-
 When the quarterback throws\
-
 He screams "Let's \[bleep]ing GOOOOOOO" \
+And on alto sax he does toot._
 
-And on alto sax he does toot.\*
-
-\*Sir Duke soloist Shannon Ward\
-
+_Sir Duke soloist Shannon Ward\
 The "section leader" we adored\
-
 Cucumber forgotten,\
-
 Avocado was bought then,\
+Now low brass cries no no no no torture!_
 
-Now low brass cries no no no no torture!\*
-
-\*Tough c-net parts are Jeanelle's forte\
-
+_Tough c-net parts are Jeanelle's forte\
 She plays for the Mass every Sunday\
-
 Meatless Monday's her jam\
-
 From Massachusetts homeland!\
+Catch her at BRCC dinners on Tuesday!_
 
-Catch her at BRCC dinners on Tuesday!\*
-
-\*Band sophomore Witkin, Zach\
-
+_Band sophomore Witkin, Zach\
 Has the whole Ratty in his backpack\
-
 Concentration: dev studies\
-
 He's been to too many countries \
+The GCB will keep him coming back_
 
-The GCB will keep him coming back\*
-
-\*Zach Woessner is a gangly fellow,\
-
+_Zach Woessner is a gangly fellow,\
 You can say he's quite a mello,\
-
 His script-reading's lit\
-
 Ask him to do a split\
+Does he have bones or is he just jello?_
 
-Does he have bones or is he just jello?\*
-
-\*Oh outro, you are really swell. \
-
+_Oh outro, you are really swell. \
 You always make us leave well. \
-
 Whenever you come on,\
-
 We know we can't be on. \
-
-Uhhh, bye.\*
+Uhhh, bye._
 
 (PS: See us at Yale next weekend. Bye for real this time. Brown Band out.)
 

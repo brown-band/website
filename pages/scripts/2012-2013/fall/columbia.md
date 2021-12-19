@@ -28,103 +28,75 @@ Ladies and Gentlemen, friends and alumni, presenting an organization that's pret
 
 :sd[Band forms a champagne glass with senior bubbles and plays Bits & Pieces after each senior Limerick.]
 
-\*Without Wilson there is no Band.\
-
+_Without Wilson there is no Band.\
 We're lucky for his helping hand!\
-
 He picks up the slack,\
-
 Even with his bad back.\
+He is the best Baer in the land!_
 
-He is the best Baer in the land!There once was a man named Jeff Blum\
-
+_There once was a man named Jeff Blum\
 This year, he's kind of an alum.\
-
 He read every script,\
-
 And the Bonesaw equipped\
-
 When he is gone we'll be glum.We have this good friend named Jon Cox:\
-
 This senior is one stone cold fox.\
-
 He plays the trombone\
-
 With really good tone.\
+Knock knock, this jock rocks our socks._
 
-Knock knock, this jock rocks our socks.We love this dude named Danny Gleave\
-
+_We love this dude named Danny Gleave\
 We're already preparing to grieve\
-
 When he goes away\
-
 We'll cry every day\
+What the hell will he do when he leaves?_
 
-What the hell will he do when he leaves?Our friend Isaac is on his way out\
-
+_Our friend Isaac is on his way out\
 When he leaves we will all start to pout\
-
 At his last hockey game\
-
 He rose to great fame\
+For "Vehicle" thrice did he shout_
 
-For "Vehicle" thrice did he shoutThere's this grandmother named Michelle Graff\
-
+_There's this grandmother named Michelle Graff\
 She has a melodious laugh\
-
 She's a slothy C-net\
-
 We will never forget\
+For she was a mom and a half_
 
-For she was a mom and a halfOur oh so fertile Bguest\
-
+_Our oh so fertile Bguest\
 Who always plays sousa the best\
-
 Drinkin forties by the bottle\
-
 What a great role model\
+He upholds traditions with zest_
 
-He upholds traditions with zestDear Steven's a huge fan of bacon\
-
+_Dear Steven's a huge fan of bacon\
 His love for cars he ain't fakin\
-
 He plays snare so loud\
-
 It makes us real proud\
+For the Princeton band he's always achin'_
 
-For the Princeton band he's always achin'To Joanna, our beloved conductor\
-
+_To Joanna, our beloved conductor\
 In the band hall of fame we'd induct her\
-
 We gave her a plaque\
-
 Cuz we all want her back\
+If she were single we def would've **hugged** her_
 
-If she were single we def would've **hugged** herThere once was a bandie named 'Nyah\
-
+_There once was a bandie named 'Nyah\
 Who played bari sax without flaw\
-
 In France she did study\
-
 We missed our **hug**buddy\
+So Voulez Vous Couchez avec moi?_
 
-So Voulez Vous Couchez avec moi?Jenny Steger is just way too cute!\
-
+_Jenny Steger is just way too cute!\
 She plays clarinet, not the flute.\
-
 She loves tiny creatures,\
-
 Has beautiful features,\
+And is such a smartie to boot!_
 
-And is such a smartie to boot!Oh how we'll miss our Nawal\
-
+_Oh how we'll miss our Nawal\
 Without her the trumpets would fall\
-
 She knows Descartes and Plato\
-
 And the workings of NATO\
-
-She's certainly beloved by all.\*
+She's certainly beloved by all._
 
 We hope you enjoyed this football season as much as we did, but unfortunately we were too focused on gaping paternal plot holes and completely disregarded the Immaculate Conception. But come out and support the Brown Bears in all the Winter Sports and watch us try to declare a War on Christmas. That's all folks!
 

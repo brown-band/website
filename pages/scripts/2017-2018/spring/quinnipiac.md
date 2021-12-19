@@ -20,7 +20,6 @@ Watch now as the Band mourns Brown Mo(u)rning Mail and plays I Want Morning Mail
 :sd[Band forms a frowny face and plays I Want You Back.]
 
 Quinnipiac is nestled in the heart of Connecticut, home to lax bros and nutmeg, apparently. \
-
 Here is a list of questions Google search suggested we ask about Connecticut:
 
 :::script-list

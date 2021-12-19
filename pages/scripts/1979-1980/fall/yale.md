@@ -14,7 +14,7 @@ date: 1979-09-22
 
 Ladies and Gentlemen, friends and alumni, and all you pooped out, pampered, preppie puppies, it's the one and only Brown University Half-Gassed but Fully-Tanked Band.
 
-Having nearly spent our small reservoir of that precious natural fluid, petroleum, we're fast heading for a mounting crisis. We suggest these alternative power sources:\
+Having nearly spent our small reservoir of that precious natural fluid, petroleum, we're fast heading for a mounting crisis. We suggest these alternative power sources:
 
 - We can harness the pre-med who can heat his dorm by burning the midnight oil.
 - In the U.S. alone, there is estimated to be over 25 million nuclear families. This is a huge, untapped energy source.

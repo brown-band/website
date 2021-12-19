@@ -30,17 +30,11 @@ This week is the Jewish holiday of Passover, so how could we pass up this opport
 Like many other Brown students, we've all recently had the privilege to receive free copies of Rich Shapero's multimedia literary masterpiece, _Arms from the Sea_. For those of you who haven't had the chance to read the epic tale of Lyle's encounters with a "monstrous, seductive god" and his romance with a polyp, we thought we'd treat you all to a live reading.
 
 The tip was inches from Lyle's face. It began to wriggle.\
-
 "What you long for--" The Polyp's voice was rich with emotion.\
-
 My dream, Lyle thought.\
-
 "Your dream--to create life and tend it. This dream," the Polyp whispered, "is as real as you want it to be." \
-
 Lyle raised his hand. The wriggling tip touched his palm.\
-
 "Lord of the deep," the Polyp said.\
-
 Watch now as the Band forms one of Polyp's tentacles and plays Bring the Tentacles.
 
 :sd[Band forms a B-shaped tentacle and plays Bring the Victory.]

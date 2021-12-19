@@ -14,19 +14,13 @@ date: 2010-10-23
 
 Ladies and Gentlemen, friends and alumni, presenting an organization that appreciates the alumni of Cornell, it's the Brown University "Bill! Bill! Bill! Bill! Bill! Bill! Bill Nye the Science Guy!" BAND!
 
-Because Cornell is a roughly 98.3% state and 1.7% private school, there are some disparities in the quality of education between our two universities. For example, here are some things one can learn at Cornell:\
-\
+Because Cornell is a roughly 98.3% state and 1.7% private school, there are some disparities in the quality of education between our two universities. For example, here are some things one can learn at Cornell:
 
-- How can a clam cram in a clean cream can? \
-
-- Picky people pick Peter Pan Peanut-Butter, 'tis the peanut-butter picky people pick. \
-
-- The big black bug bit the big black bear, but the big black bear bit the big black bug back! \
-
-- And everybody's favorite... \
-
-- Peter Piper picked a peck of pickled peppers! \
-  \
+- How can a clam cram in a clean cream can?
+- Picky people pick Peter Pan Peanut-Butter, 'tis the peanut-butter picky people pick.
+- The big black bug bit the big black bear, but the big black bear bit the big black bug back!\
+  And everybody's favorite...
+- Peter Piper picked a peck of pickled peppers!
 
 PHEW!
 

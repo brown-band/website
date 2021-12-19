@@ -26,21 +26,14 @@ Watch now as the Band tries to get all of that fire-extinguisher stuff off their
 :sd[Band forms "Fire Extinguisher" and plays "Come On Eileen."]
 
 Speaking of finals...\
-\*I will not take them in a box.\
-
+_I will not take them in a box.\
 I will not take them with a fox\
-
 I will not take them in a house\
-
 I will not take them with a mouse\
-
 I will not take them here or there.\
-
 I will not take them anywhere.\
-
 I will not take my final exam.\
-
-I will not take it, Sam-I-am.\*
+I will not take it, Sam-I-am._
 
 :sd[Band forms a B and plays "Brown Man Born."]
 
