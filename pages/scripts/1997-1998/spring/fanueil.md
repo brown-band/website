@@ -1,5 +1,4 @@
 ---
-scriptType: other
 title: Fanueil Hall Show
 date: 1998-02-28
 ---

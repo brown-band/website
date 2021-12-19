@@ -1,5 +1,5 @@
 ---
-scriptType: hockey
+sport: hockey
 opponent: Dartmouth
 date: 1997-03-01
 ---

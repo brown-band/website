@@ -11,8 +11,6 @@ layout: base
         {{teams.away.name}}{{score(teams.away.score)}}
         at {{teams.home.name}}{{score(teams.home.score)}}
       </h1>
-    {% elif scriptType == "adoch" %}
-      <h1>A Day on College Hill {{date.getFullYear()}}</h1>
     {% elif opponent %}
       <# when we don't know home/away or scores #>
       <h1>Brown <em>vs</em> {{opponent}}</h1>

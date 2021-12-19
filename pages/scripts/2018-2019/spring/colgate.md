@@ -1,5 +1,5 @@
 ---
-scriptType: hockey
+sport: hockey
 iceShowTheme: Shrek
 teams:
   home:

@@ -1,5 +1,5 @@
 ---
-scriptType: hockey
+sport: hockey
 opponent: Clarkson
 date: 1996-02-24
 ---

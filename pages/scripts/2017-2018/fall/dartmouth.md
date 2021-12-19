@@ -1,6 +1,6 @@
 ---
 title: Dartmouth (at Fenway)
-scriptType: football
+sport: football
 teams:
   home:
     name: Brown

@@ -1,5 +1,5 @@
 ---
-scriptType: hockey
+sport: hockey
 iceShowTheme: Disney
 teams:
   home:

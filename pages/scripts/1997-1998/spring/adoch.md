@@ -1,5 +1,4 @@
 ---
-scriptType: adoch
 date: 1998-04-15
 ---
 

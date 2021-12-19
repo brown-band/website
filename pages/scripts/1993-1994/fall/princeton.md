@@ -1,6 +1,6 @@
 ---
 title: Princeton (Homecoming)
-scriptType: football
+sport: football
 teams:
   home:
     name: Brown

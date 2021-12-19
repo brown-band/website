@@ -1,5 +1,5 @@
 ---
-scriptType: football
+sport: football
 teams:
   home:
     name: Penn

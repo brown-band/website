@@ -1,6 +1,5 @@
 ---
-title: Harvard Hockey
-scriptType: hockey
+sport: hockey
 teams:
   home:
     name: Brown

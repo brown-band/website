@@ -1,5 +1,5 @@
 ---
-scriptType: hockey
+sport: hockey
 opponent: Cornell
 date: 1998-02-20
 ---

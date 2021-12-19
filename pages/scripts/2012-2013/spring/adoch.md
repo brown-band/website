@@ -1,5 +1,4 @@
 ---
-scriptType: adoch
 date: 2013-04-15
 ---
 

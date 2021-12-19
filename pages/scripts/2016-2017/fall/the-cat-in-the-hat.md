@@ -1,5 +1,4 @@
 ---
-scriptType: other
 date: 2016-10-26
 ---
 

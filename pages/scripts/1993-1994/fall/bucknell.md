@@ -1,6 +1,6 @@
 ---
 title: Bucknell (Parents’ Weekend)
-scriptType: football
+sport: football
 teams:
   home:
     name: Brown

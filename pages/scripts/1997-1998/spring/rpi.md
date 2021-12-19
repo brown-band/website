@@ -1,5 +1,5 @@
 ---
-scriptType: hockey
+sport: hockey
 opponent: RPI
 date: 1998-02-06
 ---

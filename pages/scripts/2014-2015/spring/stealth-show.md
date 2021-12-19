@@ -1,5 +1,4 @@
 ---
-scriptType: stealth_show
 date: 2015-04-09
 ---
 

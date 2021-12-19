@@ -1,6 +1,5 @@
 ---
 title: Skating Party Show
-scriptType: other
 date: 1985-02-23
 ---
 
