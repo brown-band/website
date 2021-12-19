@@ -24,7 +24,7 @@ module.exports = {
         }
       : script,
   title(data) {
-    if (data.title) return;
+    if (data.title) return data.title;
     if (data.script) {
       if (data.script.teams) {
         return (
