@@ -18,7 +18,9 @@ layout: base
       <h1>{{title}}</h1>
     {% endif %}
     <h2>{{date | script_date }}</h2>
-    <h3>{{script.writers | listify}}
+    {% if writers %}
+      <h3>{{writers | listify}}</h3>
+    {% endif %}
   </header>
   {{content | safe}}
 </article>
