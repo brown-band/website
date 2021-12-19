@@ -2,7 +2,7 @@
 layout: base
 ---
 
-{% macro score(score) %}{% if score %} ({{score}}){% endif %}{% endmacro %}
+{% macro score(score) %}{% if score != null %} ({{score}}){% endif %}{% endmacro %}
 
 <article>
   <header>
