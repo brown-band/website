@@ -12,8 +12,8 @@
  * @param {(status: { received: number, total: number }) => void} onProgress
  * @returns {Promise<ArrayBuffer>}
  */
-const fetchFile = (path, onProgress = () => {}) =>
-  fetch(new URL("/" + path, globalThis.mediaHost).toString())
+const fetchFile = (path, onProgress = () => {}, signal) =>
+  fetch(new URL("/" + path, globalThis.mediaHost).toString(), { signal })
     .then(async (res) => {
       // https://javascript.info/fetch-progress
       const reader = res.body.getReader();
@@ -57,6 +57,8 @@ const audio = document.querySelector(".player-wrapper audio");
 
 /** @type {string | undefined} */
 let urlToDispose;
+/** @type {AbortController | undefined} */
+let abortController;
 
 /**
  * @template {keyof HTMLElementTagNameMap} Name
@@ -86,10 +88,17 @@ const playTrack = (/** @type {FileTrack} */ track) => {
   progress.hidden = false;
   progress.removeAttribute("value");
 
-  fetchFile(track.file, ({ received, total }) => {
-    progress.max = total;
-    progress.value = received;
-  })
+  if (abortController) abortController.abort();
+  abortController = new AbortController();
+
+  fetchFile(
+    track.file,
+    ({ received, total }) => {
+      progress.max = total;
+      progress.value = received;
+    },
+    abortController.signal
+  )
     .then((song) =>
       URL.createObjectURL(new Blob([song], { type: `audio/${track.type}` }))
     )
