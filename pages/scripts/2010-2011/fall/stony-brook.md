@@ -5,7 +5,7 @@ teams:
     name: Brown
     score: 7
   away:
-    name: SUNY Stony Brook
+    name: Stony Brook
     score: 24
 date: 2010-09-18
 ---

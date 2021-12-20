@@ -50,21 +50,63 @@ holy-cross:
   color: "#993366" # Purple
   type: recent
 
-georgetown:
-  color: "#808080" # Gray
+albany:
+  color: "#46166b" # Purple
+  type: other
+army:
+  color: "#BE9969" # Gold
+  type: other
+bucknell:
+  color: "#ef5b0c" # Orange
+  type: other
+clarkson:
+  color: "#03522B" # Green
   type: other
 colgate:
   color: "#800000" # Maroon
   type: other
-stony-brook:
-  color: "#ff2400" # Scarlet
+fordham:
+  color: "#700429" # Maroon
   type: other
-st.-lawrence:
-  color: "#ff2400" # Scarlet
+georgetown:
+  color: "#808080" # Gray
+  type: other
+lafayette:
+  color: "#910029" # Maroon
+  type: other
+lehigh:
+  color: "#653819" # Brown
+  type: other
+penn-state:
+  color: "#001e44" # Blue
+  type: other
+providence-college:
+  color: "#8a8d8f" # Blue
   type: other
 quinnipiac:
   color: "#0000ff" # Blue
   type: other
 rpi:
   color: "#de3163" # Cherry
+  type: other
+san-diego:
+  color: "#c69214" # UC San Diego Gold
+  type: other
+st-lawrence:
+  color: "#ff2400" # Scarlet
+  type: other
+stetson:
+  color: "#0e5540" # Stetson Green
+  type: other
+stony-brook:
+  color: "#ff2400" # Scarlet
+  type: other
+uconn:
+  color: "#000e2f" # Navy Blue
+  type: other
+union:
+  color: "#822433" # Union Garnet
+  type: other
+uvm:
+  color: "#007155" # UVM Green
   type: other
