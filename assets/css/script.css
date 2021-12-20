@@ -1,11 +1,10 @@
 ._69-direction::before {
   content: "[";
+  font-style: normal;
 }
 ._69-direction::after {
   content: "]";
-}
-._69-direction::before {
-  content: "[";
+  font-style: normal;
 }
 ._69-direction {
   font-style: italic;
