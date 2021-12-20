@@ -13,7 +13,7 @@ eleventyComputed:
 
 {% set writers = collections[semester.collection][0].data.writers %}
 {% if writers %}
-<p class="h4">Scriptwriters: {{writers | listify}}</p>
+<p class="h4">Scriptwriter{% if writers.length != 1 %}s{% endif %}: {{writers | listify}}</p>
 {% endif %}
 
 {% if collections[semester.collection].length > 1 %}
