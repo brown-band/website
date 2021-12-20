@@ -51,12 +51,12 @@
     - title: Ivy Bands Agreement
       url: /ivy-bands-agreement/
 
-    - heading: Commencement
-    - title: Schedule
-      url: /commencement-schedule/
-      disabled: true
-    - title: Student Signup
-      url: https://docs.google.com/forms/d/1gDBvdABCfKt4JbuEdR2kOVR5RRp4gmNPoyUYlx0Q6cs/viewform?usp=send_form
-    - title: Alumni Signup
-      url: /commencement-sign-alumni/
-      disabled: true
+    # - heading: Commencement
+    # - title: Schedule
+    #   url: /commencement-schedule/
+    #   disabled: true
+    # - title: Student Signup
+    #   url: https://docs.google.com/forms/d/1gDBvdABCfKt4JbuEdR2kOVR5RRp4gmNPoyUYlx0Q6cs/viewform?usp=send_form
+    # - title: Alumni Signup
+    #   url: /commencement-sign-alumni/
+    #   disabled: true
