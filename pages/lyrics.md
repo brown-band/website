@@ -5,7 +5,7 @@
 **_This is Brown's official fight song and can be heard after a touchdown or when the team takes the field or the ice. There are two versions: one traditional, and one that's more... shall we say, suitable for the band._**
 
 <table class="table table-borderless">
-<thead class="table-info">
+<thead class="text-center">
 <tr>
     <th scope="col" style="border-right: 1.5px solid #aaa">Traditional version</th>
     <th scope="col">"Modern" version</th>
@@ -211,7 +211,7 @@ Ring back our tones of cheer.
 
 ---
 
-## Alma Mater ("That Song")
+## Alma Mater ("That Song" or "Apple Mango")
 
 <cite>J.A. De Wolf 1861</cite>
 
