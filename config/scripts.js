@@ -12,13 +12,7 @@ module.exports = (eleventyConfig) => {
   const yearCollections = [];
   const semesterCollections = [];
   for (const year of years) {
-    const yearName = `scripts_${year.replace("-", "_")}`;
-    eleventyConfig.addCollection(yearName, (collectionApi) => {
-      return collectionApi
-        .getFilteredByTag("script")
-        .filter((page) => page.filePathStem.startsWith("/scripts/" + year));
-    });
-    const yearMap = { year, collection: yearName };
+    const yearMap = { year };
     for (const semester of fs
       .readdirSync(path.join(scriptsDir, year))
       .filter((n) => !n.endsWith(".yml"))) {
@@ -45,7 +39,7 @@ module.exports = (eleventyConfig) => {
   }
 
   eleventyConfig.addGlobalData("scripts", {
-    yearCollections,
-    semesterCollections,
+    years: yearCollections,
+    semesters: semesterCollections,
   });
 };
