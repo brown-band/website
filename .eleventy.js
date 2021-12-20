@@ -1,7 +1,7 @@
 // @ts-check
 const fs = require("fs");
-/** @type {import('date-fns').format} */
-const formatDate = /** @type {any} */ (require("date-fns/format"));
+/** @type {any} */
+const formatDate = require("date-fns-tz/formatInTimeZone");
 const listify = require("listify");
 
 process.on("unhandledRejection", (err) => {
@@ -87,7 +87,7 @@ module.exports = (eleventyConfig) => {
     return title ? `${title} | ${this.ctx.site.title}` : this.ctx.site.title;
   });
   eleventyConfig.addFilter("script_date", function (date) {
-    return formatDate(date, "EEEE, MMMM do, y");
+    return formatDate(date, "UTC", "EEEE, MMMM do, y");
   });
   eleventyConfig.addFilter("listify", function (items) {
     return listify(items ?? []);
