@@ -32,18 +32,21 @@ const createChild = (name, parent) => {
   return child;
 };
 
-const renderTrack = (track) => {
+const renderTrack = (track, includeArranger) => {
   const row = document.createElement("tr");
 
   if (track.header) {
     const title = createChild("th", row);
-    title.colSpan = 2;
+    title.colSpan = includeArranger ? 3 : 2;
     title.textContent = track.header;
+    title.className = "text-center";
     return row;
   }
-  const title = createChild("td", row);
-  title.textContent = track.title;
-  row.appendChild(title);
+  createChild("td", row).textContent = track.title;
+
+  if (includeArranger) {
+    createChild("td", row).textContent = track.arranger || "";
+  }
 
   const button = createChild("button", createChild("td", row));
   button.className = "btn btn-secondary btn-sm";
@@ -57,6 +60,8 @@ const renderTrack = (track) => {
     document.querySelector(".player-wrapper").removeAttribute("hidden");
     document.querySelector(".player-wrapper .now-playing").textContent =
       track.title;
+    document.querySelector(".player-wrapper .player-status").textContent =
+      "Loading";
 
     fetchFile(track.file)
       .then((song) =>
@@ -66,6 +71,8 @@ const renderTrack = (track) => {
         if (urlToDispose) URL.revokeObjectURL(urlToDispose);
         urlToDispose = songURL;
 
+        document.querySelector(".player-wrapper .player-status").textContent =
+          "Playing";
         audio.style.opacity = "1";
         audio.src = songURL;
         audio.play();
@@ -85,9 +92,17 @@ const renderAlbum = (album) => {
   table.className = "table";
 
   const headerRow = createChild("tr", createChild("thead", table));
+  createChild("th", headerRow).textContent = "Title";
+  const includeArranger = album.tracks.some((t) => t.arranger);
+  if (includeArranger) {
+    createChild("th", headerRow).textContent = "Arranger";
+  }
+  createChild("th", headerRow).style.width = "60px";
 
   const tbody = createChild("tbody", table);
-  album.tracks.map(renderTrack).forEach((el) => tbody.appendChild(el));
+  album.tracks
+    .map((t) => renderTrack(t, includeArranger))
+    .forEach((el) => tbody.appendChild(el));
 
   return sec;
 };
