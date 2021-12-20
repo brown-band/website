@@ -10,7 +10,7 @@ teams:
 date: 1996-10-19
 ---
 
-## Pregame:
+## Pregame
 
 Ladies and gentlemen, friends and alumnae, and kids, presenting an organization that’s putting its money on Barney in the upcoming battle of the PBS stars because a dinosaur can beat any bird, no matter how big it is, it’s the Brown University "C" is for cookie, that’s good enough for me Band!
 
@@ -22,7 +22,7 @@ Quote for the day: "When I was younger, I could remember everything, whether it 
 
 :sd[Band marches off to #1]
 
-## Halftime:
+## Halftime
 
 <small>(or, The Band Sells Out)</small>
 

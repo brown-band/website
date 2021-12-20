@@ -10,7 +10,7 @@ teams:
 date: 1996-10-26
 ---
 
-## Pregame:
+## Pregame
 
 Ladies and gentlemen, friends and alumnae, freshman mothers and fathers (and their parents), presenting an organization that just cleaned its room for the first time this year, it’s the Brown University "You got what pierced?!" Band!
 
@@ -22,7 +22,7 @@ Possibly the greatest writer of our time, the infinitely gifted Michael Crichton
 
 :sd[Band marches off to #1]
 
-## Halftime:
+## Halftime
 
 Ladies and gentlemen, friends and alumnae, freshman mothers and fathers (and their parents), presenting an organization that doesn’t wear anything under its kilt, but boy does that wool itch, it’s the Brown University "I am Elrod T. Snidley of the clan Snidley" Band!
 

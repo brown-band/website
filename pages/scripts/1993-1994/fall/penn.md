@@ -10,13 +10,13 @@ teams:
 date: 1993-10-23
 ---
 
-## Pregame:
+## Pregame
 
 Ladies and gentlemen, friends and alumni, presenting an organization composed entirely of unemployed former Solid Gold dancers, it's the Brown University - hot pants should be banned - BAND!!!!
 
 :sd[Field takes band.]
 
-## Halftime:
+## Halftime
 
 Ladies and gentlemen, friends and alumni, presenting an organization that is about to act out page 217 of its autobiography, it's the Brown University - let's hope the next 217 are as good as the first 217 were - BAND!!!!
 

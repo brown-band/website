@@ -10,7 +10,7 @@ teams:
 date: 1997-10-18
 ---
 
-## Pregame:
+## Pregame
 
 Ladies and Gentlemen, Friends and Alumni, presenting an organization that secretly funded Ralph Nader's election campaign, it's the Brown University "soft money, hard luck" BAND!
 
@@ -24,7 +24,7 @@ Ladies and Gentlemen, Friends and Alumni, presenting an organization that secret
 
 :sd[Band plays SSB on cue]
 
-## Halftime:
+## Halftime
 
 :sd[Brown Band conglomerates in southernmost endzone, URI Band blocks up in opposite endzone]
 

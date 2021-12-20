@@ -10,7 +10,7 @@ teams:
 date: 1997-09-20
 ---
 
-## Halftime:
+## Halftime
 
 Ladies and gentlemen, friends and alumni, secret society members, and all you members of the New Haven Local #369 Papparazzi Trade Union, presenting an organization that runs the tightest band in the banding business, it's the Brown University 3rd day air track BAND!
 

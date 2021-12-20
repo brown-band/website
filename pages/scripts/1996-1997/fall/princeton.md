@@ -12,7 +12,7 @@ date: 1996-10-12
 
 <small>_(We won, because we won, because we won, because we won...)_</small>
 
-## Pregame:
+## Pregame
 
 Ladies and gentlemen, friends and alumnae, presenting an organization that traveled South in search of the New World and found New Jersey instead, it's the Brown University "Garden, what garden?" Band!
 
@@ -28,7 +28,7 @@ And now for the single non-rotating "B." Deal with it.
 
 :sd[Band plays #1, marches off field]
 
-## Halftime:
+## Halftime
 
 Ladies and gentlemen, friends and alumnae:
 

@@ -10,13 +10,13 @@ teams:
 date: 1993-09-18
 ---
 
-## Pregame:
+## Pregame
 
 Ladies and Gentlemen, friends and alumni, presenting an organization that is about to decisively prove its superior fashion sense, it's the Brown University - anyone wanna buy a used rugby? - Band.
 
 :sd[Band struts onto field, making sure to do our best supermodel imitations.]
 
-## Halftime:
+## Halftime
 
 Ladies and Gentlemen, friends and alumni, presenting an organization that feels safe to walk upon its own city streets, it's the Brown University - we get to leave after the game - Band.
 

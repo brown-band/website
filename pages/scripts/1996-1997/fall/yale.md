@@ -10,7 +10,7 @@ teams:
 date: 1996-09-21
 ---
 
-## Pregame:
+## Pregame
 
 Ladies and gentlemen, friends and alumnae, presenting an organization that can dance the Macarena better than Al Gore, it's the Brown University "hey watch it, that was my foot!" Band!
 
@@ -28,7 +28,7 @@ Welcome to another exciting year of Brown football!
 
 :sd[Band plays #1, marches off field]
 
-## Halftime:
+## Halftime
 
 Ladies and gentlemen, friends and alumnae, presenting the only organization that quotes Kierkegaard more often than President Gregorian, it's the Brown University "sound of one hand clapping" Band!
 

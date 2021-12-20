@@ -10,7 +10,7 @@ teams:
 date: 1997-10-25
 ---
 
-## Pregame:
+## Pregame
 
 Ladies and gentlemen, friends and alumni, freshman mothers and fathers (and their parents), presenting an organization that needs no introduction, because you'd all be happier if we'd stayed at home, it's the "Yale Precision Marching Band!"
 
@@ -30,7 +30,7 @@ Watch now as the Failed Incision Marching Bland forms a "B" for bulldogs and bor
 
 :sd[Band marches off to #1]
 
-## Halftime:
+## Halftime
 
 Ladies and gentlemen, friends and alumni, freshman mothers and fathers (and their parents), presenting an organization that wonders why it even bothers with a script because you Penn yahoos are gonna be booing us too loud to hear it anyway, it's the Brown University "Hey! Get your foot out of my astroturf!" BAND!
 

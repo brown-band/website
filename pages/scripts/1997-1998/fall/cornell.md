@@ -10,7 +10,7 @@ teams:
 date: 1997-11-01
 ---
 
-## Pregame:
+## Pregame
 
 Ladies and gentlemen, friends and alumni, freshman mothers and fathers (and their parents), presenting an organization that now has a corner on the world beef jerky market, it's the Brown University "Please pass the parbroiled percussionist" BAND!
 
@@ -22,7 +22,7 @@ The band has been considering a change in its dietary habits-- cannibalism. Acco
 
 :sd[Band plays Spam Speckled Banana on cue]
 
-## Halftime:
+## Halftime
 
 Ladies and gentlemen, friends and alumni, freshman mothers and fathers (and their parents), presenting an organization that dressed as El Niï¿½o for Hallowe'en, it's the Brown University "All I got was a rock" BAND!
 

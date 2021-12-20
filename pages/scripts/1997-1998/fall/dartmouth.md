@@ -19,7 +19,7 @@ date: 1997-11-15
 Portions in curly brackets ({}) cut due to time constraints\
 Portions in at signs (@@) censored
 
-## Pregame:
+## Pregame
 
 Ladies and gentlemen, friends and alumni, presenting an organization that blasphemes with impunity, it's the Brown University Manichean Heresy BAND!
 
@@ -33,7 +33,7 @@ Last week's once-millenial elections for supreme being of the Western-paradigm c
 
 :sd[Band marches off field in the "B" playing #1]
 
-## Halftime:
+## Halftime
 
 Ladies and gentlemen, friends and alumni, presenting an organization that has just had its conviction reduced to involuntary manslaughter, it's the Brown University "Whole Lotta Shakin' Goin' On" BAND!
 

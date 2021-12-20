@@ -10,7 +10,7 @@ teams:
 date: 1997-09-27
 ---
 
-## Pregame:
+## Pregame
 
 Ladies and gentlemen, friends and alumni, presenting an organization that has recently accepted a large anonymous donation from an anonymous donor who wishes that his name remain unknown, it's the Brown University Turner Network Corporation Band!
 
@@ -24,7 +24,7 @@ OK, so maybe we're not exactly the UN, but at least as far as fundraising goes w
 
 :sd[Band plays National Anthem on cue (?)]
 
-## Halftime:
+## Halftime
 
 Ladies and gentlemen, friends and alumni, presenting an organization with a three pack a day habit, it's the Brown University "Uncommonly Smooth" BAND!
 

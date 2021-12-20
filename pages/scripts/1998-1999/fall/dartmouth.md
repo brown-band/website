@@ -55,7 +55,7 @@ She writes papers about us—what more could we ask for?\
 Our illustrious student conductor, it’s Kate\
 She keeps us in rhythm, and what’s more, she makes sure we start and finish on time—oh, wait…
 
-## Halftime:
+## Halftime
 
 Ladies and gentlemen, daddies and mommies,\
 Friends and alumni, fascists and commies, \

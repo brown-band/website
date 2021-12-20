@@ -14,7 +14,7 @@ date: 1997-11-08
 >
 > _Also, the final "stage direction" is not entirely accurate... the band actually chased the puppets off the field, not vice versa. **- CB '98**_
 
-## Pregame:
+## Pregame
 
 Ladies and gentlemen, friends and alumni, and all you wacky Gates University kids, presenting an organization that's being fined a million dollars a day, it's the Brown University with built-in Java-incompatible Internet Explorer BAND 97!!!
 
@@ -30,7 +30,7 @@ Not content to control the software business, Microsoft has expanded in a direct
 
 :sd[Band plays National Anthem on cue]
 
-## Halftime:
+## Halftime
 
 **Announcer:** Ladies and gentlemen, friends and alumni, and all you Gates University kids, presenting an organization that can't tell its cerebellum from its medulla, it's the brainiest band in the world (or at least this stadium) THE BROWN UNIVERSITY SPLIT-BRAIN BAND!
 

@@ -10,13 +10,13 @@ teams:
 date: 1993-11-06
 ---
 
-## Pregame:
+## Pregame
 
 Ladies and gentlemen, friends and alumni, presenting the best band pound-for-pound in the world, it's the Brown University - "We're the greatest of all tiiiime" - BAND!!!
 
 :sd[Band shuffles onto field.]
 
-## Halftime:
+## Halftime
 
 Ladies and gentlemen, friends and alumni, presenting a bunch of people with instruments, it's the Brown University - "Tuba? We don't need no stinkin' tuba" - BAND!!!
 

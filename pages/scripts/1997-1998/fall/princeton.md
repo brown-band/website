@@ -10,7 +10,7 @@ teams:
 date: 1997-10-11
 ---
 
-## Pregame:
+## Pregame
 
 Ladies and gentlemen, friends and alumni, and Princeton first-years, presenting an organization that has switched to a flat-fee unlimited band access, it's the Brown University "You've Got Mail!" BAND!
 
@@ -28,7 +28,7 @@ Watch now as the band proudly salutes the battle between New York and New Jersey
 
 :sd[Band marches off to "Ever True"]
 
-## Halftime:
+## Halftime
 
 Ladies and gentlemen, friends and alumni, and Princeton first-years, WARNING The following halftime show contains:
 

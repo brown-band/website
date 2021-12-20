@@ -16,7 +16,7 @@ date: 1997-11-22
 
 (portions in curly brackets ({}) cut due to timing issues or Senior absence)
 
-## Pregame:
+## Pregame
 
 Alumni, Ladies, gentlemen and friends\
 Today to prick your fancy we present\
@@ -99,7 +99,7 @@ We hope they're not all homeless :sd[beat] by next Fall.
 
 :sd[followed by songs of patriotic nature]
 
-## Halftime:
+## Halftime
 
 Alumni, Ladies, Gentlemen and friends\
 Today for your amusement we present\

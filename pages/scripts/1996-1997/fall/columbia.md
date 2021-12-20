@@ -10,7 +10,7 @@ teams:
 date: 1996-11-23
 ---
 
-## Pregame:
+## Pregame
 
 Ladies and gentlemen, friends and alumni, presenting an organization that promises no smurf jokes or triple your money back, it’s the Brown University "Three apples high" BAND!
 
@@ -24,7 +24,7 @@ Today’s game, which has historically been played to see who would avoid residi
 
 :sd[Band Marches off to #1 (still in "B")]
 
-## Halftime:
+## Halftime
 
 Ladies and gentlemen, friends and alumni, presenting an organization that has been banned from BioSphere 2, it’s the Brown University "Which virus was in the vial I just dropped?" BAND!
 

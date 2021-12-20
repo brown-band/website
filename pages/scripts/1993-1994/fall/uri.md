@@ -10,13 +10,13 @@ teams:
 date: 1993-10-02
 ---
 
-## Pregame:
+## Pregame
 
 Ladies and gentlemen, friends and alumni, presenting an organization that is celebrating its 69th anniversary, it's the Brown University "why yes, these are new uniforms we're wearing" BAND!!!
 
 :sd[Band takes the field in a fit of 69th anniversary jubilation.]
 
-## Halftime:
+## Halftime
 
 Ladies and gentlemen, friends and alumni, presenting an organization that was NOT humiliated by North Carolina on national TV last April, it's the Brown University "where is Kingston, anyway?" BAND!!!
 

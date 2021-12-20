@@ -10,7 +10,7 @@ teams:
 date: 1996-11-16
 ---
 
-## Pregame:
+## Pregame
 
 Ladies and gentlemen, friends and alumnae, presenting an organization that promises no sheep jokes or triple your money back, it’s the Brown University Shear Madness Band!
 
@@ -32,7 +32,7 @@ And so we bid them good luck in whatever they may attempt. May the wind always b
 
 :sd[Band marches off to #1]
 
-## Halftime:
+## Halftime
 
 Ladies and gentlemen, friends and alumnae, presenting an organization that changes platforms every four years, it’s the Brown University "Memento Moratorium" BAND!
 

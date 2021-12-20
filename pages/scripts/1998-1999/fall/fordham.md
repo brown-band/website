@@ -10,7 +10,7 @@ teams:
 date: 1998-10-17
 ---
 
-## Pregame Show:
+## Pregame
 
 Ladies and gentlemen, friends and alumni, and parents, presenting an organization that that just voted to impeach itself, it’s the Brown University "Fordham? I hardly know ‘em!" Band!
 
@@ -28,7 +28,7 @@ Watch now as the band forms a pigskin and plays "Out, Damned Fox! Out I say!"
 
 :sd[Band plays #1, moves over, plays National Anthem]
 
-## Halftime Show:
+## Halftime
 
 Ladies and gentlemen, friends and alumni, and parents, presenting an organization that is ready to fulfill its own manifest destiny by taking over the field, it’s the Brown University "On a mission from God" Band!!!
 

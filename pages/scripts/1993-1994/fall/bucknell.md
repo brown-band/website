@@ -11,13 +11,13 @@ teams:
 date: 1993-10-16
 ---
 
-## Pregame:
+## Pregame
 
 Ladies and gentlemen, friends and alumni, and parents, presenting a lack of organization, it's the Brown University - what we lack in numbers we make up for in. . . in. . . in. . . oh never mind - BAND!!!
 
 :sd[Band takes field. All 6 of us.]
 
-## Halftime:
+## Halftime
 
 Ladies and gentlemen, friends and alumni, and parents, presenting an organization whose new CD Dusky is on sale now at the Brown Bookstore, it's the Brown University - we sell cassettes too - BAND!!!
 

@@ -10,7 +10,7 @@ teams:
 date: 1993-11-20
 ---
 
-## Halftime:
+## Halftime
 
 Ladies and gentlemen, friends and alumni, presenting an organization that enjoys singing in the rain, it's the Brown University - "Somewhere over the rainbow" - BAND!!!
 

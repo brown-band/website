@@ -10,7 +10,7 @@ teams:
 date: 1996-11-09
 ---
 
-## Halftime:
+## Halftime
 
 Ladies and gentlemen, friends and alumni, and Harvard students, presenting an organization that needs all that fertilizer for gardening. . . honestly! All our hydroponics equipment was confiscated during the moratorium! It’s the Brown University-- Hey, wait a second, whose purple backpack is that?
 

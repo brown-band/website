@@ -11,13 +11,13 @@ teams:
 date: 1993-10-09
 ---
 
-## Pregame:
+## Pregame
 
 Ladies and Gentlemen, friends and alumni, presenting an organization that CHOSE not to apply to Princeton, it's the Brown University - never mind the rankings, New Jersey smells - BAND!!!
 
 :sd[Band takes the field reading their US News & World Reports.]
 
-## Halftime:
+## Halftime
 
 Ladies and Gentlemen, friends and alumni, presenting an organization that prefers the home-cooked taste of the Ratty to any Eating Club, it's the Brown University - more African Peanut Butter Stew Mom, please - BAND!!!
 

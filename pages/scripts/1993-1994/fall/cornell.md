@@ -10,13 +10,13 @@ teams:
 date: 1993-10-30
 ---
 
-## Pregame:
+## Pregame
 
 Ladies and gentlemen, friends and alumni, presenting an organization that doesn't need masks to celebrate Halloween, it's the Brown University - BOO!! AIGHHH!! - BAND!!!
 
 :sd[Band rides brooms onto field.]
 
-## Halftime:
+## Halftime
 
 Ladies and gentlemen, friends and alumni, presenting an organization that thinks it's a weeble-wobble,
 

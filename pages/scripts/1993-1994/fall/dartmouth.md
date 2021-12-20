@@ -10,13 +10,13 @@ teams:
 date: 1993-11-13
 ---
 
-## Pregame:
+## Pregame
 
 Ladies and gentlemen, friends and alumni, presenting an organization that thrives on adversity, it's the Brown University - go ahead, boo us, taunt us, jeer at us, curse at us, we dare you - BAND!!!
 
 :sd[Band takes field and quickly regrets its words.]
 
-## Halftime:
+## Halftime
 
 Ladies and gentlemen, friends and alumni, presenting an organization that watches too much Saturday Night Live, it's the Brown University - Soylent Green is Sheep! It's Sheep! BAAAAAAAH! - BAND!!
 
