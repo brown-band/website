@@ -4,7 +4,6 @@
       url: /band-board/
     - title: Schedule
       url: /schedule/
-      disabled: true
     - title: Constitution
       url: /constitution/
 
