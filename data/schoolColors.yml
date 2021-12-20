@@ -65,6 +65,9 @@ clarkson:
 colgate:
   color: "#800000" # Maroon
   type: other
+duquesne:
+  color: "#041e42" # Navy
+  type: other
 fordham:
   color: "#700429" # Maroon
   type: other
