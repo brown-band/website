@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html class="h-100">
   <head>
     <title>{{ title | page_title }}</title>
     <link rel="stylesheet" href="/assets/bootstrap.min.css" />
@@ -7,15 +7,15 @@
     <script async src="/assets/bootstrap.min.js"></script>
     <meta name="viewport" content="width=device-width" />
   </head>
-  <body>
-    {% include "nav.njk" %}
-    <div class="container mt-4">
+  <body class="d-flex flex-column h-100">
+    {% include "icons.html" %} {% include "nav.njk" %}
+    <div class="container mt-4 mb-5 flex-shrink-0">
       <div class="row">
         <div class="col-lg-3"></div>
         <main class="col-lg-6">{{content | safe}}</main>
         <div class="col-lg-3"></div>
       </div>
-      {% include "footer.njk" %}
     </div>
+    {% include "footer.html" %}
   </body>
 </html>
