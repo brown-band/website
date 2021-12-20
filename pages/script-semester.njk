@@ -15,7 +15,8 @@ eleventyComputed:
 <p class="h3">Scriptwriters: {{writers | listify}}</p>
 {% endif %}
 
-<nav style="margin-top: 1.5em">
+{% if collections[semester.collection].length > 1 %}
+<nav style="margin-top: 1.5em; margin-bottom: 5em">
 <h2 class="h6 text-uppercase fw-bold">Table of Contents</h4>
 <ul>
 {% for script in collections[semester.collection] %}
@@ -23,10 +24,11 @@ eleventyComputed:
 {% endfor %}
 </ul>
 </nav>
+{% endif %}
 
 {% for script in collections[semester.collection] %}
-{% if loop.index0 %}<hr style="margin-top: 5em">{% endif %}
-<article id="{{script.fileSlug}}" style="margin-top: 5em">
+{% if loop.index0 %}<hr style="margin-bottom: 5em">{% endif %}
+<article id="{{script.fileSlug}}" style="margin-bottom: 5em">
   <header style="text-align: center">
     <h1 class="display-5 fw-normal">
       {% if script.data.teams.home %}
