@@ -32,7 +32,7 @@ const createChild = (name, parent) => {
   return child;
 };
 
-const renderTrack = (folder, track) => {
+const renderTrack = (track) => {
   const row = document.createElement("tr");
 
   if (track.header) {
@@ -58,13 +58,9 @@ const renderTrack = (folder, track) => {
     document.querySelector(".player-wrapper .now-playing").textContent =
       track.title;
 
-    fetchFile(`${encodeURIComponent(folder)}/${encodeURIComponent(track.file)}`)
+    fetchFile(track.file)
       .then((song) =>
-        URL.createObjectURL(
-          new Blob([song], {
-            type: `audio/${track.file.match(/\.(?<ext>[^.]+)/).groups.ext}`,
-          })
-        )
+        URL.createObjectURL(new Blob([song], { type: `audio/${track.type}` }))
       )
       .then((songURL) => {
         if (urlToDispose) URL.revokeObjectURL(urlToDispose);
@@ -91,9 +87,7 @@ const renderAlbum = (album) => {
   const headerRow = createChild("tr", createChild("thead", table));
 
   const tbody = createChild("tbody", table);
-  album.tracks
-    .map((t) => renderTrack(album.name, t))
-    .forEach((el) => tbody.appendChild(el));
+  album.tracks.map(renderTrack).forEach((el) => tbody.appendChild(el));
 
   return sec;
 };
