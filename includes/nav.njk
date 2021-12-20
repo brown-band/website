@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="/assets/css/nav.css" />
+
 {% macro active(url) %}{% if url == page.url %} active{% endif %}{% endmacro %}
 {% macro dropdownActive(content) %}{% for link in content
 %}{{active(link.url)}}{% endfor %}{% endmacro %}
