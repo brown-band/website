@@ -1,0 +1,39 @@
+.header-quote {
+  font-size: 0.8rem;
+  display: inline-block;
+  white-space: normal;
+  word-break: break-word;
+  width: calc(100vw - 158px);
+  min-height: 38px;
+}
+
+@media (min-width: 576px) {
+  .header-quote {
+    width: 382px;
+  }
+}
+@media (min-width: 768px) {
+  .header-quote {
+    width: 180px;
+  }
+}
+@media (min-width: 992px) {
+  .header-quote {
+    width: 300px;
+  }
+}
+
+.dropdown-header {
+  user-select: none;
+  -webkit-user-select: none;
+  pointer-events: none;
+}
+
+.navbar .dropdown-item.active,
+.navbar .dropdown-item:active {
+  background-color: var(--brown-2) !important;
+}
+
+.footer-icon {
+  fill: currentColor;
+}

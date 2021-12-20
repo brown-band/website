@@ -1,11 +1,18 @@
 <!DOCTYPE html>
 <html class="h-100">
   <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+
     <title>{{ title | page_title }}</title>
+
     <link rel="stylesheet" href="/assets/bootstrap.min.css" />
     <link rel="stylesheet" href="/assets/styles.css" />
+    {% for file in ['base', 'nav'].concat(css | default([])) -%}
+    <link rel="stylesheet" href="/assets/css/{{file}}.css" />
+    {%- endfor %}
+
     <script async src="/assets/bootstrap.min.js"></script>
-    <meta name="viewport" content="width=device-width" />
   </head>
   <body class="d-flex flex-column h-100">
     {% include "icons.html" %} {% include "nav.njk" %}

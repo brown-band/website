@@ -1,0 +1,22 @@
+._69-direction::before {
+  content: "[";
+}
+._69-direction::after {
+  content: "]";
+}
+._69-direction::before {
+  content: "[";
+}
+._69-direction {
+  font-style: italic;
+}
+
+._69-list {
+  list-style-type: none;
+  text-indent: -1.25em;
+}
+
+._69-tab {
+  display: inline-block;
+  width: 1em;
+}

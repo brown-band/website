@@ -1,0 +1,46 @@
+:root {
+  --recording-player-height: 120px;
+}
+.player {
+  padding-inline: 1em;
+  height: var(--recording-player-height);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 100%;
+}
+@media (min-width: 576px) {
+  .player,
+  .player-wrapper {
+    border-radius: 0.75rem;
+  }
+  .player-wrapper {
+    position: sticky;
+    bottom: 1em;
+    margin-left: -1em;
+    margin-block: 1em;
+    width: calc(100% + 2em);
+    overflow-x: hidden;
+    overflow-y: visible;
+    display: flex;
+    align-items: center;
+  }
+}
+@media (max-width: 576px) {
+  #root {
+    margin-bottom: var(--recording-player-height);
+  }
+  .player {
+    border-width: 0.1rem 0 0 !important;
+    border-radius: 0;
+  }
+  .player-wrapper {
+    position: fixed;
+    border-radius: 0;
+    left: 0;
+    width: 100%;
+    bottom: 0;
+    box-shadow: 0 2.5rem 2rem 3rem rgba(0, 0, 0, 0.15) !important;
+    padding-bottom: env(safe-area-inset-bottom);
+  }
+}
