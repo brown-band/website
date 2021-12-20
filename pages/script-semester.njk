@@ -11,18 +11,19 @@ eleventyComputed:
 {% macro score(score) %}{% if score != null %} <small style="font-size: 2rem">({{score}})</small>{% endif %}{% endmacro %}
 {% macro color(school) %}<span style="color: {{schoolColors[school | slugify].color}}">{{school}}</span>{% endmacro %}
 
+{% set writers = collections[semester.collection][0].data.writers %}
 {% if writers %}
-<p class="h3">Scriptwriters: {{writers | listify}}</p>
+<p class="h4">Scriptwriters: {{writers | listify}}</p>
 {% endif %}
 
 {% if collections[semester.collection].length > 1 %}
 <nav style="margin-top: 1.5em; margin-bottom: 5em">
-<h2 class="h6 text-uppercase fw-bold">Table of Contents</h4>
-<ul>
-{% for script in collections[semester.collection] %}
-  <li><a href="#{{script.fileSlug}}">{{script.data.title}}</a></li>
-{% endfor %}
-</ul>
+  <h2 class="h6 text-uppercase fw-bold">Table of Contents</h2>
+  <ul>
+  {% for script in collections[semester.collection] %}
+    <li><a href="#{{script.fileSlug}}">{{script.data.title}}</a></li>
+  {% endfor %}
+  </ul>
 </nav>
 {% endif %}
 
@@ -34,7 +35,8 @@ eleventyComputed:
       {% if script.data.teams.home %}
         {{color(script.data.teams.away.name)}}{{score(script.data.teams.away.score)}} at
         {{color(script.data.teams.home.name)}}{{score(script.data.teams.home.score)}}
-      {% elif script.data.opponent %} <# when we don't know home/away or scores #>
+      {% elif script.data.opponent %}
+        <# when we don't know home/away or scores #>
         {{color("Brown")}} <em>vs</em> {{color(script.data.opponent)}}
       {% else %}
         {{script.data.title}}
