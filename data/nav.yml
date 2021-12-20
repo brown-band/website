@@ -10,26 +10,6 @@
     - title: Constitution
       url: /constitution/
 
-    - heading: Sections
-    - title: Flutes
-      url: /sections/flutes/
-      disabled: true
-    - title: Clarinets
-      url: /sections/clarinets/
-      disabled: true
-    - title: Saxophones & Mellophones (S&M)
-      url: /sections/s&m/
-      disabled: true
-    - title: Trumpets
-      url: /sections/trumpets/
-      disabled: true
-    - title: Low Brass
-      url: /sections/low-brass/
-      disabled: true
-    - title: Percussion
-      url: /sections/percussion/
-      disabled: true
-
 - title: Media
   content:
     - title: Buttons
