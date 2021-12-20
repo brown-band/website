@@ -4,9 +4,12 @@ pagination:
   size: 1
   alias: semester
 permalink: "{{semester.permalink}}"
+show_header: false
 eleventyComputed:
   title: "{{semester.title}}"
 ---
+
+<h1><a href="/scripts/" class="link-secondary">Scripts</a> &rsaquo; {{semester.title}}</h1>
 
 <p class="clearfix">
   {% if pagination.page.previous %}

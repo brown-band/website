@@ -4,7 +4,7 @@ layout: base.njk
 
 <!-- prettier-ignore -->
 <article>
-{% if title %}
+{% if title and show_header != false %}
 <h1>{{title}}</h1>
 {% endif %}
 
