@@ -19,7 +19,9 @@ module.exports = (eleventyConfig) => {
         .filter((page) => page.filePathStem.startsWith("/scripts/" + year));
     });
     const yearMap = { year, collection: yearName };
-    for (const semester of fs.readdirSync(path.join(scriptsDir, year))) {
+    for (const semester of fs
+      .readdirSync(path.join(scriptsDir, year))
+      .filter((n) => !n.endsWith(".yml"))) {
       const specificYear = year.split("-")[Number(semester === "spring")];
       const semesterName = `scripts_${semester}_${specificYear}`;
       eleventyConfig.addCollection(semesterName, (collectionApi) => {
@@ -33,7 +35,7 @@ module.exports = (eleventyConfig) => {
       yearMap[semester] = semesterName;
       semesterCollections.push({
         collection: semesterName,
-        permalink: "/scripts/" + year + "/" + semester + "/",
+        permalink: "scripts/" + year + "/" + semester + "/",
         title: `${semester[0].toUpperCase()}${semester.slice(
           1
         )} ${specificYear}`,
