@@ -83,6 +83,10 @@ blockquote {
   margin: 1em;
 }
 
+.icon {
+  fill: currentColor;
+}
+
 .people-table-head p {
   margin: 0;
 }

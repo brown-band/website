@@ -9,12 +9,13 @@
   </head>
   <body>
     {% include "nav.njk" %}
-    <div class="container my-4">
+    <div class="container mt-4">
       <div class="row">
         <div class="col-lg-3"></div>
-        <div class="col-lg-6">{{content | safe}}</div>
+        <main class="col-lg-6">{{content | safe}}</main>
         <div class="col-lg-3"></div>
       </div>
+      {% include "footer.njk" %}
     </div>
   </body>
 </html>
