@@ -1,8 +1,5 @@
 // @ts-check
 const fs = require("fs");
-/** @type {any} */
-const formatDate = require("date-fns-tz/formatInTimeZone");
-const listify = require("listify");
 
 process.on("unhandledRejection", (err) => {
   console.log(err);
@@ -12,32 +9,11 @@ process.on("unhandledRejection", (err) => {
  * @type {(eleventyConfig: import("@11ty/eleventy/src/UserConfig")) => Partial<ReturnType<import("@11ty/eleventy/src/defaultConfig")>>}
  */
 module.exports = (eleventyConfig) => {
-  /**
-   * Configure the Markdown parser
-   */
-  eleventyConfig.addPlugin(require("@fec/eleventy-plugin-remark"), {
-    enableRehype: false,
-    plugins: [
-      "remark-heading-id",
-      "remark-directive",
-      import("./config/remark-directives.mjs").then((m) => m.default),
-      { plugin: "remark-rehype", options: { allowDangerousHtml: true } },
-      "rehype-raw",
-      "rehype-stringify",
-    ],
-  });
-  // avoid conflict between {#id} syntax and comments
-  eleventyConfig.setNunjucksEnvironmentOptions({
-    tags: { commentStart: "<#", commentEnd: "#>" },
-  });
+  eleventyConfig.addPlugin(require("./config"));
 
   /**
    * Data
    */
-  // parse YAML files
-  eleventyConfig.addDataExtension("yml", (contents) =>
-    require("js-yaml").load(contents)
-  );
   // set the default layout
   eleventyConfig.addGlobalData("layout", "page.njk");
   // set the domain of the media bucket
@@ -49,21 +25,12 @@ module.exports = (eleventyConfig) => {
   /**
    * Assets
    */
-  eleventyConfig.addPassthroughCopy("assets");
   eleventyConfig.addPassthroughCopy("buttons/*/*.jpg");
-  eleventyConfig.addPassthroughCopy({
-    "node_modules/bootstrap/dist/css/bootstrap.min.css*": "assets",
-    "node_modules/bootstrap/dist/js/bootstrap.min.js*": "assets",
-    "node_modules/base64-arraybuffer/dist/base64-arraybuffer.umd.js*": "assets",
-  });
+  eleventyConfig.addWatchTarget("buttons");
 
   /**
    * Dev Mode
    */
-  // in dev mode, rebuild the site when these files change
-  // (pages and data files automatically trigger a rebuild)
-  eleventyConfig.addWatchTarget("assets");
-  eleventyConfig.addWatchTarget("buttons");
   eleventyConfig.setBrowserSyncConfig({
     callbacks: {
       ready(err, bs) {
@@ -76,25 +43,8 @@ module.exports = (eleventyConfig) => {
     },
   });
 
-  /**
-   * Shortcodes
-   */
-  // syntax: {{ title | page_title }}
-  // adds the site title at the end of the page title
-  eleventyConfig.addFilter("page_title", function (title) {
-    return title ? `${title} | ${this.ctx.site.title}` : this.ctx.site.title;
-  });
-  eleventyConfig.addFilter("script_date", function (date) {
-    return formatDate(date, "UTC", "EEEE, MMMM do, y");
-  });
-  eleventyConfig.addFilter("listify", function (items) {
-    return listify(items ?? []);
-  });
-
-  // disable printing each page as it is converted (since there are hundreds of them)
+  // disable printing each page as it is converted (since there are a lot of them)
   eleventyConfig.setQuietMode(true);
-
-  eleventyConfig.addPlugin(require("./config/scripts"));
 
   return {
     // use Nunjucks as the template engine (instead of Liquid)
