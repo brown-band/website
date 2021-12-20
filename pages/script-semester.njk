@@ -8,6 +8,16 @@ eleventyComputed:
   title: "{{semester.title}}"
 ---
 
+<p class="clearfix">
+  {% if pagination.page.previous %}
+    <a class="float-start" href="{{pagination.href.previous}}">← {{pagination.page.previous.title}}</a>
+  {% endif %}
+
+  {% if pagination.page.next %}
+    <a class="float-end" href="{{pagination.href.next}}">{{pagination.page.next.title}} →</a>
+  {% endif %}
+</pre>
+
 {% macro score(score) %}{% if score != null %} <small style="font-size: 2rem">({{score}})</small>{% endif %}{% endmacro %}
 {% macro color(school) %}<span style="color: {{schoolColors[school | slugify].color}}">{{school}}</span>{% endmacro %}
 
