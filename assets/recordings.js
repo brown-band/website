@@ -1,9 +1,33 @@
 // @ts-check
 
 /** @returns {Promise<ArrayBuffer>} */
-const fetchFile = (path) =>
+const fetchFile = (path, onProgress = (_) => {}) =>
   fetch(new URL("/" + path, globalThis.mediaHost).toString())
-    .then((res) => res.arrayBuffer())
+    .then(async (res) => {
+      // https://javascript.info/fetch-progress
+      const reader = res.body.getReader();
+      const total = +res.headers.get("Content-Length");
+      let received = 0;
+      let chunks = [];
+      while (true) {
+        const { done, value } = await reader.read();
+
+        if (done) break;
+
+        chunks.push(value);
+        received += value.length;
+
+        onProgress({ received, total });
+      }
+
+      const result = new Uint8Array(received);
+      let position = 0;
+      for (const chunk of chunks) {
+        result.set(chunk, position);
+        position += chunk.length;
+      }
+      return result;
+    })
     .then(async (data) =>
       crypto.subtle.decrypt(
         {
@@ -32,6 +56,45 @@ const createChild = (name, parent) => {
   return child;
 };
 
+const playTrack = (track) => {
+  audio.pause();
+  audio.src = "";
+  audio.load();
+  audio.hidden = true;
+
+  document.querySelector(".player-wrapper").removeAttribute("hidden");
+  document.querySelector(".player-wrapper .now-playing").textContent =
+    track.title;
+  document.querySelector(".player-wrapper .player-status").textContent =
+    "Loading";
+
+  /** @type {HTMLProgressElement} */
+  const progress = document.querySelector(".player-wrapper progress");
+  progress.hidden = false;
+  progress.removeAttribute("value");
+
+  fetchFile(track.file, ({ received, total }) => {
+    progress.max = total;
+    progress.value = received;
+  })
+    .then((song) =>
+      URL.createObjectURL(new Blob([song], { type: `audio/${track.type}` }))
+    )
+    .then((songURL) => {
+      if (urlToDispose) URL.revokeObjectURL(urlToDispose);
+      urlToDispose = songURL;
+
+      audio.hidden = false;
+      progress.hidden = true;
+
+      document.querySelector(".player-wrapper .player-status").textContent =
+        "Playing";
+      audio.style.opacity = "1";
+      audio.src = songURL;
+      audio.play();
+    });
+};
+
 const renderTrack = (track, includeArranger) => {
   const row = document.createElement("tr");
 
@@ -52,31 +115,7 @@ const renderTrack = (track, includeArranger) => {
   button.className = "btn btn-secondary btn-sm";
   button.textContent = "Play!";
   button.addEventListener("click", () => {
-    audio.pause();
-    audio.src = "";
-    audio.load();
-    audio.style.opacity = "0.5";
-
-    document.querySelector(".player-wrapper").removeAttribute("hidden");
-    document.querySelector(".player-wrapper .now-playing").textContent =
-      track.title;
-    document.querySelector(".player-wrapper .player-status").textContent =
-      "Loading";
-
-    fetchFile(track.file)
-      .then((song) =>
-        URL.createObjectURL(new Blob([song], { type: `audio/${track.type}` }))
-      )
-      .then((songURL) => {
-        if (urlToDispose) URL.revokeObjectURL(urlToDispose);
-        urlToDispose = songURL;
-
-        document.querySelector(".player-wrapper .player-status").textContent =
-          "Playing";
-        audio.style.opacity = "1";
-        audio.src = songURL;
-        audio.play();
-      });
+    playTrack(track);
   });
 
   return row;
