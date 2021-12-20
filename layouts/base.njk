@@ -7,7 +7,6 @@
     <title>{{ title | page_title }}</title>
 
     <link rel="stylesheet" href="/assets/bootstrap.min.css" />
-    <link rel="stylesheet" href="/assets/styles.css" />
     {% for file in ['base'].concat(css | default([])) -%}
     <link rel="stylesheet" href="/assets/css/{{file}}.css" />
     {%- endfor %}
