@@ -1,7 +1,18 @@
 // @ts-check
 
-/** @returns {Promise<ArrayBuffer>} */
-const fetchFile = (path, onProgress = (_) => {}) =>
+/**
+ * @typedef {{ title: string, file: string, type: string, arranger?: string }} FileTrack
+ * @typedef {{ header: string }} HeaderTrack
+ * @typedef {FileTrack | HeaderTrack} Track
+ * @typedef {{ title: string, about: string, tracks: Track[] }} Album
+ */
+
+/**
+ * @param {string} path
+ * @param {(status: { received: number, total: number }) => void} onProgress
+ * @returns {Promise<ArrayBuffer>}
+ */
+const fetchFile = (path, onProgress = () => {}) =>
   fetch(new URL("/" + path, globalThis.mediaHost).toString())
     .then(async (res) => {
       // https://javascript.info/fetch-progress
@@ -44,11 +55,13 @@ const fetchFile = (path, onProgress = (_) => {}) =>
 /** @type {HTMLAudioElement} */
 const audio = document.querySelector(".player-wrapper audio");
 
+/** @type {string | undefined} */
 let urlToDispose;
 
 /**
  * @template {keyof HTMLElementTagNameMap} Name
  * @param {Name} name
+ * @param {ParentNode} parent
  */
 const createChild = (name, parent) => {
   const child = document.createElement(name);
@@ -56,7 +69,7 @@ const createChild = (name, parent) => {
   return child;
 };
 
-const playTrack = (track) => {
+const playTrack = (/** @type {FileTrack} */ track) => {
   audio.pause();
   audio.src = "";
   audio.load();
@@ -95,10 +108,14 @@ const playTrack = (track) => {
     });
 };
 
+/**
+ * @param {Track} track
+ * @param {boolean} includeArranger
+ */
 const renderTrack = (track, includeArranger) => {
   const row = document.createElement("tr");
 
-  if (track.header) {
+  if ("header" in track) {
     const title = createChild("th", row);
     title.colSpan = includeArranger ? 3 : 2;
     title.textContent = track.header;
@@ -121,7 +138,7 @@ const renderTrack = (track, includeArranger) => {
   return row;
 };
 
-const renderAlbum = (album) => {
+const renderAlbum = (/** @type {Album} */ album) => {
   const sec = document.createElement("section");
 
   createChild("h2", sec).textContent = album.title;
@@ -132,7 +149,7 @@ const renderAlbum = (album) => {
 
   const headerRow = createChild("tr", createChild("thead", table));
   createChild("th", headerRow).textContent = "Title";
-  const includeArranger = album.tracks.some((t) => t.arranger);
+  const includeArranger = album.tracks.some((t) => "arranger" in t);
   if (includeArranger) {
     createChild("th", headerRow).textContent = "Arranger";
   }
@@ -147,6 +164,7 @@ const renderAlbum = (album) => {
 };
 
 document.addEventListener("password:decrypt", async () => {
+  /** @type {Album[]} */
   const inventory = await fetchFile("inventory.json").then((decrypted) =>
     JSON.parse(new TextDecoder().decode(decrypted))
   );
