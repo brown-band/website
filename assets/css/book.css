@@ -9,32 +9,22 @@
   height: 11in;
 }
 
-@page :left {
+@page script:left {
   @top-left {
     content: counter(page);
   }
+  @bottom-left {
+    content: string(semester);
+    width: 150px;
+  }
 }
-@page :right {
+@page script:right {
   @top-right {
     content: counter(page);
   }
-}
-
-@page section-title {
-  @top-left {
-    content: '';
-  }
-  @top-right {
-    content: '';
-  }
-}
-
-@page :blank {
-  @top-left {
-    content: '';
-  }
-  @top-right {
-    content: '';
+  @bottom-right {
+    content: string(semester);
+    width: 150px;
   }
 }
 
@@ -49,15 +39,6 @@ header {
   text-align: center;
   padding: 0.25in;
   margin-top: 2.5in;
-}
-
-.title-page, nav {
-  page: intro;
-}
-@page intro {
-  @bottom-center {
-    content: '';
-  }
 }
 
 h2 {
@@ -118,11 +99,15 @@ section:first-of-type {
   counter-reset: page 1;
 }
 
-section > article:not(:first-child) {
+article {
+  page: script;
   break-before: always;
 }
 /* workaround for https://gitlab.pagedmedia.org/tools/pagedjs/-/issues/311 */
 .section-title {
-  page: section-title;
   break-before: right;
+}
+
+.section-title h1 {
+  string-set: semester content(text);
 }
