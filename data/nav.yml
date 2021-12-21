@@ -1,62 +1,31 @@
 - title: People
   content:
-    - title: Band Board
-      url: /band-board/
-    - title: Schedule
-      url: /schedule/
-    - title: Constitution
-      url: /constitution/
+    - band-board
+    - schedule
+    - constitution
 
 - title: Media
   content:
-    - title: Buttons
-      url: /buttons/
-    - title: Photos
-      url: /photos/
-      disabled: true
-    - title: Recordings
-      url: /recordings/
-    # - title: Videos
-    #   url: /videos/
-    - title: Lyrics
-      url: /lyrics/
-    - title: Scripts
-      url: /scripts/
-    - title: Alumni Newsletters
-      url: /alumni-newsletters/
-      disabled: true
+    - buttons
+    - disabled: Photos
+    - recordings
+    - disabled: Videos
+    - lyrics
+    - scripts
+    - disabled: Alumni Newsletters
 
 - title: History
   content:
-    - title: About Us
-      url: /about-us/
-    - title: Elrod Snidley
-      url: /elrod-snidley/
-    - title: Sound Off!
-      url: /sound-off/
-    - title: 75 Years in Pictures
-      url: /75-years-pictures/
-      disabled: true
-
-# todo: Members
+    - about-us
+    - elrod-snidley
+    - sound-off
+    - disabled: 75 Years in Pictures
 
 - title: More Info
   content:
-    - title: Giving
-      url: /giving/
-    - title: Visiting Bands
-      url: /visiting-bands/
-    - title: Ivy Bands
-      url: /ivy-bands/
-    - title: Ivy Bands Agreement
-      url: /ivy-bands-agreement/
-
-    # - heading: Commencement
-    # - title: Schedule
-    #   url: /commencement-schedule/
-    #   disabled: true
-    # - title: Student Signup
-    #   url: https://docs.google.com/forms/d/1gDBvdABCfKt4JbuEdR2kOVR5RRp4gmNPoyUYlx0Q6cs/viewform?usp=send_form
-    # - title: Alumni Signup
-    #   url: /commencement-sign-alumni/
-    #   disabled: true
+    - giving
+    - visiting-bands
+    - ivy-bands
+    - ivy-bands-agreement
+    - disabled: Commencement
+    - disabled: Arranging Music

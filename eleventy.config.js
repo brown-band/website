@@ -9,10 +9,10 @@ process.on("unhandledRejection", (err) => {
  * @type {(eleventyConfig: import("@11ty/eleventy/src/UserConfig")) => Partial<ReturnType<import("@11ty/eleventy/src/defaultConfig")>>}
  */
 module.exports = (eleventyConfig) => {
+  eleventyConfig.addPlugin(require("./config"));
+
   // ignore the book page
   eleventyConfig.ignores.add("pages/scripts/book.njk");
-
-  eleventyConfig.addPlugin(require("./config"));
 
   /**
    * Data

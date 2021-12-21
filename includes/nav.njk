@@ -1,8 +1,11 @@
 <link rel="stylesheet" href="/assets/css/nav.css" />
 
-{% macro active(url) %}{% if url == page.url %} active{% endif %}{% endmacro %}
-{% macro dropdownActive(content) %}{% for link in content
-%}{{active(link.url)}}{% endfor %}{% endmacro %}
+{% macro active(destPage) %}{% if destPage.url == page.url %} active{% endif %}{% endmacro %}
+{% macro dropdownActive(content) %}
+  {%- for link in content -%}
+    {{- active(link | find_page(collections.all)) -}}
+  {% endfor %}
+{% endmacro %}
 
 <nav class="navbar navbar-expand-md navbar-dark bg-brown2">
   <div class="container">
@@ -56,26 +59,28 @@
               class="dropdown-menu dropdown-menu-dark bg-brown4 rounded-3 lg-shadow-brown"
               aria-labelledby="dropdownMenuLink"
             >
-              {% for link in dropdown.content %}{% if link.heading %}
-              <li><hr class="dropdown-divider" /></li>
-              <li><h6 class="dropdown-header">{{link.heading}}</h6></li>
-              {% else %}
-              <li>
-                <a
-                  class="dropdown-item{{active(link.url)}}{% if link.disabled %} disabled{% endif %}"
-                  href="{{link.url}}"
-                >
-                  {{- link.title -}}
-                </a>
-              </li>
-              {% endif %}{% endfor %}
+              {% for link in dropdown.content %}
+                {% if link.heading %}
+                  <li><hr class="dropdown-divider" /></li>
+                  <li><h6 class="dropdown-header">{{link.heading}}</h6></li>
+                {% elif link.disabled %}
+                  <li class="dropdown-item disabled">{{link.disabled}}</li>
+                {% else %}
+                  {% set navPage = link | find_page(collections.all) %}
+                  <li>
+                    <a class="dropdown-item{{active(navPage)}}" href="{{navPage.url}}">
+                      {{navPage.data.title}}
+                    </a>
+                  </li>
+                {% endif %}
+              {% endfor %}
             </ul>
           </li>
           {% endfor %}
           <li class="nav-item">
-            <a href="/contact" class="nav-link{{active('/contact/')}}"
-              >Contact</a
-            >
+            <a href="/contact/" class="nav-link{{active('/contact/')}}">
+              Contact
+            </a>
           </li>
         </ul>
       </div>
