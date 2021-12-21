@@ -1,12 +1,12 @@
 ---
 sport: football
 teams:
-    home:
-        name: Harvard
-        score: 47
-    away:
-        name: Brown
-        score: 7
+  home:
+    name: Harvard
+    score: 47
+  away:
+    name: Brown
+    score: 7
 date: 2019-09-27
 ---
 
@@ -30,7 +30,7 @@ Catch us at halftime when the Band stands, as John Harvard did, like blushing pi
 
 Ladies and gentlemen, friends and alumni, presenting an organization that only kills goats for ritualistic purposes, it’s the Brown University “not a cult” BANNNDDDDDDDDDDD!
 
-Hey, Harvard, we hear you’ve decided to cancel your traditional goat roast this year. Too bad - there’s nothing the band loves more than a good ol’ fashioned public goat skinning. Except maybe playing with pentagrams, attending Black Mass, and breaking out our scrying 🅱️ones.
+Hey, Harvard, we hear you’ve decided to cancel your traditional goat roast this year. Too bad - there’s nothing the band loves more than a good ol’ fashioned public goat skinning. Except maybe playing with pentagrams, attending Black Mass, and breaking out our scrying 🅱️ones.\
 Grab your crucifix, lead out your thiccest goat, and watch now as the band returns to full power by playing Uptown Goat.
 
 :sd[Band forms A KNIFE (no!) and plays Uptown Girl]
@@ -63,6 +63,3 @@ Watch now as the band gets ready for dinner and plays Bring the Roasts.
 :sd[Band forms a B and plays Bring the Victory]
 
 Boom. Roasted. Brown Band Out.
-
-
-

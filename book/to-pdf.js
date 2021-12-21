@@ -37,8 +37,6 @@ export async function renderPDF(port) {
     path: output,
     preferCSSPageSize: true,
   });
-  console.log(
-    `[Book] PDF saved in ${ms(Date.now() - start)}`
-  );
+  console.log(`[Book] PDF saved in ${ms(Date.now() - start)}`);
   await page.close();
 }

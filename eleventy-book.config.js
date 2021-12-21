@@ -42,9 +42,11 @@ module.exports = (eleventyConfig) => {
     callbacks: {
       async ready(err, bs) {
         port = bs.server.address().port;
-        await (await renderPDF)(port);
+        await (
+          await renderPDF
+        )(port);
         if (process.env.BAND_BOOK_ONESHOT) {
-          process.exit(0)
+          process.exit(0);
         }
       },
     },

@@ -21,9 +21,7 @@ module.exports = (eleventyConfig) => {
       eleventyConfig.addCollection(semesterName, (collectionApi) => {
         return collectionApi
           .getFilteredByTag("script")
-          .filter((page) =>
-            page.filePathStem.includes(year + "/" + semester)
-          );
+          .filter((page) => page.filePathStem.includes(year + "/" + semester));
       });
 
       yearMap[semester] = semesterName;

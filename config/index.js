@@ -67,7 +67,7 @@ module.exports = (eleventyConfig) => {
     return JSON.stringify(data, null, 2);
   });
   eleventyConfig.addFilter("find_page", function (filePathStem, collection) {
-    return collection.find((p) => p.filePathStem === '/' + filePathStem);
+    return collection.find((p) => p.filePathStem === "/" + filePathStem);
   });
 
   /**

@@ -2,7 +2,7 @@
 
 Ladies and gentlemen, friends and alumni, presenting an organization that really appreciates French poetry, it’s the Brown University “wee wee baguette” BANNNDDDDDDDDDDD!
 
-*Il y a une seule fois que la beauté de la nature m'a enveloppé complètement. C'est en l'année vent-cent-huit, juste comme je pataugeais sur la plage de Nice. L'eau tiède était jusqu'aux genoux. Mes cheveux et mon short de bain avaient la même teinte de jaune-vert vif. Ma poitrine nue brillait dans l'air salé, complètement sans poils. Mes abdos volés ondulaient comme des vagues sur mon corps élancé. Je me plais à plonger au sein de mon image. Je l'embrasses des yeux et des bras, et mon coeur se distrait quelquefois de sa propre rumeur au bruit de cette plainte indomptable et sauvage. J'ai alors compris le bonheur absolu.* Watch now as the band gets snow in their face and plays Johnny L. Mamater.
+_Il y a une seule fois que la beauté de la nature m'a enveloppé complètement. C'est en l'année vent-cent-huit, juste comme je pataugeais sur la plage de Nice. L'eau tiède était jusqu'aux genoux. Mes cheveux et mon short de bain avaient la même teinte de jaune-vert vif. Ma poitrine nue brillait dans l'air salé, complètement sans poils. Mes abdos volés ondulaient comme des vagues sur mon corps élancé. Je me plais à plonger au sein de mon image. Je l'embrasses des yeux et des bras, et mon coeur se distrait quelquefois de sa propre rumeur au bruit de cette plainte indomptable et sauvage. J'ai alors compris le bonheur absolu._ Watch now as the band gets snow in their face and plays Johnny L. Mamater.
 
 :sd[Band forms a snowflake and plays Johnny B. Goode.]
 
@@ -13,7 +13,7 @@ The Band just \*really\* appreciates France in general. Some people think that t
 - A. Eats cheese for dessert
 - B. Put fish on each other’s backs
 - C. Marry their… “step-friends”, dead or alive
-- D. Have a free “special glove” fund for students   
+- D. Have a free “special glove” fund for students
 - E. Assumes right of way when carrying onions and
 - F. The Princeton Band
 
@@ -94,9 +94,8 @@ There once was a PLME named John\
 Who Matty McG would dunk on\
 His math know-how’s sublime\
 But his baking’s a crime\
-So it’s meal swipes - for Gus, Ingrid n’ Sean 
+So it’s meal swipes - for Gus, Ingrid n’ Sean
 
-
-Congrats, seniors! Try not to break a pelvis on your way off the field. Catch us next season as the Band only visits its graduates to beg for cash. 
+Congrats, seniors! Try not to break a pelvis on your way off the field. Catch us next season as the Band only visits its graduates to beg for cash.
 
 Ok boomer. Brown Band Out.
