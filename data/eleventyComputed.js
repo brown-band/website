@@ -27,4 +27,25 @@ module.exports = {
       special: ["NBC", "ADOCH"],
     });
   },
+
+  book({ book, scripts }) {
+    if (!book) return undefined;
+    const semesters = [];
+    for (
+      let year = Math.floor(book.graduationYear - (book.extraYear ? 5 : 4));
+      year <= Math.floor(book.graduationYear);
+      year++
+    ) {
+      semesters.push("scripts_spring_" + year);
+      semesters.push("scripts_fall_" + year);
+    }
+
+    return {
+      ...book,
+      // remove spring before start and fall after end
+      semesters: semesters
+        .slice(1, String(book.graduationYear).endsWith(".5") ? undefined : -1)
+        .map((s) => scripts.semesters.find((c) => c.collection === s)),
+    };
+  },
 };

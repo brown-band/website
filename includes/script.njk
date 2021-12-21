@@ -1,0 +1,20 @@
+{% macro score(score) %}{% if score != null %} <small style="font-size: 2rem">({{score}})</small>{% endif %}{% endmacro %}
+{% macro color(school) %}<span class="school-color" style="color: {{schoolColors[school | slugify].color}}">{{school}}</span>{% endmacro %}
+
+<article>
+  <header style="text-align: center">
+    <h1 class="display-5 fw-normal" id="{{id_prefix}}{{script.fileSlug}}">
+      {% if script.data.teams.home %}
+        {{color(script.data.teams.away.name)}}{{score(script.data.teams.away.score)}} <em style="font-size: 0.8em">at</em>
+        {{color(script.data.teams.home.name)}}{{score(script.data.teams.home.score)}}
+      {% elif script.data.opponent %}
+        <# when we don't know home/away or scores #>
+        {{color("Brown")}} <em>vs</em> {{color(script.data.opponent)}}
+      {% else %}
+        {{script.data.title}}
+      {% endif %}
+    </h1>
+    <p class="h3">{{script.date | script_date }}</p>
+  </header>
+  {{script.templateContent | safe}}
+</article>

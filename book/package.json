@@ -1,0 +1,11 @@
+{
+  "private": true,
+  "scripts": {
+    "start": "node to-pdf.js"
+  },
+  "type": "module",
+  "dependencies": {
+    "chokidar": "^3.5.2",
+    "puppeteer-core": "^11.0.0"
+  }
+}

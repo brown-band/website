@@ -1,0 +1,43 @@
+---
+layout: base.njk
+# This page is only enabled when generating script books
+permalink: "/"
+css: [book, script, pagedjs-interface]
+---
+
+<script src="/assets/paged.polyfill.js"></script>
+
+<header class="title-page">
+  <h1 class="title" style="border-width: 0.7mm; font-size: 1.85em;">
+    The Brown University Band<br />
+    Football and Hockey Show Scripts<br />
+    {{book.semesters[0].title}}–{{(book.semesters|last).title}}
+  </h1>
+</header>
+
+<nav>
+<h2 style="margin-top: 0; margin-bottom: 0.5in">Table of Contents</h2>
+<ol class="book-toc">
+{% for semester in book.semesters %}
+  <li><a href="#{{semester.collection}}" class="fw-bold">{{semester.title}}</a><ol>
+  {% for script in collections[semester.collection] %}
+    <li><a href="#{{semester.collection}}_{{script.fileSlug}}">{{script.data.title}}</a></li>
+  {% endfor %}
+  </ol></li>
+{% endfor %}
+</ol></nav>
+
+{% for semester in book.semesters %}
+  {% set scripts = collections[semester.collection] %}
+  <header class="{% if loop.first %}first-semester{% endif %}">
+    <h1 class="title text-decoration-underline" id="{{semester.collection}}">{{semester.title}}</h1>
+    {% set writers = scripts[0].data.writers %}
+    {% if writers %}
+      <p class="h5 fst-italic fw-normal">Scriptwriter{% if writers.length != 1 %}s{% endif %}: {{writers | listify}}</p>
+    {% endif %}
+  </header>
+  {% set id_prefix = semester.collection + '_' %}
+  {% for script in scripts %}
+    {% include 'script.njk' %}
+  {% endfor %}
+{% endfor %}

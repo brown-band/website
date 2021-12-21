@@ -1,0 +1,94 @@
+:root {
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+@page {
+  margin: 1in;
+  widows: 3;
+  width: 8.5in;
+  height: 11in;
+
+  @bottom-center {
+    content: counter(page);
+  }
+}
+
+header {
+  page-break-before: always;
+  text-align: center;
+}
+header .title {
+  border: 0 solid black;
+  border-radius: 1em;
+  display: inline-block;
+  text-align: center;
+  padding: 0.25in;
+  margin-top: 2.5in;
+}
+
+.title-page, nav {
+  page: intro;
+}
+@page intro {
+  @bottom-center {
+    content: '';
+  }
+}
+
+h2 {
+  text-align: center;
+  margin-top: 2em;
+}
+
+.school-color {
+  color: inherit !important;
+}
+
+body {
+  font-size: 11pt;
+  line-height: 1.25;
+}
+
+p {
+  margin-bottom: 0.8em;
+}
+
+nav {
+  page-break-before: always;
+}
+.book-toc a {
+  color: inherit;
+  text-decoration: none;
+  background: white;
+  padding-right: 0.5ch;
+}
+.book-toc a::after {
+  content: target-counter(attr(href url), page);
+  float: right;
+  background: white;
+  width: 2.75ch;
+  text-align: right;
+}
+nav ol {
+  list-style: none inside;
+}
+.book-toc li {
+  position: relative;
+}
+.book-toc ol {
+  margin-bottom: 0.1in;
+  padding-left: 0.25in;
+}
+.book-toc li li::before {
+  content: '.........................................................................................................................................................................';
+  text-align: right;
+  position: absolute;
+  width: 100%;
+  left: 0;
+  overflow: hidden;
+  z-index: -1;
+}
+
+header.first-semester {
+  counter-reset: page 1;
+}

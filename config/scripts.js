@@ -7,7 +7,7 @@ const scriptsDir = path.join(path.dirname(__dirname), "pages", "scripts");
 
 /** @type {(eleventyConfig: import("@11ty/eleventy/src/UserConfig")) => void} */
 module.exports = (eleventyConfig) => {
-  const years = fs.readdirSync(scriptsDir).filter((n) => !n.endsWith(".yml"));
+  const years = fs.readdirSync(scriptsDir).filter((n) => !n.includes("."));
 
   const yearCollections = [];
   const semesterCollections = [];
@@ -22,7 +22,7 @@ module.exports = (eleventyConfig) => {
         return collectionApi
           .getFilteredByTag("script")
           .filter((page) =>
-            page.filePathStem.startsWith("/scripts/" + year + "/" + semester)
+            page.filePathStem.includes(year + "/" + semester)
           );
       });
 

@@ -56,7 +56,7 @@ module.exports = (eleventyConfig) => {
     return formatDate(date, "UTC", "EEEE, MMMM do, y");
   });
   eleventyConfig.addFilter("listify", function (items) {
-    return listify(items ?? []);
+    return listify((items ?? []).map((s) => s.replaceAll(" ", "\xA0")));
   });
   eleventyConfig.addFilter("debug", function (data) {
     return JSON.stringify(data, null, 2);
