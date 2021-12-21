@@ -13,6 +13,9 @@
       {% else %}
         {{script.data.title}}
       {% endif %}
+      {% if semester.title.startsWith("Fall") and script.data.sport == 'hockey' %}
+        (Hockey)
+      {% endif %}
     </h1>
     <p class="h3">{{script.date | script_date }}</p>
   </header>
