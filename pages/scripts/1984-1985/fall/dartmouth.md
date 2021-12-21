@@ -36,8 +36,7 @@ Turning from _lists_ to _List_, our indispensable volume includes this complete 
 
 :::
 
-Alas, we realize that tastes in beverages will have to change; Bud by the keg and Jack \
- Daniels by the gallon must go the way of the beloved Dead Kennedys, in favor of more cultured drinks. Mourn with us now as the Band forms a bottle of Harvey _Bristol's_ Cream -- "It's Downright Upside-Down" -- and plays "Does Anybody Really Know What Drink It Is?"
+Alas, we realize that tastes in beverages will have to change; Bud by the keg and Jack Daniels by the gallon must go the way of the beloved Dead Kennedys, in favor of more cultured drinks. Mourn with us now as the Band forms a bottle of Harvey _Bristol's_ Cream -- "It's Downright Upside-Down" -- and plays "Does Anybody Really Know What Drink It Is?"
 
 :sd[Band forms upside-down bottle on the field, and plays "Does Anybody Really Know What Time It Is?"]
 

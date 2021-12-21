@@ -92,7 +92,7 @@ Now,once again it is the time\
 Howard Swearer is now our prez;\
  We all know theirs—he's Juan Valdez.\
  They've got better coffee, and, alas,\
- Columbia grows nicer grass. \
+ Columbia grows nicer grass.\
  But they've gone downhill – do you wonder how?\
  They play home games in Jersey now.
 

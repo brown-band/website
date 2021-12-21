@@ -77,7 +77,7 @@ Ludicrous Lubricant and Celibate Syllabus are examples of:
 - c) onomatopoeia
 - d) rutabagas
 - e) bicenquinquagennial\
-- or,
+  or,
 - f) The Princeton Band
 
 :::

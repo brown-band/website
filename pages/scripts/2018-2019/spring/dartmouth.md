@@ -11,7 +11,7 @@ teams:
 date: 2019-02-23
 ---
 
-Ladies and gentlemen, friends and alumni, presenting an organization that's looking a little Big Green in the gills, it's the Brown University "i'm gonna - \[vomit noise]" BANNNDDDDDDDDDDD!
+Ladies and gentlemen, friends and alumni, presenting an organization that's looking a little Big Green in the gills, it's the Brown University "i'm gonna - :sd[vomit noise]" BANNNDDDDDDDDDDD!
 
 This is our special alumni ice show, and we've got some older feet on the ice today! We're aiming for zero hip replacements this year, so please take it slowly! Don't drop your teeth on the ice: that's the hockey team's job! And if you've fallen and you can't get up, make sure the other people you take down with you are flutes – we can't hear them anyway. Watch now as the band reminds you to sit up straight while you're young and plays Spine Warp.
 

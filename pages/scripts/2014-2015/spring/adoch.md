@@ -4,7 +4,7 @@ date: 2015-04-22
 
 Ladies and gentlemen, friends and alumni, presenting an organization that's so glad to meet you, it's the Brown University "the children are our future" BAAAAAND!!!!
 
-Hey everyone, welcome to Brown! We hope you've been enjoying the whirlwind of people, activities, and mild terror that is ADOCH. We're the Brown Band, and we're here to tell you what's hot and what's not. Hot: The Ratty! Not: Real food! Hot: Concrete skyscrapers! Not: Atmospheric study spaces! Hot: being done with the college application process! Still hot: ADOCH! Definitely hot: Matriculating at Brown! Hope that crash course in what's cool was helpful \- watch now as the Band forms half an onion ring and plays The Impression of Brown That I Get.
+Hey everyone, welcome to Brown! We hope you've been enjoying the whirlwind of people, activities, and mild terror that is ADOCH. We're the Brown Band, and we're here to tell you what's hot and what's not. Hot: The Ratty! Not: Real food! Hot: Concrete skyscrapers! Not: Atmospheric study spaces! Hot: being done with the college application process! Still hot: ADOCH! Definitely hot: Matriculating at Brown! Hope that crash course in what's cool was helpful – watch now as the Band forms half an onion ring and plays The Impression of Brown That I Get.
 
 :sd[Band forms an arc and plays "The Impression that I get"]
 

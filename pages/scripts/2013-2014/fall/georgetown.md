@@ -32,7 +32,7 @@ Ladies and Gentlemen, friends and alumni, presenting an organization that knows 
 **_Dennis:_** I have no idea what you're talking about.\
 **_Lewie:_** Most people don't. While we regroup, watch now as the band forms a baseball and plays the "Ding Dong Song."
 
-:sd[Band forms a baseball and plays "The Ding Dong Song."] \
+:sd[Band forms a baseball and plays "The Ding Dong Song."]\
 **_Dennis:_** So we've got Hoya on second. What do you know about the rest of the football team?\
 **_Lewie:_** Well, we've got tïs on first.\
 **_Dennis:_** That's what I want to know.\

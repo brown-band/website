@@ -47,7 +47,7 @@ Speaking of Larry Summers, he's officially TOO RICH to be in charge of America's
 
 :sd[Band forms a Laffer curve and plays "I'll Make a Man Out of You."]
 
-While perusing the Harvard Bookstore the other day, we came across a book called Fifty Shades of Crimson. At first we didn't want to read it, but unfortunately it was assigned to us in our S/NC first year seminar. Imagine our surprise when we heard that Harvard already has a Fifty Shades of Crimson—what Fox News' incisive analysis deems a "kinky sex club." We thought WE had a monopoly on that sort of thing! \[really long pause with awkward breathing] We don't know how to feel about this. Watch now as the Band forms fifty shades of Brown and plays "Fifty Shades of Fray."
+While perusing the Harvard Bookstore the other day, we came across a book called Fifty Shades of Crimson. At first we didn't want to read it, but unfortunately it was assigned to us in our S/NC first year seminar. Imagine our surprise when we heard that Harvard already has a Fifty Shades of Crimson—what Fox News' incisive analysis deems a "kinky sex club." We thought WE had a monopoly on that sort of thing! :sd[really long pause with awkward breathing] We don't know how to feel about this. Watch now as the Band forms fifty shades of Brown and plays "Fifty Shades of Fray."
 
 :sd[Band forms a B and plays "In the Fray."]
 

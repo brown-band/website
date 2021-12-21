@@ -36,6 +36,6 @@ After a brief hiatus, we're back and ready to go, but you alums may have noticed
 
 We interrupt your regularly scheduled ice show for this urgent news blast: Apparently the "Soup or Bowl" is tomorrow. We aren't really sure what this means, as we are used to having soup and bowls, never separate from each other. Oh? What's this? Someone's saying it has something to do with football. YAY SPORTS TEAM! Go Patrifalcons! Tim Brody is my favorite member of Nickelback! I want to marry him! Well in any case, we hear it's a football show opening for a Hamilton concert. We really thought the Browns would make it this year, but apparently that's not the case. That's the same as our team right? No? It's not? Well, at least we'll have a former Bear on the field. Anyway, just thought you might want to know, now back to the good part.
 
-\[Band forms two lines and counterskates to "In the Fray"]
+:sd[Band forms two lines and counterskates to "In the Fray"]
 
 That's all for this week! Join us next Saturday as we skate to glory and discover the meme-ing of life. Brown Band out!

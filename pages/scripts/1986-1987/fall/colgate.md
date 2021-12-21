@@ -30,6 +30,6 @@ The Band waited eagerly for the outcome of this past week's elections. Expanding
 
 :sd[the Band forms a moosehead on the field and plays "Everyday People"]
 
-\
- Be back next week when Brown turns the Dartmouth Green black and blue. \
+Be back next week when Brown turns the Dartmouth Green black and blue.
+
 :sd[the Band marches off to "Ever True ..."]

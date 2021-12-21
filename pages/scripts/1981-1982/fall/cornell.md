@@ -22,7 +22,6 @@ We will return to our halftime show after this commercial message.
 
 Are you tired of pesky bands invading your stadium and telling idiotic jokes? Tired of their filthy smut and bathroom humor? Then why are you listening to this? Try new Censor-in-a-Can. Watch what happens to this filthy band after just one spray! PSSSSSSSST. :sd[Everyone in the band takes off their sweaters except for one person. Everyone is wearing white underneath.]
 
-And look! Your whole stadium and halftime show are sparkling clean! Censor-in-a­-can has earned the Moral Majority Seal of Approval. Censor-in-a-Can is also a product of the Ivory League, 99 44/100 % pure, and is available in selected Eastern States for only\
- $11,000 a year. So listen now as our new clean, All-American band plays "The Stars and Stripes Forever." :sd[The band forms the number 99 with a person holding up a sign that says "44/100." The member of the band who is still wearing their sweater holds up a sign with the number "56/100."]
+And look! Your whole stadium and halftime show are sparkling clean! Censor-in-a-can has earned the Moral Majority Seal of Approval. Censor-in-a-Can is also a product of the Ivory League, 99 44/100 % pure, and is available in selected Eastern States for only $11,000 a year. So listen now as our new clean, All-American band plays "The Stars and Stripes Forever." :sd[The band forms the number 99 with a person holding up a sign that says "44/100." The member of the band who is still wearing their sweater holds up a sign with the number "56/100."]
 
 Hey band, what are you going to do with that big pile of brown stuff? Oh, never mind. It's good for the grass. :sd[The band marches off to "Ever True."]

@@ -16,8 +16,8 @@ Ladies and Gentlemen, Friends and Alumni, and all you pillars of prehistoric pro
 
 :sd[Band runs out and forms primordial soup]
 
-In the beginning, before there were suicide pills, hot colleges and shanties on the green, there was :sd[dramatic pause] The Brown Band. And it was good. Then, out of the primordial soup crawled the Class of 1987. :sd[lightly] And they were good too. To survive the hostile environment of ONLIWONs, citizens' arrests and turkey tetrazini the class of '87 discovered they needed lots of "Hot Stuff." \
-\
+In the beginning, before there were suicide pills, hot colleges and shanties on the green, there was :sd[dramatic pause] The Brown Band. And it was good. Then, out of the primordial soup crawled the Class of 1987. :sd[lightly] And they were good too. To survive the hostile environment of ONLIWONs, citizens' arrests and turkey tetrazini the class of '87 discovered they needed lots of "Hot Stuff."
+
 :sd[Band plays "Hot Stuff".]
 
 :sd[Band forms a volcano with seniors in the pool of magma]

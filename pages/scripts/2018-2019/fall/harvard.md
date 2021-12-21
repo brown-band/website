@@ -43,7 +43,7 @@ We have to go get ready for Princeton to arrive. Catch you at halftime!
 
 Ladies and gentlemen, friends and alumni, presenting an organization that goes to a small liberal arts school outside of Boston, it's the Brown University "we would have been here earlier, but we were running on Harvard Time" BANNNDDDDDDDDDDD!
 
-As good Ivy League sports fans, we of course read the Boston Globe's review of your game against San Diego. We were so pleased to hear from Globe correspondent Owen Pence that you 'pranced across \[your] home turf... under the bashful sun', especially since 'members of \[your] football team have been stewing in a rotten scent' since your absolutely dismal record last year. Although we were sorry to miss your top running back, we were so proud of a certain young sophomore for stepping up and being 'especially shifty', and achieving a 'dazzling 64-yard scamper'.
+As good Ivy League sports fans, we of course read the Boston Globe's review of your game against San Diego. We were so pleased to hear from Globe correspondent Owen Pence that you 'pranced across [your] home turf... under the bashful sun', especially since 'members of [your] football team have been stewing in a rotten scent' since your absolutely dismal record last year. Although we were sorry to miss your top running back, we were so proud of a certain young sophomore for stepping up and being 'especially shifty', and achieving a 'dazzling 64-yard scamper'.
 
 Watch now as the Band raises its glass of 1787 Chateau Margaux and toasts to the 'mammoth holes pried open by the forceful and fearsome Harvard offensive line'.
 

@@ -18,7 +18,7 @@ Harvard, we need to have a talk. You lost to URI last week. Now as the only team
 
 :sd[Band forms a piece of legislation and plays We're All In This Together]
 
-Football. Is this what you came for? Of course not, you came here for Rihanna! Shoutout to you people for giving our queen the 2017 Harvard Humanitarian Award she deserves. But why stop there? You should give Rihanna your entire endowment. No, what about erect a statue of her? Wait, why not just name the entire university after her? The Brown Band has already properly honored her by naming one of our sections after her hit song, S\&M. Watch now as the Band honors Rihanna's home of Barbados and plays For Rihanna, and For Brown.
+Football. Is this what you came for? Of course not, you came here for Rihanna! Shoutout to you people for giving our queen the 2017 Harvard Humanitarian Award she deserves. But why stop there? You should give Rihanna your entire endowment. No, what about erect a statue of her? Wait, why not just name the entire university after her? The Brown Band has already properly honored her by naming one of our sections after her hit song, S&M. Watch now as the Band honors Rihanna's home of Barbados and plays For Rihanna, and For Brown.
 
 :sd[Band forms a B and plays For Bruno and For Brown.]
 

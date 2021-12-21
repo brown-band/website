@@ -52,9 +52,9 @@ Great shows he's helped us discover\
 "Lift with jerking motion" he advises the Band_
 
 _We'll miss our historian, Greer\
-Plays piccolo -- it's easy to hear! \
+Plays piccolo -- it's easy to hear!\
 Not Greer Cheesman the 3,\
-Raised in many a country \
+Raised in many a country\
 She leads bus songs without any fear._
 
 _Rock climber and math girl Cass Cole,\
@@ -65,7 +65,7 @@ Without her we'll never be whole._
 
 _Tom Brady is Matt Finn's best thrill,\
 He's the only pre-med who is chill,\
-It's a fact that we know \
+It's a fact that we know\
 Asuhhhh he's a bro\
 Catch him Friday night at Hillel._
 
@@ -83,7 +83,7 @@ Meep meep meep meep meep is her call._
 
 _Francesca has written, teehee.\
 Lots of jokes for you and for me.\
-L.I.'s her dominion, \
+L.I.'s her dominion,\
 Don't show her a minion\
 She'll dismantle the patriarchy!_
 
@@ -105,10 +105,10 @@ Plays jazz, golf, Elon, and has said,\
 My hairline's receding,\
 Why should I even get out of bed?"_
 
-_At bandquet Max wears a disco suit \
-He often takes detours en route \
+_At bandquet Max wears a disco suit\
+He often takes detours en route\
 When the quarterback throws\
-He screams "Let's \[bleep]ing GOOOOOOO" \
+He screams "Let's \[bleep]ing GOOOOOOO"\
 And on alto sax he does toot._
 
 _Sir Duke soloist Shannon Ward\
@@ -126,7 +126,7 @@ Catch her at BRCC dinners on Tuesday!_
 _Band sophomore Witkin, Zach\
 Has the whole Ratty in his backpack\
 Concentration: dev studies\
-He's been to too many countries \
+He's been to too many countries\
 The GCB will keep him coming back_
 
 _Zach Woessner is a gangly fellow,\
@@ -135,10 +135,10 @@ His script-reading's lit\
 Ask him to do a split\
 Does he have bones or is he just jello?_
 
-_Oh outro, you are really swell. \
-You always make us leave well. \
+_Oh outro, you are really swell.\
+You always make us leave well.\
 Whenever you come on,\
-We know we can't be on. \
+We know we can't be on.\
 Uhhh, bye._
 
 (PS: See us at Yale next weekend. Bye for real this time. Brown Band out.)

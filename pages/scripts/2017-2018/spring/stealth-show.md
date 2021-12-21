@@ -8,7 +8,7 @@ We're hoping you're having a great Tuesday morning – or "Spring Weekend Eve", 
 
 :sd[Band forms a flower and plays Carry On Wayward Son]
 
-Don't you wish we were in the SciLi playing "Jingle Bells" right now? For some reason, people seem to love it when we play in the libraries during finals period, so we're back with all the hits for your morning commute :sd[plays one bar of Jingle Bells \[badly\]] – just kidding! Here are all the real hits:
+Don't you wish we were in the SciLi playing "Jingle Bells" right now? For some reason, people seem to love it when we play in the libraries during finals period, so we're back with all the hits for your morning commute :sd[plays one bar of Jingle Bells [badly]] – just kidding! Here are all the real hits:
 
 :::script-list
 

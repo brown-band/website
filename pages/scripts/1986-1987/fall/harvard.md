@@ -25,11 +25,11 @@ The Band was recently gratified when both I.B.M. and G.M. announced the pullout 
 :sd[the Band forms a ship on the field and plays and plays "California, Here I Come." While playing the ship moves across the field and the flutes come out of the smoke stack.]
 
 :sd[Sung:]\
- Oh Ron Darling\
- Oh Ron Darling\
- Oh Ron Darling, Clemens mine\
- The game is lost and gone forever\
- Oh Ron Darling, Clemens mine
+Oh Ron Darling\
+Oh Ron Darling\
+Oh Ron Darling, Clemens mine\
+The game is lost and gone forever\
+Oh Ron Darling, Clemens mine
 
 It was one of these Knights in which no Ray of hope could be found. Owen to the Mookie weather, both teams were feeling a bit Nipper. On the Boston bench, the team felt as if they were Bogged down in a Strawberry jam, and though they tried to Wade it out, they could not find a Baylor strong enough. So, until next year, the Boston area will just have to hand up their Spikes and grin and Barret. Watch now as the Band forms a noose on the field and plays "McNamara's Band."
 

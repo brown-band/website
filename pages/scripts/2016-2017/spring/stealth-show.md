@@ -32,7 +32,7 @@ Like many other Brown students, we've all recently had the privilege to receive 
 The tip was inches from Lyle's face. It began to wriggle.\
 "What you long for--" The Polyp's voice was rich with emotion.\
 My dream, Lyle thought.\
-"Your dream--to create life and tend it. This dream," the Polyp whispered, "is as real as you want it to be." \
+"Your dream--to create life and tend it. This dream," the Polyp whispered, "is as real as you want it to be."\
 Lyle raised his hand. The wriggling tip touched his palm.\
 "Lord of the deep," the Polyp said.\
 Watch now as the Band forms one of Polyp's tentacles and plays Bring the Tentacles.

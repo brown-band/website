@@ -14,7 +14,7 @@ date: 1985-09-21
 
 Federal Regulations requires us to warm those members of the audience with pacemakers, hearing aids, digital watches, or small and impressionable children that they may wish to leave the area immediately. Ladies and Gentleman, Friends and Alumni, presenting the real reason A. Bartlett Giamatti is leaving Tale, it's the Brown University, "Are you sure we can say 'Cherry Coke' on the field?" Band!
 
-:sd[Band runs madly onto the field from the bushes, and quickly forms an envelope, complete with address and stamp \[an American Flag\]]
+:sd[Band runs madly onto the field from the bushes, and quickly forms an envelope, complete with address and stamp [an American Flag]]
 
 The Brown Band is proud to be here today to open the '85 Ivy Football Season, and to commemorate Yale University's 284th academic year – you know that's 853 to you and me. We now try to make up for the fact that People Magazine won't be at Yale much this year, having moved it's New England Bureau to Providence. We salute the most prestigious position currently held by a Tale Alumnus and form a First Class letter on the field. Watch as our own Miami Vice-President George 'Anhauser' Bush performs his most important function and brings Mail To The Chief.
 
@@ -28,7 +28,8 @@ Well Band, I guess that's enough muscle flexing for today. However working out o
 
 :sd[Band plays " Mack the Knife" as the colon changes into a semi-colon.]
 
-Transcripts of today's half-time show will be delivered to your home unless you send two dollars to The Brown Band Prevention Fund, Box 1930, Providence, Rhode Island.\
+Transcripts of today's half-time show will be delivered to your home unless you send two dollars to The Brown Band Prevention Fund, Box 1930, Providence, Rhode Island.
+
 :sd[March off to 'Ever True' and to tumultuous applause]
 
 Band Button for this game: STIKE AT YALE

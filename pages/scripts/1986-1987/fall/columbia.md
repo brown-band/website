@@ -17,8 +17,8 @@ Good day fair ladies, are you well?\
 
 A noble story from a Band\
  Who trav'leth wide across the land.\
-\
- From Dartmouth far and Princeton near,\
+
+From Dartmouth far and Princeton near,\
  We drink our port and chug our beer.
 
 With rum and gin and bourbon mash,\
@@ -35,24 +35,24 @@ Good friends who sit with double chin\
 We come to play and do it well\
  If you're displeased then go to...Columbia.
 
-Sublime and peachy music swells \
+Sublime and peachy music swells\
  When we present the Brown minstrels.
 
 :sd[Band runs out onto the field]
 
-Let's tell the epic of these swains \
+Let's tell the epic of these swains\
  A football team their college feigns.
 
 Two score and eight long months have passed\
  Since victory graced Columbia last.
 
-They've prayed to Zeus and Lady Luck \
+They've prayed to Zeus and Lady Luck\
  To no avail for they still suck.
 
 They've tried so hard to work some magic\
  But woe! Their record's best deemed tragic.
 
-Their deft maneuvers are no good \
+Their deft maneuvers are no good\
  They play as well as blind nuns would.
 
 To count the tournaments they've fought\
@@ -69,7 +69,7 @@ A tryst costs just a meager sum\
 Forsooth, anon, New York's a dump\
  The city's in eternal slump.
 
-A fragrant blossom it is not \
+A fragrant blossom it is not\
  It smells just like a chamber pot.
 
 With this in mind we bite our thumb\
@@ -101,7 +101,7 @@ Although you've games of every sort,\
 The Ivy League's most treasured dream\
  At least we have a hockey team.
 
-But as recourse may suggest \
+But as recourse may suggest\
  You institute the game of chess.
 
 Upon this lush and verdant lawn\

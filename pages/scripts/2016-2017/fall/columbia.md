@@ -77,7 +77,7 @@ the proletarians have to lose are their chains_
 
 _To P. Kirschner, a great section leader\
 Without fail, he keeps the Band's meter\
-Leads the bus in our song, \
+Leads the bus in our song,\
 His shorts, never long,\
 How will we survive without Peter?_
 

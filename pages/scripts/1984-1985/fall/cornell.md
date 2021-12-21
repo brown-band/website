@@ -34,8 +34,8 @@ Please watch the T.V. on the field as the Electric Company helps you to ruminate
 
 :sd[band plays "It's Only a Paper Moon"]
 
-Stay in your seats as the Cornell Band proves that silence can be golden.\
-\
+Stay in your seats as the Cornell Band proves that silence can be golden.
+
 :sd[band marches off to "Ever True"]
 
 This show was made possible by a grant from the Exxon Corporation, Shell Oil, and Borden Dairy Products.

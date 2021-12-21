@@ -28,12 +28,12 @@ Allright band, this has gone far enough. :sd[A drill instructor appears.] This s
 
 LORDY BE I'M IN THE BAND,\
 :sd[band: "LORDY BE I'M IN THE BAND!"]\
- SURE AM GLAD THAT I'M A MAN!\
+SURE AM GLAD THAT I'M A MAN!\
 :sd[band: "SURE AM GLAD THAT I'M A MAN!"]\
- SOUND OFF,\
-:sd[band\:ONE, TWO!]\
- SOUND OFF AGAIN! \
-:sd[band\:THREE, FOUR!]
+SOUND OFF,\
+:sd[band: ONE, TWO!]\
+SOUND OFF AGAIN!\
+:sd[band: THREE, FOUR!]
 
 BRING IT ON DOWN NOW ONE, TWO, THREE, FOUR, ONE, TWO...THREE\
  FOUR. HALT! :sd[The band halts.] NOW DROP AND GIVE ME TWENTY! :sd[The band kneels and takes out money from their wallets which the drill instructor promptly collects.]

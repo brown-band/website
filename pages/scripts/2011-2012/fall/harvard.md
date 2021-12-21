@@ -12,7 +12,7 @@ date: 2011-09-23
 
 ## Pregame
 
-Ladies and Gentlemen, friends and alumni, presenting an organization that puts the \[REDACTED] in \[REDACTED] it's the Brown University "30 minutes or more, we'll still take it!!" BAAAAAAANNNNNNNNNNNNND!
+Ladies and Gentlemen, friends and alumni, presenting an organization that puts the [REDACTED] in [REDACTED] it's the Brown University "30 minutes or more, we'll still take it!!" BAAAAAAANNNNNNNNNNNNND!
 
 Hello, everyone! We're just as surprised to be here as you are! The Brown Band has quite a history of missing our pregame show due to horrifying Boston traffic and parking difficulties in HAHVAHD YAHD... but we managed to get here on time this year. So I'm going to wing it and tell my funniest Harvard jokes. People at Harvard are ugly. They stole their mascot from Alabama! ROLL TIDE! Harvard men are really tough; they know how to knit and stuff. Harvard women don't exist because Harvard is sexist. How many Harvard students does it take to screw in a lightbulb? Five, because they're ugly! A Harvard man walks into a bar. Everyone starts crying.
 

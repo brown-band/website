@@ -4,7 +4,7 @@ date: 1985-10-17
 
 _Brown Band vs. University of Michigan Band -- Live on the Green from NBC's Today Show_
 
-:sd[Close up of Announcer \[Voice, Rick Perera\]]
+:sd[Close up of Announcer [Voice, Rick Perera]]
 
 Good Morning America! It's the Brown University "We'll teach you to put us on live television" Band!
 

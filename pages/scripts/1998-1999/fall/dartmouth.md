@@ -58,9 +58,9 @@ She keeps us in rhythm, and what’s more, she makes sure we start and finish on
 ## Halftime
 
 Ladies and gentlemen, daddies and mommies,\
-Friends and alumni, fascists and commies, \
+Friends and alumni, fascists and commies,\
 Presenting an organization that toots\
-On clarinets, trumpets, kazoos, and some flutes. \
+On clarinets, trumpets, kazoos, and some flutes.\
 And so, without further ado, give a hand\
 To the Brown Unversity "Air-Breathing" Band!
 
@@ -93,7 +93,7 @@ And who says that money and corporate leverage\
 Should determine a campus’s choices of beverage?\
 And so we would like to bring onto the scene\
 A new type of drink for the folks at Big Green.\
-Its name shall be "Moose Juice." From that, please deduce \
+Its name shall be "Moose Juice." From that, please deduce\
 That Moose Juice is simply the juice of a moose.\
 Its flavor is moosey. Its color is spruce.\
 It’s endorsed by one Thickwit, the Green-Hearted Moose!\

@@ -55,7 +55,7 @@ Just to be sure about what we're talking about when we talk about censorship, we
 
 :::
 
-Yeah, that sounds like the definition of censorship to us! Watch now as the band experiences Two Minutes Hate and plays \[CENSORED] Forevermore.
+Yeah, that sounds like the definition of censorship to us! Watch now as the band experiences Two Minutes Hate and plays [CENSORED] Forevermore.
 
 :sd[Band forms a B and plays Brown Forevermore]
 

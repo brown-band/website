@@ -110,7 +110,7 @@ Our guy fieri we will miss greatly_
 _Berets off for dear Isabela,\
 A semester in France she did spend-a,\
 From Boca Raton,\
-Her flute skills she's shown, \
+Her flute skills she's shown,\
 Leaf watch, we will always rememba_
 
 _Sir Charles, this one's for you\
@@ -119,7 +119,7 @@ A master of rhythms,\
 Understands mechanisms\
 Of dark matter physics, through and through_
 
-_The patriotic and spirited Mark, \
+_The patriotic and spirited Mark,\
 On the pre-med journey, he embarked\
 From West Coast to East\
 One of those BDH beasts,\

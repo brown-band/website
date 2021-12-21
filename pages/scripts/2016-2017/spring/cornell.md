@@ -16,11 +16,11 @@ Ladies and gentlemen, friends and alumni, presenting an organization that wants 
 According to all known laws of ice skating, there is no way the Brown Band should be able to skate. Their instruments are too big to get their fat little bodies out of the stands. The band, of course, skates anyways. Because bandies don't care what CPax thinks is impossible.
 
 Yellow, black, yellow, black, yellow, black, yellow, black,\
-Ooh, brown and maroon! Let's shake it up a little bit. \
-Or is it blue and gold? \
-What are thoooooooose? \
-Who IS she?? \
-IT'S JOHN CENA \
+Ooh, brown and maroon! Let's shake it up a little bit.\
+Or is it blue and gold?\
+What are thoooooooose?\
+Who IS she??\
+IT'S JOHN CENA\
 FREE HER\
 Daaaaaaamn, Band, back at it again with the rambling script.\
 Watch now as the Band forms Arthur's fist and plays Shake It Off

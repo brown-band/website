@@ -32,7 +32,7 @@ In light of Disney's recent acquisition of LucasFilm's popular "Star Wars" franc
 
 :sd[Band forms and plays "I Just Can't Wait to Be King."]
 
-When I was a young warthog... Sha-la-la-la-la-la my-oh-my. I can show you the world! Hi, ho. You ain't never had a friend never had a friend, you ain't never had a friend never had a friend, you ain't never, had a, friend, like, meeeee! \*Cantina band\* Someday, my prince will come! Let's get down to business—I can go the distance. Be our guest. You want thingamabobs? I got twenty! For a handsome sturdy husband, who builds handsome sturdy walls, who never dreams that something might be coming... I'm especially good at expectorating! But none of them will ever love you the way I do. You've gotta dig a little deeper. A square with a horn makes you wish you weren't born every time he plays. And we'll kick their rear! Spiderman, Spiderman, does whatever a spider can!
+When I was a young warthog... Sha-la-la-la-la-la my-oh-my. I can show you the world! Hi, ho. You ain't never had a friend never had a friend, you ain't never had a friend never had a friend, you ain't never, had a, friend, like, meeeee! :sd[Cantina band] Someday, my prince will come! Let's get down to business—I can go the distance. Be our guest. You want thingamabobs? I got twenty! For a handsome sturdy husband, who builds handsome sturdy walls, who never dreams that something might be coming... I'm especially good at expectorating! But none of them will ever love you the way I do. You've gotta dig a little deeper. A square with a horn makes you wish you weren't born every time he plays. And we'll kick their rear! Spiderman, Spiderman, does whatever a spider can!
 
 :sd[Band counterskates into a B and plays "In the Fray."]
 

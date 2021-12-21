@@ -36,10 +36,10 @@ Also butts and booties\
 Not bats, but patooties\
 We'll be sad when her time here is done_
 
-_With Zoe, where do we begin \
-She always marches us in \
-She enjoys conducting \
-bus singing, ghostbusting \
+_With Zoe, where do we begin\
+She always marches us in\
+She enjoys conducting\
+bus singing, ghostbusting\
 Such a jam our time with her's been_
 
 _We know a saxophonist named Liz\

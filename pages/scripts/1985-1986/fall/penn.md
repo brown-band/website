@@ -24,13 +24,15 @@ After truly Burning Down The House, the Band is reminded of another Talking Head
 
 :sd[Play "Everyday People." Waves of hatred can be felt pouring out of the Penn side of the stands. The show-writer is glad he wasn't at the game. After fans have ceased venting their spleens, run into the letters GRE – the reason the show-writer wasn't at the game. Do one final leg shake as the Band runs into formation]
 
-Stop shaking your leg, Band. You should have thought of that before the show! In a serious note, we would like to extend our sympathies to those absent friends currently undergoing the academic blood-letting known as the Graduate Record Exam. But you synthetic Bohemians wouldn't know anything about the Pre-Professional rat race, would you? The Band wonders what significance the letters GRE carry for Penn students. Could they stand for:\
- Grades in Remedial English\
- Greatest Ripoff in Education \
- Garbage Reported Everywhere\
- Greed Rising Exponentially\
- Or, a Good Reason to Evacuate\
- The Band now predicts what most senior IBM hopefuls will do when they open their test result envelopes in six weeks and find the scores telling them: Hey, You'd better Take Me Over.
+Stop shaking your leg, Band. You should have thought of that before the show! In a serious note, we would like to extend our sympathies to those absent friends currently undergoing the academic blood-letting known as the Graduate Record Exam. But you synthetic Bohemians wouldn't know anything about the Pre-Professional rat race, would you? The Band wonders what significance the letters GRE carry for Penn students. Could they stand for:
+
+- Grades in Remedial English
+- Greatest Ripoff in Education
+- Garbage Reported Everywhere
+- Greed Rising Exponentially
+- Or, a Good Reason to Evacuate
+
+The Band now predicts what most senior IBM hopefuls will do when they open their test result envelopes in six weeks and find the scores telling them: Hey, You'd better Take Me Over.
 
 :sd[Play "Hey, Look Me Over." GRE changes to CRY. Even Mother Teresa is now hurling invectives at us – and we all know how painful that can be]
 

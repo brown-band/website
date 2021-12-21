@@ -62,13 +62,14 @@ John "Once my fingers get moving they warm up from the friction" Romano
 
 :sd[Band plays "Bits and Pieces"]
 
-Former Special Events Chair, former Corresponding Secretary and current President Darlene "Good Morning! Good Morning! Isn't it a lovely morning?\
- One, Two, Skate over their gonads\
- Three, Four, This thing is pissing all over me\
- Five, Six, That seems a waste of a good gerbil\
- Seven, Eight, I've been to paradise, but I've never been to me\
- Nine, Ten, Satan Spawn of the 70's\
- Eleven, Twelve, Fleshpile Darlene" Netcoh!
+Former Special Events Chair, former Corresponding Secretary and current President Darlene "Good Morning! Good Morning! Isn't it a lovely morning?
+
+One, Two, Skate over their gonads\
+Three, Four, This thing is pissing all over me\
+Five, Six, That seems a waste of a good gerbil\
+Seven, Eight, I've been to paradise, but I've never been to me\
+Nine, Ten, Satan Spawn of the 70's\
+Eleven, Twelve, Fleshpile Darlene" Netcoh!
 
 :sd[Band rushes up to, but does not actually fleshpile, Darlene]
 
@@ -177,6 +178,6 @@ Wake up, Band! You were having a nightmare! It's time to graduate! :sd[Band scre
 
 (27) "doric column" - though this might appear to be one last chance to get a gratuitous phallic formation on the field (which it is), it also shows the disparity in classical architecture: Doric, Ionic, Corinthian. See Bauman's _Anthology of Phallacious Truth in Architecture of the World_, vol. 7.
 
-(28) "a modest \[school] with much to be modest about." - Winston Churchill
+(28) "a modest [school] with much to be modest about." - Winston Churchill
 
 I hope this has cleared up any confusion you might have had about this show. Thanks. This was fun. BKH.

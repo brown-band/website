@@ -51,7 +51,7 @@ Recently, we've all been held rapt by our #1 news source for all things fleeting
 
 Watch now as the band forms our snap story and plays "Our Smooth Dance Moves Will Get Us On The Snap Story Please God We're Desperate."
 
-:sd[\[Band forms the subject of a snap and plays "Smooth."]
+:sd[Band forms the subject of a snap and plays "Smooth."]
 
 We sure are glad we don't have to come back to Yale for another two years, but there is one thing we're happy is returning to New Haven sooner: Gilmore Girls! Yale doesn't have a lot going for it, but it does have our favorite alumna, Rory Gilmore. We couldn't be more excited that this iconic show is returning to Netflix soon, because it's the only thing that's ever made Yale seem like a semi-bearable place to go to school. Although honestly, Rory went home, like, every weekend, so even she didn't seem to enjoy it all that much. Watch now as the band forms "Buffering" and plays "In The Netflix Queue."
 

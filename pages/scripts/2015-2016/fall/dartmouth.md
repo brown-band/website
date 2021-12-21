@@ -71,7 +71,7 @@ Your costumes are sleek\
 with particular chic\
 Our love for you will never perish._
 
-_Here's to Jesus, our cool pal \
+_Here's to Jesus, our cool pal\
 We love his sick moves during Al.\
 A master of kazoo,\
 and piccolo, too,\
@@ -121,7 +121,7 @@ When she leaves we'll collectively frown._
 
 _Our dear old friend Chris the VP,\
 Could sure harmonize to a T,\
-As money god was fantastic \
+As money god was fantastic\
 Playing trombone of plastic\
 Without you how sad we will be!_
 

@@ -33,7 +33,7 @@ Wow, maybe all of these people just hated going to school in Canada. They wanted
 
 :sd[Band forms Cornell's McGraw Bell Tower and plays "Karn Evil."]
 
-Yo guys, we heard you like it when we ice skate. So we're gonna do some of that for you right now. You know who doesn't ice skate? The Cornell Band... and that's because the Brown Band is the world's best and only ice skating scramble band. \*Band yells: shameless self promotion!\* The Brown Band is so great, all of our students will one day win Nobel Peace Prizes. Also, Ann Coulter went to Cornell. Every rose has its thorn.
+Yo guys, we heard you like it when we ice skate. So we're gonna do some of that for you right now. You know who doesn't ice skate? The Cornell Band... and that's because the Brown Band is the world's best and only ice skating scramble band. :sd[Band yells: shameless self promotion!] The Brown Band is so great, all of our students will one day win Nobel Peace Prizes. Also, Ann Coulter went to Cornell. Every rose has its thorn.
 
 :sd[Band counterskates into a B and plays In The Fray.]
 
