@@ -1,5 +1,6 @@
 // @ts-check
-const fs = require("fs");
+
+const renderPDF = import("./book/to-pdf.js").then((m) => m.renderPDF);
 
 process.on("unhandledRejection", (err) => {
   console.log(err);
@@ -14,7 +15,7 @@ module.exports = (eleventyConfig) => {
   /**
    * Data
    */
-  // set the default layout
+  // don’t render any pages unless explicitly specified
   eleventyConfig.addGlobalData("permalink", false);
 
   // CHANGE THESE!
@@ -24,9 +25,30 @@ module.exports = (eleventyConfig) => {
   });
 
   eleventyConfig.addPassthroughCopy({
-    "node_modules/pagedjs/dist/paged.polyfill.js": "assets/paged.polyfill.js",
+    "book/node_modules/pagedjs/dist/paged.polyfill.js":
+      "assets/paged.polyfill.js",
   });
 
+  let port;
+
+  eleventyConfig.on("afterBuild", async () => {
+    if (port) {
+      (await renderPDF)(port);
+    }
+  });
+
+  eleventyConfig.setBrowserSyncConfig({
+    snippet: false,
+    callbacks: {
+      async ready(err, bs) {
+        port = bs.server.address().port;
+        await (await renderPDF)(port);
+        if (process.env.BAND_BOOK_ONESHOT) {
+          process.exit(0)
+        }
+      },
+    },
+  });
   return {
     // use Nunjucks as the template engine (instead of Liquid)
     markdownTemplateEngine: "njk",

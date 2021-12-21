@@ -39,11 +39,15 @@ module.exports = (eleventyConfig) => {
    * Assets
    */
   eleventyConfig.addPassthroughCopy("assets");
-  eleventyConfig.addPassthroughCopy({
-    "node_modules/bootstrap/dist/css/bootstrap.min.css*": "assets",
-    "node_modules/bootstrap/dist/js/bootstrap.min.js*": "assets",
-    "node_modules/base64-arraybuffer/dist/base64-arraybuffer.umd.js*": "assets",
-  });
+  eleventyConfig.addPassthroughCopy(
+    Object.fromEntries(
+      [
+        "node_modules/bootstrap/dist/css/bootstrap.min.css*",
+        "node_modules/bootstrap/dist/js/bootstrap.min.js*",
+        "node_modules/base64-arraybuffer/dist/base64-arraybuffer.umd.js*",
+      ].map((k) => [k, "assets"])
+    )
+  );
 
   /**
    * Shortcodes
