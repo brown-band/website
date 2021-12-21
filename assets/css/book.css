@@ -7,17 +7,42 @@
   widows: 3;
   width: 8.5in;
   height: 11in;
+}
 
-  @bottom-center {
+@page :left {
+  @top-left {
+    content: counter(page);
+  }
+}
+@page :right {
+  @top-right {
     content: counter(page);
   }
 }
 
+@page section-title {
+  @top-left {
+    content: '';
+  }
+  @top-right {
+    content: '';
+  }
+}
+
+@page :blank {
+  @top-left {
+    content: '';
+  }
+  @top-right {
+    content: '';
+  }
+}
+
 header {
-  page-break-before: always;
   text-align: center;
 }
-header .title {
+
+.title {
   border: 0 solid black;
   border-radius: 1em;
   display: inline-block;
@@ -54,7 +79,7 @@ p {
 }
 
 nav {
-  page-break-before: always;
+  break-before: always;
 }
 .book-toc a {
   color: inherit;
@@ -89,6 +114,15 @@ nav ol {
   z-index: -1;
 }
 
-header.first-semester {
+section:first-of-type {
   counter-reset: page 1;
+}
+
+section > article:not(:first-child) {
+  break-before: always;
+}
+/* workaround for https://gitlab.pagedmedia.org/tools/pagedjs/-/issues/311 */
+.section-title {
+  page: section-title;
+  break-before: right;
 }

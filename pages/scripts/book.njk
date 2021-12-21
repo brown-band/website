@@ -28,16 +28,18 @@ css: [book, script, pagedjs-interface]
 </ol></nav>
 
 {% for semester in book.semesters %}
+<header class="section-title">
+  <h1 class="title text-decoration-underline" id="{{semester.collection}}">{{semester.title}}</h1>
+  {% set writers = scripts[0].data.writers %}
+  {% if writers %}
+    <p class="h5 fst-italic fw-normal">Scriptwriter{% if writers.length != 1 %}s{% endif %}: {{writers | listify}}</p>
+  {% endif %}
+</header>
+<section>
   {% set scripts = collections[semester.collection] %}
-  <header class="{% if loop.first %}first-semester{% endif %}">
-    <h1 class="title text-decoration-underline" id="{{semester.collection}}">{{semester.title}}</h1>
-    {% set writers = scripts[0].data.writers %}
-    {% if writers %}
-      <p class="h5 fst-italic fw-normal">Scriptwriter{% if writers.length != 1 %}s{% endif %}: {{writers | listify}}</p>
-    {% endif %}
-  </header>
   {% set id_prefix = semester.collection + '_' %}
   {% for script in scripts %}
     {% include 'script.njk' %}
   {% endfor %}
+</section>
 {% endfor %}
