@@ -51,18 +51,10 @@ Turning from phrases to deoxyribonuclases, the Band looks at the new genes being
 
 :sd[The band forms a double "B" and each member rotates on his/her own axis.]
 
-::::script-list
-
-- There once was a group that was bland,
-- From New Jersey, a bleak, barren land. :::script-list
-
-  - They made lots of noise
-  - And had little poise
-
-  :::
-
-- It was F. _the Princeton Band._
-
-::::
+There once was a group that was bland,\
+From New Jersey, a bleak, barren land.\
+:script-tab They made lots of noise\
+:script-tab And had little poise\
+It was F. _the Princeton Band._
 
 :sd[March off on yard lines to the tune of "Ever True"]
