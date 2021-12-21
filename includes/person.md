@@ -7,6 +7,6 @@
   {{-person.year-}}
 </h3>
 
-{{person.position.role}}
+{{person.position.role|default("")}}
 
 {{person.bio}}

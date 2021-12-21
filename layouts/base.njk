@@ -13,7 +13,7 @@
 
     <script async src="/assets/bootstrap.min.js"></script>
   </head>
-  <body {{body_attrs}}>
+  <body {{body_attrs|default("")}}>
     {{content | safe}}
   </body>
 </html>

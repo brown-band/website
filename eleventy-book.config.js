@@ -20,7 +20,7 @@ module.exports = (eleventyConfig) => {
   // CHANGE THESE!
   eleventyConfig.addGlobalData("book", {
     extraYear: false,
-    graduationYear: 2022,
+    graduationYear: 2019,
   });
 
   eleventyConfig.addPassthroughCopy({

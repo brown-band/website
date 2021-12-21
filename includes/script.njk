@@ -3,7 +3,7 @@
 
 <article>
   <header style="text-align: center">
-    <h1 class="display-5 fw-normal" id="{{id_prefix}}{{script.fileSlug}}">
+    <h1 class="display-5 fw-normal" id="{{id_prefix|default("")}}{{script.fileSlug}}">
       {% if script.data.teams.home %}
         {{color(script.data.teams.away.name)}}{{score(script.data.teams.away.score)}} <em style="font-size: 0.8em">at</em>
         {{color(script.data.teams.home.name)}}{{score(script.data.teams.home.score)}}

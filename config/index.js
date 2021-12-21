@@ -24,6 +24,7 @@ module.exports = (eleventyConfig) => {
   // avoid conflict between {#id} syntax and comments
   eleventyConfig.setNunjucksEnvironmentOptions({
     tags: { commentStart: "<#", commentEnd: "#>" },
+    throwOnUndefined: true,
   });
 
   /**
