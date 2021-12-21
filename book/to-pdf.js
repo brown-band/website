@@ -3,6 +3,7 @@
 import path from "node:path";
 import chokidar from "chokidar";
 import puppeteer from "puppeteer-core";
+import ms from "ms";
 
 const __dirname = path.dirname(
   decodeURIComponent(new URL(import.meta.url).pathname)
@@ -12,7 +13,6 @@ const output = path.join(__dirname, "book.pdf");
 (async () => {
   try {
     let browser = await puppeteer.launch({
-      headless: true,
       executablePath:
         "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome",
     });
@@ -20,6 +20,18 @@ const output = path.join(__dirname, "book.pdf");
     async function render_pdf() {
       const page = await browser.newPage();
       await page.goto("http://localhost:8080");
+      const { pages, duration } = await new Promise(async (resolve) => {
+        await page.exposeFunction("resolveRenderPromise", resolve);
+        page.evaluate(async () => {
+          window.PagedPolyfill.on("rendered", (flow) => {
+            window.resolveRenderPromise({
+              pages: flow.total,
+              duration: flow.performance,
+            });
+          });
+        });
+      });
+      console.log(`Rendering ${pages} pages took ${ms(duration)}`);
       await page.pdf({
         printBackground: true,
         width: "8.5in",
