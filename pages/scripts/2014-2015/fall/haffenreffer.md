@@ -37,17 +37,13 @@ Watch now as the Band forms a truly perfect circle and plays whatever the hell i
 
 This next section is a compilation of one-liners from various comedians. And by "various comedians" I mean mostly Mitch Hedberg. Here we go.
 
-:::script-list
-
-- "The depressing thing about tennis is that no matter how good I get, I'll never be as good as a wall."
-- "An escalator can never break — it can only become stairs."
-- "I find a duck's opinion of me is very much influenced by whether or not I have bread."
-- "I'm against picketing, but I don't know how to show it."
-- "What happened when Jesus wanted to swim?"
-- "Onions make me sad. A lot of people don't realize that."
-- "It always feels better to have a wank with a dead arm; but apparently I ruined that funeral."
-
-:::
+"The depressing thing about tennis is that no matter how good I get, I'll never be as good as a wall."\
+"An escalator can never break — it can only become stairs."\
+"I find a duck's opinion of me is very much influenced by whether or not I have bread."\
+"I'm against picketing, but I don't know how to show it."\
+"What happened when Jesus wanted to swim?"\
+"Onions make me sad. A lot of people don't realize that."\
+"It always feels better to have a wank with a dead arm; but apparently I ruined that funeral."
 
 That last one transitions nicely into our next form. Watch now as the Band forms something that is totally not a penis and plays "Ding Dong Song".
 
@@ -55,17 +51,13 @@ That last one transitions nicely into our next form. Watch now as the Band forms
 
 Crap, I've completely run out of jokes. How about some totally legitimate facts? These have been personally verified.
 
-:::script-list
-
-- You can speed up your computer by mashing Alt+F4.
-- Furbies were the leading cause of plane crashes in 1998.
-- Obama spent two seasons as an extra on The Sopranos.
-- Since 2004, Internet Explorer has been the #1 browser for downloading other browsers.
-- A common scavenger bird is called a buzzard when it is in the air and a vulture once it has landed.
-- Fresh lemon juice will whiten eyes if applied in small amounts.
-- Black paint acts as an excellent stain remover.
-
-:::
+You can speed up your computer by mashing Alt+F4.\
+Furbies were the leading cause of plane crashes in 1998.\
+Obama spent two seasons as an extra on The Sopranos.\
+Since 2004, Internet Explorer has been the #1 browser for downloading other browsers.\
+A common scavenger bird is called a buzzard when it is in the air and a vulture once it has landed.\
+Fresh lemon juice will whiten eyes if applied in small amounts.\
+Black paint acts as an excellent stain remover.
 
 You're all more educated now, congratulations. Watch now as the Band forms another damn B and plays "Brown, Fuck Yeah!".
 

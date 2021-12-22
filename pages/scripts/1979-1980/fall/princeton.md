@@ -32,16 +32,12 @@ The Band tries to clean up its act, forms a bar of Ivory Soap, 99 44/100 % pueri
 
 In the land of make-believe, words are often deceiving. Here's a list of common words and phrases and what they really mean.
 
-:::script-list
-
-- doing a bowl - means taking a RISD ceramics class
-- shiksa - the polish sausage at the Ratty
-- being deflowered - dropping out of Botany class
-- having crabs - taking invertebrate biology instead
-- bong - the sounds of the bell in Carrie tower
-- and prophylactics - what you wear on your feet when it rains
-
-:::
+doing a bowl - means taking a RISD ceramics class\
+shiksa - the polish sausage at the Ratty\
+being deflowered - dropping out of Botany class\
+having crabs - taking invertebrate biology instead\
+bong - the sounds of the bell in Carrie tower\
+and prophylactics - what you wear on your feet when it rains
 
 The Band makes jive on the field and plays "Colloquial Gas."
 

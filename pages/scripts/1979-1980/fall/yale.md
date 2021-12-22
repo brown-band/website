@@ -27,27 +27,19 @@ Unfortunately, such innovation from the government is about as likely as Playboy
 
 The supposed source of our skyrocketing oil prices is those OPECers in the Middle East, where the bywords of the day are "Ayatollah so!" or "life is strife." Nevertheless, the band would lie to salute Israeli and Egyptian overtures toward international harmony. :sd[The band forms a peace sign]. Our musical program includes "Begin (Bay-gin) the Beguine" and "Anwar Egyptian Soldiers," followed by "Side by Side" and "Tea for Two"...
 
-:::script-list
-
-- _2nd voice:_ Wait right there Brown Band!
-- _Band voice:_ What's going on here?
-- _2nd voice:_ Quiet! I have taken over! The Band of Rebels now plays "Yassir, That's My Baby"
-- _Band voice after song:_ Can't we talk about this? Let's negotiate.
-- _Jimmy Carter:_ I'm sorry, but I overheard that and I'll have to ask for the band's resignation. And I hope none of you out there recognize this formation or I'll have to ask for your resignations too.
-- _Karl Malden:_ What will the brown Band do? What Wilbur... (a la Mr. Ed) What _will_ they do? :sd[Band feels for its traveller's checks] .
-
-:::
+_2nd voice:_ Wait right there Brown Band!\
+_Band voice:_ What's going on here?\
+_2nd voice:_ Quiet! I have taken over! The Band of Rebels now plays "Yassir, That's My Baby"\
+_Band voice after song:_ Can't we talk about this? Let's negotiate.\
+_Jimmy Carter:_ I'm sorry, but I overheard that and I'll have to ask for the band's resignation. And I hope none of you out there recognize this formation or I'll have to ask for your resignations too.\
+_Karl Malden:_ What will the brown Band do? What Wilbur... (a la Mr. Ed) What _will_ they do? :sd[Band feels for its traveller's checks] .
 
 Where will we go? Perhaps to Chrysler, perhaps to Yale. The choice is simple -- fossil fuels or fossil fools. And yet, there are amazing similarities between the two corporations. Chrysler has a massive inventory of outmoded, oversized, sluggish models. Yale has a football team. Both Chrysler and Yale over overinflated, overpriced and over a mile of out of Providence. Finally, like Chrysler, Yale will soon need to offer rebates to its matriculants. You can:
 
-:::script-list
-
-- Go to Davenport College, and get a check,
-- Go to Calhoun, and get a check,
-- Go to Saybrook, and get a check,
-- Go to Sillman, and get a check.
-
-:::
+Go to Davenport College, and get a check,\
+Go to Calhoun, and get a check,\
+Go to Saybrook, and get a check,\
+Go to Sillman, and get a check.
 
 We think you get the idea. Saluting the Yalies, we play "You've Still Got Plenty of Nothing."
 

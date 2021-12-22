@@ -26,24 +26,16 @@ And now, ladies and gentlemen, for the second part of our electronic halftime ex
 
 Thank you. Now, students, question 1. This summer, a new James Bond movie came out. Who played James Bond? Was it:
 
-:::script-list
-
-- A) Roger Moore :sd[A display lights up a '1']
-- B) Dudley Moore :sd[B display lights up a '2']
-- or C) Melba Moore :sd[C display lights up a '7']
-
-:::
+A) Roger Moore :sd[A display lights up a '1']\
+B) Dudley Moore :sd[B display lights up a '2']\
+or C) Melba Moore :sd[C display lights up a '7']
 
 Hmmm. Well, perhaps you'll do better with question 2. :sd[All displays turn off.]\
  Which of the following women did Prince Charles marry?
 
-:::script-list
-
-- A) Diana Spencer :sd[A display lights up a '1']
-- B) Diana Ross :sd[B group lights up a '3']
-- or C) Rich Diana :sd[C group lights up a '6']
-
-:::
+A) Diana Spencer :sd[A display lights up a '1']\
+B) Diana Ross :sd[B group lights up a '3']\
+or C) Rich Diana :sd[C group lights up a '6']
 
 Oh, I'm terribly sorry, Elis. The correct answer was 'A' in both questions. As a consolation prize for participating in our halftime show, you'll receive a tupperware party set and a Yale diploma. The band guesses your IQ's and plays "25 or 6 to 4."
 
