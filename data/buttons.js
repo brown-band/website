@@ -11,7 +11,7 @@ module.exports = async () => {
     fs.readFile(path.join(buttonsDir, ...args), "utf8").then(loadYaml);
 
   const buttonsDir = path.join(path.dirname(__dirname), "buttons");
-  const years = (await fs.readdir(buttonsDir)).filter((y) => y !== "unknown");
+  const years = (await fs.readdir(buttonsDir)).filter((y) => y !== "unknown" && y !== ".DS_Store");
 
   const rawLabels = await Promise.all(
     years.map(
