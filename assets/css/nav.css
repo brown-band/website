@@ -16,6 +16,9 @@
     padding-block: 0.5rem;
     box-sizing: content-box;
   }
+  .navbar .dropdown-toggle:not(.show)::after {
+    transform: translateY(2px) rotate(-90deg);
+  }
 }
 @media (min-width: 576px) {
   .header-quote {
@@ -45,9 +48,6 @@
 .navbar .dropdown-item.active,
 .navbar .dropdown-item:active {
   background-color: var(--brown-2) !important;
-}
-.navbar .dropdown-toggle:not(.show)::after {
-  transform: translateY(2px) rotate(-90deg);
 }
 .navbar-nav .dropdown-menu {
   padding-block: 0;
