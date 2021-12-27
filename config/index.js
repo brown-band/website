@@ -5,6 +5,7 @@ const listify = require("listify");
 /** @type {(eleventyConfig: import("@11ty/eleventy/src/UserConfig")) => void} */
 module.exports = (eleventyConfig) => {
   eleventyConfig.addPlugin(require("./scripts"));
+  eleventyConfig.addPlugin(require("./build-css"));
 
   /**
    * Configure the Markdown parser
@@ -42,7 +43,6 @@ module.exports = (eleventyConfig) => {
   eleventyConfig.addPassthroughCopy(
     Object.fromEntries(
       [
-        "node_modules/bootstrap/dist/css/bootstrap.min.css*",
         "node_modules/bootstrap/dist/js/bootstrap.min.js*",
         "node_modules/base64-arraybuffer/dist/base64-arraybuffer.umd.js*",
       ].map((k) => [k, "assets"])
