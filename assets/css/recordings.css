@@ -14,7 +14,8 @@
   .player-wrapper {
     border-radius: 0.75rem;
   }
-  .player-wrapper {
+  /* display: flex overrides [hidden] */
+  .player-wrapper:not([hidden]) {
     position: sticky;
     bottom: 1em;
     margin-left: -1em;
