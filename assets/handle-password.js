@@ -16,9 +16,6 @@ const Base64 = window["base64-arraybuffer"];
 const passwordInput = document.querySelector("#passwordInput");
 
 globalThis.decrypt = async () => {
-  passwordInput.classList.remove("is-invalid");
-  passwordInput.setCustomValidity("");
-
   const keyData = await crypto.subtle.digest(
     "SHA-256",
     new TextEncoder().encode(passwordInput.value)
@@ -61,9 +58,6 @@ globalThis.decrypt = async () => {
     document.dispatchEvent(new CustomEvent("password:decrypt"));
   } else {
     passwordInput.classList.add("is-invalid");
-    passwordInput.setCustomValidity(
-      "Incorrect Password. Try again or email band_web@brown.edu!"
-    );
   }
 };
 

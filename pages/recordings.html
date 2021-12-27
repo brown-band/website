@@ -10,29 +10,33 @@ css: [recordings]
     below to proceed. If you have any questions, please email
     band_web@brown.edu.
   </p>
-  <form class="row my-3" onsubmit="return false">
-    <div class="col-md-8">
-      <label for="passwordInput" class="form-label">
-        Enter the password here, please.
-      </label>
-      <input
-        required
-        type="password"
-        class="form-control"
-        autofocus
-        id="passwordInput"
-        placeholder="hunter2"
-      />
-    </div>
-    <div class="col-md-4" style="display: flex; align-items: flex-end">
-      <button
-        class="btn btn-primary mt-3 decrypt-button"
-        type="submit"
-        onclick="decrypt()"
-        disabled
-      >
-        Press This Button!
-      </button>
+  <form class="mt-3" onsubmit="return false">
+    <label for="passwordInput" class="form-label">
+      Enter the password here, please.
+    </label>
+    <div class="row">
+      <div class="col-md-8">
+        <input
+          type="password"
+          class="form-control"
+          autofocus
+          id="passwordInput"
+          placeholder="hunter2"
+        />
+        <div class="invalid-feedback">
+          Incorrect Password. Try again or email band_web@brown.edu!
+        </div>
+      </div>
+      <div class="col-md-4" style="display: flex; align-items: flex-start">
+        <button
+          class="btn btn-primary decrypt-button"
+          type="submit"
+          onclick="decrypt()"
+          disabled
+        >
+          Press This Button!
+        </button>
+      </div>
     </div>
   </form>
 </div>
