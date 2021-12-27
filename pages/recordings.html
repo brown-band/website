@@ -56,6 +56,37 @@ css: [recordings]
   </div>
 </div>
 
+<template id="trackList">
+  <section>
+    <h2></h2>
+    <p></p>
+    <table class="table">
+      <thead>
+        <tr>
+          <th>Title</th>
+          <th class="arranger-title">Arranger</th>
+          <th style="width: 60px"></th>
+        </tr>
+      </thead>
+      <tbody></tbody>
+    </table>
+  </section>
+</template>
+
+<template id="trackList-header">
+  <tr>
+    <th class="text-center"></th>
+  </tr>
+</template>
+
+<template id="trackList-track">
+  <tr>
+    <td class="track-title"></td>
+    <td class="track-arranger"></td>
+    <td><button class="btn btn-secondary btn-sm">Play!</button></td>
+  </tr>
+</template>
+
 <script src="/assets/base64-arraybuffer.umd.js"></script>
 <script>
   globalThis.mediaHost = new URL("{{recordings_url}}");

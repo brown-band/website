@@ -12,7 +12,7 @@
  * @param {(status: { received: number, total: number }) => void} onProgress
  * @returns {Promise<ArrayBuffer>}
  */
-const fetchFile = (path, onProgress = () => {}, signal) =>
+const fetchFile = (path, onProgress = () => {}, signal = null) =>
   fetch(new URL("/" + path, globalThis.mediaHost).toString(), { signal })
     .then(async (res) => {
       // https://javascript.info/fetch-progress
@@ -60,17 +60,6 @@ let urlToDispose;
 /** @type {AbortController | undefined} */
 let abortController;
 
-/**
- * @template {keyof HTMLElementTagNameMap} Name
- * @param {Name} name
- * @param {ParentNode} parent
- */
-const createChild = (name, parent) => {
-  const child = document.createElement(name);
-  parent.appendChild(child);
-  return child;
-};
-
 const playTrack = (/** @type {FileTrack} */ track) => {
   audio.pause();
   audio.src = "";
@@ -117,60 +106,60 @@ const playTrack = (/** @type {FileTrack} */ track) => {
     });
 };
 
+const getTemplate = (
+  /** @type {string} */ id,
+  /** @type {(el: HTMLElement) => void} */ modify
+) => {
+  const template = /** @type {HTMLTemplateElement} */ (
+    document.getElementById(id)
+  );
+  const node = /** @type {HTMLElement} */ (template.content.cloneNode(true));
+  modify(node);
+  return node;
+};
+
 /**
  * @param {Track} track
  * @param {boolean} includeArranger
  */
 const renderTrack = (track, includeArranger) => {
-  const row = document.createElement("tr");
-
   if ("header" in track) {
-    const title = createChild("th", row);
-    title.colSpan = includeArranger ? 3 : 2;
-    title.textContent = track.header;
-    title.className = "text-center";
-    return row;
+    return getTemplate("trackList-header", (row) => {
+      const title = row.querySelector("th");
+      title.colSpan = includeArranger ? 3 : 2;
+      title.textContent = track.header;
+    });
+  } else {
+    return getTemplate("trackList-track", (row) => {
+      row.querySelector(".track-title").textContent = track.title;
+      if (includeArranger) {
+        row.querySelector(".track-arranger").textContent = track.arranger || "";
+      } else {
+        row.querySelector(".track-arranger").remove();
+      }
+      row.querySelector("button").addEventListener("click", () => {
+        playTrack(track);
+      });
+    });
   }
-  createChild("td", row).textContent = track.title;
+};
 
-  if (includeArranger) {
-    createChild("td", row).textContent = track.arranger || "";
-  }
+const renderAlbum = (/** @type {Album} */ album) =>
+  getTemplate("trackList", (sec) => {
+    sec.querySelector("h2").textContent = album.title;
+    sec.querySelector("p").textContent = album.about;
 
-  const button = createChild("button", createChild("td", row));
-  button.className = "btn btn-secondary btn-sm";
-  button.textContent = "Play!";
-  button.addEventListener("click", () => {
-    playTrack(track);
+    const includeArranger = album.tracks.some((t) => "arranger" in t);
+    if (!includeArranger) {
+      sec.querySelector(".arranger-title").remove();
+    }
+
+    for (const track of album.tracks) {
+      sec
+        .querySelector("tbody")
+        .appendChild(renderTrack(track, includeArranger));
+    }
   });
-
-  return row;
-};
-
-const renderAlbum = (/** @type {Album} */ album) => {
-  const sec = document.createElement("section");
-
-  createChild("h2", sec).textContent = album.title;
-  createChild("p", sec).textContent = album.about;
-
-  const table = createChild("table", sec);
-  table.className = "table";
-
-  const headerRow = createChild("tr", createChild("thead", table));
-  createChild("th", headerRow).textContent = "Title";
-  const includeArranger = album.tracks.some((t) => "arranger" in t);
-  if (includeArranger) {
-    createChild("th", headerRow).textContent = "Arranger";
-  }
-  createChild("th", headerRow).style.width = "60px";
-
-  const tbody = createChild("tbody", table);
-  album.tracks
-    .map((t) => renderTrack(t, includeArranger))
-    .forEach((el) => tbody.appendChild(el));
-
-  return sec;
-};
 
 document.addEventListener("password:decrypt", async () => {
   /** @type {Album[]} */
