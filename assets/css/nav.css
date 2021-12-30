@@ -40,22 +40,9 @@
 }
 
 .dropdown-header {
-  user-select: none;
   -webkit-user-select: none;
+  user-select: none;
   pointer-events: none;
-}
-
-.navbar .dropdown-item.active,
-.navbar .dropdown-item:active {
-  background-color: var(--brown-2) !important;
-}
-.navbar-nav .dropdown-menu {
-  padding-block: 0;
-  overflow: hidden;
-  border: none;
-}
-.navbar-nav .dropdown-item {
-  padding-block: 0.5rem;
 }
 
 .footer-icon {

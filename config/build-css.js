@@ -9,7 +9,7 @@ module.exports = (eleventyConfig) => {
   eleventyConfig.on("afterBuild", async () => {
     const result = await purger.purge({
       content: ["public/**/*.html", "public/*.html"],
-      css: ["node_modules/bootstrap/dist/css/bootstrap.min.css"],
+      css: ["node_modules/bootstrap-dark-5/dist/css/bootstrap-dark.min.css"],
       extractors: [{ extractor: extractFromHTML, extensions: ["html"] }],
       variables: true,
       safelist: [
@@ -21,7 +21,7 @@ module.exports = (eleventyConfig) => {
     });
     for (const file of result) {
       await writeFile(
-        path.join("public", "assets", path.basename(file.file)),
+        path.join("public", "assets", path.basename("bootstrap.min.css")),
         file.css
       );
     }

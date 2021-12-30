@@ -1,4 +1,5 @@
 <link rel="stylesheet" href="/assets/css/nav.css" />
+<link rel="stylesheet" href="/assets/css/navbar-colors.css" />
 
 {% macro active(destPage) %}{% if destPage.url == page.url %} active{% endif %}{% endmacro %}
 {% macro dropdownActive(content) %}
@@ -7,7 +8,7 @@
   {% endfor %}
 {% endmacro %}
 
-<nav class="navbar navbar-expand-md navbar-dark bg-brown2">
+<nav class="navbar navbar-expand-md navbar-brown">
   <div class="container">
     <div class="col-lg-2"></div>
     <div
@@ -44,7 +45,7 @@
             </button>
 
             <ul
-              class="dropdown-menu dropdown-menu-dark bg-brown4 rounded-3 lg-shadow-brown"
+              class="dropdown-menu dropdown-menu-brown rounded-3 lg-shadow-brown"
               aria-labelledby="dropdownMenuLink"
             >
               {% for link in dropdown.content %}
