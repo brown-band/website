@@ -50,22 +50,23 @@ module.exports = (eleventyConfig) => {
   );
 
   /**
-   * Shortcodes
+   * Filters & Shortcodes
    */
-  // syntax: {{ title | page_title }}
-  // adds the site title at the end of the page title
+  // add the site title at the end of the page title
   eleventyConfig.addFilter("page_title", function (title) {
     return title ? `${title} | ${this.ctx.site.title}` : this.ctx.site.title;
   });
+  // format a date for display in a script header
   eleventyConfig.addFilter("script_date", function (date) {
     return formatDate(date, "UTC", "EEEE, MMMM do, y");
   });
+  // convert a list to a format that’s human readable (commas between, “and” at the end)
+  // and prevent insertion of line breaks within list elements
   eleventyConfig.addFilter("listify", function (items) {
     return listify((items ?? []).map((s) => s.replaceAll(" ", "\xA0")));
   });
-  eleventyConfig.addFilter("debug", function (data) {
-    return JSON.stringify(data, null, 2);
-  });
+  // find the page with the given filePathStem in the given collection
+  // used by nav.njk
   eleventyConfig.addFilter("find_page", function (filePathStem, collection) {
     return collection.find((p) => p.filePathStem === "/" + filePathStem);
   });
