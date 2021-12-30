@@ -51,3 +51,7 @@
 blockquote {
   margin: 1em;
 }
+
+.icon {
+  fill: currentColor;
+}

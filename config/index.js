@@ -1,6 +1,16 @@
-/** @type {any} */
+const fs = require("node:fs");
+const path = require("node:path");
 const formatDate = require("date-fns-tz/formatInTimeZone");
 const listify = require("listify");
+
+const allIcons = [
+  ...fs
+    .readFileSync(
+      path.join(path.dirname(__dirname), "assets", "icons.svg"),
+      "utf-8"
+    )
+    .matchAll(/<symbol[^>]+id="(?<name>[^"]+)"/g),
+].map((i) => i.groups.name);
 
 /** @type {(eleventyConfig: import("@11ty/eleventy/src/UserConfig")) => void} */
 module.exports = (eleventyConfig) => {
@@ -69,6 +79,18 @@ module.exports = (eleventyConfig) => {
   // used by nav.njk
   eleventyConfig.addFilter("find_page", function (filePathStem, collection) {
     return collection.find((p) => p.filePathStem === "/" + filePathStem);
+  });
+  // insert an icon
+  eleventyConfig.addShortcode("icon", function (name, { size = 24 } = {}) {
+    if (!allIcons.includes(name)) {
+      throw new ReferenceError(`Unknown icon '${name}'`);
+    }
+
+    return /* HTML */ `
+        <svg class="icon" width="${size}" height="${size}">
+          <use href="/assets/icons.svg#${name}" />
+        </svg>
+      `.trim();
   });
 
   /**
