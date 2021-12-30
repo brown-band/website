@@ -8,6 +8,11 @@ layout: web.njk
 <h1>{{title}}</h1>
 {% endif %}
 
+{% if toc %}
+{% if toc == true %}{% set toc = content | auto_toc %}{% endif %}
+{% include "toc.njk" %}
+{% endif %}
+
 {% if summary %}
 <blockquote>
   <p><em>{{summary | safe}}</em></p>

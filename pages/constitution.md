@@ -1,3 +1,7 @@
+---
+toc: true
+---
+
 ## Article I: STATEMENT OF PURPOSE {#I}
 
 The purpose of the Brown University Band (hereafter, the "Band") shall be to play at appropriate Brown University functions and community events. Appearance of the Band at such functions shall be subject to the approval of the Brown University Band Board (hereafter, the "Band Board").

@@ -1,0 +1,60 @@
+main {
+  position: relative;
+}
+.toc nav {
+  margin-left: -0.5em;
+}
+.toc ul {
+  list-style: none;
+  padding-left: 0;
+}
+.toc li {
+  margin-left: 1em;
+  text-indent: -0.5em;
+}
+.toc a:not(:hover) {
+  text-decoration: none;
+}
+
+@media (min-width: 768px) {
+  .toc {
+    position: sticky;
+    top: 0;
+    width: 300px;
+    height: 100vh;
+    pointer-events: none;
+    margin-left: auto;
+  }
+  .toc + * {
+    margin-top: -100vh;
+  }
+  .toc > div {
+    position: sticky;
+    width: 300px;
+    top: 0;
+    max-height: 100vh;
+    pointer-events: all;
+    margin-left: calc(300px + 1.5em);
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  .toc nav {
+    display: flex;
+    width: auto;
+    overflow-y: auto;
+  }
+  .toc ul {
+    display: inline-flex;
+    flex-direction: column;
+  }
+  .toc a {
+    color: inherit;
+  }
+  .toc {
+    opacity: 0.9;
+  }
+  .toc li li {
+    opacity: 0.85;
+  }
+}

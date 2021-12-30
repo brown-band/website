@@ -36,6 +36,24 @@ module.exports = (eleventyConfig) => {
     return collection.find((p) => p.filePathStem === "/" + filePathStem);
   });
 
+  // auto TOC
+  eleventyConfig.addNunjucksAsyncFilter(
+    "auto_toc",
+    async function (content, done) {
+      const { rehype } = await import("rehype");
+
+      done(
+        null,
+        (
+          await rehype()
+            .use((await import("rehype-parse")).default)
+            .use((await import("@stefanprobst/rehype-extract-toc")).default)
+            .process(content)
+        ).data.toc
+      );
+    }
+  );
+
   // insert an icon
   eleventyConfig.addShortcode("icon", function (name, { size = 24 } = {}) {
     if (!allIcons.includes(name)) {
