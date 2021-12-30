@@ -57,3 +57,10 @@
   user-select: none;
   pointer-events: none;
 }
+
+:first-child > .dropdown-item {
+  padding-top: 0.65em;
+}
+:last-child > .dropdown-item {
+  padding-bottom: 0.65em;
+}
