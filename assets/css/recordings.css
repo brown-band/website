@@ -1,3 +1,7 @@
+.track-title {
+  vertical-align: middle;
+}
+
 :root {
   --recording-player-height: 120px;
 }
@@ -8,6 +12,9 @@
   flex-direction: column;
   justify-content: center;
   width: 100%;
+}
+.player-wrapper {
+  z-index: 1;
 }
 @media (min-width: 576px) {
   .player,
@@ -28,8 +35,8 @@
   }
 }
 @media (max-width: 576px) {
-  #root {
-    margin-bottom: var(--recording-player-height);
+  body {
+    padding-bottom: var(--recording-player-height);
   }
   .player {
     border-width: 0.1rem 0 0 !important;
@@ -43,5 +50,11 @@
     bottom: 0;
     box-shadow: 0 2.5rem 2rem 3rem rgba(0, 0, 0, 0.15) !important;
     padding-bottom: env(safe-area-inset-bottom);
+  }
+}
+
+@media (prefers-color-scheme: dark) and (max-width: 576px) {
+  .player-wrapper {
+    box-shadow: 0 2.5rem 2rem 3rem rgba(0, 0, 0, 0.4) !important;
   }
 }

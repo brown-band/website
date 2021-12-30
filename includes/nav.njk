@@ -1,7 +1,7 @@
-<link rel="stylesheet" href="/assets/css/nav.css" />
 <link rel="stylesheet" href="/assets/css/navbar-colors.css" />
+<link rel="stylesheet" href="/assets/css/nav.css" />
 
-{% macro active(destPage) %}{% if destPage.url == page.url %} active{% endif %}{% endmacro %}
+{% macro active(destPage) %}{{" active" if destPage.url|default(destPage) == page.url}}{% endmacro %}
 {% macro dropdownActive(content) %}
   {%- for link in content -%}
     {{- active(link | find_page(collections.all)) -}}

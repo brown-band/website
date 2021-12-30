@@ -19,7 +19,20 @@
   .navbar .dropdown-toggle:not(.show)::after {
     transform: translateY(2px) rotate(-90deg);
   }
+  .dropdown-menu-brown {
+    background: rgba(0, 0, 0, 0.25);
+    box-shadow: 0 0 7px rgba(0, 0, 0, 0.5) inset;
+  }
+  .dropdown-menu-brown .dropdown-item.active,
+  .dropdown-menu-brown .dropdown-item:active {
+    background: rgba(0, 0, 0, 0.35);
+    box-shadow: 0 0 9px rgba(0, 0, 0, 0.45) inset;
+  }
+  .dropdown-menu-brown .dropdown-item:hover:not(.active):not(:active) {
+    box-shadow: 0 0 9px rgba(0, 0, 0, 0.45);
+  }
 }
+
 @media (min-width: 576px) {
   .header-quote {
     width: 382px;
