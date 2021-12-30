@@ -1,11 +1,21 @@
 main {
   position: relative;
 }
-.toc nav {
-  margin-left: -0.2rem;
+
+@media (max-width: 992px) {
+  article:has(.toc) .toc-btn {
+    display: inline-block !important;
+  }
+}
+
+@media (max-width: 800px) {
+  .main-row {
+    margin-left: 0;
+    margin-right: 0;
+  }
 }
 .toc nav > ul {
-  transform: translateX(-0.5rem);
+  padding-left: 1rem;
   margin-top: 0.5rem;
 }
 .toc ul {
@@ -14,19 +24,20 @@ main {
 }
 .toc li {
   margin-left: 1em;
-  text-indent: -0.2rem;
+  text-indent: -2rem;
 }
 .toc a:not(:hover) {
   text-decoration: none;
 }
 
-@media (min-width: 768px) {
+@media (min-width: 992px) {
   .toc {
     --toc-offset: 2.75rem;
+    --toc-width: 300px;
     position: sticky;
     top: var(--toc-offset);
     margin-bottom: calc(-4rem - var(--toc-offset));
-    width: 300px;
+    width: var(--toc-width);
     height: 100vh;
     pointer-events: none;
     margin-left: auto;
@@ -54,11 +65,11 @@ main {
   }
   .toc > div {
     position: sticky;
-    width: 300px;
+    width: var(--toc-width);
     top: 0;
     max-height: 100vh;
     pointer-events: all;
-    margin-left: calc(300px + 1.5em);
+    margin-left: calc(var(--toc-width) + 1.5em);
     display: flex;
     flex-direction: column;
     align-items: stretch;
@@ -74,5 +85,11 @@ main {
   }
   .toc li li {
     opacity: 0.85;
+  }
+}
+
+@media (min-width: 1200px) {
+  .toc {
+    --toc-width: 350px;
   }
 }
