@@ -37,7 +37,7 @@
             <button
               class="nav-link{{dropdownActive(dropdown.content)}} dropdown-toggle bg-transparent border-0"
               style="outline: 0"
-              id="dropdownMenuLink-{{dropdown.title|slugify}}"
+              id="dropdownMenuLink-{{loop.index}}"
               data-bs-toggle="dropdown"
               aria-expanded="false"
             >
@@ -46,7 +46,7 @@
 
             <ul
               class="dropdown-menu dropdown-menu-brown rounded-3 lg-shadow-brown"
-              aria-labelledby="dropdownMenuLink-{{dropdown.title|slugify}}"
+              aria-labelledby="dropdownMenuLink-{{loop.index}}"
             >
               {% for link in dropdown.content %}
                 {% if link.heading %}
