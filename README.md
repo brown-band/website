@@ -2,40 +2,38 @@
 
 Welcome to the repository for the Brown Band!
 
-TODO:
-
-- [ ] figure out what to do with `_redirects`
-
 ## Documentation
 
 (this whole thing is probably somewhat out of date, so if you see any issues please correct them)
 
 ### Getting Started
 
-This site is a static site powered by [Eleventy (11ty)](https://www.11ty.dev) and hosted on [TBD]. That means that the files in this repository are transformed by a build script producing a folder full of plain HTML files that any static site host can serve.
+This site is a static site powered by [Eleventy (11ty)](https://www.11ty.dev) and hosted on [TBD]. That means that the files in this repository are transformed by a build script producing a folder full of plain HTML files that any static site host can serve. If [TBD] ceases to exist, you should have a wide variety of competitors to choose from. Hopefully.
 
-To get started, make sure you have [Node.js](https://nodejs.org/en/) installed. I recommend using something like [nvm](https://github.com/nvm-sh/nvm) (or my favorite, [asdf](https://asdf-vm.com)), which will automatically pick up the `.node-version` file in this repo and prompt you to install that version of Node.
+To get started making updates to the website, make sure you have [Node.js](https://nodejs.org/en/) and [Git](https://git-scm.com) installed on your computer. I recommend using something like [nvm](https://github.com/nvm-sh/nvm) (or my favorite, [asdf](https://asdf-vm.com)), which will automatically pick up the `.node-version` file in this repository and prompt you to install that version of Node.
 
-In a terminal, run `npm install` from this project’s directory to install most dependencies. You can run one of several scripts via `npm run`:
+In a terminal, run `git clone https://github.com/brown-band/website` to copy the website to your computer. Then open a terminal to the folder that this README file is in, and run `npm install` to install most dependencies. Once that finishes, you can run one of several scripts via `npm run`:
 
 - <code>npm run **start**</code> (or `npm start` for short): Runs Eleventy in development mode, starting a local server and rebuilding whenever you change a file. Open https://localhost:8080 to view the website locally!
 - <code>npm run **build**</code>: Runs Eleventy once, outputting the generated site in the `public` folder. Run this before uploading the contents of that folder to a static site host. (There’s typically no need for you to do this, since a new build will be automatically triggered whenever you push updated code to GitHub)
 - <code>npm run **format**</code>: Runs [Prettier](https://prettier.io) to ensure consistent code and document formatting. Ideally, set up your code editor to run Prettier whenever you save a file — check out their [editor integration docs](https://prettier.io/docs/en/editors.html) or search your editor’s package manager for a “Prettier” package.
 - <code>npm run **start:book**</code> and <code>npm run **build:book**</code>: like `npm start` and `npm run build` but for the script book. See below!
 
-(Note: I put the current LTS version of Node.js into the `.node-version` file — feel free to update it at any time (after checking to make sure the new version still works right!))
-
 ### File organization
 
 - `assets`: miscellaneous static files (i.e. images, JS, CSS, and anything else that you need that isn’t a page)
-- `book`: handles printing the script books given to seniors at graduation
+  - `handle-password.js`: checks the password provided for encrypted pages (currently just `recordings.html`)
+  - `recordings.js`: renders the decrypted recordings page on the client side and enables playback.
+- `book`: handles printing the script books given to seniors at graduation. See below for details.
 - `book-html`: the output directory for `npm run book:*`, not checked into Git.
 - `buttons`: contains folders for each class year. See below for more detailed instructions.
-  - `buttons/*/labels.yml`: contains a mapping from college name → button description
+  - `buttons/[year]/labels.yml`: contains a mapping from college name → button description for that year
 - `config`: things that make Eleventy work the way we want. Includes functionality common to both the book and the website.
+  - `build-css.js`: Slims down Bootstrap by removing unused CSS classes. It should pick up most things you use automatically, but if you dynamically add Bootstrap classes using JS, make sure to add them to the `safelist` so they work properly.
+  - `filters-shortcodes.js`: Contains all the custom additions to the Nunjucks template language.
   - `index.js`: various config things. If you’re adding new config, consider putting it here unless it only applies to the website (i.e. not the book)
   - `remark-directives.mjs`: [remark](https://remark.js.org) plugin for handling custom syntax used in scripts
-  - `script.js`: Creates collections of the scripts for every semester (used to render the script pages) and a list of those collections (used to render the scripts homepage).
+  - `scripts.js`: Creates collections of the scripts for every semester (used to render the script pages) and a list of those collections (used to render the scripts homepage).
 - `data`: contains a combination of static data (`.yml` files) and scripts that produce the relevant data for the website (`.js` files)
   - `people/*.yml`: lists the section leaders, appointed positions, conductors, and members of band board.
   - `buttons.js`: scans the `buttons` folder and formats the buttons for display on the buttons page
@@ -49,24 +47,30 @@ In a terminal, run `npm install` from this project’s directory to install most
   - `site.yml`: global metadata for the website (currently just the title)
   - `specialButtons.yml`: list of buttons that don’t fit into any of the existing categories
 - `includes`: can be imported using `{% include %}`
-  - (note: included templates use the same output language as the page that includes them)
+  - (note: included templates use the same output language as the page that includes them, i.e. Markdown or HTML)
   - `button-table.njk`: code for rendering the tables on the button page
   - `footer.html`: contains the page footer
-  - `icons.html`: contains various SVG icons used on the website (as of this writing, only in the footer)
   - `nav.njk`: renders the navbar, and is responsible for highlighting the active item
   - `people-table.md`: used to make the section leader and appointed position tables
   - `person.md`: used to display band board and conductor bios
   - `script.njk`: displays the metadata and content for a single show script
+  - `toc-button.html`: the button for toggling the table of contents on mobile
+  - `toc.njk`: renders a table of contents based on the `toc` variable
 - `layouts`
   - `base.njk`: contains the basic page layout (shared across print and web), including the page title, CSS/JS imports, and page content
   - `web.njk`: contains the navbar and `container` (which sets the maximum width of the content) (inherits `base.njk`)
   - `page.njk`: renders the page title and summary (inherits `web.njk`)
+- `node_modules`: Created by `npm install`. Don’t change it yourself — instead use `npm` commands to add and remove packages.
 - `pages`: the pages on the website. Each page is automatically compiled into HTML by Eleventy.
   - `scripts`: show scripts. Contains a subfolder for each year’s scripts, with `fall` and `spring` subfolders.
   - `index.md`: the homepage
-- `public`: the output directory, not checked into Git.
-- `eleventy.config.js`, `eleventy-book.config.js`: configuration file for Eleventy. See docs inside the file for more details.
+  - `script-semester.njk`: Eleventy copies this page for every semester for which we have scripts for.
+- `public`: the output directory, not checked into Git. Eleventy creates and updates (but does not delete) files in this directory when you run `npm start` or `npm run build`.
+- `.node-version`: the version of Node.js that the website is confirmed to build properly with. Feel free to update this any time (but make sure you double-check that things still work properly!).
+- `eleventy.config.js`, `eleventy-book.config.js`: configuration files for Eleventy. See docs inside the file for more details.
 - `jsconfig.json`: used to configure TypeScript language features for editor integration (we’re not actually using TypeScript at this point, but the autocomplete it provides is sometimes helpful)
+- `package.json`, `package-lock.json`: lists the packages used by the website (both on the frontend and on the backend), and defines the scripts accessible using `npm run`.
+  - the convention I’ve tried to maintain is that packages from which one or more files are copied into `public/` during the build process get installed as `dependencies`, and everything else gets installed into `devDependencies`.
 
 ### Common Tasks
 
@@ -154,12 +158,24 @@ That’s it! The build script will automatically pick up the new buttons and add
    - `summary`: italicized, indented text displayed between the title and the content
    - `css`: specify an array of CSS files (without the extension, from `assets/css/`) to add to the current page.
    - `show_header`: disable the default header. for when you want a something custom
+   - `toc`: By default, a table of contents will be generated for any page with at least one header with an `id` property (put `{#id}` at the end of a heading to set an ID). You can override this by specifying `toc: false` to disable the table of contents, or pass an array of custom headings (check out `buttons.html` for an example of this).
    - (there are a bunch more for scripts, described below)
    - check out [Eleventy’s docs](https://www.11ty.dev/docs/data-configuration/) for additional options.
 3. Add the page content, formatted using Markdown. You can use [Nunjucks template commands](https://mozilla.github.io/nunjucks/templating.html) to incorporate data into the page.
 4. Add the page to the navbar:
    - To add it at the top level, edit `nav.njk` to add a link to the page (use the “Contact” link as an example)
    - To add it to a menu, edit `nav.yml` by adding an entry somewhere with the path of the page (without the file extension; use the others as an example). The title will be automatically picked up.
+
+#### Adding an icon
+
+To add a new icon to `assets/icons.svg`:
+
+1. Find the icon you want online, in SVG format. Make sure it has a free/permissive license!
+2. Create a new `<symbol>` element in `assets/icons.svg`:
+   - The `id` property should be an ID (use `kebab-case` and avoid spaces).
+   - The `viewBox` property should match the one on the `<svg>` tag of the SVG you’re copying
+     - if there isn’t a `viewBox` property, `0 0 width height` (where `width` and `height`) are replaced by those properties on the SVG) should work.
+3. Paste everything inside of the `<svg>` tag into the `<symbol>`.
 
 ---
 
