@@ -55,3 +55,7 @@ blockquote {
 .icon {
   fill: currentColor;
 }
+
+main {
+  position: relative;
+}

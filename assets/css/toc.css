@@ -1,11 +1,17 @@
+/**
+ * if you’re editing this (perhaps to fix a bug), i’m sorry.
+ * I spent several hours toggling CSS properties on and off
+ * and this is what I ended up with. I think it works in all
+ * cases. But there’s probably something I missed. I don’t
+ * fully understand it myself (having just written it).
+ * Good luck! - Jed
+ */
+
 :root {
   --toc-offset: 2.75rem;
   --toc-width: 300px;
 }
 
-main {
-  position: relative;
-}
 .toc nav > ul {
   padding-left: 1rem;
   margin-top: 0.5rem;
