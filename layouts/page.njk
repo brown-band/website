@@ -2,8 +2,10 @@
 layout: web.njk
 ---
 
-<!-- prettier-ignore -->
 <article>
+
+{% if toc %}{% include "toc-button.njk" %}{% endif %}
+
 {% if title and show_header != false %}
 <h1>{{title}}</h1>
 {% endif %}
