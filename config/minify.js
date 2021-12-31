@@ -7,7 +7,18 @@ const rehypeTransformHTML = (async () => {
   const { rehype } = await import("rehype");
   const { default: minify } = await import("rehype-preset-minify");
   const { default: format } = await import("rehype-format");
-  return rehype().use(process.env.NODE_ENV === "production" ? minify : format);
+  return rehype()
+    .use(process.env.NODE_ENV === "production" ? minify : format)
+    .use({
+      settings: {
+        entities: {
+          omitOptionalSemicolons: false,
+          useShortestReferences: true,
+        },
+        tightDoctype: false,
+        upperDoctype: true,
+      },
+    });
 })();
 
 /** @type {(eleventyConfig: import("@11ty/eleventy/src/UserConfig")) => void} */
