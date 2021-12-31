@@ -1,3 +1,8 @@
+:root {
+  --toc-offset: 2.75rem;
+  --toc-width: 300px;
+}
+
 main {
   position: relative;
 }
@@ -19,16 +24,14 @@ main {
 
 @media (min-width: 992px) {
   .toc {
-    --toc-offset: 2.75rem;
-    --toc-width: 300px;
     position: sticky;
-    top: var(--toc-offset);
-    margin-bottom: calc(-4rem - var(--toc-offset));
+    top: calc(-1 * var(--toc-offset));
     width: var(--toc-width);
     height: 100vh;
     pointer-events: none;
     margin-left: auto;
-    transform: translateY(calc(-1 * var(--toc-offset)));
+    margin-top: calc(-1 * var(--toc-offset));
+    margin-bottom: calc(-4rem + var(--toc-offset));
   }
   .toc h2 {
     position: relative;
@@ -48,7 +51,7 @@ main {
     height: 1px;
   }
   .toc + * {
-    margin-top: -100vh;
+    margin-top: calc(var(--toc-offset) - 100vh);
   }
   .toc > div {
     position: sticky;
