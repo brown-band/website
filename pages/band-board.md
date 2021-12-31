@@ -30,4 +30,4 @@ For the term ending November 2021
 
 <center>
 
-[Karen Mellor](kmellor@alumni.brown.edu) '82</center>
+[Karen Mellor](mailto:kmellor@alumni.brown.edu) '82</center>
