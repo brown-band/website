@@ -15,6 +15,8 @@ module.exports = (eleventyConfig) => {
       safelist: [
         // used by recordings.js
         "is-invalid",
+        // used by collapse (for mobile TOC)
+        "collapsing",
         // added by Bootstrap when opening dropdowns in the navbar
         "show",
       ],
