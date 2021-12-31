@@ -1,3 +1,9 @@
 .people-table-head p {
   margin: 0;
 }
+
+.headshot {
+  clear: left;
+  margin: 0.75rem;
+  border-radius: 0.5rem;
+}
