@@ -91,6 +91,12 @@ css: [recordings]
   </tr>
 </template>
 
+<template id="toc">{% set toc = [] %}{% include "toc.njk" %}</template>
+<template id="toc-button">{% include "toc-button.njk" %}</template>
+<template id="toc-li">
+  <li><a></a></li>
+</template>
+
 <script src="/assets/base64-arraybuffer.umd.js"></script>
 <script>
   globalThis.mediaHost = new URL("{{recordings_url}}");

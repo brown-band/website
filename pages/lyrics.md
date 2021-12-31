@@ -1,4 +1,8 @@
-## Ever True to Brown (#1)
+---
+toc: true
+---
+
+## Ever True to Brown (#1) {#evertrue}
 
 <cite>Donald Jackson '09</cite>
 
@@ -43,7 +47,7 @@ And a B-O-U-R-B-O-N.
 
 ---
 
-## Brown Cheering Song (#2)
+## Brown Cheering Song (#2) {#cheering-song}
 
 <cite>R.B. Jones '07 and H.S. Young '08</cite>
 
@@ -59,7 +63,7 @@ So rise, rise and cheer, boys, till the last white line is crossed.
 
 ---
 
-## Brown Forevermore (#3)
+## Brown Forevermore (#3) {#forevermore}
 
 <cite>Fred A. Otis '03</cite>
 
@@ -79,7 +83,7 @@ Because it's fight, fight for Brown boys, and for Brown forevermore.
 
 ---
 
-## For Bruno and For Brown (#4)
+## For Bruno and For Brown (#4) {#four}
 
 <cite>John R. Bair '13 and Donald Jackson '09</cite>
 
@@ -94,7 +98,7 @@ Just for Bruno and for Brown.
 
 ---
 
-## I'm A Brown Man Born
+## I'm A Brown Man Born {#brown-man-born}
 
 **_The Brown Drinking Song_**
 
@@ -120,7 +124,7 @@ Rah, rah, Bruno-nonia, Brown Brown Brown.
 
 ---
 
-## In the Fray
+## In the Fray {#in-the-fray}
 
 <cite>A.G. Chaffee '02</cite>
 
@@ -137,7 +141,7 @@ Rah! Rah! for Brown! Rah! Rah! for Brown! Hey!
 
 ---
 
-## Ki-Yi-Yi
+## Ki-Yi-Yi {#ki-yi-yi}
 
 <cite>Edward W. Corliss 1895</cite>
 
@@ -150,7 +154,7 @@ Give them a good and snappy Ki-Yi-Yi!
 
 ---
 
-## Brown Bear
+## Brown Bear {#brown-bear}
 
 <cite>John B. Archer and Kenneth Quivey</cite>  
 **_Polka never dies._**
@@ -179,7 +183,7 @@ To cheer once more as before for dear old Brown!
 
 ---
 
-## Bring the Victory to Brown
+## Bring the Victory to Brown {#bring-the-victory}
 
 <cite>Donald Jackson '09</cite>
 
@@ -211,7 +215,7 @@ Ring back our tones of cheer.
 
 ---
 
-## Alma Mater ("That Song" or "Apple Mango")
+## Alma Mater ("That Song" or "Apple Mango") {#alma-mater}
 
 <cite>J.A. De Wolf 1861</cite>
 

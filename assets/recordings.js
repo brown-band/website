@@ -4,7 +4,7 @@
  * @typedef {{ title: string, file: string, type: string, arranger?: string }} FileTrack
  * @typedef {{ header: string }} HeaderTrack
  * @typedef {FileTrack | HeaderTrack} Track
- * @typedef {{ title: string, about: string, tracks: Track[] }} Album
+ * @typedef {{ id: string, title: string, about: string, tracks: Track[] }} Album
  */
 
 /**
@@ -108,12 +108,14 @@ const playTrack = (/** @type {FileTrack} */ track) => {
 
 const getTemplate = (
   /** @type {string} */ id,
-  /** @type {(el: HTMLElement) => void} */ modify
+  /** @type {(el: DocumentFragment) => void} */ modify = () => {}
 ) => {
   const template = /** @type {HTMLTemplateElement} */ (
     document.getElementById(id)
   );
-  const node = /** @type {HTMLElement} */ (template.content.cloneNode(true));
+  const node = /** @type {DocumentFragment} */ (
+    template.content.cloneNode(true)
+  );
   modify(node);
   return node;
 };
@@ -146,6 +148,7 @@ const renderTrack = (track, includeArranger) => {
 
 const renderAlbum = (/** @type {Album} */ album) =>
   getTemplate("trackList", (sec) => {
+    sec.querySelector("h2").id = album.id;
     sec.querySelector("h2").textContent = album.title;
     sec.querySelector("p").textContent = album.about;
 
@@ -168,7 +171,31 @@ document.addEventListener("password:decrypt", async () => {
   );
   const root = document.querySelector("#root");
   root.innerHTML = "";
-  inventory.map(renderAlbum).forEach((el) => root.appendChild(el));
+
+  getTemplate("toc", (toc) => {
+    [...toc.children]
+      .reverse()
+      .forEach((c) =>
+        document.querySelector("h1").insertAdjacentElement("afterend", c)
+      );
+  });
+  document
+    .querySelector("h1")
+    .insertAdjacentElement(
+      "beforebegin",
+      getTemplate("toc-button").firstElementChild
+    );
+
+  const tocUL = document.querySelector(".toc ul");
+  inventory.forEach((album) => {
+    root.appendChild(renderAlbum(album));
+    tocUL.appendChild(
+      getTemplate("toc-li", (li) => {
+        li.querySelector("a").href = "#" + album.id;
+        li.querySelector("a").textContent = album.title;
+      })
+    );
+  });
 
   document.querySelector(".stop-player").addEventListener("click", () => {
     document.querySelector(".player-wrapper").setAttribute("hidden", "");

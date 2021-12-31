@@ -1,45 +1,26 @@
+---js
+{
+  summary: `
+    It just wouldn't be complete if we cheered on the Bears without paying our
+    due respects to the opposition. Hence, we have the infamous buttons, a
+    different set for each football game (plus a special one for homecoming)
+    churned out every year. The Band proudly wears them, and we pass them out
+    for free to anyone at the football game who wants one!
+  `.trim().replaceAll(/\n\s+/g, ' '),
+  eleventyComputed: {
+    toc: data => [
+      { id: "current", value: "Current Season" },
+      { id: "ivies", value: "Ivies", children: data.buttons.bySchool.ivy.map(s => ({ id: s.id, value: s.name })) },
+      { id: "recent", value: "Recent", children: data.buttons.bySchool.recent.map(s => ({ id: s.id, value: s.name })) },
+      { id: "other", value: "Other Schools" },
+      { id: "special", value: "Special Buttons" },
+      { id: "unknown", value: "Secret Mystery Buttons" },
+    ]
+  }
+}
 ---
-summary: |
-  It just wouldn't be complete if we cheered on the Bears without paying our
-  due respects to the opposition. Hence, we have the infamous buttons, a
-  different set for each football game (plus a special one for homecoming)
-  churned out every year. The Band proudly wears them, and we pass them out
-  for free to anyone at the football game who wants one!
----
 
-{% set toplink = '<a href="#" style="float: right" class="h5 my-0 mt-2">top ↑</a
->' | safe %}
-
-<h2 style="font-size: 1.5em; font-weight: bold">Table of Contents</h2>
-
-<nav>
-  <ul>
-    <li><a href="#current">Current Season</a></li>
-    <!-- prettier-ignore -->
-    <li>
-      <strong>Ivies:</strong>
-      {% for school in buttons.bySchool.ivy -%}
-        <a href="#{{school.id}}">{{school.name}}</a>{{" • " if not loop.last}}
-      {%- endfor -%}
-    </li>
-    <!-- prettier-ignore -->
-    <li>
-      <strong>Recent:</strong>
-      {% for school in buttons.bySchool.recent -%}
-        <a href="#{{school.id}}">{{school.name}}</a>{{" • " if not loop.last}}
-      {%- endfor -%}
-    </li>
-    <li>
-      <a href="#other">Other Schools</a>
-    </li>
-    <li>
-      <a href="#special">Special Buttons</a>
-    </li>
-    <li>
-      <a href="#unknown">Secret Mystery Buttons</a>
-    </li>
-  </ul>
-</nav>
+{% set toplink = '<a href="#" style="float: right" class="h5 my-0 mt-2">top ↑</a>' | safe %}
 
 <h2 id="current">{{buttons.currentYear}} Season</h2>
 
@@ -85,13 +66,13 @@ summary: |
   </tbody>
 </table>
 
-<h2>Ivy League: Past Seasons {{toplink}}</h2>
+<h2 id="ivies">Ivy League: Past Seasons {{toplink}}</h2>
 <!-- prettier-ignore -->
 {% for school in buttons.bySchool.ivy %}
   {% include "button-table.njk" %}
 {% endfor %}
 
-<h2>Recent Seasons: Other Schools {{toplink}}</h2>
+<h2 id="recent">Recent Seasons: Other Schools {{toplink}}</h2>
 <!-- prettier-ignore -->
 {% for school in buttons.bySchool.recent %}
   {% include "button-table.njk" %}
