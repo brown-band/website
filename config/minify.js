@@ -44,6 +44,8 @@ module.exports = (eleventyConfig) => {
       css: ["node_modules/bootstrap-dark-5/dist/css/bootstrap-dark.min.css"],
       extractors: [{ extractor: extractFromHTML, extensions: ["html"] }],
       variables: true,
+      keyframes: true,
+      fontFace: true,
       safelist: [
         // used by recordings.js
         "is-invalid",
@@ -51,12 +53,20 @@ module.exports = (eleventyConfig) => {
         "collapsing",
         // added by Bootstrap when opening dropdowns in the navbar
         "show",
+        "data-bs-popper",
       ],
+      rejected: process.env.NODE_ENV !== "production",
     });
     await writeFile(
       path.join(outDir, "assets", "bootstrap.min.css"),
       result[0].css
     );
+    if (result[0].rejected) {
+      await writeFile(
+        path.join(outDir, "purged-names.json"),
+        JSON.stringify(result[0].rejected)
+      );
+    }
     console.timeEnd("PurgeCSS");
   });
 };
