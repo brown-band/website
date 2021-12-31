@@ -1,5 +1,5 @@
 ---
-layout: base.njk
+layout: base.hbs
 body_attrs: 'class="d-flex flex-column h-100"'
 ---
 
@@ -7,7 +7,7 @@ body_attrs: 'class="d-flex flex-column h-100"'
 <div class="container mt-4 mb-5 px-md-0 flex-shrink-0">
   <div class="row">
     <div class="col-lg-1 col-xl-2"></div>
-    <main class="col-lg-7 col-xl-6">{{content | safe}}</main>
+    <main class="col-lg-7 col-xl-6">{{{content}}}</main>
     <div class="col-lg-4"></div>
   </div>
 </div>

@@ -1,7 +1,7 @@
 /** @type {(eleventyConfig: import("@11ty/eleventy/src/UserConfig")) => void} */
 module.exports = (eleventyConfig) => {
   eleventyConfig.addPlugin(require("./scripts"));
-  eleventyConfig.addPlugin(require("./filters-shortcodes"));
+  eleventyConfig.addPlugin(require("./templates"));
   eleventyConfig.addPlugin(require("./minify"));
 
   /**

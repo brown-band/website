@@ -18,7 +18,7 @@ module.exports = (eleventyConfig) => {
    * Data
    */
   // set the default layout
-  eleventyConfig.addGlobalData("layout", "page.njk");
+  eleventyConfig.addGlobalData("layout", "page.hbs");
   // set the domain of the media bucket
   eleventyConfig.addGlobalData(
     "recordings_url",

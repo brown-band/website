@@ -1,0 +1,15 @@
+<article>
+  {{#unless (equal? toc false)}}{{> toc-button}}{{/unless}}
+
+  {{#if (and title (not (equal? show_header false))) }}<h1>{{title}}</h1>{{/if}}
+
+{{#unless (equal? toc false)}}{{#if toc}}{{> toc}}{{/if}}{{/unless}}
+
+{{#if summary }}
+  <blockquote>
+    <p><em>{{{summary}}}</em></p>
+  </blockquote>
+  {{/if}}
+
+  {{{content}}}
+</article>

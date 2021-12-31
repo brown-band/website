@@ -1,21 +1,21 @@
 <link rel="stylesheet" href="/assets/css/toc.css" />
 
-{% macro makeToc(headers) %}
+{{#*inline "makeToc"}}
   <ul>
-    {% for header in headers %}
+    {{#each children }}
       <li>
-        <a href="#{{header.id}}">{{header.value}}</a>
-        {% if header.children %}{{makeToc(header.children)}}{% endif %}
+        <a href="#{{id}}">{{value}}</a>
+        {{#if children}}{{makeToc}}{{/if}}
       </li>
-    {% endfor %}
+    {{/each}}
   </ul>
-{% endmacro %}
+{{/inline}}
 
 <section class="toc">
   <div>
     <h2 class="d-none d-lg-block" style="font-size: 1.1em">
       <span class="px-1 bg-body position-relative rounded-pill">Contents</span>
     </h2>
-    <nav id="tocNav" class="collapse d-lg-block">{{ makeToc(toc) }}</nav>
+    <nav id="tocNav" class="collapse d-lg-block">{{#with toc as |children|}}{{>makeToc}}{{/with}}</nav>
   </div>
 </section>

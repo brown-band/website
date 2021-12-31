@@ -14,6 +14,14 @@ const allIcons = [
 
 /** @type {(eleventyConfig: import("@11ty/eleventy/src/UserConfig")) => void} */
 module.exports = (eleventyConfig) => {
+  eleventyConfig.addFilter("first", (...args) => args.find((x) => x));
+  eleventyConfig.addFilter("defined?", (x) => x != null);
+  eleventyConfig.addFilter("equal?", Object.is);
+  eleventyConfig.addFilter("not", (x) => !x);
+  eleventyConfig.addFilter("and", (...args) =>
+    args.reduce((a, b) => a && b, true)
+  );
+
   // add the site title at the end of the page title
   eleventyConfig.addFilter("page_title", function (title) {
     return title ? `${title} | ${this.ctx.site.title}` : this.ctx.site.title;
@@ -35,34 +43,6 @@ module.exports = (eleventyConfig) => {
   eleventyConfig.addFilter("find_page", function (filePathStem, collection) {
     return collection.find((p) => p.filePathStem === "/" + filePathStem);
   });
-
-  // auto TOC
-  eleventyConfig.addNunjucksAsyncFilter(
-    "auto_toc",
-    async function (content, done) {
-      const { rehype } = await import("rehype");
-
-      const strip = (headers) =>
-        headers
-          .filter((h) => h.id)
-          .map((h) => ({
-            ...h,
-            children: h.children ? strip(h.children) : h.children,
-          }));
-
-      done(
-        null,
-        strip(
-          (
-            await rehype()
-              .use((await import("rehype-parse")).default)
-              .use((await import("@stefanprobst/rehype-extract-toc")).default)
-              .process(content)
-          ).data.toc
-        )
-      );
-    }
-  );
 
   // insert an icon
   eleventyConfig.addShortcode("icon", function (name, { size = 24 } = {}) {
