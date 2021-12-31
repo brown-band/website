@@ -32,6 +32,10 @@ module.exports = (eleventyConfig) => {
   eleventyConfig.addDataExtension("yml", (contents) =>
     require("js-yaml").load(contents)
   );
+  eleventyConfig.addGlobalData(
+    "NODE_ENV",
+    process.env.NODE_ENV || "development"
+  );
 
   /**
    * Assets

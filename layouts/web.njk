@@ -13,4 +13,6 @@ body_attrs: 'class="d-flex flex-column h-100"'
 </div>
 {% include "footer.html" %}
 
-<script type="module" src="/assets/check-purged.js"></script>
+{% if NODE_ENV !== "production" %}
+  <script type="module" src="/assets/check-purged.js"></script>
+{% endif %}
