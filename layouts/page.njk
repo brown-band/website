@@ -1,18 +1,20 @@
 ---
 layout: web.njk
 ---
+{% if toc == null %}{% set toc = content | auto_toc %}{% endif %}
 
 <article>
 
-{% if toc %}{% include "toc-button.njk" %}{% endif %}
+{% if toc != false %}{% include "toc-button.njk" %}{% endif %}
 
 {% if title and show_header != false %}
 <h1>{{title}}</h1>
 {% endif %}
 
-{% if toc %}
-{% if toc == true %}{% set toc = content | auto_toc %}{% endif %}
-{% include "toc.njk" %}
+{% if toc != false %}
+  {% if toc.length > 0 %}
+    {% include "toc.njk" %}
+  {% endif %}
 {% endif %}
 
 {% if summary %}

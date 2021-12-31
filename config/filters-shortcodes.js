@@ -42,14 +42,24 @@ module.exports = (eleventyConfig) => {
     async function (content, done) {
       const { rehype } = await import("rehype");
 
+      const strip = (headers) =>
+        headers
+          .filter((h) => h.id)
+          .map((h) => ({
+            ...h,
+            children: h.children ? strip(h.children) : h.children,
+          }));
+
       done(
         null,
-        (
-          await rehype()
-            .use((await import("rehype-parse")).default)
-            .use((await import("@stefanprobst/rehype-extract-toc")).default)
-            .process(content)
-        ).data.toc
+        strip(
+          (
+            await rehype()
+              .use((await import("rehype-parse")).default)
+              .use((await import("@stefanprobst/rehype-extract-toc")).default)
+              .process(content)
+          ).data.toc
+        )
       );
     }
   );

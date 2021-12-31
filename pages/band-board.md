@@ -1,6 +1,5 @@
 ---
 css: [people]
-toc: true
 ---
 
 The **Band Board** is a six-member elected delegation of band members who manage both the behind-the-scenes and public day to day operations of the Band. The Band Board is elected for a one-year term that begins and ends at halftime at the last football game in November. If a position becomes vacant mid-term, that position is filled via a special election as soon as it is feasible. Specifics on election policy can be found in our bland yet informative [constitution](/constitution).

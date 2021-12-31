@@ -1,7 +1,3 @@
----
-toc: true
----
-
 ## Ever True to Brown (#1) {#evertrue}
 
 <cite>Donald Jackson '09</cite>

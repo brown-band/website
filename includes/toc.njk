@@ -1,16 +1,14 @@
 <link rel="stylesheet" href="/assets/css/toc.css" />
 
-{% macro tocHeader(header) %}
-<li>
-  <a href="#{{header.id}}">{{header.value}}</a>
-  {% if header.children %}
+{% macro makeToc(headers) %}
   <ul>
-    {% for child in header.children %}
-      {{ tocHeader(child) if child.id }}
+    {% for header in headers %}
+      <li>
+        <a href="#{{header.id}}">{{header.value}}</a>
+        {% if header.children %}{{makeToc(header.children)}}{% endif %}
+      </li>
     {% endfor %}
   </ul>
-  {% endif %}
-</li>
 {% endmacro %}
 
 <section class="toc">
@@ -18,12 +16,6 @@
     <h2 class="d-none d-lg-block" style="font-size: 1.1em">
       <span class="px-1 bg-body position-relative rounded-pill">Contents</span>
     </h2>
-    <nav id="tocNav" class="collapse d-lg-block">
-      <ul>
-        {% for header in toc %}
-          {{ tocHeader(header) if header.id }}
-        {% endfor %}
-      </ul>
-    </nav>
+    <nav id="tocNav" class="collapse d-lg-block">{{ makeToc(toc) }}</nav>
   </div>
 </section>
