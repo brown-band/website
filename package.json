@@ -1,7 +1,7 @@
 {
   "private": true,
   "scripts": {
-    "start": "nodemon --watch eleventy.config.js --watch config -x 'eleventy --serve --config=eleventy.config.js'",
+    "start": "nodemon --watch eleventy.config.js --watch config -x 'eleventy --serve --incremental --config=eleventy.config.js'",
     "build": "rm -r public 2>/dev/null; NODE_ENV=production eleventy --config=eleventy.config.js",
     "start:book": "nodemon --watch eleventy-book.config.js --watch config --watch book/to-pdf.js -x 'eleventy --serve --config=eleventy-book.config.js'",
     "build:book": "rm -r book-html 2>/dev/null; BAND_BOOK_ONESHOT=1 eleventy --serve --config=eleventy-book.config.js",
