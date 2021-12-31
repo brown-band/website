@@ -7,6 +7,7 @@
     churned out every year. The Band proudly wears them, and we pass them out
     for free to anyone at the football game who wants one!
   `.trim().replaceAll(/\n\s+/g, ' '),
+  toplink: '<a href="#" style="float: right" class="h5 my-0 mt-2">top ↑</a>',
   eleventyComputed: {
     toc: data => [
       { id: "current", value: "Current Season" },
@@ -19,8 +20,6 @@
   }
 }
 ---
-
-{% set toplink = '<a href="#" style="float: right" class="h5 my-0 mt-2">top ↑</a>' | safe %}
 
 <h2 id="current">{{buttons.currentYear}} Season</h2>
 
@@ -66,25 +65,25 @@
   </tbody>
 </table>
 
-<h2 id="ivies">Ivy League: Past Seasons {{toplink}}</h2>
+<h2 id="ivies">Ivy League: Past Seasons {{toplink|safe}}</h2>
 <!-- prettier-ignore -->
 {% for school in buttons.bySchool.ivy %}
   {% include "button-table.njk" %}
 {% endfor %}
 
-<h2 id="recent">Recent Seasons: Other Schools {{toplink}}</h2>
+<h2 id="recent">Recent Seasons: Other Schools {{toplink|safe}}</h2>
 <!-- prettier-ignore -->
 {% for school in buttons.bySchool.recent %}
   {% include "button-table.njk" %}
 {% endfor %}
 
-<h2 id="other">Past Seasons: Other Schools {{toplink}}</h2>
+<h2 id="other">Past Seasons: Other Schools {{toplink|safe}}</h2>
 <!-- prettier-ignore -->
 {% for school in buttons.bySchool.other %}
   {% include "button-table.njk" %}
 {% endfor %}
 
-<h2 id="special">Special Buttons {{toplink}}</h2>
+<h2 id="special">Special Buttons {{toplink|safe}}</h2>
 <table class="table table-sm">
   <thead>
     <tr>
