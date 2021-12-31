@@ -156,7 +156,6 @@ That’s it! The build script will automatically pick up the new buttons and add
      - if the default title is only wrong due to mis-capitalizing an acronym or similar, add the correct capitalization to the `special` array at the end of the `title` function in `eleventyComputed.js` and it will be used instead.
    - `layout`: defaults to `page.njk` (i.e. `layouts/page.njk`). Specify a different layout if you want.
    - `summary`: italicized, indented text displayed between the title and the content
-   - `css`: specify an array of CSS files (without the extension, from `assets/css/`) to add to the current page.
    - `show_header`: disable the default header. for when you want a something custom
    - `toc`: By default, a table of contents will be generated for any page with at least one header with an `id` property (put `{#id}` at the end of a heading to set an ID). You can override this by specifying `toc: false` to disable the table of contents, or pass an array of custom headings (check out `buttons.html` for an example of this).
    - (there are a bunch more for scripts, described below)

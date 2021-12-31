@@ -7,12 +7,9 @@
 
     <title>{{ title | page_title }}</title>
 
-    <link rel="stylesheet" href="/assets/bootstrap.min.css" />
-    {% for file in ['base'].concat(css | default([])) -%}
-    <link rel="stylesheet" href="/assets/css/{{file}}.css" />
-    {%- endfor %}
-
     <script async src="/assets/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="/assets/bootstrap.min.css" />
+    <link rel="stylesheet" href="/assets/css/base.css" />
   </head>
   <body {{body_attrs|default("")}}>
     {{content | safe}}

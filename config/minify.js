@@ -7,6 +7,7 @@ const rehypeTransformHTML = (async () => {
   const { rehype } = await import("rehype");
   const { default: minify } = await import("rehype-preset-minify");
   const { default: format } = await import("rehype-format");
+  const { default: cssToTop } = await import("rehype-css-to-top");
   return rehype()
     .use(process.env.NODE_ENV === "production" ? minify : format)
     .use({
@@ -18,7 +19,8 @@ const rehypeTransformHTML = (async () => {
         tightDoctype: false,
         upperDoctype: true,
       },
-    });
+    })
+    .use(cssToTop);
 })();
 
 /** @type {(eleventyConfig: import("@11ty/eleventy/src/UserConfig")) => void} */
