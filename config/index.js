@@ -2,7 +2,7 @@
 module.exports = (eleventyConfig) => {
   eleventyConfig.addPlugin(require("./scripts"));
   eleventyConfig.addPlugin(require("./filters-shortcodes"));
-  eleventyConfig.addPlugin(require("./build-css"));
+  eleventyConfig.addPlugin(require("./minify"));
 
   /**
    * Configure the Markdown parser

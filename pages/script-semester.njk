@@ -20,7 +20,7 @@ eleventyComputed:
   {% if pagination.page.next %}
     <a class="float-end" href="{{pagination.href.next}}">{{pagination.page.next.title}} →</a>
   {% endif %}
-</pre>
+</p>
 
 {% set writers = collections[semester.collection][0].data.writers %}
 {% if writers %}
