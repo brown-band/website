@@ -1,7 +1,7 @@
 // @ts-check
 
-const fs = require("fs");
-const path = require("path");
+const fs = require("node:fs");
+const path = require("node:path");
 
 const scriptsDir = path.join(path.dirname(__dirname), "pages", "scripts");
 

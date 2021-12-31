@@ -1,5 +1,5 @@
 // @ts-check
-const fs = require("fs");
+const fs = require("node:fs");
 
 process.on("unhandledRejection", (err) => {
   console.log(err);
