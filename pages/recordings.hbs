@@ -48,7 +48,8 @@ summary: The Brown Band is best known for its scrambling, its skating, and its s
     <progress style="width: 100%" hidden></progress>
     <div class="d-flex align-items-center mt-2 mt-sm-3" style="min-height: 2em">
       <span class="flex-fill">
-        Now <span class="player-status">Playing</span>:
+        Now
+        <span class="player-status">Playing</span>:
         <span class="now-playing" style="font-weight: bold">???</span>
       </span>
       <button
@@ -92,8 +93,8 @@ summary: The Brown Band is best known for its scrambling, its skating, and its s
   </tr>
 </template>
 
-<#<template id="toc">{% set toc = [] %}{% include "toc.hbs" %}</template>#>
-<template id="toc-button">{% include "toc-button.hbs" %}</template>
+<template id="toc">{{> toc " "}}</template>
+<template id="toc-button">{{> toc-button}}</template>
 <template id="toc-li">
   <li><a></a></li>
 </template>
