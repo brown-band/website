@@ -1,12 +1,11 @@
 <link rel="stylesheet" href="/assets/css/navbar-colors.css" />
 <link rel="stylesheet" href="/assets/css/nav.css" />
 
-{% macro active(destPage) %}{{" active" if destPage.url|default(destPage) == page.url}}{% endmacro %}
-{% macro dropdownActive(content) %}
-  {%- for link in content -%}
-    {{- active(link | find_page(collections.all)) -}}
-  {% endfor %}
-{% endmacro %}
+{{#*inline "dropdownActive"}}
+  {{~#each this as |link|~}}
+    {{lookup (find_page link) "active"}}
+  {{~/each~}}
+{{/inline}}
 
 <nav class="navbar navbar-expand-md navbar-brown">
   <div class="container-lg">
@@ -28,49 +27,52 @@
         <img class="m-1 me-2" src="/assets/elrod.png" height="50" alt="" />
         <div style="display: inline-flex; flex-direction: column">
           <span style="font-weight: 500">{{site.title}}</span>
-          <em class="header-quote">{{quote.random()}}</em>
+          <em class="header-quote">{{quote.random}}</em>
         </div>
       </a>
       <ul class="navbar-nav bg-brown3">
-        {% for dropdown in nav %}
+        {{#each nav}}
+          {{! partial in attribute is broken }}
+          {{! prettier-ignore }}
           <li class="nav-item dropdown mx-1">
             <button
-              class="nav-link{{dropdownActive(dropdown.content)}} dropdown-toggle bg-transparent border-0"
+              class="nav-link dropdown-toggle bg-transparent border-0 {{> dropdownActive content}}"
               style="outline: 0"
-              id="dropdownMenuLink-{{loop.index}}"
+              id="dropdownMenuLink-{{@index}}"
               data-bs-toggle="dropdown"
               aria-expanded="false"
             >
-              {{-dropdown.title-}}
+              {{~title~}}
             </button>
 
             <ul
               class="dropdown-menu dropdown-menu-brown rounded-3 lg-shadow-brown"
-              aria-labelledby="dropdownMenuLink-{{loop.index}}"
+              aria-labelledby="dropdownMenuLink-{{@index}}"
             >
-              {% for link in dropdown.content %}
-                {% if link.heading %}
+              {{#each this.content as |link|}}
+                {{#if link.heading}}
                   <li><hr class="dropdown-divider" /></li>
                   <li><h6 class="dropdown-header">{{link.heading}}</h6></li>
-                {% elif link.disabled %}
+                {{else if link.disabled}}
                   <li class="dropdown-item disabled">{{link.disabled}}</li>
-                {% else %}
-                  {% set navPage = link | find_page(collections.all) %}
-                  <li>
-                    <a
-                      class="dropdown-item{{active(navPage)}}"
-                      href="{{navPage.url}}"
-                    >
-                      {{navPage.data.title}}
-                    </a>
-                  </li>
-                {% endif %}
-              {% endfor %}
+                {{else}}
+                  {{#with (find_page link)}}
+                    <li>
+                      <a class="dropdown-item {{active}}" href="{{href}}">
+                        {{title}}
+                      </a>
+                    </li>
+                  {{/with}}
+                {{/if}}
+              {{/each}}
             </ul>
           </li>
-        {% endfor %}
+        {{/each}}
         <li class="nav-item mx-1">
-          <a href="/contact/" class="nav-link{{active('/contact/')}}">
+          <a
+            href="/contact/"
+            class="nav-link {{lookup (find_page '/contact/') 'active'}}"
+          >
             Contact
           </a>
         </li>

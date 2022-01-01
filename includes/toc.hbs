@@ -2,10 +2,10 @@
 
 {{#*inline "makeToc"}}
   <ul>
-    {{#each children }}
+    {{#each this}}
       <li>
         <a href="#{{id}}">{{value}}</a>
-        {{#if children}}{{makeToc}}{{/if}}
+        {{#if children}}{{> makeToc children}}{{/if}}
       </li>
     {{/each}}
   </ul>
@@ -16,6 +16,8 @@
     <h2 class="d-none d-lg-block" style="font-size: 1.1em">
       <span class="px-1 bg-body position-relative rounded-pill">Contents</span>
     </h2>
-    <nav id="tocNav" class="collapse d-lg-block">{{#with toc as |children|}}{{>makeToc}}{{/with}}</nav>
+    <nav id="tocNav" class="collapse d-lg-block">
+      {{#with this as |children|}}{{> makeToc}}{{/with}}
+    </nav>
   </div>
 </section>

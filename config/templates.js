@@ -3,6 +3,15 @@ const path = require("node:path");
 const formatDate = require("date-fns-tz/formatInTimeZone");
 const listify = require("listify");
 
+let tocExtractor;
+Promise.all([
+  import("rehype"),
+  import("rehype-parse"),
+  import("@stefanprobst/rehype-extract-toc"),
+]).then(([{ rehype }, { default: parse }, { default: extractToc }]) => {
+  tocExtractor = rehype().use(parse).use(extractToc);
+});
+
 const allIcons = [
   ...fs
     .readFileSync(
@@ -16,15 +25,13 @@ const allIcons = [
 module.exports = (eleventyConfig) => {
   eleventyConfig.addFilter("first", (...args) => args.find((x) => x));
   eleventyConfig.addFilter("defined?", (x) => x != null);
-  eleventyConfig.addFilter("equal?", Object.is);
+  eleventyConfig.addFilter("equal?", (x, y) => x === y);
   eleventyConfig.addFilter("not", (x) => !x);
-  eleventyConfig.addFilter("and", (...args) =>
-    args.reduce((a, b) => a && b, true)
-  );
+  eleventyConfig.addFilter("and", (a, b) => a && b);
 
   // add the site title at the end of the page title
   eleventyConfig.addFilter("page_title", function (title) {
-    return title ? `${title} | ${this.ctx.site.title}` : this.ctx.site.title;
+    return title ? `${title} | ${this.site.title}` : this.site.title;
   });
 
   // format a date for display in a script header
@@ -40,20 +47,54 @@ module.exports = (eleventyConfig) => {
 
   // find the page with the given filePathStem in the given collection
   // used by nav.njk
-  eleventyConfig.addFilter("find_page", function (filePathStem, collection) {
-    return collection.find((p) => p.filePathStem === "/" + filePathStem);
+  eleventyConfig.addFilter("find_page", function (filePathStem, state) {
+    const page = state.data.root.collections.all.find(
+      (p) => p.filePathStem === "/" + filePathStem
+    );
+    if (page) {
+      return {
+        href: page.url,
+        active: state.data.root.page.url === page.url ? "active" : "",
+        title: page.data.title,
+      };
+    }
+  });
+
+  eleventyConfig.addFilter("debug", function (data) {
+    return JSON.stringify(data, null, 2) || String(data);
+  });
+
+  // auto TOC
+  eleventyConfig.addFilter("auto-toc", function (toc, content) {
+    if (toc != null) return toc;
+
+    const strip = (headers) =>
+      headers
+        .filter((h) => h.id)
+        .map((h) => ({
+          ...h,
+          children: h.children ? strip(h.children) : h.children,
+        }));
+    // if (this.page.outputPath)
+    //   console.log(tocExtractor.processSync(content).data.toc);
+    return strip(tocExtractor.processSync(content).data.toc);
   });
 
   // insert an icon
-  eleventyConfig.addShortcode("icon", function (name, { size = 24 } = {}) {
-    if (!allIcons.includes(name)) {
-      throw new ReferenceError(`Unknown icon '${name}'`);
-    }
+  eleventyConfig.addHandlebarsShortcode(
+    "icon",
+    function (name, { size = 24 } = {}) {
+      if (!allIcons.includes(name)) {
+        throw new ReferenceError(`Unknown icon '${name}'`);
+      }
 
-    return /* HTML */ `
-        <svg class="icon" width="${size}" height="${size}">
-          <use href="/assets/icons.svg#${name}" />
-        </svg>
-      `.trim();
-  });
+      return new (require("handlebars").SafeString)(
+        /* HTML */ `
+      <svg class="icon" width="${size}" height="${size}">
+        <use href="/assets/icons.svg#${name}" />
+      </svg>
+    `.trim()
+      );
+    }
+  );
 };
