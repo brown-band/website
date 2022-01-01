@@ -24,6 +24,7 @@ const allIcons = [
 /** @type {(eleventyConfig: import("@11ty/eleventy/src/UserConfig")) => void} */
 module.exports = (eleventyConfig) => {
   eleventyConfig.addFilter("first", (...args) => args.find((x) => x));
+  eleventyConfig.addFilter("reverse", (arr) => [...arr].reverse());
   eleventyConfig.addFilter("defined?", (x) => x != null);
   eleventyConfig.addFilter("equal?", (x, y) => x === y);
   eleventyConfig.addFilter("not", (x) => !x);

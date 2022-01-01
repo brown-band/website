@@ -18,22 +18,20 @@ summary: The Brown Band shows possess a unique satirical humor that only could c
     </tr>
   </thead>
   <tbody>
-    {% for year in scripts.years | reverse %}
-    <tr>
-      <td>{{year.year}}</td>
-      <!-- prettier-ignore -->
-      <td style="font-weight: bold">
-        {% if year.fall %}
-          <a href="/scripts/{{year.year}}/fall">Fall</a>
-        {% endif %}
-      </td>
-      <!-- prettier-ignore -->
-      <td style="font-weight: bold">
-        {% if year.spring %}
-          <a href="/scripts/{{year.year}}/spring">Spring</a>
-        {% endif %}
-      </td>
-    </tr>
-    {% endfor %}
+    {{#each (reverse scripts.years) as |year|}}
+      <tr>
+        <td>{{year.year}}</td>
+        <td style="font-weight: bold">
+          {{#if year.fall}}
+            <a href="/scripts/{{year.year}}/fall">Fall</a>
+          {{/if}}
+        </td>
+        <td style="font-weight: bold">
+          {{#if year.fall}}
+            <a href="/scripts/{{year.year}}/spring">Spring</a>
+          {{/if}}
+        </td>
+      </tr>
+    {{/each}}
   </tbody>
 </table>
