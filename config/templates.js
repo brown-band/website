@@ -26,9 +26,11 @@ module.exports = (eleventyConfig) => {
   eleventyConfig.addFilter("first", (...args) => args.find((x) => x));
   eleventyConfig.addFilter("reverse", (arr) => [...arr].reverse());
   eleventyConfig.addFilter("defined?", (x) => x != null);
-  eleventyConfig.addFilter("equal?", (x, y) => x === y);
   eleventyConfig.addFilter("not", (x) => !x);
   eleventyConfig.addFilter("and", (a, b) => a && b);
+  eleventyConfig.addFilter("equal?", (x, y) => x === y);
+  eleventyConfig.addFilter("gt?", (a, b) => a > b);
+  eleventyConfig.addFilter("starts-with?", (a, b) => a.startsWith(b));
 
   // add the site title at the end of the page title
   eleventyConfig.addFilter("page_title", function (title) {

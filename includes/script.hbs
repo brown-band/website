@@ -1,0 +1,42 @@
+{{#*inline "score"}}
+  {{~#if (defined? this)}}
+    <small style="font-size: 2rem">({{this}})</small>
+  {{~/if~}}
+{{/inline}}
+
+{{#*inline "color"}}
+  <span
+    class="school-color"
+    style="color: {{lookup (lookup schoolColors (slugify this)) 'color'}}"
+  >{{this}}</span>
+{{/inline}}
+
+<article>
+  <header style="text-align: center">
+    <h1 class="display-5 fw-normal" id="{{first id_prefix ''}}{{fileSlug}}">
+      {{#if data.teams.home}}
+        {{> color data.teams.away.name}}{{> score data.teams.away.score}}
+        <em style="font-size: 0.8em">at</em>
+        {{> color data.teams.home.name}}{{> score data.teams.home.score}}
+      {{else if data.opponent}}
+        {{! when we don’t know home/away or scores }}
+        {{> color "Brown"}}
+        <em>vs</em>
+        {{> color data.opponent}}
+      {{else}}
+        {{data.title}}
+      {{/if}}
+      {{#if
+        (and
+          (starts-with? @root.semester.title "Fall")
+          (equal? data.sport "hockey")
+        )
+      }}
+        (Hockey)
+      {{/if}}
+
+    </h1>
+    <p class="h3">{{script_date date}}</p>
+  </header>
+  {{{templateContent}}}
+</article>
