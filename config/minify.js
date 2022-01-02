@@ -8,19 +8,24 @@ const rehypeTransformHTML = (async () => {
   const { default: minify } = await import("rehype-preset-minify");
   const { default: format } = await import("rehype-format");
   const { default: cssToTop } = await import("rehype-css-to-top");
-  return rehype()
-    .use(process.env.NODE_ENV === "production" ? minify : format)
-    .use({
-      settings: {
-        entities: {
-          omitOptionalSemicolons: false,
-          useShortestReferences: true,
+  return (
+    rehype()
+      .use(process.env.NODE_ENV === "production" ? minify : format)
+      .use({
+        // disable the most egregiously invalid HTML output
+        settings: {
+          entities: {
+            omitOptionalSemicolons: false,
+            useShortestReferences: true,
+          },
+          tightDoctype: false,
+          upperDoctype: true,
         },
-        tightDoctype: false,
-        upperDoctype: true,
-      },
-    })
-    .use(cssToTop);
+      })
+      // move CSS from the <body> (where templates stick it)
+      // to the top
+      .use(cssToTop)
+  );
 })();
 
 /** @type {(eleventyConfig: import("@11ty/eleventy/src/UserConfig")) => void} */
@@ -42,6 +47,8 @@ module.exports = (eleventyConfig) => {
         )
         .then((file) => file.value);
     } else {
+      // skip formatting/minifying since that will be handled by
+      // whatever page this content ends up inside
       return value;
     }
   });
