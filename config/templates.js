@@ -3,14 +3,30 @@ const path = require("node:path");
 const formatDate = require("date-fns-tz/formatInTimeZone");
 const listify = require("listify");
 
+/** @type {import('unified').FrozenProcessor<import('hast').Root, import('hast').Node, import('hast').Node>} */
 let tocExtractor;
+/** @type {import('vfile').VFile} */
+let VFile;
 Promise.all([
-  import("rehype"),
+  import("unified"),
   import("rehype-parse"),
   import("@stefanprobst/rehype-extract-toc"),
-]).then(([{ rehype }, { default: parse }, { default: extractToc }]) => {
-  tocExtractor = rehype().use(parse).use(extractToc);
-});
+  import("vfile"),
+]).then(
+  ([
+    { unified },
+    { default: parse },
+    { default: extractToc },
+    { VFile: VFile_ },
+  ]) => {
+    // technically this could take time but at least locally the Promises
+    // resolve before the value is needed by the template
+    // so it can be accessed synchronously
+    // https://github.com/handlebars-lang/handlebars.js/issues/717
+    tocExtractor = unified().use(parse).use(extractToc).freeze();
+    VFile = VFile_;
+  }
+);
 
 const allIcons = [
   ...fs
@@ -72,6 +88,9 @@ module.exports = (eleventyConfig) => {
   eleventyConfig.addFilter("auto-toc", function (toc, content) {
     if (toc != null) return toc;
 
+    // this is a hot path, so do a quick out if there are no headings
+    if (!content.includes("<h") || !content.includes("id=")) return [];
+
     const strip = (headers) =>
       headers
         .filter((h) => h.id)
@@ -79,9 +98,9 @@ module.exports = (eleventyConfig) => {
           ...h,
           children: h.children ? strip(h.children) : h.children,
         }));
-    // if (this.page.outputPath)
-    //   console.log(tocExtractor.processSync(content).data.toc);
-    return strip(tocExtractor.processSync(content).data.toc);
+    const file = new VFile(content);
+    tocExtractor.runSync(tocExtractor.parse(file), file);
+    return strip(file.data.toc);
   });
 
   // insert an icon
