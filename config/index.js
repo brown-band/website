@@ -1,3 +1,5 @@
+// @ts-check
+
 /** @type {(eleventyConfig: import("@11ty/eleventy/src/UserConfig")) => void} */
 module.exports = (eleventyConfig) => {
   eleventyConfig.addPlugin(require("./scripts"));
@@ -5,18 +7,11 @@ module.exports = (eleventyConfig) => {
   eleventyConfig.addPlugin(require("./minify"));
 
   /**
-   * Configure the Markdown parser
+   * Markdown
    */
-  eleventyConfig.addPlugin(require("@fec/eleventy-plugin-remark"), {
-    enableRehype: false,
-    plugins: [
-      "remark-heading-id",
-      "remark-directive",
-      import("./remark-directives.mjs").then((m) => m.default),
-      { plugin: "remark-rehype", options: { allowDangerousHtml: true } },
-      "rehype-raw",
-      "rehype-stringify",
-    ],
+  eleventyConfig.setLibrary("md", {
+    set: () => {},
+    render: (str) => import("./markdown.mjs").then(({ render }) => render(str)),
   });
 
   /**
