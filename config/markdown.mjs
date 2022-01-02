@@ -47,10 +47,18 @@ function directivesPlugin() {
         return { ...node, data: h("p", "_69-direction") };
       }
       if (node.type === "containerDirective" && node.name === "script-list") {
+        if (node.children.length !== 1) {
+          throw new TypeError(
+            `Unexpected number of children (${node.children.length}) in :::script-list`
+          );
+        }
+        // merge in the only child, getting rid of the script-list in the process
         return Object.assign(node, node.children[0], {
           data: { hProperties: { className: "_69-list" } },
         });
       }
+
+      // otherwise, return the node unchanged
       return node;
     });
 }

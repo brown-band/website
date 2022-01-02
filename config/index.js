@@ -2,12 +2,15 @@
 
 /** @type {(eleventyConfig: import("@11ty/eleventy/src/UserConfig")) => void} */
 module.exports = (eleventyConfig) => {
+  // creates per-semester collections of scripts
   eleventyConfig.addPlugin(require("./scripts"));
+  // defines all the Handlebars helpers
   eleventyConfig.addPlugin(require("./templates"));
+  // minify and/or format HTML, purge unused CSS in production
   eleventyConfig.addPlugin(require("./minify"));
 
   /**
-   * Markdown
+   * Markdown: use Remark with some customizations as the parser
    */
   eleventyConfig.setLibrary("md", {
     set: () => {},
@@ -21,13 +24,14 @@ module.exports = (eleventyConfig) => {
   eleventyConfig.addDataExtension("yml", (contents) =>
     require("js-yaml").load(contents)
   );
+  // add NODE_ENV as a global value
   eleventyConfig.addGlobalData(
     "NODE_ENV",
     process.env.NODE_ENV || "development"
   );
 
   /**
-   * Assets
+   * Copy assets to the assets/ folder
    */
   eleventyConfig.addPassthroughCopy("assets");
   eleventyConfig.addPassthroughCopy(
