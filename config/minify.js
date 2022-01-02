@@ -53,40 +53,45 @@ module.exports = (eleventyConfig) => {
     }
   });
 
-  // CSS
-  const purger = new PurgeCSS();
-  eleventyConfig.on("afterBuild", async () => {
-    console.time("PurgeCSS");
-    // this is run unconditionally because it could remove properties that are being used
-    // and seeing that at dev time is better than seeing it at runtime
-    const result = await purger.purge({
-      content: [`${outDir}/**/*.html`, `${outDir}/*.html`],
-      css: ["node_modules/bootstrap-dark-5/dist/css/bootstrap-dark.min.css"],
-      extractors: [{ extractor: extractFromHTML, extensions: ["html"] }],
-      variables: true,
-      keyframes: true,
-      fontFace: true,
-      safelist: [
-        // used by recordings.js
-        "is-invalid",
-        // used by collapse (for mobile TOC)
-        "collapsing",
-        // added by Bootstrap when opening dropdowns in the navbar
-        "show",
-        "data-bs-popper",
-      ],
-      rejected: process.env.NODE_ENV !== "production",
-    });
-    await writeFile(
-      path.join(outDir, "assets", "bootstrap.min.css"),
-      result[0].css
-    );
-    if (result[0].rejected) {
+  /**
+   * Remove unused CSS
+   */
+  // This is disabled in dev mode because check-purged.js runs on the client side
+  // and provides good reporting of any incorrectly removed CSS.
+  // Plus, removing unused CSS makes it harder to play around with code in devtools.
+  if (process.env.NODE_ENV === "production") {
+    const purger = new PurgeCSS();
+    eleventyConfig.on("afterBuild", async () => {
+      console.time("PurgeCSS");
+      const result = await purger.purge({
+        content: [`${outDir}/**/*.html`, `${outDir}/*.html`],
+        css: ["node_modules/bootstrap-dark-5/dist/css/bootstrap-dark.min.css"],
+        extractors: [{ extractor: extractFromHTML, extensions: ["html"] }],
+        variables: true,
+        keyframes: true,
+        fontFace: true,
+        safelist: [
+          // used by recordings.js
+          "is-invalid",
+          // used by collapse (for mobile TOC)
+          "collapsing",
+          // added by Bootstrap when opening dropdowns in the navbar
+          "show",
+          "data-bs-popper",
+        ],
+        rejected: process.env.NODE_ENV !== "production",
+      });
       await writeFile(
-        path.join(outDir, "purged-names.json"),
-        JSON.stringify(result[0].rejected)
+        path.join(outDir, "assets", "bootstrap.min.css"),
+        result[0].css
       );
-    }
-    console.timeEnd("PurgeCSS");
-  });
+      if (result[0].rejected) {
+        await writeFile(
+          path.join(outDir, "purged-names.json"),
+          JSON.stringify(result[0].rejected)
+        );
+      }
+      console.timeEnd("PurgeCSS");
+    });
+  }
 };
