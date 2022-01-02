@@ -28,6 +28,7 @@ module.exports = (eleventyConfig) => {
   eleventyConfig.addFilter("defined?", (x) => x != null);
   eleventyConfig.addFilter("not", (x) => !x);
   eleventyConfig.addFilter("and", (a, b) => a && b);
+  eleventyConfig.addFilter("even?", (x) => x % 2 === 0);
   eleventyConfig.addFilter("equal?", (x, y) => x === y);
   eleventyConfig.addFilter("gt?", (a, b) => a > b);
   eleventyConfig.addFilter("starts-with?", (a, b) => a.startsWith(b));
