@@ -24,16 +24,17 @@ In a terminal, run `git clone https://github.com/brown-band/website` to copy the
 - `assets`: miscellaneous static files (i.e. images, JS, CSS, and anything else that you need that isn’t a page)
   - `handle-password.js`: checks the password provided for encrypted pages (currently just `recordings.html`)
   - `recordings.js`: renders the decrypted recordings page on the client side and enables playback.
+  - `check-purged.js`: checks that CSS removed to reduce file size is not actually being used.
 - `book`: handles printing the script books given to seniors at graduation. See below for details.
 - `book-html`: the output directory for `npm run book:*`, not checked into Git.
 - `buttons`: contains folders for each class year. See below for more detailed instructions.
   - `buttons/[year]/labels.yml`: contains a mapping from college name → button description for that year
 - `config`: things that make Eleventy work the way we want. Includes functionality common to both the book and the website.
-  - `build-css.js`: Slims down Bootstrap by removing unused CSS classes. It should pick up most things you use automatically, but if you dynamically add Bootstrap classes using JS, make sure to add them to the `safelist` so they work properly.
-  - `filters-shortcodes.js`: Contains all the custom additions to the Nunjucks template language.
   - `index.js`: various config things. If you’re adding new config, consider putting it here unless it only applies to the website (i.e. not the book)
-  - `remark-directives.mjs`: [remark](https://remark.js.org) plugin for handling custom syntax used in scripts
+  - `markdown.mjs`: Uses [remark](https://remark.js.org) to handle all the Markdown files
+  - `minify.js`: Slims down Bootstrap by removing unused CSS classes. It should pick up most things you use automatically, but if you dynamically add Bootstrap classes using JS, make sure to add them to the `safelist` so they work properly. Also, either minifies or formats the HTML being output.
   - `scripts.js`: Creates collections of the scripts for every semester (used to render the script pages) and a list of those collections (used to render the scripts homepage).
+  - `templates.js`: Contains all the custom additions to the Handlebars template language.
 - `data`: contains a combination of static data (`.yml` files) and scripts that produce the relevant data for the website (`.js` files)
   - `people/*.yml`: lists the section leaders, appointed positions, conductors, and members of band board.
   - `buttons.js`: scans the `buttons` folder and formats the buttons for display on the buttons page
@@ -57,14 +58,14 @@ In a terminal, run `git clone https://github.com/brown-band/website` to copy the
   - `toc-button.html`: the button for toggling the table of contents on mobile
   - `toc.njk`: renders a table of contents based on the `toc` variable
 - `layouts`
-  - `base.njk`: contains the basic page layout (shared across print and web), including the page title, CSS/JS imports, and page content
-  - `web.njk`: contains the navbar and `container` (which sets the maximum width of the content) (inherits `base.njk`)
-  - `page.njk`: renders the page title and summary (inherits `web.njk`)
+  - `base.hbs`: contains the basic page layout (shared across print and web), including the page title, CSS/JS imports, and page content
+  - `web.hbs`: contains the navbar and `container` (which sets the maximum width of the content) (inherits `base.hbs`)
+  - `page.hbs`: renders the page title and summary (inherits `web.hbs`)
 - `node_modules`: Created by `npm install`. Don’t change it yourself — instead use `npm` commands to add and remove packages.
 - `pages`: the pages on the website. Each page is automatically compiled into HTML by Eleventy.
   - `scripts`: show scripts. Contains a subfolder for each year’s scripts, with `fall` and `spring` subfolders.
   - `index.md`: the homepage
-  - `script-semester.njk`: Eleventy copies this page for every semester for which we have scripts for.
+  - `script-semester.hbs`: Eleventy copies this page for every semester for which we have scripts for.
 - `public`: the output directory, not checked into Git. Eleventy creates and updates (but does not delete) files in this directory when you run `npm start` or `npm run build`.
 - `.node-version`: the version of Node.js that the website is confirmed to build properly with. Feel free to update this any time (but make sure you double-check that things still work properly!).
 - `eleventy.config.js`, `eleventy-book.config.js`: configuration files for Eleventy. See docs inside the file for more details.
