@@ -27,7 +27,9 @@ When Ruth was quoted expressing her lack of interest for the Harvard job, the ba
 - C. Nothing at Harvard’s late night eateries can compare to the Chicken Carb.
 - D. Strong programs for women in the sciences.
 - E. Ruth, we love you so much, we know it’s a little late, but will you be our Valentine?
-- F. THE PRINCETON BAND!! :::
+- F. THE PRINCETON BAND!!
+
+:::
 
 Showing true love for our president, the band will now form a heart and play “Gimme Some Lovin.”
 
