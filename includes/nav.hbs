@@ -3,7 +3,9 @@
 
 {{#*inline "dropdownActive"}}
   {{~#each this as |link|~}}
-    {{lookup (find_page link) "active"}}
+    {{#if (and (not link.disabled) (not link.heading))}}
+      {{~lookup (find-page link) "active"~}}
+    {{/if}}
   {{~/each~}}
 {{/inline}}
 
@@ -56,7 +58,7 @@
                 {{else if link.disabled}}
                   <li class="dropdown-item disabled">{{link.disabled}}</li>
                 {{else}}
-                  {{#with (find_page link)}}
+                  {{#with (find-page link)}}
                     <li>
                       <a class="dropdown-item {{active}}" href="{{href}}">
                         {{title}}
@@ -71,7 +73,7 @@
         <li class="nav-item mx-1">
           <a
             href="/contact/"
-            class="nav-link {{lookup (find_page '/contact/') 'active'}}"
+            class="nav-link {{lookup (find-page 'contact') 'active'}}"
           >
             Contact
           </a>
