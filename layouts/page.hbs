@@ -4,7 +4,13 @@ layout: web.hbs
 
 {{#*inline "heading"}}
   {{#if (and title (not (equal? show_header false)))}}
-    <h1>{{title}}</h1>
+    <h1>
+      {{#if page_header}}
+        {{{page_header}}}
+      {{else}}
+        {{title}}
+      {{/if}}
+    </h1>
   {{/if}}
 {{/inline}}
 

@@ -4,28 +4,26 @@ pagination:
   size: 1
   alias: semester
 permalink: "{{semester.permalink}}"
-show_header: false
 eleventyComputed:
   title: "{{semester.title}}"
+  page_header: >
+    <a href="/scripts/" class="link-secondary">
+      Scripts
+    </a>
+    &rsaquo;
+    {{semester.title}}
 ---
 
 <link rel="stylesheet" href="/assets/css/script.css" />
 
-<h1><a href="/scripts/" class="link-secondary">Scripts</a>
-  &rsaquo;
-  {{semester.title}}</h1>
-
-<p class="clearfix">
+<p class="d-flex">
   {{#if pagination.page.previous}}
-    <a class="float-start" href="{{pagination.href.previous}}">←
+    <a href="{{pagination.href.previous}}">←
       {{pagination.page.previous.title}}</a>
   {{/if}}
-
+  <span class="flex-fill"></span>
   {{#if pagination.page.next}}
-    <a
-      class="float-end"
-      href="{{pagination.href.next}}"
-    >{{pagination.page.next.title}} →</a>
+    <a href="{{pagination.href.next}}">{{pagination.page.next.title}} →</a>
   {{/if}}
 </p>
 
@@ -36,17 +34,6 @@ eleventyComputed:
       {{listify this}}
     </p>
   {{/with}}
-
-  {{#if (gt? collection.length 1)}}
-    <nav style="margin-top: 1.5em; margin-bottom: 5em">
-      <h2 class="h6 text-uppercase fw-bold">Table of Contents</h2>
-      <ul>
-        {{!-- {% for script in collections[semester.collection] }}
-      <li><a href="#{{script.fileSlug}}">{{script.data.title}}</a></li>
-      {% endfor %} --}}
-      </ul>
-    </nav>
-  {{/if}}
 
   {{#each collection}}
     {{#if (not @first)}}<hr style="margin-bottom: 5em" />{{/if}}
