@@ -16,12 +16,14 @@
     <h1 class="display-5 fw-normal" id="{{id_prefix}}{{fileSlug}}">
       {{#if data.teams.home}}
         {{> color data.teams.away.name}}{{> score data.teams.away.score}}
-        <em style="font-size: 0.8em">at</em>
+        <em style="font-size: 0.8em">
+          {{~#if data.location}}vs{{else}}at{{/if~}}
+        </em>
         {{> color data.teams.home.name}}{{> score data.teams.home.score}}
       {{else if data.opponent}}
         {{! when we don’t know home/away or scores }}
         {{> color "Brown"}}
-        <em>vs</em>
+        <em style="font-size: 0.8em">vs</em>
         {{> color data.opponent}}
       {{else}}
         {{data.title}}
@@ -34,9 +36,14 @@
       }}
         (Hockey)
       {{/if}}
-
     </h1>
-    <p class="h3">{{format-utc date "EEEE, MMMM do, y"}}</p>
+    {{#if data.location}}
+      <h2><em>at</em> {{{data.location}}}</h2>
+    {{/if}}
+    {{#if data.subtitle}}
+      <h2><em>{{{data.subtitle}}}</em></h2>
+    {{/if}}
+    <h3>{{format-utc date "EEEE, MMMM do, y"}}</h3>
   </header>
   {{{templateContent}}}
 </article>

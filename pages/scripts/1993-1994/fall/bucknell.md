@@ -1,5 +1,5 @@
 ---
-title: Bucknell (Parents’ Weekend)
+subtitle: Parents’ Weekend
 sport: football
 teams:
   home:

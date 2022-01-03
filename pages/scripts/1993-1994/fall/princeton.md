@@ -1,5 +1,5 @@
 ---
-title: Princeton (Homecoming)
+subtitle: Homecoming
 sport: football
 teams:
   home:

@@ -1,5 +1,5 @@
 ---
-title: Dartmouth (at Fenway)
+location: Fenway
 sport: football
 teams:
   home:
