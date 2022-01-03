@@ -13,11 +13,11 @@
   <div class="container-lg">
     <div class="col-lg-1 col-xl-2"></div>
     <div
-      class="col-lg-10 col-xl-9 d-flex align-items-center justify-content-between"
+      class="col-md-11 col-lg-10 col-xl-9 d-flex align-items-center justify-content-between"
       style="flex-wrap: inherit"
     >
       <a
-        class="navbar-brand mb-2 me-0 me-lg-5 d-flex align-items-center"
+        class="navbar-brand mb-2 mb-sm-0 me-0 me-lg-5 d-flex align-items-center"
         href="/"
       >
         <img class="me-2" src="/assets/elrod.png" height="50" alt="" />
@@ -26,11 +26,11 @@
           <em class="header-quote">{{quote.random}}</em>
         </div>
       </a>
-      <ul class="navbar-nav bg-brown3">
+      <ul class="navbar-nav bg-brown3 flex-sm-row">
         {{#each nav}}
           {{! partial in attribute is broken }}
           {{! prettier-ignore }}
-          <li class="nav-item dropdown mx-1">
+          <li class="nav-item dropdown mx-sm-3 mx-md-1">
             <button
               class="nav-link dropdown-toggle bg-transparent border-0 {{> dropdownActive content}}"
               style="outline: 0"
@@ -42,7 +42,7 @@
             </button>
 
             <ul
-              class="dropdown-menu dropdown-menu-brown rounded-3 lg-shadow-brown"
+              class="dropdown-menu dropdown-menu-brown rounded-3 sm-shadow-brown mx-3 mx-sm-0"
               aria-labelledby="dropdownMenuLink-{{@index}}"
             >
               {{#each this.content as |link|}}
@@ -64,7 +64,7 @@
             </ul>
           </li>
         {{/each}}
-        <li class="nav-item mx-1">
+        <li class="nav-item mx-sm-3 mx-md-1">
           <a
             href="/contact/"
             class="nav-link {{lookup (find-page 'contact') 'active'}}"

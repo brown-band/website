@@ -3,6 +3,7 @@
   --brown-2: #382710;
   --brown-3: #483314;
   --brown-4: #593f17;
+  --shadow-brown: 0 0.35rem 1rem 0.4rem #593f1755;
   color-scheme: light dark;
 }
 
@@ -12,6 +13,7 @@
     --brown-3: #382710;
     --brown-2: #483314;
     --brown-1: #593f17;
+    --shadow-brown: 0 0.35rem 1rem 0.4rem #271b0c55;
   }
 }
 
@@ -36,15 +38,14 @@
   background: var(--brown-4);
 }
 
-@media (min-width: 768px) {
-  .lg-shadow-brown {
-    box-shadow: 0 0.35rem 1rem 0.4rem #593f1755 !important;
+@media (min-width: 576px) {
+  .sm-shadow-brown {
+    box-shadow: var(--shadow-brown) !important;
   }
 }
-
-@media (prefers-color-scheme: dark) and (min-width: 768px) {
+@media (min-width: 768px) {
   .lg-shadow-brown {
-    box-shadow: 0 0.35rem 1rem 0.4rem #271b0c55 !important;
+    box-shadow: var(--shadow-brown) !important;
   }
 }
 
