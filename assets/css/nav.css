@@ -3,7 +3,7 @@
   display: inline-block;
   white-space: normal;
   word-break: break-word;
-  width: calc(100vw - 158px);
+  width: calc(100vw - 50px - 3 * 0.75rem);
   min-height: 38px;
 }
 
@@ -19,6 +19,10 @@
   .navbar .dropdown-toggle:not(.show)::after {
     transform: translateY(2px) rotate(-90deg);
   }
+  .navbar .dropdown-toggle {
+    width: 100%;
+    text-align: left;
+  }
   .dropdown-menu-brown {
     background: rgba(0, 0, 0, 0.25);
     box-shadow: 0 0 7px rgba(0, 0, 0, 0.5) inset;
@@ -33,11 +37,6 @@
   }
 }
 
-@media (min-width: 576px) {
-  .header-quote {
-    width: 382px;
-  }
-}
 @media (min-width: 768px) {
   .header-quote {
     width: 180px;

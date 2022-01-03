@@ -13,21 +13,15 @@
   <div class="container-lg">
     <div class="col-lg-1 col-xl-2"></div>
     <div
-      class="col-lg-10 col-xl-9"
-      style="
-        display: flex;
-        flex-wrap: inherit;
-        align-items: center;
-        justify-content: space-between;
-      "
+      class="col-lg-10 col-xl-9 d-flex align-items-center justify-content-between"
+      style="flex-wrap: inherit"
     >
       <a
-        class="navbar-brand me-lg-5"
-        style="display: flex; align-items: center"
+        class="navbar-brand mb-2 me-0 me-lg-5 d-flex align-items-center"
         href="/"
       >
-        <img class="m-1 me-2" src="/assets/elrod.png" height="50" alt="" />
-        <div style="display: inline-flex; flex-direction: column">
+        <img class="me-2" src="/assets/elrod.png" height="50" alt="" />
+        <div class="d-flex flex-column">
           <span style="font-weight: 500">{{site.title}}</span>
           <em class="header-quote">{{quote.random}}</em>
         </div>
