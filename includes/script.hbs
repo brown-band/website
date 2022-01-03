@@ -7,7 +7,7 @@
 {{#*inline "color"}}
   <span
     class="school-color"
-    style="color: {{lookup (lookup schoolColors (slugify this)) 'color'}}"
+    style="color: {{lookup (lookup @root.schoolColors (slugify this)) 'color'}}"
   >{{this}}</span>
 {{/inline}}
 
