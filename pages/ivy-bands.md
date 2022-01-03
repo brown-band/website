@@ -30,7 +30,7 @@ A button from a previous year says it all: “Big Drum, Small Stick.”
 
 ---
 
-## Harvard University Band
+## Princeton University Band
 
 [<img alt="Visit the Princeton Band website" src="/assets/other_bands/Princeton.png" width="200" />](http://princetonuniversityband.com)
 
