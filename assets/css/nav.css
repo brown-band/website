@@ -5,6 +5,7 @@
   word-break: break-word;
   width: calc(100vw - 50px - 3 * 0.75rem);
   min-height: 38px;
+  max-width: 300px;
 }
 
 @media (max-width: 576px) {
@@ -44,7 +45,7 @@
 
 @media (min-width: 768px) {
   .header-quote {
-    width: 180px;
+    width: 100%;
   }
 }
 @media (min-width: 992px) {
