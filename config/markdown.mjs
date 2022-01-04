@@ -11,12 +11,11 @@ import rehypeStringify from "rehype-stringify";
 // adapted from @fec/eleventy-plugin-remark
 const processor = unified()
   // parse the Markdown...
-  .use(remarkParse, {
-    extensions: [
-      // disable indented code blocks because they’re bad
-      { disable: { null: ["codeIndented"] } },
-    ],
-  })
+  .use(remarkParse)
+  .data("micromarkExtensions", [
+    // disable indented code blocks because they’re bad
+    { disable: { null: ["codeIndented"] } },
+  ])
   // handle {#id} syntax in headers
   .use(remarkHeadingId)
   // handle :sd[] etc syntax (see below)

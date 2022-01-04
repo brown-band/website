@@ -2,13 +2,11 @@
   {{#each this}}
     {{#each people}}
       <tr>
-        {{! this funny formatting is needed to stop Markdown from seeing the HTML as an indented code block}}
-        {{! prettier-ignore }}
         <th class="people-table-head">
+          {{! blank line to allow name to be formatted using Markdown }}
 
-{{#if @first}}{{{../name}}}{{/if}}
-
-  </th>
+          {{#if @first}}{{../name}}{{/if}}
+        </th>
         <td><a href="mailto:{{email}}">{{name}}</a> '{{year}}</td>
       </tr>
     {{/each}}
