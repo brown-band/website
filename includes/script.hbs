@@ -29,7 +29,7 @@
         {{data.title}}
       {{/if}}
       {{#if
-        (and (starts-with? semester.title "Fall") (equal? data.sport "hockey"))
+        (and (starts-with? data.title "Fall") (equal? data.sport "hockey"))
       }}
         (Hockey)
       {{/if}}
