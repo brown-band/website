@@ -46,10 +46,9 @@ permalink: "/"
             {{listify this}}</p>
         {{/with}}
       </header>
-      {{#each scripts}}{{> script
-          semester=semester
-          id_prefix=(add semester.collection "_")
-        }}{{/each}}
+      {{#each scripts}}
+        {{> script semester=semester id_prefix=(add semester.collection "_")}}
+      {{/each}}
     </section>
   {{/with}}
 {{/each}}
