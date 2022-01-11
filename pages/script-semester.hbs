@@ -37,6 +37,6 @@ eleventyComputed:
 
   {{#each collection}}
     {{#if (not @first)}}<hr style="margin-bottom: 5em" />{{/if}}
-    {{> script}}
+    {{> script semeseter=@root.semester}}
   {{/each}}
 {{/with}}

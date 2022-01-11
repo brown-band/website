@@ -52,9 +52,9 @@ module.exports = (eleventyConfig) => {
     },
   });
   return {
-    // use Nunjucks as the template engine (instead of Liquid)
-    markdownTemplateEngine: "njk",
-    htmlTemplateEngine: "njk",
+    // use Handlebars as the template engine (instead of Liquid)
+    markdownTemplateEngine: "hbs",
+    htmlTemplateEngine: "hbs",
     // configures the locations of various directories
     dir: {
       input: "pages/scripts",

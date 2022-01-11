@@ -47,6 +47,7 @@ module.exports = (eleventyConfig) => {
   eleventyConfig.addHandlebarsHelper("defined?", (x) => x != null);
   eleventyConfig.addHandlebarsHelper("even?", (x) => x % 2 === 0);
   eleventyConfig.addHandlebarsHelper("equal?", (x, y) => x === y);
+  eleventyConfig.addHandlebarsHelper("add", (x, y) => x + y);
   eleventyConfig.addHandlebarsHelper("gt?", (a, b) => a > b);
 
   // logic
@@ -56,6 +57,7 @@ module.exports = (eleventyConfig) => {
 
   // misc
   eleventyConfig.addHandlebarsHelper("reverse", (arr) => [...arr].reverse());
+  eleventyConfig.addHandlebarsHelper("last", (arr) => arr[arr.length - 1]);
   eleventyConfig.addHandlebarsHelper("starts-with?", (a, b) => a.startsWith(b));
   eleventyConfig.addHandlebarsHelper("format-utc", (date, format) =>
     formatDate(date, "UTC", format)
