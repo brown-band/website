@@ -4,7 +4,7 @@ The **Band Board** is a six-member elected delegation of band members who manage
 
 ## [Band Board Officers](/constitution#IIIA) {#band-board}
 
-For the term ending November 2021
+For the term ending November 2022
 
 {{#each people.bandBoard}}{{> person}}{{/each}}
 
