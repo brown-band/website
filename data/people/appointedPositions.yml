@@ -1,18 +1,18 @@
 - name: "[Librarians](/constitution#IIIC2)"
   people:
-    - name: Adeline Hahn
-      email: adeline_hahn@brown.edu
-      year: 23
-    - name: Julia Henke
-      email: julia_henke@brown.edu
+    - name: Stacey Xiang
+      email: stacey_xiang@brown.edu
       year: 22
+    - name: Jillian Belluck
+      email: jillian_belluck@brown.edu
+      year: 25
 
 - name: "[Social Chairs](/constitution#IIIC8)"
   people:
     - name: Richie Shen
       email: richard_shen@brown.edu
       year: 23
-    - name: Anh McGrane
+    - name: Ánh McGrane
       email: elizabeth_mcgrane@brown.edu
       year: 22
 
@@ -21,48 +21,57 @@
     - name: Victoria Rose
       email: victoria_rose@brown.edu
       year: 23
-    - name: Elizabeth Rogan
-      email: elizabeth_rogan@brown.edu
-      year: 21.5
+    - name: Elena Song
+      email: elena_song@brown.edu
+      year: 23
+    - name: Béatrice Duchastel de Montrouge
+      email: beatrice_duchastel_de_montrouge@brown.edu
+      year: 23
 
 - name: "[Scriptwriters](/constitution#IIIC6)"
   people:
-    - name: Amber Fehrs
-      email: amber_fehrs@brown.edu
-      year: 22
     - name: Charlie Gagnon
       email: charles_gagnon@brown.edu
       year: 22
+    - name: Shaw Miller
+      email: thomas_s_miller@brown.edu
+      year: 23.5
     - name: Victoria Rose
       email: victoria_rose@brown.edu
+      year: 23
+    - name: Amber Fehrs
+      email: amber_fehrs@brown.edu
+      year: 22
+    - name: Hannah Joyce
+      email: hannah_joyce@brown.edu
+      year: 22
+    - name: Jed Fox
+      email: jedidiah_fox@brown.edu
       year: 23
 
 - name: "[Historians](/constitution#IIIC3)"
   people:
-    - name: Jinette Jimenez
-      email: jinette_jimenez@brown.edu
-      year: 21
     - name: Béatrice Duchastel de Montrouge
       email: beatrice_duchastel_de_montrouge@brown.edu
-      year: 23
-    - name: Darra Snow
-      email: darra_snow@brown.edu
       year: 23
     - name: Susan Tang
       email: susan_tang1@brown.edu
       year: 23
-    - name: Jean Allen
-      email: jean_allen@brown.edu
-      year: 21
+    - name: Jace Damon
+      email: jace_damon@brown.edu
+      year: 25
+    - name: Nick McCarthy-Belash
+      email: nicholas_mccarthy-belash@brown.edu
+      year: 25
 
 - name: "[Alumni Liaisons](/constitution#IIIC5)"
   people:
     - name: Zahid Hasan
       email: zahid_hasan@brown.edu
       year: 22
-    - name: Vicky Phan
-      email: vicky_phan@brown.edu
-      year: 21
+    - name: Stacey Xiang
+      email: stacey_xiang@brown.edu
+      year: 22
 
 - name: "[Webmasters](/constitution#IIIC7)"
   people:
