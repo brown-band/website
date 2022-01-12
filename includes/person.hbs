@@ -12,10 +12,10 @@
     <a href="/constitution#{{position.sec}}">{{position.name}}</a>
   {{~else~}}{{position}}{{/if}}
   :
-  <a href="mailto:{{email}}">{{name}}</a>&nbsp;<a
-    href="{{link}}"
-    style="text-decoration: none; color: inherit"
-  >'</a>
+  <a href="mailto:{{email}}">{{name}}</a>&nbsp;{{#if link}}<a
+      href="{{link}}"
+      style="text-decoration: none; color: inherit"
+    >'</a>{{else}}'{{/if}}
   {{~year~}}
 </h3>
 
