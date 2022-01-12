@@ -7,6 +7,7 @@ import remarkHeadingId from "remark-heading-id";
 import remarkDirective from "remark-directive";
 import remarkRehype from "remark-rehype";
 import rehypeStringify from "rehype-stringify";
+import remarkGfm from "remark-gfm";
 
 // adapted from @fec/eleventy-plugin-remark
 const processor = unified()
@@ -16,6 +17,7 @@ const processor = unified()
     // disable indented code blocks because they’re bad
     { disable: { null: ["codeIndented"] } },
   ])
+  .use(remarkGfm)
   // handle {#id} syntax in headers
   .use(remarkHeadingId)
   // handle :sd[] etc syntax (see below)
