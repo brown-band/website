@@ -1,42 +1,5 @@
-const fs = require("node:fs");
-const path = require("node:path");
 const formatDate = require("date-fns-tz/formatInTimeZone");
 const listify = require("listify");
-
-/** @type {import('unified').FrozenProcessor<import('hast').Root, import('hast').Node, import('hast').Node>} */
-let tocExtractor;
-/** @type {import('vfile').VFile} */
-let VFile;
-Promise.all([
-  import("unified"),
-  import("rehype-parse"),
-  import("@stefanprobst/rehype-extract-toc"),
-  import("vfile"),
-]).then(
-  ([
-    { unified },
-    { default: parse },
-    { default: extractToc },
-    { VFile: VFile_ },
-  ]) => {
-    // technically this could take time but at least locally the Promises
-    // resolve before the value is needed by the template
-    // so it can be accessed synchronously
-    // https://github.com/handlebars-lang/handlebars.js/issues/717
-    tocExtractor = unified().use(parse).use(extractToc).freeze();
-    VFile = VFile_;
-  }
-);
-
-const allIcons = [
-  ...fs
-    .readFileSync(
-      path.join(path.dirname(__dirname), "assets", "icons.svg"),
-      "utf-8"
-    )
-    // parsing SVG with regex. shame on me.
-    .matchAll(/<symbol[^>]+id="(?<name>[^"]+)"/g),
-].map((i) => i.groups.name);
 
 /** @type {(eleventyConfig: import("@11ty/eleventy/src/UserConfig")) => void} */
 module.exports = (eleventyConfig) => {
@@ -92,38 +55,4 @@ module.exports = (eleventyConfig) => {
     "debug",
     (data) => JSON.stringify(data, null, 2) || String(data)
   );
-
-  // generate the table of contents
-  eleventyConfig.addHandlebarsHelper("auto-toc", function (toc, content) {
-    if (toc != null) return toc;
-
-    // this is a hot path, so do a quick out if there are no headings
-    if (!content.includes("<h") || !content.includes("id=")) return [];
-
-    const strip = (headers) =>
-      headers
-        .filter((h) => h.id)
-        .map((h) => ({
-          ...h,
-          children: h.children ? strip(h.children) : h.children,
-        }));
-    const file = new VFile(content);
-    tocExtractor.runSync(tocExtractor.parse(file), file);
-    return strip(file.data.toc);
-  });
-
-  // insert an icon
-  eleventyConfig.addHandlebarsHelper("icon", (name, { size = 24 } = {}) => {
-    if (!allIcons.includes(name)) {
-      throw new ReferenceError(`Unknown icon '${name}'`);
-    }
-
-    return new (require("handlebars").SafeString)(
-      /* HTML */ `
-      <svg class="icon" width="${size}" height="${size}">
-        <use href="/assets/icons.svg#${name}" />
-      </svg>
-    `.trim()
-    );
-  });
 };
