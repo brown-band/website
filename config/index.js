@@ -17,6 +17,8 @@ module.exports = (eleventyConfig) => {
     render: (str) => import("./markdown.mjs").then(({ render }) => render(str)),
   });
 
+  eleventyConfig.addPlugin(require("eleventy-hast-jsx").plugin);
+
   /**
    * Data
    */
