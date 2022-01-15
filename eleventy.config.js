@@ -50,9 +50,8 @@ module.exports = (eleventyConfig) => {
   eleventyConfig.setQuietMode(true);
 
   return {
-    // use Handlebars as the template engine (instead of Liquid)
-    markdownTemplateEngine: "hbs",
-    htmlTemplateEngine: "hbs",
+    markdownTemplateEngine: "md",
+    htmlTemplateEngine: "html",
     // configures the locations of various directories
     dir: {
       input: "pages",
