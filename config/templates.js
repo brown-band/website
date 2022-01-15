@@ -1,5 +1,10 @@
 /** @type {(eleventyConfig: import("@11ty/eleventy/src/UserConfig")) => void} */
 module.exports = (eleventyConfig) => {
+  eleventyConfig.addPlugin(require("eleventy-hast-jsx").plugin);
+
+  // disable template syntax in permalinks
+  eleventyConfig.setDynamicPermalinks(false);
+
   // Handlebars gives you nothing to work with in terms of in-template logic.
   // These helper names are vaguely inspired by Racket.
 
