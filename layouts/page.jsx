@@ -6,11 +6,8 @@ exports.data = {
   layout: "web.jsx",
 };
 
-const Heading = ({ title, page_header, show_header }) =>
-  title &&
-  show_header != false && (
-    <h1>{page_header ? <Raw html={page_header} /> : title}</h1>
-  );
+const Heading = ({ title, pageHeader, showHeader }) =>
+  title && showHeader != false && <h1>{pageHeader || title}</h1>;
 
 const getToc = async (toc, content) => {
   if (toc != null) return toc;

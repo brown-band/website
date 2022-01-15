@@ -27,11 +27,11 @@ exports.default = ({ scripts }) => (
           <tr>
             <td>{year.year}</td>
             <td style="font-weight: bold">
-              {year.fall && <a href="/scripts/{{year.year}}/fall">Fall</a>}
+              {year.fall && <a href={`/scripts/${year.year}/fall`}>Fall</a>}
             </td>
             <td style="font-weight: bold">
               {year.spring && (
-                <a href="/scripts/{{year.year}}/spring">Spring</a>
+                <a href={`/scripts/${year.year}/spring`}>Spring</a>
               )}
             </td>
           </tr>
