@@ -44,7 +44,9 @@ exports.default = ({ pagination, collections, semester, schoolColors }) => {
         <p class="h4">
           Scriptwriter
           {collection[0].data.writers.length === 1 ? "" : "s"}:{" "}
-          {collection[0].data.writers.map((s) => s.replaceAll(" ", "\xA0"))}
+          {listify(
+            collection[0].data.writers.map((s) => s.replaceAll(" ", "\xA0"))
+          )}
         </p>
       )}
 

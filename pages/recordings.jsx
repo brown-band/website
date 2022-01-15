@@ -27,8 +27,9 @@ exports.default = ({ recordings_url }) => (
           style="min-height: 2em"
         >
           <span class="flex-fill">
-            Now
-            <span class="player-status">Playing</span>:
+            {"Now "}
+            <span class="player-status">Playing</span>
+            {": "}
             <span class="now-playing" style="font-weight: bold">
               ???
             </span>

@@ -11,7 +11,7 @@ const SchoolName = ({ team: { name, score }, schoolColors }) => (
     >
       {name}
     </span>
-    {score && <small style="font-size: 2rem">({score})</small>}
+    {score != null && <span style="font-size: 2rem"> ({score})</span>}
   </>
 );
 
@@ -25,15 +25,15 @@ exports.default = ({
       <h1 class="display-5 fw-normal" id={idPrefix + fileSlug}>
         {data.teams?.home ? (
           <>
-            <SchoolName team={data.teams.away} schoolColors={schoolColors} />{" "}
-            <em style="font-size: 0.8em">{data.location ? "vs" : "at"}</em>{" "}
+            <SchoolName team={data.teams.away} schoolColors={schoolColors} />
+            <em style="font-size: 0.8em">{data.location ? " vs " : " at "}</em>
             <SchoolName team={data.teams.home} schoolColors={schoolColors} />
           </>
         ) : data.opponent ? (
           <>
-            // when we don’t know home/away or scores
+            {/* when we don’t know home/away or scores */}
             <SchoolName team={{ name: "Brown" }} schoolColors={schoolColors} />
-            <em style="font-size: 0.8em">vs</em>
+            <em style="font-size: 0.8em"> vs </em>
             <SchoolName
               team={{ name: data.opponent }}
               schoolColors={schoolColors}
