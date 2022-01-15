@@ -12,7 +12,7 @@ module.exports = (eleventyConfig) => {
   eleventyConfig.addPlugin(require("./config"));
 
   // ignore the book page
-  eleventyConfig.ignores.add("pages/scripts/book.hbs");
+  eleventyConfig.ignores.add("pages/scripts/book.jsx");
 
   /**
    * Data
