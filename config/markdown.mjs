@@ -10,7 +10,8 @@ import rehypeStringify from "rehype-stringify";
 import remarkGfm from "remark-gfm";
 
 // adapted from @fec/eleventy-plugin-remark
-const processor = unified()
+// Also used by Markdown.jsx
+export const processor = unified()
   // parse the Markdown...
   .use(remarkParse)
   .data("micromarkExtensions", [
@@ -24,13 +25,15 @@ const processor = unified()
   .use([remarkDirective, directivesPlugin])
   // convert the Markdown syntax to HTML, allowing “dangerous”
   // raw HTML in the markdown (which is fine since we write all the Markdown ourselves)
-  .use(remarkRehype, { allowDangerousHtml: true })
+  .use(remarkRehype, { allowDangerousHtml: true });
+
+const processorToString = processor
   // convert the HTML nodes to an HTML string
   .use(rehypeStringify, { allowDangerousHtml: true });
 
 /** @param {string} str */
 export async function render(str) {
-  const file = await processor.process(str);
+  const file = await processorToString.process(str);
   return file.value.toString("utf8");
 }
 
