@@ -29,43 +29,46 @@ In a terminal, run `git clone https://github.com/brown-band/website` to copy the
 - `book-html`: the output directory for `npm run book:*`, not checked into Git.
 - `buttons`: contains folders for each class year. See below for more detailed instructions.
   - `buttons/[year]/labels.yml`: contains a mapping from college name → button description for that year
+- `components`: See each file for a description of the props it expects
+  - `ButtonTable.jsx`: component for rendering the tables on the button page
+  - `CryptoWall.jsx`: password field, currently only used by the recordings page
+  - `Footer.jsx`: the page footer
+  - `Icon.jsx`: renders icons from `icons.svg`
+  - `Markdown.jsx`: helper for rendering Markdown to HTML
+  - `Nav.jsx`: renders the navbar, and is responsible for highlighting the active item
+  - `PeopleTable.jsx`: used to make the section leader and appointed position tables
+  - `Person.jsx`: used to display band board and conductor bios
+  - `Script.jsx`: displays the metadata and content for a single show script
+  - `Toc.jsx`: renders a table of contents
+  - `TocButton.jsx`: the button for toggling the table of contents on mobile
 - `config`: things that make Eleventy work the way we want. Includes functionality common to both the book and the website.
   - `index.js`: various config things. If you’re adding new config, consider putting it here unless it only applies to the website (i.e. not the book)
   - `markdown.mjs`: Uses [remark](https://remark.js.org) to handle all the Markdown files
   - `minify.js`: Slims down Bootstrap by removing unused CSS classes. It should pick up most things you use automatically, but if you dynamically add Bootstrap classes using JS, make sure to add them to the `safelist` so they work properly. Also, either minifies or formats the HTML being output.
   - `scripts.js`: Creates collections of the scripts for every semester (used to render the script pages) and a list of those collections (used to render the scripts homepage).
-  - `templates.js`: Contains all the custom additions to the Handlebars template language.
+  - `templates.js`: Loads in the template config
 - `data`: contains a combination of static data (`.yml` files) and scripts that produce the relevant data for the website (`.js` files)
   - `people/*.yml`: lists the section leaders, appointed positions, conductors, and members of band board.
   - `buttons.js`: scans the `buttons` folder and formats the buttons for display on the buttons page
   - `eleventyComputed.js`: (in order)
-    - identifies the opponent (who?) in all of our scripts
-    - handles automatically creating titles for pages that don’t specify them. (it might do other things too if this section is out of date, go check!)
+    - identifies the opponent (i.e. who Brown was playing) in all of our scripts
+    - handles automatically creating titles for pages that don’t specify them.
     - figures out the right semesters to include in the book
+    - (it might do other things too if this section is out of date, go check!)
   - `nav.yml`: contains the data for the nav bar
   - `quote.js`: selects the random quote displayed on the site header
   - `schoolColors.yml`: Contains the primary color used by most/all of the schools we’ve played in the past. The `color` property is used by the buttons page to tint the table headers and the script renderer to color the college names in the script titles. The `type` property is used to help split the buttons page into categories.
   - `site.yml`: global metadata for the website (currently just the title)
   - `specialButtons.yml`: list of buttons that don’t fit into any of the existing categories
-- `includes`: can be imported using `{% include %}`
-  - (note: included templates use the same output language as the page that includes them, i.e. Markdown or HTML)
-  - `button-table.njk`: code for rendering the tables on the button page
-  - `footer.html`: contains the page footer
-  - `nav.njk`: renders the navbar, and is responsible for highlighting the active item
-  - `people-table.md`: used to make the section leader and appointed position tables
-  - `person.md`: used to display band board and conductor bios
-  - `script.njk`: displays the metadata and content for a single show script
-  - `toc-button.html`: the button for toggling the table of contents on mobile
-  - `toc.njk`: renders a table of contents based on the `toc` variable
 - `layouts`
-  - `base.hbs`: contains the basic page layout (shared across print and web), including the page title, CSS/JS imports, and page content
-  - `web.hbs`: contains the navbar and `container` (which sets the maximum width of the content) (inherits `base.hbs`)
-  - `page.hbs`: renders the page title and summary (inherits `web.hbs`)
+  - `base.jsx`: contains the basic page layout (shared across print and web), including the page title, CSS/JS imports, and page content
+  - `web.jsx`: contains the navbar and `container` (which sets the maximum width of the content) (inherits `base.jsx`)
+  - `page.jsx`: renders the page title and summary (inherits `web.jsx`)
 - `node_modules`: Created by `npm install`. Don’t change it yourself — instead use `npm` commands to add and remove packages.
 - `pages`: the pages on the website. Each page is automatically compiled into HTML by Eleventy.
   - `scripts`: show scripts. Contains a subfolder for each year’s scripts, with `fall` and `spring` subfolders.
   - `index.md`: the homepage
-  - `script-semester.hbs`: Eleventy copies this page for every semester for which we have scripts for.
+  - `script-semester.jsx`: Eleventy copies this page for every semester for which we have scripts for.
 - `public`: the output directory, not checked into Git. Eleventy creates and updates (but does not delete) files in this directory when you run `npm start` or `npm run build`.
 - `.node-version`: the version of Node.js that the website is confirmed to build properly with. Feel free to update this any time (but make sure you double-check that things still work properly!).
 - `eleventy.config.js`, `eleventy-book.config.js`: configuration files for Eleventy. See docs inside the file for more details.
