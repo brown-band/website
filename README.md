@@ -30,7 +30,6 @@ In a terminal, run `git clone https://github.com/brown-band/website` to copy the
 - `buttons`: contains folders for each class year. See below for more detailed instructions.
   - `buttons/[year]/labels.yml`: contains a mapping from college name → button description for that year
 - `components`: See each file for a description of the props it expects
-  - `ButtonTable.jsx`: component for rendering the tables on the button page
   - `CryptoWall.jsx`: password field, currently only used by the recordings page
   - `Footer.jsx`: the page footer
   - `Icon.jsx`: renders icons from `icons.svg`

@@ -1,7 +1,5 @@
 const { createElement } = require("eleventy-hast-jsx");
 
-const ButtonTable = require("../components/ButtonTable");
-
 exports.data = {
   summary: `
     It just wouldn't be complete if we cheered on the Bears without paying our
@@ -96,18 +94,18 @@ exports.default = ({ buttons, specialButtons }) => (
     </table>
 
     <h2 id="ivies">Ivy League: Past Seasons {toplink}</h2>
-    {buttons.bySchool.ivy.map((button) => (
-      <ButtonTable {...button} />
+    {buttons.bySchool.ivy.map((school) => (
+      <ButtonTable school={school} />
     ))}
 
     <h2 id="recent">Recent Seasons: Other Schools {toplink}</h2>
-    {buttons.bySchool.recent.map((button) => (
-      <ButtonTable {...button} />
+    {buttons.bySchool.recent.map((school) => (
+      <ButtonTable school={school} />
     ))}
 
     <h2 id="other">Past Seasons: Other Schools {toplink}</h2>
-    {buttons.bySchool.other.map((button) => (
-      <ButtonTable {...button} />
+    {buttons.bySchool.other.map((school) => (
+      <ButtonTable school={school} />
     ))}
 
     <h2 id="special">Special Buttons {toplink}</h2>
@@ -158,3 +156,38 @@ exports.default = ({ buttons, specialButtons }) => (
     </table>
   </>
 );
+
+function ButtonTable({ school: { id, name, mascot, buttons, color } }) {
+  return (
+    <>
+      <a name={id}></a>
+      <table class="table table-sm">
+        <thead>
+          <tr>
+            <th
+              colspan="2"
+              style={`color: white; background-color: ${color}; text-align: center`}
+            >
+              {name}
+              {mascot && `: ${mascot}`}
+            </th>
+          </tr>
+        </thead>
+        <tbody>
+          {buttons.map((button) => (
+            <tr>
+              <td>{button.year}</td>
+              <td>
+                {button.image ? (
+                  <a href={button.image}>{button.label}</a>
+                ) : (
+                  button.label
+                )}
+              </td>
+            </tr>
+          ))}
+        </tbody>
+      </table>
+    </>
+  );
+}
