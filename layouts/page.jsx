@@ -1,4 +1,4 @@
-const { Raw } = require("eleventy-hast-jsx");
+const { createElement, Raw } = require("eleventy-hast-jsx");
 const Toc = require("../components/Toc");
 const TocButton = require("../components/TocButton");
 
@@ -12,18 +12,18 @@ const Heading = ({ title, page_header, show_header }) =>
     <h1>{page_header ? <Raw html={page_header} /> : title}</h1>
   );
 
-const tocExtractor = await Promise.all([
-  import("unified"),
-  import("rehype-parse"),
-  import("@stefanprobst/rehype-extract-toc"),
-]).then(([{ unified }, { default: parse }, { default: extractToc }]) =>
-  unified().use(parse).use(extractToc).freeze()
-);
-
-const { VFile } = await import("vfile");
-
 const getToc = async (toc, content) => {
   if (toc != null) return toc;
+
+  const tocExtractor = await Promise.all([
+    import("unified"),
+    import("rehype-parse"),
+    import("@stefanprobst/rehype-extract-toc"),
+  ]).then(([{ unified }, { default: parse }, { default: extractToc }]) =>
+    unified().use(parse).use(extractToc).freeze()
+  );
+
+  const { VFile } = await import("vfile");
 
   // this is a hot path, so do a quick out if there are no headings
   if (!content.includes("<h") || !content.includes("id=")) return [];

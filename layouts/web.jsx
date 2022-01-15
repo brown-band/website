@@ -1,4 +1,4 @@
-const { Raw } = require("eleventy-hast-jsx");
+const { createElement, Raw } = require("eleventy-hast-jsx");
 const Nav = require("../components/Nav");
 const Footer = require("../components/Footer");
 

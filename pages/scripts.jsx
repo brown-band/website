@@ -1,3 +1,5 @@
+const { createElement } = require("eleventy-hast-jsx");
+
 exports.data = {
   summary:
     "The Brown Band shows possess a unique satirical humor that only could come from the twisted minds of our members. Although many hours of brainstorming go into each script, the true talent behind our show is our scriptwriters. Pay attention to the names that appear on the season’s page! So if you are ready, choose a season below.",

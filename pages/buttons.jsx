@@ -1,3 +1,5 @@
+const { createElement } = require("eleventy-hast-jsx");
+
 const ButtonTable = require("../components/ButtonTable");
 
 exports.data = {
