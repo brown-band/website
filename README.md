@@ -73,6 +73,34 @@ In a terminal, run `git clone https://github.com/brown-band/website` to copy the
 - `package.json`, `package-lock.json`: lists the packages used by the website (both on the frontend and on the backend), and defines the scripts accessible using `npm run`.
   - the convention I’ve tried to maintain is that packages from which one or more files are copied into `public/` during the build process get installed as `dependencies`, and everything else gets installed into `devDependencies`.
 
+### Technical Overview
+
+#### Templates
+
+You’ll notice three kinds of files in the `pages/` folder:
+
+1. HTML files (`.html`). These are copied as-is (with the content injected into the appropriate layout) into `public/`.
+2. Markdown files (`.md`). These are converted to HTML by Eleventy using the code in `config/markdown.mjs`, and then follow the HTML process.
+3. JSX files (`.jsx`). These are handled by [`eleventy-hast-jsx`](https://www.npmjs.com/package/eleventy-hast-jsx) package, which has a bunch of documentation around how the JSX files are processed. Note that these are _not_ using React in any way, and are converted to HTML strings at build time. If you want to have an interactive web page, write some separate client-side JS (check out `recordings.jsx` and `recordings.js` for an example). See “Why JSX?” below for the rationale behind this somewhat unusual choice.
+
+#### Book
+
+`paged.js` is used to convert a single long HTML page into a long PDF for printing. A second Eleventy config file `eleventy-book.config.js` is used because some configuration needs to be slightly different. The page used for printing (`pages/scripts/book.jsx`) is ignored by the main site’s Eleventy config.
+
+#### Components
+
+…live in the `components` folder if they’re used by multiple files (or are intended to be shared). Otherwise, they generally go at the bottom of the page they are used on.
+
+### Layouts
+
+You probably won’t need to create a new one, but definitely feel free to do so! Remember that the `base.jsx` layout is used by both the website and the book, so make sure any changes you make there work with both.
+
+### ES Modules
+
+Currently, only one file uses the ES Modules syntax (which was first proposed in 2015 (!) and is very slowly being adopted across the ecosystem). Hopefully the ecosystem will catch up at some point! In that case, definitely feel free to move things over — or not.
+
+If you’re reading this in the future, check in on ESM support in the main blocking dependencies (`@11ty/eleventy` and `eleventy-hast-jsx`). If Eleventy fully supports ES Modules and `eleventy-hast-jsx` doesn’t, ping Jed. :)
+
 ### Common Tasks
 
 #### Updating Leadership
@@ -157,13 +185,13 @@ That’s it! The build script will automatically pick up the new buttons and add
      - if the default title is only wrong due to mis-capitalizing an acronym or similar, add the correct capitalization to the `special` array at the end of the `title` function in `eleventyComputed.js` and it will be used instead.
    - `layout`: defaults to `page.njk` (i.e. `layouts/page.njk`). Specify a different layout if you want.
    - `summary`: italicized, indented text displayed between the title and the content
-   - `show_header`: disable the default header. for when you want a something custom
+   - `showHeader`: disable the default header. for when you want a something custom
    - `toc`: By default, a table of contents will be generated for any page with at least one header with an `id` property (put `{#id}` at the end of a heading to set an ID). You can override this by specifying `toc: false` to disable the table of contents, or pass an array of custom headings (check out `buttons.html` for an example of this).
    - (there are a bunch more for scripts, described below)
    - check out [Eleventy’s docs](https://www.11ty.dev/docs/data-configuration/) for additional options.
 3. Add the page content, formatted using Markdown. You can use [Nunjucks template commands](https://mozilla.github.io/nunjucks/templating.html) to incorporate data into the page.
 4. Add the page to the navbar:
-   - To add it at the top level, edit `nav.njk` to add a link to the page (use the “Contact” link as an example)
+   - To add it at the top level, edit `Nav.jsx` to add a link to the page (use the “Contact” link as an example)
    - To add it to a menu, edit `nav.yml` by adding an entry somewhere with the path of the page (without the file extension; use the others as an example). The title will be automatically picked up.
 
 #### Adding an icon
@@ -178,6 +206,8 @@ To add a new icon to `assets/icons.svg`:
 3. Paste everything inside of the `<svg>` tag into the `<symbol>`.
 
 ---
+
+## Descriptions of design decisions
 
 ### Why Eleventy?
 
@@ -199,3 +229,13 @@ One downside of Eleventy is that, because it’s code-based with no graphical ed
 While I think I’ve made a sound technical decision in late 2021, I’m not naïve enough to believe that Eleventy will always be the best option. Use your own judgement! Hopefully the work I put into converting the various pieces of historical data into a reasonable format will make it reasonably easy to switch over to a new platform/framework. If the website just needs a fresh coat of paint, you can rewrite `layouts` and `includes` (and throw out Bootstrap if you want) while still keeping Eleventy around.
 
 If you ever get really stuck with something, you can always [reach out to me](mailto:jed@jedfox.com) and I’ll do my best to lend a hand!
+
+### Why JSX?
+
+JSX is the fourth template language I tried using while building this website. (The first three were Liquid, Nunjucks, and Handlebars.) The common issues I saw with all three were that auto-formatter support (in particular Prettier, but I did look around a bit for alternatives) was lacking, and that it was hard to do “real logic” in the templates.
+
+Formatting was lacking, I think, because template languages are extremely difficult to write a formatter for. There is Prettier support for Handlebars, but it did not support all the language features, and being confident that it will always produce correct results is very hard. Fundamentally, a template language mixes two programming languages (in our case, Markdown or HTML and the language that defines the `{{ ... }}` and `{% ... %}` syntax) with no structure. Interpolations can theoretically contain any content, meaning that solving the parsing problem for all cases is impossible (and solving it for “reasonable” cases is extremely difficult). You could, for example, wrap an if statement around only the opening tag of an HTML tag. (That isn’t theoretical, while looking for test cases while trying to [improve Prettier’s Handlebars formatting support](https://github.com/prettier/prettier/pull/12037) I found real examples of this).
+
+And logic, I believe, is lacking because writing programming languages is hard. There are projects like EJS which attempt to merge a “real” language like JavaScript with template content (but they encounter a much harder version of the formatting problem because both languages are highly complex). As a result, most template languages come up with their own mini-language for pulling properties off of objects and running helper functions. Since the top level of most template languages is defined to output literal content (for ease of use and readability reasons), there isn’t a good place to define helper functions. Handlebars came the closest here with its “inline partials,” but its language is otherwise quite limited.
+
+I realized that JSX (used by React) solves many of these problems. The locations you can inject arbitrary expressions are quite tightly limited to only the “normal” places. Because of this (and because it is very widely used), formatter and tooling support is excellent. Because JavaScript is a full-featured language, you can easily write helper functions and share code across files. I was able to go from 5–6 “shortcodes” in Nunjucks (and 15–20 for Handlebars) to zero for JSX. Unfortunately, Eleventy doesn’t support JSX by default. So I spent a few days making a plugin that lets it do just that, which seems to work ok for the use case I’ve tested it on (namely, this site). It runs fairly quickly (only a bit slower than Handlebars) and mostly works as you’d expect.
