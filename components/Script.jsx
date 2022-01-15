@@ -16,12 +16,13 @@ const SchoolName = ({ team: { name, score }, schoolColors }) => (
 );
 
 exports.default = ({
-  script: { data, date, templateContent },
+  script: { fileSlug, data, date, templateContent },
+  idPrefix = "",
   schoolColors,
 }) => (
   <article>
     <header style="text-align: center">
-      <h1 class="display-5 fw-normal" id="{{id_prefix}}{{fileSlug}}">
+      <h1 class="display-5 fw-normal" id={idPrefix + fileSlug}>
         {data.teams?.home ? (
           <>
             <SchoolName team={data.teams.away} schoolColors={schoolColors} />{" "}
