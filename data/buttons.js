@@ -1,5 +1,21 @@
 // @ts-check
 
+/**
+ * @typedef {Object} School
+ * @property {string} name
+ * @property {string} id
+ * @property {SchoolButton[]} buttons
+ * @property {"ivy" | "recent" | "other"} type
+ * @property {string} color
+ */
+
+/**
+ * @typedef {Object} SchoolButton
+ * @property {string} year
+ * @property {string} label
+ * @property {string | null} image
+ */
+
 module.exports = async () => {
   const fs = require("node:fs/promises");
   const path = require("node:path");

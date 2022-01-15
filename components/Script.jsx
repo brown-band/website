@@ -3,18 +3,13 @@ const { createElement, Raw } = require("eleventy-hast-jsx");
 const slugify = require("@sindresorhus/slugify");
 const formatDate = require("date-fns-tz/formatInTimeZone");
 
-const SchoolName = ({ team: { name, score }, schoolColors }) => (
-  <>
-    <span
-      class="school-color"
-      style={`color: ${schoolColors[slugify(name)]?.color ?? "salmon"}`}
-    >
-      {name}
-    </span>
-    {score != null && <span style="font-size: 2rem"> ({score})</span>}
-  </>
-);
-
+/**
+ * @param {Object} props
+ * @param {Object} props.script a Page object from Eleventy.
+ * See the README for info about the data format for scripts.
+ * @param {string} [props.idPrefix] a prefix to add to ID of the heading
+ * @param {Object} props.schoolColors from `data/schoolColors.yml`
+ */
 exports.default = ({
   script: { fileSlug, data, date, templateContent },
   idPrefix = "",
@@ -61,3 +56,17 @@ exports.default = ({
     <Raw html={templateContent} />
   </article>
 );
+
+function SchoolName({ team: { name, score }, schoolColors }) {
+  return (
+    <>
+      <span
+        class="school-color"
+        style={`color: ${schoolColors[slugify(name)]?.color ?? "salmon"}`}
+      >
+        {name}
+      </span>
+      {score != null && <span style="font-size: 2rem"> ({score})</span>}
+    </>
+  );
+}
