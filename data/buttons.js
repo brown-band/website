@@ -3,7 +3,7 @@
 module.exports = async () => {
   const fs = require("node:fs/promises");
   const path = require("node:path");
-  const { default: slugify } = await import("slugify");
+  const slugify = require("@sindresorhus/slugify");
   const d3 = await import("d3-array"); // not "d3" because that takes ~300ms to load; see https://github.com/d3/d3/issues/3550
   const { load: loadYaml } = require("js-yaml");
 

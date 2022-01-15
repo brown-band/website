@@ -1,6 +1,6 @@
 const { createElement, Raw } = require("eleventy-hast-jsx");
 
-const slugify = require("slugify");
+const slugify = require("@sindresorhus/slugify");
 const formatDate = require("date-fns-tz/formatInTimeZone");
 
 const SchoolName = ({ team: { name, score }, schoolColors }) => (
