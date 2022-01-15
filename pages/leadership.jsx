@@ -1,11 +1,6 @@
 const { createElement } = require("eleventy-hast-jsx");
+const slugify = require("@sindresorhus/slugify");
 const Markdown = require("../components/Markdown");
-const PeopleTable = require("../components/PeopleTable");
-const Person = require("../components/Person");
-
-const intro = `
-The **Band Board** is a six-member elected delegation of band members who manage both the behind-the-scenes and public day to day operations of the Band. The Band Board is elected for a one-year term that begins and ends at halftime at the last football game in November. If a position becomes vacant mid-term, that position is filled via a special election as soon as it is feasible. Specifics on election policy can be found in our bland yet informative [constitution](/constitution). Please feel free to email the appropriate Band Board member by clicking on their name. If you're not sure which Band Board member is appropriate, you may simply email the President, or all of Band Board. If your band is traveling to Brown, or if you have specific questions about band activities or events, the person to contact is the Corresponding Secretary. For general comments, suggestions, etc. please feel free to mail any member of the Band Board.
-`;
 
 const Heading = ({ title, id, section }) => (
   <h2 id={id}>
@@ -18,7 +13,15 @@ exports.default = async ({ people }) => {
     <>
       <link rel="stylesheet" href="/assets/css/people.css" />
 
-      {await (<Markdown content={intro} />)}
+      {
+        await (
+          <Markdown
+            content={`
+              The **Band Board** is a six-member elected delegation of band members who manage both the behind-the-scenes and public day to day operations of the Band. The Band Board is elected for a one-year term that begins and ends at halftime at the last football game in November. If a position becomes vacant mid-term, that position is filled via a special election as soon as it is feasible. Specifics on election policy can be found in our bland yet informative [constitution](/constitution). Please feel free to email the appropriate Band Board member by clicking on their name. If you're not sure which Band Board member is appropriate, you may simply email the President, or all of Band Board. If your band is traveling to Brown, or if you have specific questions about band activities or events, the person to contact is the Corresponding Secretary. For general comments, suggestions, etc. please feel free to mail any member of the Band Board.
+            `}
+          />
+        )
+      }
 
       <Heading title="Band Board Officers" id="band-board" section="IIIA" />
 
@@ -62,3 +65,77 @@ exports.default = async ({ people }) => {
     </>
   );
 };
+
+async function Person({ even, person }) {
+  return (
+    <>
+      {!even && (
+        <img
+          class="headshot shadow"
+          src={`/assets/people/${slugify(person.name)}.jpg`}
+          width="130"
+          style="float: right"
+        />
+      )}
+
+      <h3 class="h5">
+        {person.position.sec ? (
+          <a href={"/constitution#" + person.position.sec}>
+            {person.position.name}
+          </a>
+        ) : (
+          person.position
+        )}
+        {": "}
+        <a href={"mailto:" + person.email}>{person.name}</a>&nbsp;
+        {person.link ? (
+          <a href={person.link} style="text-decoration: none; color: inherit">
+            '
+          </a>
+        ) : (
+          "'"
+        )}
+        {person.year}
+      </h3>
+
+      {even && (
+        <img
+          class="headshot shadow"
+          src={`/assets/people/${slugify(person.name)}.jpg`}
+          width="130"
+          style="float: left"
+        />
+      )}
+
+      {await (<Markdown content={person.position.role} />)}
+
+      {await (<Markdown content={person.bio} />)}
+
+      <div style="clear: both; padding-bottom: 2rem"></div>
+    </>
+  );
+}
+
+async function PeopleTable({ sections }) {
+  return (
+    <table class="table">
+      {
+        await Promise.all(
+          sections.flatMap((section) =>
+            section.people.map(async (person, i) => (
+              <tr>
+                <th class="people-table-head">
+                  {i === 0 && (await (<Markdown content={section.name} />))}
+                </th>
+                <td>
+                  <a href={"mailto:" + person.email}>{person.name}</a> '
+                  {person.year}
+                </td>
+              </tr>
+            ))
+          )
+        )
+      }
+    </table>
+  );
+}

@@ -36,8 +36,6 @@ In a terminal, run `git clone https://github.com/brown-band/website` to copy the
   - `Icon.jsx`: renders icons from `icons.svg`
   - `Markdown.jsx`: helper for rendering Markdown to HTML
   - `Nav.jsx`: renders the navbar, and is responsible for highlighting the active item
-  - `PeopleTable.jsx`: used to make the section leader and appointed position tables
-  - `Person.jsx`: used to display band board and conductor bios
   - `Script.jsx`: displays the metadata and content for a single show script
   - `Toc.jsx`: renders a table of contents
   - `TocButton.jsx`: the button for toggling the table of contents on mobile
