@@ -32,12 +32,12 @@ exports.default = ({ pagination, collections, semester, schoolColors }) => {
       <p class="d-flex">
         {pagination.page.previous && (
           <a href={pagination.href.previous}>
-            ←{pagination.page.previous.title}
+            ← {pagination.page.previous.title}
           </a>
         )}
         <span class="flex-fill"></span>
         {pagination.page.next && (
-          <a href={pagination.href.next}>←{pagination.page.next.title}</a>
+          <a href={pagination.href.next}>{pagination.page.next.title} →</a>
         )}
       </p>
 
