@@ -1,4 +1,4 @@
-const { createElement } = require("eleventy-hast-jsx/src");
+const { createElement } = require("eleventy-hast-jsx");
 
 module.exports = () => (
   <>

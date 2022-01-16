@@ -8,8 +8,8 @@ exports.data = {
     size: 1,
     alias: "semester",
   },
+  permalink: (d) => d.semester.permalink,
   eleventyComputed: {
-    permalink: (d) => d.semester.permalink,
     title: (d) => d.semester.title,
     pageHeader: ({ semester }) => (
       <>

@@ -4,7 +4,4 @@
 /** @type {(eleventyConfig: import("@11ty/eleventy/src/UserConfig")) => void} */
 module.exports = (eleventyConfig) => {
   eleventyConfig.addPlugin(require("eleventy-hast-jsx").plugin);
-
-  // disable template syntax in permalinks
-  eleventyConfig.setDynamicPermalinks(false);
 };
