@@ -12,8 +12,9 @@ module.exports = () => (
         class="me-2 mb-2 mb-md-0 text-muted text-decoration-none lh-1"
       >
         <img
-          src="/assets/elrod.png"
+          src="/assets/elrod-nav@3x.png"
           alt="Homepage"
+          width="30"
           height="30"
           style="filter: grayscale(1); opacity: 0.8"
         />

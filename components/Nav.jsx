@@ -28,7 +28,7 @@ module.exports = ({ site, quote, nav, all, currentURL }) => (
           >
             <img
               class="me-2"
-              src="/assets/elrod.png"
+              src="/assets/elrod-nav@3x.png"
               width="50"
               height="50"
               alt=""
