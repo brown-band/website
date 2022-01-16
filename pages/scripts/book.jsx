@@ -51,7 +51,7 @@ exports.default = ({ book, collections, schoolColors }) => (
 
     {book.semesters.map((semester) => {
       const scripts = collections[semester.collection];
-      const writers = scripts[0].data.writers;
+      const { writers } = scripts[0].data;
       return (
         <section>
           <header>

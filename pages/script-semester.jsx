@@ -24,6 +24,7 @@ exports.data = {
 
 exports.default = ({ pagination, collections, semester, schoolColors }) => {
   const collection = collections[semester.collection];
+  const { writers } = collection[0].data;
   return (
     <>
       <link rel="stylesheet" href="/assets/css/script.css" />
@@ -40,13 +41,11 @@ exports.default = ({ pagination, collections, semester, schoolColors }) => {
         )}
       </p>
 
-      {collection[0].data.writers && (
+      {writers?.length > 0 && (
         <p class="h4">
           Scriptwriter
-          {collection[0].data.writers.length === 1 ? "" : "s"}:{" "}
-          {listify(
-            collection[0].data.writers.map((s) => s.replaceAll(" ", "\xA0"))
-          )}
+          {writers.length === 1 ? "" : "s"}:{" "}
+          {listify(writers.map((s) => s.replaceAll(" ", "\xA0")))}
         </p>
       )}
 
