@@ -53,7 +53,11 @@ exports.default = ({ pagination, collections, semester, schoolColors }) => {
         <>
           {i === 0 || <hr style="margin-bottom: 5em" />}
           {script.title}
-          <Script script={script} schoolColors={schoolColors} />
+          <Script
+            script={script}
+            semester={semester}
+            schoolColors={schoolColors}
+          />
         </>
       ))}
     </>

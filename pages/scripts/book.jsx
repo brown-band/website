@@ -71,8 +71,9 @@ exports.default = ({ book, collections, schoolColors }) => (
           {scripts.map((script) => (
             <Script
               script={script}
-              idPrefix={semester.collection + "_"}
+              semester={semester}
               schoolColors={schoolColors}
+              idPrefix={semester.collection + "_"}
             />
           ))}
         </section>

@@ -7,13 +7,15 @@ const formatDate = require("date-fns-tz/formatInTimeZone");
  * @param {Object} props
  * @param {Object} props.script a Page object from Eleventy.
  * See the README for info about the data format for scripts.
- * @param {string} [props.idPrefix] a prefix to add to ID of the heading
+ * @param {Object} props.semester An entry from the global semesters array.
  * @param {Object} props.schoolColors from `data/schoolColors.yml`
+ * @param {string} [props.idPrefix] a prefix to add to the ID of the heading
  */
 exports.default = ({
   script: { fileSlug, data, date, templateContent },
-  idPrefix = "",
+  semester,
   schoolColors,
+  idPrefix = "",
 }) => (
   <article>
     <header style="text-align: center">
@@ -37,7 +39,7 @@ exports.default = ({
         ) : (
           data.title
         )}
-        {data.title.startsWith("Fall") && data.sport === "hockey" && "(Hockey)"}
+        {semester.semester === "fall" && data.sport === "hockey" && " (Hockey)"}
       </h1>
       {data.location && (
         <h2>

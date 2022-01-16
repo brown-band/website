@@ -27,6 +27,8 @@ module.exports = (eleventyConfig) => {
       yearMap[semester] = semesterName;
       semesterCollections.push({
         collection: semesterName,
+        semester,
+        year: specificYear,
         permalink: "scripts/" + year + "/" + semester + "/",
         title: `${semester[0].toUpperCase()}${semester.slice(
           1
