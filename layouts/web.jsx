@@ -9,7 +9,7 @@ exports.data = {
   },
 };
 
-exports.default = ({ site, quote, nav, collections, page, content }) => (
+exports.default = async ({ site, quote, nav, collections, page, content }) => (
   <>
     <Nav
       {...{ site, quote, nav }}
@@ -27,7 +27,7 @@ exports.default = ({ site, quote, nav, collections, page, content }) => (
       </div>
     </div>
 
-    <Footer />
+    {await (<Footer />)}
 
     {process.env.NODE_ENV !== "production" && (
       <script type="module" src="/assets/check-purged.js"></script>

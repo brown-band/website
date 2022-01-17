@@ -1,7 +1,13 @@
 const { createElement } = require("eleventy-hast-jsx");
 const Icon = require("./Icon.jsx");
 
-module.exports = () => (
+const { promisify } = require("node:util");
+const exec = promisify(require("node:child_process").exec);
+
+const longPromise = exec("git rev-parse HEAD");
+const shortPromise = exec("git rev-parse --short HEAD");
+
+module.exports = async () => (
   <footer class="mt-auto border-top" style="padding-block: 2rem">
     <div
       class="container d-flex align-items-center flex-column flex-md-row"
@@ -22,6 +28,16 @@ module.exports = () => (
 
       <div class="mb-3 mb-md-0 text-secondary text-center">
         ©&nbsp;1967–present Brown&nbsp;University&nbsp;Band
+        {" • Commit "}
+        <a
+          href={
+            "https://github.com/brown-band/website/commit/" +
+            (await longPromise).stdout.trim()
+          }
+          class="text-secondary text-decoration-none"
+        >
+          <code>{(await shortPromise).stdout.trim()}</code>
+        </a>
       </div>
 
       <ul class="nav list-unstyled justify-content-center justify-content-md-end d-flex flex-fill">
