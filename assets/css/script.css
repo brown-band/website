@@ -24,3 +24,7 @@
   display: inline-block;
   width: 1em;
 }
+
+article h2 {
+  font-size: 1.65rem;
+}
