@@ -1,7 +1,6 @@
 ---
 sport: hockey
-teams:
-  opponent: Princeton
+opponent: Princeton
 date: 1982-03-07
 ---
 
