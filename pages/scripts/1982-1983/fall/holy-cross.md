@@ -1,5 +1,6 @@
 ---
 sport: football
+subtitle: Parent’s Weekend
 teams:
   home:
     name: Brown
