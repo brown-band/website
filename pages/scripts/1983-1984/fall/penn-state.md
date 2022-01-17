@@ -27,7 +27,7 @@ But seriously, folks, we'd like to thank you for letting us have our silly littl
  Quiet, you little squirt. I oughta...Oh, hello, Mrs. Cleaver, how are you today?\
  Just find, Edward. Wallace, did I hear you boys arguing about the football field again?\
  Yes, Mom.\
- Well, I'll tell you what. Your cousins Eldridge and Meat Cleaver are dropping by for lunch, and Auntie four-leaf Cleaver and Uncle Charlie Cleaver to block will be here, too. If you boys behave, we'll name an unranked, fourth-rate state college for each of you, alright?\
+ Well, I'll tell you what. Your cousins Eldridge and Meat Cleaver are dropping by for lunch, and Auntie four-leaf Cleaver and Uncle Charlie Cleaver to block will be here, too. If you boys behave, we'll name an unranked, fourth-rate state college for <u>each</u> of you, alright?\
  Yay!
 
 Good, now be quiet while the Brown Band forms a beaver on the field and plays "June Is Busting Out All Over" for me.

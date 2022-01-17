@@ -18,6 +18,6 @@ Holy Mackerel! Have you heard about the new grading system? No more A-B-C-No Cre
 
 :sd[Band plays "Special March" (Mickey Mouse cheer)]
 
-Be back next week when we take to the ice for the last time this season--just for the halibut.
+Be back next week when we take to the ice for the last time this season—just for the halibut.
 
 :sd[Counterskate, Brown songs]
