@@ -28,6 +28,15 @@ module.exports = () => (
         <li class="ms-md-4">
           <a
             class="link-secondary"
+            href="https://github.com/brown-band"
+            aria-label="GitHub"
+          >
+            <Icon name="github" />
+          </a>
+        </li>
+        <li class="ms-5 ms-md-4">
+          <a
+            class="link-secondary"
             href="https://twitter.com/BrownUBandStand"
             aria-label="Twitter"
           >
