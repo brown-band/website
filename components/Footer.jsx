@@ -27,8 +27,8 @@ module.exports = async () => (
       </a>
 
       <div class="mb-3 mb-md-0 text-secondary text-center">
-        ©&nbsp;1967–present Brown&nbsp;University&nbsp;Band
-        {" • Commit "}
+        ©&nbsp;1955–present Brown&nbsp;University&nbsp;Band&nbsp;members
+        {" • Commit"}&nbsp;
         <a
           href={
             "https://github.com/brown-band/website/commit/" +
