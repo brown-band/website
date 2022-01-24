@@ -22,7 +22,13 @@ exports.data = {
   },
 };
 
-exports.default = ({ pagination, collections, semester, schoolColors }) => {
+exports.default = ({
+  pagination,
+  collections,
+  semester,
+  schoolColors,
+  buttons,
+}) => {
   const collection = collections[semester.collection];
   const { writers } = collection[0].data;
   return (
@@ -55,6 +61,7 @@ exports.default = ({ pagination, collections, semester, schoolColors }) => {
           {script.title}
           <Script
             script={script}
+            buttons={buttons.byYear}
             semester={semester}
             schoolColors={schoolColors}
           />

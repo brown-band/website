@@ -43,25 +43,29 @@ module.exports = async () => {
     )
   );
 
-  const allButtons = await Promise.all(
+  const allButtonsByYear = await Promise.all(
     rawLabels.map(async ([year, labels]) => {
       const buttonImages = await fs.readdir(path.join(buttonsDir, year));
-      return Promise.all(
-        Object.entries(labels).map(async ([school, label]) => {
-          const schoolId = slugify(school).toLowerCase();
-          return {
-            year: year.split("-")[0],
-            school,
-            schoolId,
-            label,
-            image: buttonImages.includes(`${schoolId}.jpg`)
-              ? `/buttons/${year}/${schoolId}.jpg`
-              : null,
-          };
-        })
-      );
+      return /** @type {const} */ ([
+        year,
+        await Promise.all(
+          Object.entries(labels).map(async ([school, label]) => {
+            const schoolId = slugify(school).toLowerCase();
+            return {
+              year: year.split("-")[0],
+              school,
+              schoolId,
+              label,
+              image: buttonImages.includes(`${schoolId}.jpg`)
+                ? `/buttons/${year}/${schoolId}.jpg`
+                : null,
+            };
+          })
+        ),
+      ]);
     })
-  ).then((arr) => arr.flat());
+  );
+  const allButtons = allButtonsByYear.flatMap((b) => b[1]);
 
   /** @type {{ [key: string]: { color: string, type: "ivy" | "recent" | "other", mascot?: string } }} */
   const schools = await fs
@@ -92,6 +96,7 @@ module.exports = async () => {
 
     schools,
     bySchool: Object.fromEntries(d3.groups(allBySchool, (d) => d.type)),
+    byYear: Object.fromEntries(allButtonsByYear),
 
     unknown:
       /** @type {{about: string, imageName?: number, label: string}[]} */ (

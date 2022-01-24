@@ -29,6 +29,7 @@ module.exports = (eleventyConfig) => {
         collection: semesterName,
         semester,
         year: specificYear,
+        years: year,
         permalink: "scripts/" + year + "/" + semester + "/",
         title: `${semester[0].toUpperCase()}${semester.slice(
           1

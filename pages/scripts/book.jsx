@@ -9,7 +9,7 @@ exports.data = {
   permalink: "/",
 };
 
-exports.default = ({ book, collections, schoolColors }) => (
+exports.default = ({ book, collections, schoolColors, buttons }) => (
   <>
     <link rel="stylesheet" href="/assets/css/book.css" />
     <link rel="stylesheet" href="/assets/css/script.css" />
@@ -71,6 +71,7 @@ exports.default = ({ book, collections, schoolColors }) => (
           {scripts.map((script) => (
             <Script
               script={script}
+              buttons={false}
               semester={semester}
               schoolColors={schoolColors}
               idPrefix={semester.collection + "_"}

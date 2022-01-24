@@ -7,18 +7,23 @@ const formatDate = require("date-fns-tz/formatInTimeZone");
  * @param {Object} props
  * @param {Object} props.script a Page object from Eleventy.
  * See the README for info about the data format for scripts.
+ * @param {Object} props.buttons `buttons.byYear` from global data
  * @param {Object} props.semester An entry from the global semesters array.
  * @param {Object} props.schoolColors from `data/schoolColors.yml`
  * @param {string} [props.idPrefix] a prefix to add to the ID of the heading
  */
 exports.default = ({
   script: { fileSlug, data, date, templateContent },
+  buttons,
   semester,
   schoolColors,
   idPrefix = "",
 }) => (
   <article>
     <header style="text-align: center">
+      {buttons && (
+        <ButtonImage buttons={buttons} name={fileSlug} semester={semester} />
+      )}
       <h1 class="display-5 fw-normal" id={idPrefix + fileSlug}>
         {data.teams?.home ? (
           <>
@@ -76,5 +81,23 @@ function SchoolName({ team: { name, score }, schoolColors }) {
         </span>
       )}
     </>
+  );
+}
+
+function ButtonImage({ buttons, name, semester }) {
+  const image = `/buttons/${semester.years}/${name}.jpg`;
+  const alt = buttons[semester.years]?.find((b) => b.schoolId === name)?.label;
+  return (
+    semester.semester === "fall" &&
+    alt && (
+      <a href={image}>
+        <img
+          src={image}
+          alt={alt}
+          class="semester-button"
+          onerror="this.parentNode.remove()"
+        />
+      </a>
+    )
   );
 }
