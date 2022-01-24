@@ -64,7 +64,9 @@ function SchoolName({ team: { name, score }, schoolColors }) {
     <>
       <span
         class="school-color"
-        style={`color: ${schoolColors[slugify(name)]?.color ?? "salmon"}`}
+        style={`color: ${
+          schoolColors[slugify(name, { decamelize: false })]?.color ?? "salmon"
+        }`}
       >
         {name}
       </span>

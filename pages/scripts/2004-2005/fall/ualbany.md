@@ -5,7 +5,7 @@ teams:
     name: Brown
     score: 35
   away:
-    name: Albany
+    name: UAlbany
     score: 7
 date: 2004-09-18
 ---
