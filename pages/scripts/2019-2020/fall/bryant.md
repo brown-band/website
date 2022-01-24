@@ -44,7 +44,7 @@ Watch now as the band packs up leftovers of Tupper Zero and leaves them in the f
 :sd[Band forms Tupperware and plays Every Time We Touch]
 
 We’re really excited that you got a new dog as your mascot named Tupper 2! We took some time to think of some really great nicknames for your new mascot, and we wanted to share our favorites with you. Maybe you’d like to call him Tupper 2: The Squeakuel. Or maybe you’d be a fan of Tupp and Tupperer: When Harry Met Lloyd. Or perhaps the classic Tupper 2: Electric Boogaloo.\
-Watch now as the band doesn’t forget the tearjerker sequel and plays For Tupper 1 and For Tupper 2.\
+Watch now as the band doesn’t forget the tearjerker sequel and plays For Tupper 1 and For Tupper 2.
 
 :sd[Band forms a dirty, dirty dog and plays For Bruno and For Brown.]
 

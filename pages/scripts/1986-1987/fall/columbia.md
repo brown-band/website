@@ -16,7 +16,7 @@ Good day fair ladies, are you well?\
  And worthy Lords whom we will tell
 
 A noble story from a Band\
- Who trav'leth wide across the land.\
+ Who trav'leth wide across the land.
 
 From Dartmouth far and Princeton near,\
  We drink our port and chug our beer.
