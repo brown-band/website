@@ -68,7 +68,11 @@ function SchoolName({ team: { name, score }, schoolColors }) {
       >
         {name}
       </span>
-      {score != null && <span style="font-size: 2rem"> ({score})</span>}
+      {score != null && (
+        <span style="font-size: 2rem">
+          {"\xA0"}({score})
+        </span>
+      )}
     </>
   );
 }
