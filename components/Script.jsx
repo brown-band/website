@@ -45,6 +45,8 @@ exports.default = ({
           data.title
         )}
         {semester.semester === "fall" && data.sport === "hockey" && " (Hockey)"}
+        {/* for the table of contents */}
+        {fileSlug.endsWith("-censored") && <span hidden> [censored]</span>}
       </h1>
       {data.location && (
         <h2>
@@ -59,6 +61,11 @@ exports.default = ({
         </h2>
       )}
       <h3>{formatDate(date, "UTC", "EEEE, MMMM do, y")}</h3>
+      {fileSlug.endsWith("-censored") && (
+        <h4>
+          <span class="script-censored">CENSORED</span>
+        </h4>
+      )}
     </header>
     <Raw html={templateContent} />
   </article>

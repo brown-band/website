@@ -25,6 +25,16 @@
   width: 1em;
 }
 
+.script-censored {
+  background: var(--bs-body-color);
+  color: var(--bs-body-bg);
+  padding: 0.2em 0.4em;
+  display: inline-block;
+  font-size: 0.75em;
+  border-radius: 0.4em;
+  transform: rotate(-3deg);
+}
+
 .semester-button {
   width: 80px;
   height: 80px;
