@@ -15,7 +15,10 @@ exports.default = ({ scripts }) => (
       do not condone any scripts that appear contrary to this goal.
     </p>
 
-    <table class="table table-sm">
+    <table
+      class="table table-striped table-sm text-center"
+      style="width: 250px"
+    >
       <thead>
         <tr>
           <th>Year</th>
@@ -25,13 +28,25 @@ exports.default = ({ scripts }) => (
       <tbody>
         {[...scripts.years].reverse().map((year) => (
           <tr>
-            <td>{year.year}</td>
-            <td style="font-weight: bold">
-              {year.fall && <a href={`/scripts/${year.year}/fall`}>Fall</a>}
+            <td class="py-0 align-middle">{year.year}</td>
+            <td class="fw-bold py-0">
+              {year.fall && (
+                <a
+                  class="btn btn-link fw-bold"
+                  href={`/scripts/${year.year}/fall`}
+                >
+                  Fall
+                </a>
+              )}
             </td>
-            <td style="font-weight: bold">
+            <td class="fw-bold py-0">
               {year.spring && (
-                <a href={`/scripts/${year.year}/spring`}>Spring</a>
+                <a
+                  class="btn btn-link fw-bold"
+                  href={`/scripts/${year.year}/spring`}
+                >
+                  Spring
+                </a>
               )}
             </td>
           </tr>
