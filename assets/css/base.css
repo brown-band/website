@@ -51,7 +51,30 @@
 }
 
 blockquote {
-  margin: 1em;
+  margin-block: 1em;
+  padding-left: 0.5em;
+  border-left: 2px solid var(--bs-gray-600);
+  position: relative;
+  margin-left: calc(-0.5em - 2px);
+}
+
+blockquote::before,
+blockquote::after {
+  content: "";
+  position: absolute;
+  left: -2px;
+  width: 5px;
+  height: 5px;
+  border: 0 solid var(--bs-gray-600);
+  border-left-width: 2px;
+}
+blockquote::before {
+  top: -5px;
+  border-top-width: 2px;
+}
+blockquote::after {
+  bottom: -5px;
+  border-bottom-width: 2px;
 }
 
 .icon {

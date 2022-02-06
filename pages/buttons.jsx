@@ -46,11 +46,9 @@ exports.default = ({ buttons, specialButtons }) => (
   <>
     <h2 id="current">{buttons.currentYear} Season</h2>
     <p>
-      <em>
-        The current season's buttons are displayed below. They are only released
-        the Tuesday before the football game! Don't forget to get your hands on
-        one before they are all gone.
-      </em>
+      The current season's buttons are displayed below. They are only released
+      the Tuesday before the football game! Don't forget to get your hands on
+      one before they are all gone.
     </p>
     <table class="table table-sm">
       <thead>
