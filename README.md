@@ -14,7 +14,7 @@ To get started making updates to the website, make sure you have [Node.js](https
 
 In a terminal, run `git clone https://github.com/brown-band/website` to copy the website to your computer. Then open a terminal to the folder that this README file is in, and run `npm install` to install most dependencies. Once that finishes, you can run one of several scripts via `npm run`:
 
-- <code>npm run **start**</code> (or `npm start` for short): Runs Eleventy in development mode, starting a local server and rebuilding whenever you change a file. Open https://localhost:8080 to view the website locally!
+- <code>npm **start**</code>: Runs Eleventy in development mode, starting a local server and rebuilding whenever you change a file. Open https://localhost:8080 to view the website locally!
 - <code>npm run **build**</code>: Runs Eleventy once, outputting the generated site in the `public` folder. Run this before uploading the contents of that folder to a static site host. (There’s typically no need for you to do this, since a new build will be automatically triggered whenever you push updated code to GitHub)
 - <code>npm run **format**</code>: Runs [Prettier](https://prettier.io) to ensure consistent code and document formatting. Ideally, set up your code editor to run Prettier whenever you save a file — check out their [editor integration docs](https://prettier.io/docs/en/editors.html) or search your editor’s package manager for a “Prettier” package.
 - <code>npm run **start:book**</code> and <code>npm run **build:book**</code>: like `npm start` and `npm run build` but for the script book. See below!
