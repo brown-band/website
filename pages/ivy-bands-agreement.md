@@ -9,7 +9,7 @@
 - Harvard: [http://www.harvardband.org](http://www.harvardband.org/)
 - Princeton: [http://puband.mycpanel.princeton.edu/](http://puband.mycpanel.princeton.edu/)
 - Penn: [http://www.pennband.net/](http://www.pennband.net/)
-- Yale: [http://bands.yalecollege.yale.edu/yale-precision-marching-band/  ](http://bands.yalecollege.yale.edu/yale-precision-marching-band/%C2%A0%C2%A0)
+- Yale: [http://bands.yalecollege.yale.edu/yale-precision-marching-band/](http://bands.yalecollege.yale.edu/yale-precision-marching-band/)
 
 The following is a list of the approximate times each band's leadership changes:
 
