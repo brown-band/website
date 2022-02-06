@@ -108,7 +108,7 @@ Former HEAD librarian, VICE president, and current President Kirsten "
 
 :::
 
-:sd[Notes: Show written by Darlene Netcoh and Greg Delott. The volcano and senior lines part actually were done before the regular halftime show because we ran out of time before the game :sd[because the football players took too long with their silly warmups].]
+:script-note[Show written by Darlene Netcoh and Greg Delott. The volcano and senior lines part actually were done before the regular halftime show because we ran out of time before the game [because the football players took too long with their silly warmups].]
 
 ## Halftime
 

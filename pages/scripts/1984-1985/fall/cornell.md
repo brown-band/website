@@ -40,4 +40,4 @@ Stay in your seats as the Cornell Band proves that silence can be golden.
 
 This show was made possible by a grant from the Exxon Corporation, Shell Oil, and Borden Dairy Products.
 
-:sd[note: PBS televised this game but decided to televise the Cornell bland...I mean band...instead of us. Still, I hear they showed a fascinating documentary about the Brown computer system while we performed our show...]
+:script-note[PBS televised this game but decided to televise the Cornell bland...I mean band...instead of us. Still, I hear they showed a fascinating documentary about the Brown computer system while we performed our show...]

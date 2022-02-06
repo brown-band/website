@@ -10,7 +10,7 @@ teams:
 date: 2001-09-29
 ---
 
-> _Sadly, the only known use of the term "foot candle" in a band script context was cut by ceremony's harsh mohel. Be on the lookout for its appearance next season._
+:script-note[Sadly, the only known use of the term "foot candle" in a band script context was cut by ceremony's harsh mohel. Be on the lookout for its appearance next season.]
 
 ## Pregame
 

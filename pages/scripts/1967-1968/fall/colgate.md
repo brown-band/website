@@ -81,4 +81,4 @@ The Band has indeed formed a pattie of butter. No longer does the American farme
 
 :sd[band plays.]
 
-> _The “????” is blanked out in the copy I have access to — JF_
+:script-note[The “????” is blanked out in the copy I have access to — JF]

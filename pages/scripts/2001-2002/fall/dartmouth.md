@@ -10,7 +10,7 @@ teams:
 date: 2001-11-10
 ---
 
-> _\*Sniff\* Last home game of the season means poems for the seniors. These are in haiku, which is a beautiful art form so long as it isn't being broadcast over a PA system._
+:script-note[\*Sniff\* Last home game of the season means poems for the seniors. These are in haiku, which is a beautiful art form so long as it isn't being broadcast over a PA system.]
 
 ## Pregame
 

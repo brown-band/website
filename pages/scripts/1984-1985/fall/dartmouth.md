@@ -114,4 +114,4 @@ UGH! How CORNY! What twisted mind conceived of this show, anyway? Be in back in 
 
 :sd[the halves of the band marches off to "Ever True," leaving the quartet playing by itself, until some band members hurry them off the field. The audience, in the meantime, looks up the nearest available psychiatrist.]
 
-:sd[note: Sandor Katz was one of the citizen's arrests students]
+:script-note[Sandor Katz was one of the citizen's arrests students]

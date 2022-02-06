@@ -49,4 +49,4 @@ Be back in two years when the band salutes sex education at Dartmouth and plays 
 
 :sd[Band marches off to "Ever True."]
 
-Notes: This trip was a great success. Several alums joined us for our annual champagne and doughnuts festival, helping us (or did we help them?) get several members of the band absolutely hosed.
+:script-note[This trip was a great success. Several alums joined us for our annual champagne and doughnuts festival, helping us (or did we help them?) get several members of the band absolutely hosed.]

@@ -38,4 +38,4 @@ Be back in two weeks, when we'll really gie the Alumni something to write Brown 
 
 This week's Button: OLD NAUSEA
 
-_Program notes: 'Lisa' is, of course, Lisa Cohen. You can ask her about that night with the Scrabble Club, only don't tell Joe._
+:script-note['Lisa' is, of course, Lisa Cohen. You can ask her about that night with the Scrabble Club, only don't tell Joe.]

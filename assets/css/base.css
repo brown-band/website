@@ -58,6 +58,10 @@ blockquote {
   margin-left: calc(-0.5em - 2px);
 }
 
+blockquote:not(.blurb):not(._69-note) {
+  margin-left: 0.5em;
+}
+
 blockquote::before,
 blockquote::after {
   content: "";
@@ -75,6 +79,11 @@ blockquote::before {
 blockquote::after {
   bottom: -5px;
   border-bottom-width: 2px;
+}
+
+blockquote:not(.blurb):not(._69-note)::before,
+blockquote:not(.blurb):not(._69-note)::after {
+  display: none;
 }
 
 .icon {

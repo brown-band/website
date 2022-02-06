@@ -40,15 +40,21 @@ export async function render(str) {
 const h = (hName, className) => ({ hName, hProperties: { className } });
 function directivesPlugin() {
   return (nodeTree) =>
-    map(nodeTree, (/** @type {import("mdast").Content} */ node) => {
+    map(nodeTree, (/** @type {import("mdast").Content} */ node, _, parent) => {
       if (node.type === "textDirective" && node.name === "script-tab") {
         return { type: "element", data: h("span", "_69-tab") };
       }
       if (node.type === "textDirective" && node.name === "sd") {
         return { ...node, data: h("span", "_69-direction") };
       }
-      if (node.type === "leafDirective" && node.name === "sd") {
-        return { ...node, data: h("p", "_69-direction") };
+      if (node.type === "textDirective" && node.name === "script-note") {
+        return Object.assign(parent, {
+          ...node,
+          data: h("blockquote", "_69-note"),
+        });
+      }
+      if (node.type === "containerDirective" && node.name === "script-note") {
+        return Object.assign(node, { data: h("blockquote", "_69-note") });
       }
       if (node.type === "containerDirective" && node.name === "script-list") {
         if (node.children.length !== 1) {

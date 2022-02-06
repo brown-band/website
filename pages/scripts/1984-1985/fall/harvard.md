@@ -30,4 +30,4 @@ And now, for their rebuttal, the League of Unregistered Voters presents the Harv
 
 :sd[band marches off to "Ever True" while the audience runs to the notary public to tear up their ballots]
 
-:sd[note: there was a power outage in Boston, so we read the show on the P.A. system of an ambulance. Well, it was either that or doing the show in semaphore. So leave me alone. There.]
+:script-note[there was a power outage in Boston, so we read the show on the P.A. system of an ambulance. Well, it was either that or doing the show in semaphore. So leave me alone. There.]

@@ -10,9 +10,13 @@ teams:
 date: 1997-11-08
 ---
 
-> _I collaborated on this script with Erminio Pinque (I still don't know if that's spelled right), the Big Nazo director, who had the idea of trying to do a War of the Worlds thing... hence if the entire script reads something like a radio drama this is on purpose (and has the dual role of serving as a backup in case the on-field mike didn't work, which fortunately didn't happen). The lines as set down here are really more of a guideline... the on-field portions were mainly ad-libbed._
->
-> _Also, the final "stage direction" is not entirely accurate... the band actually chased the puppets off the field, not vice versa. **- CB '98**_
+:::script-note
+
+I collaborated on this script with Erminio Pinque (I still don't know if that's spelled right), the Big Nazo director, who had the idea of trying to do a War of the Worlds thing... hence if the entire script reads something like a radio drama this is on purpose (and has the dual role of serving as a backup in case the on-field mike didn't work, which fortunately didn't happen). The lines as set down here are really more of a guideline... the on-field portions were mainly ad-libbed.
+
+Also, the final "stage direction" is not entirely accurate... the band actually chased the puppets off the field, not vice versa. **- CB '98**
+
+:::
 
 ## Pregame
 

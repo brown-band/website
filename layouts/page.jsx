@@ -52,7 +52,7 @@ exports.default = async (data) => {
       )}
 
       {data.summary ? (
-        <blockquote>
+        <blockquote class="blurb">
           <p>
             <Raw html={data.summary} />
           </p>

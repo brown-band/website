@@ -42,4 +42,4 @@ Be in Worcester next week to watch Holy Cross-anwich try to beat the stuffin' ou
 
 This Week's Button: THIS CUD'S FOR YOU
 
-_Program Notes: Not much more needs to be added to the above commentary. However, it should be noted that the Brown crowd did believe the micro-band to be the actual Cornell Band, and greeted it's initial appearance on the field with massive cheers of Boring! Boring! etc._
+:script-note[Not much more needs to be added to the above commentary. However, it should be noted that the Brown crowd did believe the micro-band to be the actual Cornell Band, and greeted it's initial appearance on the field with massive cheers of Boring! Boring! etc.]

@@ -34,4 +34,4 @@ We realize the because of the disparitudes in our respective dialects which tend
 
 Be back next year when we won't.
 
-Notes: Thanks to Peter Sultan, showwriter in 1985-86, for his U. Richmond show, most of which comprises this one. That was the show that never got used, due to some backwards thinking baptist in the U.R. Athletic Dept.
+:script-note[Thanks to Peter Sultan, showwriter in 1985-86, for his U. Richmond show, most of which comprises this one. That was the show that never got used, due to some backwards thinking baptist in the U.R. Athletic Dept.]

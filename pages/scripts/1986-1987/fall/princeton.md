@@ -42,4 +42,4 @@ Moving from things hard to swallow to indoor water sports, the Band admires new 
 
 The Brown Band is an equal opportunity offender.
 
-_Note: E) was purposely not present in this list_
+:script-note[E) was purposely not present in this list]

@@ -10,7 +10,7 @@ teams:
 date: 2001-10-06
 ---
 
-> _Techhouse is the new band frat._
+:script-note[Techhouse is the new band frat.]
 
 ## Pregame
 

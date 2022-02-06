@@ -10,8 +10,12 @@ In this show, the Band would like to salute...er, we mean...completely ridicule 
 
 :sd[Band plays "Brown Bear."]
 
-> _Note to readers:_\
-> This font = male reader, **This font** = female reader
+:::script-note
+
+_Note to readers:_\
+This font = male reader, **This font** = female reader
+
+:::
 
 Name: **Nicole Brown**\
 Date of Birth: **February 13, 1980. The '80s??????**\

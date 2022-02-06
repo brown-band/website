@@ -10,7 +10,7 @@ teams:
 date: 2001-11-17
 ---
 
-> _I don't remember writing this script._
+:script-note[I don't remember writing this script.]
 
 ## Pregame
 
