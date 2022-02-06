@@ -105,7 +105,7 @@ async function Person({ even, person }) {
 
       {await (<Markdown content={person.bio} />)}
 
-      <div style="clear: both; padding-bottom: 2rem"></div>
+      <div style="clear: both; padding-bottom: 2rem" />
     </>
   );
 }

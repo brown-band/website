@@ -38,7 +38,7 @@ function TocList({ items }) {
       {items.map((item) => (
         <li>
           <a href={`#${item.id}`}>{item.value}</a>
-          {item.children ? <TocList items={item.children} /> : <></>}
+          {item.children ? <TocList items={item.children} /> : null}
         </li>
       ))}
     </ul>

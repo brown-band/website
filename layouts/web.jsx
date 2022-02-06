@@ -19,18 +19,17 @@ exports.default = async ({ site, quote, nav, collections, page, content }) => (
 
     <div class="container mt-4 mb-5 px-md-0 flex-shrink-0">
       <div class="row">
-        <div class="col-lg-1 col-xl-2"></div>
+        <div class="col-lg-1 col-xl-2" />
         <main class="col-lg-7 col-xl-6">
           <Raw html={content} />
         </main>
-        <div class="col-lg-4"></div>
       </div>
     </div>
 
     {await (<Footer />)}
 
     {process.env.NODE_ENV !== "production" && (
-      <script type="module" src="/assets/check-purged.js"></script>
+      <script type="module" src="/assets/check-purged.js" />
     )}
   </>
 );

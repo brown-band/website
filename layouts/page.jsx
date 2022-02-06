@@ -57,9 +57,7 @@ exports.default = async (data) => {
             <Raw html={data.summary} />
           </p>
         </blockquote>
-      ) : (
-        <></>
-      )}
+      ) : null}
 
       <Raw html={data.content} />
     </article>

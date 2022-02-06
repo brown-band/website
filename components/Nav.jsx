@@ -17,7 +17,7 @@ module.exports = ({ site, quote, nav, all, currentURL }) => (
 
     <nav class="navbar navbar-expand-md navbar-brown">
       <div class="container-lg">
-        <div class="col-lg-1 col-xl-2"></div>
+        <div class="col-lg-1 col-xl-2" />
         <div
           class="col-md-12 col-lg-10 col-xl-9 d-flex align-items-center justify-content-between"
           style="flex-wrap: inherit"
@@ -115,7 +115,7 @@ module.exports = ({ site, quote, nav, all, currentURL }) => (
             </li>
           </ul>
         </div>
-        <div class="col-lg-1"></div>
+        <div class="col-lg-1" />
       </div>
     </nav>
   </>

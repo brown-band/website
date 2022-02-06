@@ -158,7 +158,7 @@ exports.default = ({ buttons, specialButtons }) => (
 function ButtonTable({ school: { id, name, mascot, buttons, color } }) {
   return (
     <>
-      <a name={id}></a>
+      <a name={id} />
       <table class="table table-sm">
         <thead>
           <tr>

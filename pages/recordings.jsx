@@ -20,8 +20,8 @@ exports.default = ({ recordings_url }) => (
 
     <div class="player-wrapper" hidden>
       <div class="player bg-body border">
-        <audio controls style="width: 100%"></audio>
-        <progress style="width: 100%" hidden></progress>
+        <audio controls style="width: 100%" />
+        <progress style="width: 100%" hidden />
         <div
           class="d-flex align-items-center mt-2 mt-sm-3"
           style="min-height: 2em"
@@ -39,38 +39,38 @@ exports.default = ({ recordings_url }) => (
             class="btn-close ms-3 stop-player"
             aria-label="Stop Playing"
             style="margin-top: -0.25em"
-          ></button>
+          />
         </div>
       </div>
     </div>
 
     <template id="trackList">
       <section>
-        <h2></h2>
-        <p></p>
+        <h2 />
+        <p />
         <table class="table">
           <thead>
             <tr>
               <th>Title</th>
               <th class="arranger-title">Arranger</th>
-              <th style="width: 60px"></th>
+              <th style="width: 60px" />
             </tr>
           </thead>
-          <tbody></tbody>
+          <tbody />
         </table>
       </section>
     </template>
 
     <template id="trackList-header">
       <tr>
-        <th class="text-center"></th>
+        <th class="text-center" />
       </tr>
     </template>
 
     <template id="trackList-track">
       <tr>
-        <td class="track-title"></td>
-        <td class="track-arranger"></td>
+        <td class="track-title" />
+        <td class="track-arranger" />
         <td>
           <button class="btn btn-secondary btn-sm">Play!</button>
         </td>
@@ -85,13 +85,13 @@ exports.default = ({ recordings_url }) => (
     </template>
     <template id="toc-li">
       <li>
-        <a></a>
+        <a />
       </li>
     </template>
 
-    <script src="/assets/base64-arraybuffer.umd.js"></script>
+    <script src="/assets/base64-arraybuffer.umd.js" />
     <script>globalThis.mediaHost = new URL("{recordings_url}");</script>
-    <script type="module" src="/assets/handle-password.js"></script>
-    <script type="module" src="/assets/recordings.js"></script>
+    <script type="module" src="/assets/handle-password.js" />
+    <script type="module" src="/assets/recordings.js" />
   </>
 );

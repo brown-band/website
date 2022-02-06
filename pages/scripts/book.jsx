@@ -14,7 +14,7 @@ exports.default = ({ book, collections, schoolColors, buttons }) => (
     <link rel="stylesheet" href="/assets/css/book.css" />
     <link rel="stylesheet" href="/assets/css/script.css" />
     <link rel="stylesheet" href="/assets/css/pagedjs-interface.css" />
-    <script src="/assets/paged.polyfill.js"></script>
+    <script src="/assets/paged.polyfill.js" />
 
     <header>
       <h1 class="title" style="border-width: 0.7mm; font-size: 1.85em;">

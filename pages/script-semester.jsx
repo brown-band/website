@@ -41,7 +41,7 @@ exports.default = ({
             ← {pagination.page.previous.title}
           </a>
         )}
-        <span class="flex-fill"></span>
+        <span class="flex-fill" />
         {pagination.page.next && (
           <a href={pagination.href.next}>{pagination.page.next.title} →</a>
         )}
