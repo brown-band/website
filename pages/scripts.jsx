@@ -31,14 +31,14 @@ exports.default = ({ scripts }) => (
             <td class="py-0 align-middle">{year.year}</td>
             <td class="fw-bold py-0">
               {year.fall && (
-                <a class="btn btn-link fw-bold" href={year.fall}>
+                <a class="btn btn-link fw-bold" href={"/" + year.fall}>
                   Fall
                 </a>
               )}
             </td>
             <td class="fw-bold py-0">
               {year.spring && (
-                <a class="btn btn-link fw-bold" href={year.spring}>
+                <a class="btn btn-link fw-bold" href={"/" + year.spring}>
                   Spring
                 </a>
               )}
