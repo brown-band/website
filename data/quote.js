@@ -5,6 +5,8 @@ module.exports = () => ({
   random: () => quotes[Math.floor(Math.random() * quotes.length)],
 });
 
+// quotes that take up 3 or more lines in the header of
+// an 800px wide viewport are commented out
 const quotes = [
   //Fall 2003
   "an organization with more crust than an empty Ronzio’s box",
@@ -17,7 +19,7 @@ const quotes = [
 
   //Spring 2004
   "an organization that invites you to see Alice run for 4 hours straight",
-  "Roses are red, so are some ants, I bet you can’t guess what I’ve got in my pants",
+  // "Roses are red, so are some ants, I bet you can’t guess what I’ve got in my pants",
 
   //Fall 2004
   "An organization that's always in the upstate",
@@ -25,7 +27,7 @@ const quotes = [
   "Organ Grinder? I hardly know 'er!",
   "An organization that's different from all other organizations",
   "Kosher? I hardly know 'er!",
-  "An organization that comes in Light, Regular, Heavy, Super, and Cool Ranch",
+  // "An organization that comes in Light, Regular, Heavy, Super, and Cool Ranch",
   "You can't gargle sand",
   "An organization that didn't quite make it to Foxwoods",
   "Meet me at the Wakefield Rotary Club?",
@@ -62,7 +64,7 @@ const quotes = [
   "An Organization that vote George Clinton in ’94",
   "An Organization that knows how to dampen your campus EEEE",
   "For a good ’ol 5 cents you can smoke my cigar",
-  "An Organization whose Bari Sax section’s BAC is higher than the average URI student’s GPA",
+  // "An Organization whose Bari Sax section’s BAC is higher than the average URI student’s GPA",
   "NO! IN UR EYE",
   "An organization that pardoned Galileo in 1969",
   "Shana Tovah? I hardly know ’ah",
@@ -79,9 +81,9 @@ const quotes = [
   "an organization that will never stop coming early",
   "an Organization that not Ruthless",
   "an Organization that needs a Kleenex every time",
-  "an organization can't wait for the premiere of Doom 2: I still know what you doomed last summer",
-  "an organization that doesn't need grade inflation because it really is just getting smarter",
-  "an Organization that's been giving instruction in any area that counts since '69",
+  // "an organization can't wait for the premiere of Doom 2: I still know what you doomed last summer",
+  // "an organization that doesn't need grade inflation because it really is just getting smarter",
+  // "an Organization that's been giving instruction in any area that counts since '69",
   "an Organization that puts the 'homey' back in Homecoming",
   "Holy Water Batman",
   "why is there red in my Brown!?",
@@ -95,15 +97,15 @@ const quotes = [
   "Duck Duck Goose Goose Goose JaigerM *hurling sound* ",
 
   //Spring 2007
-  "an organization that was recently voted best scramble band in America in the most recent Quinnipiac poll",
+  // "an organization that was recently voted best scramble band in America in the most recent Quinnipiac poll",
   "an organization that is still in awe of the Canadian Parliamentary system",
   "Blitz the Pitz? How 'bout Mayhem in Meehan?!!",
   "Power Street? I hardly know'er street!",
 
   //Spring 2008
-  "an organization that is brining in the equestrian team to test the new pool for water polo",
+  // "an organization that is brining in the equestrian team to test the new pool for water polo",
   "an organization who loves to scat like Ella Fitzgerald",
-  "an organization that matriculates three or four times a day and fives times a day on Sunday",
+  // "an organization that matriculates three or four times a day and fives times a day on Sunday",
   "neighhhh splash",
   "defector I hardly know her",
   "you can now do it in a gender-neutral double",

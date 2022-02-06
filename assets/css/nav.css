@@ -1,11 +1,12 @@
 .header-quote {
   font-size: 0.8rem;
-  display: inline-block;
   white-space: normal;
   word-break: break-word;
   width: calc(100vw - 50px - 3 * 0.75rem);
   min-height: 38px;
   max-width: 300px;
+  display: flex;
+  align-items: center;
 }
 
 @media (max-width: 576px) {
