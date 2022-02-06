@@ -8,7 +8,7 @@ Welcome to the repository for the Brown Band!
 
 ### Getting Started
 
-This site is a static site powered by [Eleventy (11ty)](https://www.11ty.dev) and hosted on [TBD]. That means that the files in this repository are transformed by a build script producing a folder full of plain HTML files that any static site host can serve. If [TBD] ceases to exist, you should have a wide variety of competitors to choose from. Hopefully.
+This site is a static site powered by [Eleventy (11ty)](https://www.11ty.dev) and hosted on GitHub Pages. That means that the files in this repository are transformed by a build script producing a folder full of plain HTML files that any static site host can serve. If GitHub Pages ceases to exist, you should have a wide variety of competitors to choose from. Hopefully.
 
 To get started making updates to the website, make sure you have [Node.js](https://nodejs.org/en/) and [Git](https://git-scm.com) installed on your computer. I recommend using something like [nvm](https://github.com/nvm-sh/nvm) (or my favorite, [asdf](https://asdf-vm.com)), which will automatically pick up the `.node-version` file in this repository and prompt you to install that version of Node.
 
@@ -90,6 +90,10 @@ You’ll notice three kinds of files in the `pages/` folder:
 #### Components
 
 …live in the `components` folder if they’re used by multiple files (or are intended to be shared). Otherwise, they generally go at the bottom of the page they are used on.
+
+#### Deployment
+
+Deployment is via GitHub Pages because it is free for team projects (provided the repository is public). The workflow in `.github/workflows/deploy.yml` runs whenever you push to the `main` branch. It will overwrite any commits on the `gh-pages` branch, so avoid pushing anything there manually.
 
 ### Layouts
 
