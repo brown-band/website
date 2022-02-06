@@ -23,7 +23,7 @@ In addition to welcoming the Bucknell student and alumnus here today, the band a
 > It’s a beautiful day in the stadium,\
 > A beautiful day for a lady um,\
 > Would you be mine? Could you be mine?\
-> So let’s make the most cf this beautiful day,\
+> So let’s make the most of this beautiful day,\
 > Since we’re all stuck here we’d might as well play,\
 > Would you be mine? Could you be mine?\
 > Won’t you be my neighbor?

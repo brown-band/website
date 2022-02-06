@@ -15,7 +15,7 @@ Ladies and gentlemen, friends and alumni, and all you little green peons, it’s
 
 :sd[By now the band should be in 3 distinct groups. One group has formed John Nicholas Brown’s house, the second has formed a long Ratty line, and the third is acting like a drunk band.]
 
-The severe drought cf 1730, which destroyed all the family’s crops, forced them to subsist that winter on Artichoke Pasta Medley. Severe snowstorms the next winter caused a shortage of fire wood and the entire family was forced to sleep in a lounge. It was during this snowbound winter that John Brown began his writing career with the famous <u>Concentration Essays</u>.
+The severe drought of 1730, which destroyed all the family’s crops, forced them to subsist that winter on Artichoke Pasta Medley. Severe snowstorms the next winter caused a shortage of fire wood and the entire family was forced to sleep in a lounge. It was during this snowbound winter that John Brown began his writing career with the famous <u>Concentration Essays</u>.
 
 Despite this, and long Christmas breaks spent studying, John was still a little loose on the verbal side. Upon turning 18, John Brown ventured forth into the world. As he kissed his mother goodbye, he said, “Mother, I’m going to found a University.” His mother’s reply was to be an inspiration to him always. “That‘s ‘find a University,’ John, not ‘found.’ I think you should give up on grammar and work on other areas of English. In short, go spell, John.” :sd[The band plays “Gospel John.”]
 

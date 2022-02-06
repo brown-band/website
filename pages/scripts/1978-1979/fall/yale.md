@@ -16,7 +16,7 @@ Just when you thought it was safe to go back in the stadium…
 
 Ladies and gentlemen, friends and alumni, and all you waggish fops, presenting the only band to sit through 5 showings of “Heaven Can Wait” and not contract diabetes, it’s the Brown University “Bad News Bears Go to Providence” Band, Part 2.
 
-Hollywood seems to have decided that one bad movie deserves another, coming up with such classics as “Damien Omen 2” and “International Velvet.” Jumping on the BANDwagon, we have recently put into production some sequels cf our own. Be on the lockout for “Heaven Can Wait a Little Longer” with Francisco Franco; “The Morning After the Night of the Living Dead,” with Julie Nixon Eisenhower; “TWO on One”; “A Star Reaches Puberty” starring Tatum O’Neal; “The Way We Still Are” with Dick Clark, and “Funny old Lady” with Ruth Gordon. Projecting bright future for these movies, the band spins its reels and plays “Another Opening, Another Show.”
+Hollywood seems to have decided that one bad movie deserves another, coming up with such classics as “Damien Omen 2” and “International Velvet.” Jumping on the BANDwagon, we have recently put into production some sequels of our own. Be on the lockout for “Heaven Can Wait a Little Longer” with Francisco Franco; “The Morning After the Night of the Living Dead,” with Julie Nixon Eisenhower; “TWO on One”; “A Star Reaches Puberty” starring Tatum O’Neal; “The Way We Still Are” with Dick Clark, and “Funny old Lady” with Ruth Gordon. Projecting bright future for these movies, the band spins its reels and plays “Another Opening, Another Show.”
 
 :sd[The band forms a movie projector with spinning wheels, plays "Another Opening, Another Show," and runs to the next formation in slow motion.]
 

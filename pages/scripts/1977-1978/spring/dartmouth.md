@@ -10,7 +10,7 @@ The Band invites you to look back at your senior ball and prom night, where some
 
 :sd[hands of clock turn]
 
-Turning from raising the rafters to natural disasters, the Band looks at the Dartmouth hockey team — no, not <u>un</u>natural disasters, but that great thrust of Mother Nature, the blizzard cf ’78 which all but brought Providence to a grinding halt by pelting it with 30 inches overnight.
+Turning from raising the rafters to natural disasters, the Band looks at the Dartmouth hockey team — no, not <u>un</u>natural disasters, but that great thrust of Mother Nature, the blizzard of ’78 which all but brought Providence to a grinding halt by pelting it with 30 inches overnight.
 
 In just a few short hours, the nation’s smallest state was transformed into the nation’s largest parking lot. But we can’t complain — somehow being snowbound at Brown is like not being snowbound at all — we kept each other warm and cozy. Follow the bouncing snowflake as the Band brings you its rendition of “Light My Fire.”
 

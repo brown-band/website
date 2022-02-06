@@ -10,7 +10,7 @@ Gambling has recently been legalized in Atlantic City, but few people realize th
 
 :sd[The band forms a roulette wheel and ball; the wheel spins clockwise and the ball spins counterclockwise while the band plays “Beer Barrel Polka.”]
 
-The spring sport of frat rushin’ roulette is a little different this year due to the presence of a sorority on campus. The female brothers cf A D Phi must wonder whether the sisters of Alpha Chi Omega will take in male members. Or if not, will men eventually force their way in? Will the sorority get the dormitory the want, as they believe that “Diman is a Girl’s Best Friend?” Saluting these women, we play “Thank Heaven for Little Girls.”
+The spring sport of frat rushin’ roulette is a little different this year due to the presence of a sorority on campus. The female brothers of A D Phi must wonder whether the sisters of Alpha Chi Omega will take in male members. Or if not, will men eventually force their way in? Will the sorority get the dormitory the want, as they believe that “Diman is a Girl’s Best Friend?” Saluting these women, we play “Thank Heaven for Little Girls.”
 
 :sd[The band forms a diamond, and by folding in the sides, becomes an “X.”]
 

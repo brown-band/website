@@ -6,7 +6,7 @@ date: 1978-02-04
 
 Ladies and Gentlemen, Friends and Alumni, and all you rested and relaxed returning rambunctious rink rooters, Presenting: Meehan’s most monotonously melodious macho morons meticulously mangling Mozart’s marvelous melodies, and making much more mature music than most mere mortal matriculators could possibly want to hear. It’s the world’s only and 17th best skating band, the Brown University World War II Precision Skating Drill Team!
 
-:sd[skate into: cross, play: “Hogan’s Heroes.” At the end the song, an accident will occur. “Ambulance” consisting of stretcher, flashing lights, flame baton, and sax siren states onto ice, removes victim, skates off to thunderous applause. Then the Band in stands plays “Wide World cf Sports.”]
+:sd[skate into: cross, play: “Hogan’s Heroes.” At the end the song, an accident will occur. “Ambulance” consisting of stretcher, flashing lights, flame baton, and sax siren states onto ice, removes victim, skates off to thunderous applause. Then the Band in stands plays “Wide World of Sports.”]
 
 This is Brown Band Wide World of War—skating the ice to bring a constant variety of atrocities: The thrill of sex, the agony of sex, and the joy of sex. Today’s program will NOT take us to see the following disasters:
 

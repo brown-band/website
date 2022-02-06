@@ -14,7 +14,7 @@ Ladies and Gentlemen, Friends and Alumni, and all you grosser greens, the Brown 
 
 :sd[Female band members run out, chased by the males.]
 
-The Band would like to revive a veneered and timeworn tradition, the election of a homecoming queen. Brown’s Homecoming queen must bear herself well, must exhibit school spirits, must be a staunch supporter, and must be friendly and open to the entire student body. Meet a few of our candidates: Miss Taken, known for her weekend trips to Dartmouth, Miss Leading, known for her strange dancing; Miss Conception, noted for her fertile imagination; and Miss Demeanor, who faces the world with an ounce or less cf happiness. The Band forms the 6 crown jewels of Brown University and plays Ain’t She Sweet.
+The Band would like to revive a veneered and timeworn tradition, the election of a homecoming queen. Brown’s Homecoming queen must bear herself well, must exhibit school spirits, must be a staunch supporter, and must be friendly and open to the entire student body. Meet a few of our candidates: Miss Taken, known for her weekend trips to Dartmouth, Miss Leading, known for her strange dancing; Miss Conception, noted for her fertile imagination; and Miss Demeanor, who faces the world with an ounce or less of happiness. The Band forms the 6 crown jewels of Brown University and plays Ain’t She Sweet.
 
 :sd[Senior Band girls, as Homecoming Court, form jewels of Crown.]
 
