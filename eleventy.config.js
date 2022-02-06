@@ -29,6 +29,7 @@ module.exports = (eleventyConfig) => {
    * Assets
    */
   eleventyConfig.addPassthroughCopy("robots.txt");
+  eleventyConfig.addPassthroughCopy("CNAME");
   eleventyConfig.addPassthroughCopy("buttons/*/*.jpg");
   eleventyConfig.addWatchTarget("buttons");
 
