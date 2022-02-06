@@ -7,19 +7,19 @@
 - title: Media
   content:
     - buttons
-    - disabled: Photos
+    # - disabled: Photos
     - recordings
-    - disabled: Videos
+    # - disabled: Videos
     - lyrics
     - scripts
-    - disabled: Alumni Newsletters
+    # - disabled: Alumni Newsletters
 
 - title: History
   content:
     - about-us
     - elrod-snidley
     - sound-off
-    - disabled: 75 Years in Pictures
+    # - disabled: 75 Years in Pictures
 
 - title: More Info
   content:
@@ -27,5 +27,5 @@
     - visiting-bands
     - ivy-bands
     - ivy-bands-agreement
-    - disabled: Commencement
-    - disabled: Arranging Music
+    # - disabled: Commencement
+    # - disabled: Arranging Music
