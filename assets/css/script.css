@@ -1,8 +1,10 @@
 ._69-direction::before {
   content: "[";
+  padding-right: 0.1em;
 }
 ._69-direction::after {
   content: "]";
+  padding-left: 0.1em;
 }
 ._69-direction::before,
 ._69-direction::after {
@@ -10,6 +12,7 @@
   font-weight: 300;
   font-style: normal;
   line-height: 0;
+  font-family: var(--bs-font-sans-serif);
 }
 ._69-direction {
   font-style: italic;
