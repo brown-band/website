@@ -72,7 +72,10 @@ async function Person({ even, person }) {
         />
       )}
 
-      <h3 class="h5">
+      <h3
+        class="h5"
+        id={person.position.name ? slugify(person.position.name) : undefined}
+      >
         {person.position.sec ? (
           <a href={"/constitution#" + person.position.sec}>
             {person.position.name}
