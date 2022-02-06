@@ -34,8 +34,10 @@ module.exports = ({ site, quote, nav, all, currentURL }) => (
               alt=""
             />
             <div class="d-flex flex-column">
-              <span style="font-weight: 500">{site.title}</span>
-              <em class="header-quote">{quote.random()}</em>
+              <span style="font-family: Niconne; font-size: 1.25em">
+                {site.title}
+              </span>
+              <span class="header-quote">{quote.random()}</span>
             </div>
           </a>
           <ul class="navbar-nav bg-brown3 flex-sm-row">

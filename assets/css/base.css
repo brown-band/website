@@ -5,6 +5,7 @@
   --brown-4: #593f17;
   --shadow-brown: 0 0.35rem 1rem 0.4rem #593f1755;
   color-scheme: light dark;
+  --bs-body-font-family: Quicksand, sans-serif;
 }
 
 @media (prefers-color-scheme: dark) {

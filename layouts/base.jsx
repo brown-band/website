@@ -14,6 +14,13 @@ exports.default = ({ title, site, bodyAttrs, content }) => (
         <script async src="/assets/bootstrap.min.js"></script>
         <link rel="stylesheet" href="/assets/bootstrap.min.css" />
         <link rel="stylesheet" href="/assets/css/base.css" />
+
+        <link rel="preconnect" href="https://fonts.googleapis.com" />
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+        <link
+          href="https://fonts.googleapis.com/css2?family=Niconne&family=Quicksand:wght@500;700&display=swap"
+          rel="stylesheet"
+        />
       </head>
       <body {...bodyAttrs}>
         <Raw html={content} />
