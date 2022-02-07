@@ -1,5 +1,6 @@
 const path = require("node:path");
 const { PurgeCSS } = require("purgecss");
+const CleanCSS = require("clean-css");
 const extractFromHTML = require("purgecss-from-html");
 const { writeFile, readFile } = require("node:fs/promises");
 
@@ -54,14 +55,18 @@ module.exports = (eleventyConfig) => {
   });
 
   /**
-   * Remove unused CSS
+   * Remove unused Bootstrap CSS
    */
   const purger = new PurgeCSS();
+  const minifier = new CleanCSS({ level: 2, returnPromise: true });
   eleventyConfig.on("afterBuild", async () => {
-    console.time("PurgeCSS");
+    console.time("Bootstrap CSS");
     const result = await purger.purge({
       content: [`${outDir}/**/*.html`, `${outDir}/*.html`],
-      css: ["node_modules/bootstrap-dark-5/dist/css/bootstrap-dark.min.css"],
+      css: [
+        `${outDir}/assets/css/*.css`,
+        "node_modules/bootstrap-dark-5/dist/css/bootstrap-dark.css",
+      ],
       extractors: [{ extractor: extractFromHTML, extensions: ["html"] }],
       variables: true,
       keyframes: true,
@@ -78,25 +83,26 @@ module.exports = (eleventyConfig) => {
       rejected: process.env.NODE_ENV !== "production",
     });
     if (process.env.NODE_ENV === "production") {
+      const minified = await minifier.minify(result[0].css);
       await writeFile(
         path.join(outDir, "assets", "bootstrap.min.css"),
-        result[0].css,
+        minified.styles,
         "utf8"
       );
     } else {
       await writeFile(
         path.join(outDir, "assets", "bootstrap.min.css"),
         await readFile(
-          "node_modules/bootstrap-dark-5/dist/css/bootstrap-dark.min.css"
+          "node_modules/bootstrap-dark-5/dist/css/bootstrap-dark.css"
         )
       );
     }
-    if (result[0].rejected) {
+    if (result[result.length - 1].rejected) {
       await writeFile(
         path.join(outDir, "purged-names.json"),
-        JSON.stringify(result[0].rejected)
+        JSON.stringify(result[result.length - 1].rejected)
       );
     }
-    console.timeEnd("PurgeCSS");
+    console.timeEnd("Bootstrap CSS");
   });
 };
