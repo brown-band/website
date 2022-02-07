@@ -1,4 +1,4 @@
-Email addresses for all Band leaders are listed on the [Band Board](/band-board) page when you click on names.
+Email addresses for all Band leaders are listed on the [Band Board](/leadership/#band-board) page when you click on names.
 
 You may also contact the current webmaster at [band_web@brown.edu](mailto:band_web@brown.edu) if you experience any problems with the site or have any questions or requests.
 
