@@ -83,7 +83,7 @@ module.exports = (eleventyConfig) => {
       rejected: process.env.NODE_ENV !== "production",
     });
     if (process.env.NODE_ENV === "production") {
-      const minified = await minifier.minify(result[0].css);
+      const minified = await minifier.minify(result[result.length - 1].css);
       await writeFile(
         path.join(outDir, "assets", "bootstrap.min.css"),
         minified.styles,
