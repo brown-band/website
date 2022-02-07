@@ -71,15 +71,19 @@ module.exports = (eleventyConfig) => {
       variables: true,
       keyframes: true,
       fontFace: true,
-      safelist: [
-        // used by recordings.js
-        "is-invalid",
-        // used by collapse (for mobile TOC)
-        "collapsing",
-        // added by Bootstrap when opening dropdowns in the navbar
-        "show",
-        "data-bs-popper",
-      ],
+      safelist: {
+        standard: [
+          // used by recordings.js
+          "is-invalid",
+          // used by collapse (for mobile TOC)
+          "collapsing",
+          // added by Bootstrap when opening dropdowns in the navbar
+          "show",
+          "data-bs-popper",
+        ],
+        // not sure why this isn’t picked up
+        variables: ["--bs-font-monospace"],
+      },
       rejected: process.env.NODE_ENV !== "production",
     });
     if (process.env.NODE_ENV === "production") {
