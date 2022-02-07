@@ -4,6 +4,6 @@
   "dependencies": {
     "pagedjs": "^0.2.0",
     "pretty-ms": "^7.0.1",
-    "puppeteer-core": "^11.0.0"
+    "puppeteer-core": "^13.1.3"
   }
 }
