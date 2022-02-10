@@ -35,8 +35,8 @@ module.exports = (eleventyConfig) => {
   eleventyConfig.setQuietMode(!process.env.CI);
 
   return {
-    markdownTemplateEngine: "md",
-    htmlTemplateEngine: "html",
+    markdownTemplateEngine: "njk",
+    htmlTemplateEngine: "njk",
     // configures the locations of various directories
     dir: {
       input: "pages",

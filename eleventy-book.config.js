@@ -57,8 +57,8 @@ module.exports = (eleventyConfig) => {
   });
 
   return {
-    markdownTemplateEngine: "md",
-    htmlTemplateEngine: "html",
+    markdownTemplateEngine: "njk",
+    htmlTemplateEngine: "njk",
     // configures the locations of various directories
     dir: {
       input: "pages/scripts",
