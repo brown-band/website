@@ -29,7 +29,7 @@ module.exports = async ({ folder, delay = 7e3, fade = 0.15 }) => {
       <p class="carousel">
         {images.map((image, i) => (
           <img
-            src={"/assets/carousel/" + image}
+            src={"/assets/carousels/" + folder + "/" + image}
             style={css`
               opacity: 0;
               animation-duration: ${delay * images.length}ms;
