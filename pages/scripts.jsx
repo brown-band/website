@@ -8,11 +8,13 @@ exports.data = {
 exports.default = ({ scripts }) => (
   <>
     <p class="alert alert-warning" role="alert">
-      <strong>Please note</strong>: As with any organization, the culture of the
-      Brown Band has changed over the years and as such, the content of the
-      scripts has evolved to reflect this change. The band strives to be a
-      welcoming, diverse and thoughtful community and the current band members
-      do not condone any scripts that appear contrary to this goal.
+      <strong>Please note</strong>: The Brown Band has been writing scripts for
+      over 60 years. Over this time, cultural norms have changed significantly.
+      We recognize that some of the humor in our scripts goes beyond “edgy” and
+      is at times discriminatory or otherwise highly offensive. We’ve decided to
+      leave the scripts unchanged — typos included — as a part of the historical
+      record. Don’t let this scare you away, though. Check out our more recent
+      scripts and consider becoming a scriptwriter yourself!
     </p>
 
     <table
