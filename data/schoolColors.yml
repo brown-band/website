@@ -95,6 +95,9 @@ rpi:
 san-diego:
   color: "#c69214" # UC San Diego Gold
   type: other
+st-johns:
+  color: "#cf102d" # St. John’s Red
+  type: other
 st-lawrence:
   color: "#ff2400" # Scarlet
   type: other
