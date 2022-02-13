@@ -2,6 +2,9 @@ const { createElement, Raw } = require("eleventy-hast-jsx");
 
 const slugify = require("@sindresorhus/slugify");
 const formatDate = require("date-fns-tz/formatInTimeZone");
+const {
+  defaultMaxListeners,
+} = require("@11ty/eleventy/src/Util/AsyncEventEmitter");
 
 /**
  * @param {Object} props
@@ -60,6 +63,7 @@ exports.default = ({
           </em>
         </h2>
       )}
+      {data.iceShowTheme && <h4>{data.iceShowTheme} Ice Show</h4>}
       <h3>{formatDate(date, "UTC", "EEEE, MMMM do, y")}</h3>
       {fileSlug.endsWith("-censored") && (
         <h4>
@@ -72,12 +76,16 @@ exports.default = ({
 );
 
 function SchoolName({ team: { name, score }, schoolColors }) {
+  const nameSlug = slugify(name, {
+    decamelize: false,
+    customReplacements: [["’", ""]],
+  });
   return (
     <>
       <span
         class="school-color"
         style={`color: ${
-          schoolColors[slugify(name, { decamelize: false })]?.color ?? "salmon"
+          schoolColors[nameSlug]?.color ?? "salmon; " + nameSlug
         }`}
       >
         {name}
