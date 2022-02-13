@@ -8,6 +8,7 @@ teams:
   away:
     name: St. Lawrence
     score: 2 [overtime]
+date: 2021-02-05
 ---
 
 Ladies and gentlemen, friends and alumni, presenting an organization that came here to play hockey and break ankles, and just ran out of hockey, it’s the Brown University “Dunking on the Olds” BAND!!!!
