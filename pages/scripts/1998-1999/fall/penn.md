@@ -30,7 +30,7 @@ The band will now salute its far superior athletes as they play For Bruno and Fo
 
 # Halftime
 
-Ladies and Gentlemen, friends and alumni, presenting an organization that loves making itself bigger, it’s the Brown University "Somewhat Sizeable, Snuffleupigitarian, Antidisestablismentarianistic, Supercalifragilisticexpialidocialistic, Pneumonoultramicroscopicsilicovolcanoconiosistic, Nutritious and Delicious (and packed with vitamin C) Superfantastic Filibustering" Band!
+Ladies and Gentlemen, friends and alumni, presenting an organization that loves making itself bigger, it’s the Brown University "Somewhat Sizeable, :break[Snuffleupigitarian, Antidisestablismentarianistic, Supercalifragilisticexpialidocialistic, Pneumonoultramicroscopicsilicovolcanoconiosistic]{hyphens}, Nutritious and Delicious (and packed with vitamin C) Superfantastic Filibustering" Band!
 
 In a step towards declaring martial law in Philly, the university has broken ground on a headquarters for the University of Pennsylvania City District. These ambassadors to the streets will demand that all people in the city get academic credit for what they’re doing. You’re a peanut vendor? Three credits for entrepreneurial spirit. You’re a homeless person? Three credits for clearing out on parents’ weekend. You’re a kid running through the streets? Three credits for training for the Penn Relays. Watch now as the band forms a half credit and earns a UPenn music degree by playing New Orleans.
 

@@ -16,7 +16,7 @@ Ladies and Gentlemen, Friends and Alumni, and all you Penncreatic Ulcers, Heeeee
 
 :sd[All but one of the Band members are on the field in concert formation. That one band member not on the field runs on to the tune of "Johnny's Theme"]
 
-How about that Penn Band? They're really dumb. :sd["HOW DUMB ARE THEY?" yells the Band]. They're soooooooooooooooooooooooooooooooooooooo dumb that:
+How about that Penn Band? They're really dumb. :sd["HOW DUMB ARE THEY?" yells the Band]. They're :break[soooooooooooooooooooooooooooooooooooooo] dumb that:
 
 - they think serial repetition means eating breakfast twice.
 - they think Gerry Ford is going out of business.

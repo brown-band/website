@@ -12,7 +12,7 @@ date: 2011-10-15
 
 ## Pregame
 
-Ladies and Gentlemen, friends and alumni, presenting an organization that's taking the Hobbits to Isengard, it's the Brown University "YOU SHALL NOT PASS!!!!" BBBAAAAAAANNNNNNNNNNDDDDDDD!
+Ladies and Gentlemen, friends and alumni, presenting an organization that's taking the Hobbits to Isengard, it's the Brown University "YOU SHALL NOT PASS!!!!" :break[BBBAAAAAAANNNNNNNNNNDDDDDDD]{hyphens}!
 
 A long time ago, in an Earth Middle, Middle Away...
 

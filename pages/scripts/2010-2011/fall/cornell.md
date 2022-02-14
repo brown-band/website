@@ -30,11 +30,11 @@ That's right, folks, Cornell students sit around saying tongue-twisters all day!
 
 :::script-list
 
-- A. Pneumonoultramicroscopicsilicovolcanoconiosis
-- B. Supercalifragilisticexpialidocious
-- C. Hippopotomonstrosesquipedalian
-- D. Floccinaucinihilipilification
-- E. Antidisestablishmentarianism and
+- A. :break[Pneumonoultramicroscopicsilicovolcanoconiosis]{hyphens}
+- B. :break[Supercalifragilisticexpialidocious]{hyphens}
+- C. :break[Hippopotomonstrosesquipedalian]{hyphens}
+- D. :break[Floccinaucinihilipilification]{hyphens}
+- E. :break[Antidisestablishmentarianism]{hyphens} and
 - F. THE PRINCETON BAND!
 
 :::

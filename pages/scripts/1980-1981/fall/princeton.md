@@ -34,7 +34,7 @@ Turning from Saturday afternoon comatose to Saturday Night Live...
 >
 > -Okay, we’ll put you in his mouth. :sd[Mr. Bill enters > the body’s mouth and falls to the stomach area.]
 >
-> -Oh Nooooooooooooooooooooooooooooo!
+> -Oh :break[Nooooooooooooooooooooooooooooo]{hyphens}!
 >
 > -Well, Mr. Bill, what do you see?
 >

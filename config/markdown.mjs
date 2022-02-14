@@ -44,6 +44,17 @@ function directivesPlugin() {
       if (node.type === "textDirective" && node.name === "script-tab") {
         return { type: "element", data: h("span", "_69-tab") };
       }
+      if (node.type === "textDirective" && node.name === "break") {
+        return {
+          type: "element",
+          data: h(
+            "span",
+            node.attributes.hyphens != null
+              ? "_69-break-hyphenate"
+              : "_69-break"
+          ),
+        };
+      }
       if (node.type === "textDirective" && node.name === "sd") {
         return { ...node, data: h("span", "_69-direction") };
       }

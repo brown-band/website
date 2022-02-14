@@ -38,6 +38,6 @@ We imagine the scene would be slightly different given a victory for George Bush
 
 :sd[Band disappears into black holes of optimism, plays “Final Countdown”]
 
-Next week, the band will travel to Dartmouth, which is halfway between Canada and aaaaggggggggggggggghhhhhhhhhhhhhhhh!
+Next week, the band will travel to Dartmouth, which is halfway between Canada and :break[aaaaggggggggggggggghhhhhhhhhhhhhhhh]{hyphens}!
 
 :sd[Band marches off field, plays #1]

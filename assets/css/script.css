@@ -28,6 +28,14 @@
   width: 1em;
 }
 
+._69-break {
+  word-break: break-word;
+}
+._69-break-hyphenate {
+  -webkit-hyphens: auto;
+  hyphens: auto;
+}
+
 .script-censored {
   background: var(--bs-body-color);
   color: var(--bs-body-bg);

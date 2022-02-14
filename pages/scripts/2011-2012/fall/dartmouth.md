@@ -12,7 +12,7 @@ date: 2011-11-12
 
 ## Pregame
 
-Ladies and Gentlemen, friends and alumni, presenting an organization that just doesn’t know how to say goodbye, it’s the Brown University “HOW CAN I LIVE WITHOUT YOU?” BAAAAAAAAAAAAAANNNNNNNNNNDDDDDDDD?
+Ladies and Gentlemen, friends and alumni, presenting an organization that just doesn’t know how to say goodbye, it’s the Brown University “HOW CAN I LIVE WITHOUT YOU?” :break[BAAAAAAAAAAAAAANNNNNNNNNNDDDDDDDD]{hyphens}?
 
 Watch now as the band forms a champagne flute and toasts its seniors, limerick-style.
 
@@ -82,7 +82,7 @@ Seniors, we love you! But the fun's not over just yet - stay tuned for more cool
 
 ## Halftime
 
-Ladies and Gentlemen, friends and alumni, presenting an organization that wants to occupy your Wall Street, it’s the Brown University “Our favorite kind of milk is 1%!” BAAANNNDDDDDDDDDDDDDDDDDDDDDDDDDD! Just in case anyone here has been living under a rock for the past two months, there’s thing called Occupy Wall Street going on in New York City and also everywhere else in the world. The protesters are anti-money, swag, bears, robots, food, blankets, penicillin, and hot chocolate. However, they are pro-dreadlocks, bikes, and spirit fingers. What kind of new world will emerge from all of this progress? The band’s puttin’ their money on a dystopia. Watch now as the band forms a dystopia and plays “Sir Duke”.
+Ladies and Gentlemen, friends and alumni, presenting an organization that wants to occupy your Wall Street, it’s the Brown University “Our favorite kind of milk is 1%!” :break[BAAANNNDDDDDDDDDDDDDDDDDDDDDDDDDD]{hyphens}! Just in case anyone here has been living under a rock for the past two months, there’s thing called Occupy Wall Street going on in New York City and also everywhere else in the world. The protesters are anti-money, swag, bears, robots, food, blankets, penicillin, and hot chocolate. However, they are pro-dreadlocks, bikes, and spirit fingers. What kind of new world will emerge from all of this progress? The band’s puttin’ their money on a dystopia. Watch now as the band forms a dystopia and plays “Sir Duke”.
 
 :sd[Band forms 1% and plays “Sir Duke.”]
 
