@@ -76,7 +76,7 @@ function SchoolName({ team: { name, score }, schoolColors, inToc }) {
       >
         {name}
       </span>
-      {score != null && !inToc && (
+      {score != null && (
         <span style="font-size: 0.66em">
           {"\xA0"}({score})
         </span>
@@ -96,33 +96,25 @@ function ScriptTitle({
   const Location = inToc ? "span" : "em";
   return (
     <>
-      {teams?.home ? (
+      {teams?.home && !inToc ? (
         <>
-          <SchoolName
-            team={teams.away}
-            schoolColors={schoolColors}
-            inToc={inToc}
-          />
+          <SchoolName team={teams.away} schoolColors={schoolColors} />
           <Location style="font-size: 0.8em">
             {location ? " vs " : " at "}
           </Location>
-          <SchoolName
-            team={teams.home}
-            schoolColors={schoolColors}
-            inToc={inToc}
-          />
+          <SchoolName team={teams.home} schoolColors={schoolColors} />
         </>
       ) : opponent ? (
         <>
           {/* when we don’t know home/away or scores */}
           <SchoolName
-            team={{ name: "Brown" }}
+            team={{ name: opponent }}
             schoolColors={schoolColors}
             inToc={inToc}
           />
           <Location style="font-size: 0.8em"> vs </Location>
           <SchoolName
-            team={{ name: opponent }}
+            team={{ name: "Brown" }}
             schoolColors={schoolColors}
             inToc={inToc}
           />
