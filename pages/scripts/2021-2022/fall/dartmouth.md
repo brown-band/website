@@ -38,7 +38,7 @@ watch now as the band asserts that sharing is caring and plays I Want Your Cone
 
 :sd[The band forms a circle and rotates clockwise and plays Joshua]
 
-:sd[make your best Chicago tornado siren impression for as long as you feel is appropriate] Number Nine. Number Nine. Number Nine. :sd[make your favorite bird noise] :sd[Pick a random consonant, vowel, and two more consonants. Make this noise a few times] :sd[Pick your favorite non-offensive word and beep it in Morse Code] :sd[Make your favorite 3 beeping noises] Attention: Will the owner of the blue 2004 Jeep Liberty please come up to the box to atone for your sins. :sd[waowaowaowaowaowaowaowaowaowaowaowaowao].\
+:sd[make your best Chicago tornado siren impression for as long as you feel is appropriate] Number Nine. Number Nine. Number Nine. :sd[make your favorite bird noise] :sd[Pick a random consonant, vowel, and two more consonants. Make this noise a few times] :sd[Pick your favorite non-offensive word and beep it in Morse Code] :sd[Make your favorite 3 beeping noises] Attention: Will the owner of the blue 2004 Jeep Liberty please come up to the box to atone for your sins. :sd[wao<wbr>wao<wbr>wao<wbr>wao<wbr>wao<wbr>wao<wbr>wao<wbr>wao<wbr>wao<wbr>wao<wbr>wao<wbr>wao<wbr>wao].\
 シンジ、エヴァに乗れ。(Shinji, eba ni nore)\
 And now the Band will play :sd[play glitchy screeching noise into mic]
 
