@@ -28,28 +28,12 @@ exports.default = ({
         <ButtonImage buttons={buttons} name={fileSlug} semester={semester} />
       )}
       <h1 class="display-5 fw-normal" id={idPrefix + fileSlug}>
-        {data.teams?.home ? (
-          <>
-            <SchoolName team={data.teams.away} schoolColors={schoolColors} />
-            <em style="font-size: 0.8em">{data.location ? " vs " : " at "}</em>
-            <SchoolName team={data.teams.home} schoolColors={schoolColors} />
-          </>
-        ) : data.opponent ? (
-          <>
-            {/* when we don’t know home/away or scores */}
-            <SchoolName team={{ name: "Brown" }} schoolColors={schoolColors} />
-            <em style="font-size: 0.8em"> vs </em>
-            <SchoolName
-              team={{ name: data.opponent }}
-              schoolColors={schoolColors}
-            />
-          </>
-        ) : (
-          data.title
-        )}
-        {semester.semester === "fall" && data.sport === "hockey" && " (Hockey)"}
-        {/* for the table of contents */}
-        {fileSlug.endsWith("-censored") && <span hidden> [censored]</span>}
+        <ScriptTitle
+          script={data}
+          fileSlug={fileSlug}
+          semester={semester}
+          schoolColors={schoolColors}
+        />
       </h1>
       {data.location && (
         <h2>
@@ -75,7 +59,7 @@ exports.default = ({
   </article>
 );
 
-function SchoolName({ team: { name, score }, schoolColors }) {
+function SchoolName({ team: { name, score }, schoolColors, inToc }) {
   const nameSlug = slugify(name, {
     decamelize: false,
     customReplacements: [["’", ""]],
@@ -85,16 +69,69 @@ function SchoolName({ team: { name, score }, schoolColors }) {
       <span
         class="school-color"
         style={`color: ${
-          schoolColors[nameSlug]?.color ?? "salmon; " + nameSlug
+          inToc && name === "Brown"
+            ? "inherit"
+            : schoolColors[nameSlug]?.color ?? "salmon; " + nameSlug
         }`}
       >
         {name}
       </span>
-      {score != null && (
-        <span style="font-size: 2rem">
+      {score != null && !inToc && (
+        <span style="font-size: 0.66em">
           {"\xA0"}({score})
         </span>
       )}
+    </>
+  );
+}
+
+exports.ScriptTitle = ScriptTitle;
+function ScriptTitle({
+  script: { teams, location, opponent, title, sport },
+  fileSlug,
+  semester,
+  schoolColors,
+  inToc = false,
+}) {
+  const Location = inToc ? "span" : "em";
+  return (
+    <>
+      {teams?.home ? (
+        <>
+          <SchoolName
+            team={teams.away}
+            schoolColors={schoolColors}
+            inToc={inToc}
+          />
+          <Location style="font-size: 0.8em">
+            {location ? " vs " : " at "}
+          </Location>
+          <SchoolName
+            team={teams.home}
+            schoolColors={schoolColors}
+            inToc={inToc}
+          />
+        </>
+      ) : opponent ? (
+        <>
+          {/* when we don’t know home/away or scores */}
+          <SchoolName
+            team={{ name: "Brown" }}
+            schoolColors={schoolColors}
+            inToc={inToc}
+          />
+          <Location style="font-size: 0.8em"> vs </Location>
+          <SchoolName
+            team={{ name: opponent }}
+            schoolColors={schoolColors}
+            inToc={inToc}
+          />
+        </>
+      ) : (
+        title
+      )}
+      {semester.semester === "fall" && sport === "hockey" && " (Hockey)"}
+      {inToc && fileSlug.endsWith("-censored") && <small> [censored]</small>}
     </>
   );
 }

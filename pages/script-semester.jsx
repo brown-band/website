@@ -1,6 +1,6 @@
 const { createElement } = require("eleventy-hast-jsx");
 const listify = require("listify");
-const { default: Script } = require("../components/Script");
+const { default: Script, ScriptTitle } = require("../components/Script");
 
 exports.data = {
   pagination: {
@@ -19,6 +19,21 @@ exports.data = {
         &rsaquo; {semester.title}
       </>
     ),
+    toc: ({ semester, collections, schoolColors }) => {
+      const collection = collections[semester.collection];
+      return collection.map((script) => ({
+        id: script.fileSlug,
+        value: (
+          <ScriptTitle
+            script={script.data}
+            fileSlug={script.fileSlug}
+            semester={semester}
+            schoolColors={schoolColors}
+            inToc
+          />
+        ),
+      }));
+    },
   },
 };
 
@@ -58,7 +73,6 @@ exports.default = ({
       {collection.map((script, i) => (
         <>
           {i === 0 || <hr style="margin-bottom: 5em" />}
-          {script.title}
           <Script
             script={script}
             buttons={buttons.byYear}
