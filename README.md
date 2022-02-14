@@ -22,9 +22,10 @@ In a terminal, run `git clone https://github.com/brown-band/website` to copy the
 ### File organization
 
 - `assets`: miscellaneous static files (i.e. images, JS, CSS, and anything else that you need that isn’t a page)
-  - `handle-password.js`: checks the password provided for encrypted pages (currently just `recordings.html`)
-  - `recordings.js`: renders the decrypted recordings page on the client side and enables playback.
-  - `check-purged.js`: checks that CSS removed to reduce file size is not actually being used.
+  - `js`:
+    - `handle-password.js`: checks the password provided for encrypted pages (currently just `recordings.html`)
+    - `recordings.js`: renders the decrypted recordings page on the client side and enables playback.
+    - `check-purged.js`: checks that CSS removed to reduce file size is not actually being used.
 - `book`: handles printing the script books given to seniors at graduation. See below for details.
 - `book-html`: the output directory for `npm run book:*`, not checked into Git.
 - `buttons`: contains folders for each class year. See below for more detailed instructions.

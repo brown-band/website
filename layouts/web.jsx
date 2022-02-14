@@ -29,7 +29,7 @@ exports.default = async ({ site, quote, nav, collections, page, content }) => (
     {await (<Footer />)}
 
     {process.env.NODE_ENV !== "production" && (
-      <script type="module" src="/assets/check-purged.js" />
+      <script type="module" src="/assets/js/check-purged.js" />
     )}
   </>
 );
