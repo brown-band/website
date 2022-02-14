@@ -11,8 +11,8 @@ exports.default = ({ title, site, bodyAttrs, content }) => (
 
         <title>{title ? `${title} | ${site.title}` : site.title}</title>
 
-        <script async src="/assets/bootstrap.min.js" />
-        <link rel="stylesheet" href="/assets/bootstrap.min.css" />
+        <script async src="/assets/vendor/bootstrap.min.js" />
+        <link rel="stylesheet" href="/assets/vendor/bootstrap.min.css" />
         <link rel="stylesheet" href="/assets/css/base.css" />
 
         <link rel="preconnect" href="https://fonts.googleapis.com" />

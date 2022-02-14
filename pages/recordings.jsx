@@ -89,7 +89,7 @@ exports.default = ({ recordings_url }) => (
       </li>
     </template>
 
-    <script src="/assets/base64-arraybuffer.umd.js" />
+    <script src="/assets/vendor/base64-arraybuffer.umd.js" />
     <script>globalThis.mediaHost = new URL("{recordings_url}");</script>
     <script type="module" src="/assets/js/handle-password.js" />
     <script type="module" src="/assets/js/recordings.js" />

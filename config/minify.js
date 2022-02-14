@@ -89,13 +89,13 @@ module.exports = (eleventyConfig) => {
     if (process.env.NODE_ENV === "production") {
       const minified = await minifier.minify(result[result.length - 1].css);
       await writeFile(
-        path.join(outDir, "assets", "bootstrap.min.css"),
+        path.join(outDir, "assets", "vendor", "bootstrap.min.css"),
         minified.styles,
         "utf8"
       );
     } else {
       await writeFile(
-        path.join(outDir, "assets", "bootstrap.min.css"),
+        path.join(outDir, "assets", "vendor", "bootstrap.min.css"),
         await readFile(
           "node_modules/bootstrap-dark-5/dist/css/bootstrap-dark.css"
         )

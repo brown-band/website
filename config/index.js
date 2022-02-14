@@ -39,7 +39,7 @@ module.exports = (eleventyConfig) => {
       [
         "node_modules/bootstrap/dist/js/bootstrap.min.js*",
         "node_modules/base64-arraybuffer/dist/base64-arraybuffer.umd.js*",
-      ].map((k) => [k, "assets"])
+      ].map((k) => [k, "assets/vendor"])
     )
   );
 

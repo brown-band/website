@@ -4,7 +4,7 @@ const path = require("node:path");
 
 const allIcons = [
   ...readFileSync(
-    path.join(path.dirname(__dirname), "assets", "icons.svg"),
+    path.join(path.dirname(__dirname), "assets", "images", "icons.svg"),
     "utf-8"
   )
     // parsing SVG with regex. shame on me.
