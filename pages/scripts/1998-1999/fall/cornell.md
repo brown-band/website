@@ -16,7 +16,7 @@ Ladies and Gentlemen, friends and alumni, presenting an organization that prefer
 
 :sd[Band storms field.]
 
-While you’re waiting for us to play some music, chew on this: did you know that ordinary gum can only be blown into <i>round</i> bubbles? However, the Brown Band recently discovered new chewing gum flavor crystals that let you blow a bubble in <i>any shape you want</i>! Think of the possibilities! National monuments…Dan Quayle’s head…a package from the Unabomber…just be careful not to let <i>that</i> one explode. Now <i>that’s</i> what I call a sticky situation. Watch now as the Band forms a football-shaped bubble and plays NFL on Fox.
+While you’re waiting for us to play some music, chew on this: did you know that ordinary gum can only be blown into _round_ bubbles? However, the Brown Band recently discovered new chewing gum flavor crystals that let you blow a bubble in _any shape you want_! Think of the possibilities! National monuments…Dan Quayle’s head…a package from the Unabomber…just be careful not to let that one explode. Now _that’s_ what I call a sticky situation. Watch now as the Band forms a football-shaped bubble and plays NFL on Fox.
 
 :sd[Band does just this.]
 
