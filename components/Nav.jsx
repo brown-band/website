@@ -45,7 +45,7 @@ module.exports = ({ site, quote, nav, all, currentURL }) => (
               <li class="nav-item dropdown mx-sm-3 mx-md-1">
                 <button
                   class={
-                    "nav-link dropdown-toggle bg-transparent border-0" +
+                    "nav-link dropdown-toggle btn" +
                     (item.content.some(
                       (ch) =>
                         !ch.disabled &&

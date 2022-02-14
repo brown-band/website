@@ -71,3 +71,11 @@
 :last-child > .dropdown-item {
   padding-bottom: 0.65em;
 }
+
+.btn.nav-link:focus {
+  box-shadow: none;
+}
+
+.btn.nav-link:focus-visible:not([aria-expanded="true"]) {
+  outline: revert !important;
+}
