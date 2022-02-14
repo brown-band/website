@@ -22,7 +22,7 @@ module.exports = ({ name, size = 24 }) => {
   }
   return (
     <svg class="icon" width={size} height={size}>
-      <use href={`/assets/icons.svg#${name}`} />
+      <use href={`/assets/images/icons.svg#${name}`} />
     </svg>
   );
 };

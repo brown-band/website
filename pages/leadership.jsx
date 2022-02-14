@@ -66,7 +66,7 @@ async function Person({ even, person }) {
       {!even && (
         <img
           class="headshot shadow"
-          src={`/assets/people/${slugify(person.name)}.jpg`}
+          src={`/assets/images/people/${slugify(person.name)}.jpg`}
           width="130"
           style="float: right"
         />
@@ -98,7 +98,7 @@ async function Person({ even, person }) {
       {even && (
         <img
           class="headshot shadow"
-          src={`/assets/people/${slugify(person.name)}.jpg`}
+          src={`/assets/images/people/${slugify(person.name)}.jpg`}
           width="130"
           style="float: left"
         />

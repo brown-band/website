@@ -7,7 +7,7 @@ The Band's beloved mascot Elrod was the creation of a past Band president with p
 In Fall of 1967, C. Douglas Ballon '69 teamed up with Roy E. Johnson '69 to lead the Band. Ballon was President. Johnson was Chairman of the Board. Ballon, an art major and cartoonist, modestly drew a self-portrait for the Band's letterhead (It should be noted that Ballon played French Horn in the Band, but also had credentials as the first person to blow "Charge!!!" on a bugle in Shea Stadium--so the depiction with bugle in hand has some historical significance).
 
 <figure class="my-2 me-3" style="float: left">
-    <img alt="Elrod Snidley" src="/assets/hd_elrod.png" width=169 height=169>
+    <img alt="Elrod Snidley" src="/assets/images/hd_elrod.png" width=169 height=169>
     <figcaption style="text-align: center; font-style: italic">Elrod T. Snidley</figcaption>
 </figure>
 

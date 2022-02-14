@@ -18,7 +18,7 @@ module.exports = async () => (
         class="me-2 mb-2 mb-md-0 text-muted text-decoration-none lh-1"
       >
         <img
-          src="/assets/elrod-nav@3x.png"
+          src="/assets/images/elrod-nav@3x.png"
           alt="Homepage"
           width="30"
           height="30"
