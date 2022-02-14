@@ -1,3 +1,15 @@
+---
+sport: football
+teams:
+  home:
+    name: Brown
+    score: 23
+  away:
+    name: Dartmouth
+    score: 29
+date: 2019-11-23
+---
+
 ## Pregame
 
 Ladies and gentlemen, friends and alumni, presenting an organization that really appreciates French poetry, it’s the Brown University “wee wee baguette” BANNNDDDDDDDDDDD!
