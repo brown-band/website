@@ -8,9 +8,9 @@ exports.data = {
     size: 1,
     alias: "semester",
   },
-  permalink: (d) => d.semester.permalink,
+  permalink: ({ semester }) => semester.permalink,
   eleventyComputed: {
-    title: (d) => d.semester.title,
+    title: ({ semester }) => `Scripts: ${semester.title}`,
     pageHeader: ({ semester }) => (
       <>
         <a href="/scripts/" class="link-secondary">
