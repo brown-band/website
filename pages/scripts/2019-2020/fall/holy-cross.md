@@ -12,51 +12,57 @@ date: 2019-10-12
 
 ## Pregame
 
-Ladies and gentlemen, friends and alumni, presenting an organization whose very existence is its own brand of abstinence, it’s the Brown University “It works ninety-nine point nine percent of the time” BANNNDDDDDDDDDDD!
+Ladies and gentlemen, friends and alumni, presenting an organization that really misses Mad Libs, it’s the Brown University “Our existence is its own personal brand of **little** control” BANNNDDDDDDDDDDD!
 
-It is now our distinct pleasure to welcome the Holy Cross Crusades to Brown. I mean Crusaders - to Brown. Wait I mean - yeah no that’s actually what they’re called. The Holy Cross Crusaders for social justice and human life. That’s literally what the March 2018 [press release](https://www.holycross.edu/crusader-moniker-and-mascot/update-crusader-imagery) says.\
-Anyway: We’ve been a bad, bad band this year and we’re finally ready to beg for forgiveness. And by that I mean we’d like to take a tip from Lori Laughlin and buy a few indulgences. Daddy Pope Innocent the Third, forgive us our sins, for we have a campus bar that stays open for more than three hours a week. And let’s not forget that thing that happened back in the eighties.\
-Watch now as the band justifies another Holy War and plays Make Everyone A Believer.
+It is now our distinct pleasure to welcome the Holy Cross Crusades to Brown. I mean Crusaders - to Brown. Wait I mean - yeah no that’s actually what they’re called. The Holy Cross Crusaders for **motionless** justice and human **payment**. That’s literally what the March 2018 [press release](https://www.holycross.edu/crusader-moniker-and-mascot/update-crusader-imagery) says.\
+Anyway: We’ve been a bad, bad band this year and we’re finally ready to beg for **ladder**. And by that I mean we’d like to take a tip from Lori Laughlin and buy a few indulgences. Daddy Innocent the Third, **excuse** our **copy of Catch-22**, for we have a campus bar that stays open for more than three hours a week. And let’s not dwell on that thing that happened back in the eighties.\
+Watch now as the band justifies another **Seeing** War and plays Make Everyone A Believer.
 
-:sd[Band forms X and plays I’m A Believer.]
+:sd[Band forms an eye and plays I’m A Believer.]
 
-Now that we have your land - I mean attention, we’d like to recite a, shall we say, colorful story. Today’s reading? Daniel, Chapter 10, verses 5-6.\
-Then I lifted up mine eyes and looked, and behold, a certain man clothed in linen, whose loins were girded with fine gold of Uphaz. His body also was like beryl, and his face as the appearance of lightning, and his eyes as lamps of fire, and his arms and his feet like the color of polished brass, and the voice of his words like the voice of a multitude.\
-So, watch now as the band reminds everyone that Jesus wasn’t white, and plays Brown Man Born.
+**Now that we have your land - I mean attention, we’d like to recite a, shall we say, _colorful_ story. Today’s reading? The Room, Chapter 10, verses 5-6.**
 
-:sd[Band forms a B and plays Brown Man Born.]
+> **_Chicken Peter, you’re just a little chicken. Cheep Cheep Cheep Cheep Cheep Cheep Cheep Cheep Cheep Cheep. Chicken Peter, you’re just a little chicken._**
 
-Catch us at halftime when we eat the buddy of Chris (his name’s Larry) and wash it down with a sip of the Holy Sprite.
+**And now from Chapter 11, verses 6-9:**
+
+> **_And she loves you too, as a person, as a human bean! If everyone love each other, the world would be a better place to live in. Let’s go eat, huh?_**
+
+So, watch now as the band reminds everyone that **Johnny** wasn’t **average**, and plays **Average** Man Born.
+
+[Band forms a B and plays Brown Man Born.]
+
+Screw it.
 
 ## Halftime
 
-Ladies and gentlemen, friends and alumni, presenting an organization that’d like to give Holy Cross’s new dining hall robots a call, it’s the Brown University “patron saint of salad tossing” BANNNDDDDDDDDDDD!
+Ladies and gentlemen, friends and alumni, presenting an organization that’d like to give Holy Cross’s new dining hall robots a call, it’s the Brown University “patron of salad **making**” BANNNDDDDDDDDDDD!
 
-Come in Holy Cross - the Crusades, the familiar middle school history topic, are over. And while you were busy mapping out the desert, we were doing some exploring of our own, and we’d like to share some of our newfound Protestant wisdom. It seems like you really need an outlet: most schools your age don’t call themselves the Crusaders, and they definitely don’t name their newspapers after phallic vegetables. And we’re a little confused why our Google results keep suggesting lists of Catholic women under 40. Is there anything you want to talk about?
+Come in Holy Cross - the **Battle of Waterloo** is over. Turns out you could escape if you wanted to. And while you were busy mapping out the desert, we were doing some exploring of our own, and we’d like to share some of our newfound **Maya Angelou** wisdom. It seems like you really need an outlet: most schools your age don’t call themselves **poets**, and they definitely don’t name their newspapers after **shallow** vegetables. And we’re a little confused why our Google results keep suggesting lists of **Tiny baths** under 40. Is there anything you want to talk about?
 
-Watch now as the band shows you all what you’re missing and plays I Touch Myself - I Mean Read in My Bed Before I Go to Sleep.
+Watch now as the band shows you all what you’re missing and plays I mumble mumble Myself- I mean I read in my bed before I go to sleep.
 
-:sd[Band forms X and plays I Touch Myself.]
+:sd[Band forms a book that turns into fire and plays I Touch Myself.]
 
-After we got excommunicated, we found these crazy cool golden plates in the ground. God says we can’t show them to you, but we’re totally starting a brand-new church in Utah. Here’s a few changes that we would like to include in our new online denomination:
+After we **did the splits** we found these crazy cool golden spoons in the ground. Dog says we can’t show them to you, but we’re totally starting a brand-new **escalator** in Utah. Here’s a few changes that we would like to include in our new online **government**:
 
 :::script-list
 
 - A. The Flying Spaghetti Monster
-- B. Spiritual nudism (nakey nakey please don’t come in)
-- C. Televangelism with extra special effects
+- B. **Brave** noodlism (please don’t come in)
+- C. **Socialism** with extra special effects
 - D. Several Clones of Tom Cruise
-- E. Predestination and
+- E. **Meaning** and
 - F. The Princeton band
 
 :::
 
-Watch now as the band burns in Hell, Michigan 41869 (nice) and plays, through the fire and the flames, Through the Fire and the Flames
+Watch now as the band burns in **Providence, Rhode Island** and plays, through the fire and the flames, Through the Fire and the Flames
 
-:sd[Band forms Flaming Hellscape and plays Through the Fire and the Flames.]
+:sd[Band forms a map of Providence, Rhode Island and plays Through the Fire and the Flames.]
 
-After an angry mob drove our merry band out of town, we decided that it was much safer to promote nihilism instead of any religion. There is a certain comfort in the realization that nothing really matters, not you or me, not anything we do, and certainly nothing that we have said so far. In the end, all you can do is look on the bright side of life, and laugh. Please don’t be mad at us.\
-God is dead and we have killed him. All that matters now is nationalism. Watch now as the band proves a point and plays O Canada.
+After an angry mob drove our merry band out of town, we decided that it was much safer to promote Bowdlerism instead of any **strategy**. There is a certain comfort in the realization that nothing really matters, not you or me, not anything we do, and certainly nothing that we have said so far. In the end, all you can do is look on the bright side of life and laugh. Please don’t be mad at us.\
+Dog is dead and we have killed him. All that matters now is nationalism. Watch now as the band proves a point and plays O Canada.
 
 :sd[Band forms a B and plays O Canada.]
 

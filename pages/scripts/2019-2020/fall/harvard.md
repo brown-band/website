@@ -19,7 +19,7 @@ We played a first quarter. Then we played a second quarter. And then we played a
 
 :sd[Band forms the flux symbol and plays Starships.]
 
-Hey Harvard, we noticed that you don’t actually know what your founder, John Harvard, looked like. The Band totally understands, as we’ve had many a night we can’t completely remember. We’d like to thiink that John Harvard had double eyepatches. Or should we say, John H-ARRRR-vard. Or maybe he had aol chin that was a bit chafed, thus giving namesake to you Crimson Chins. Or maybe he had adorable floppy dog ears, to protect his AirPods.\
+Hey Harvard, we noticed that you don’t actually know what your founder, John Harvard, looked like. The Band totally understands, as we’ve had many a night we can’t completely remember. We’d like to think that John Harvard had double eyepatches. Or should we say, John H-ARRRR-vard. Or maybe he had a chin that was a bit chafed, thus giving namesake to you Crimson Chins. Or maybe he had adorable floppy dog ears, to protect his AirPods.\
 Watch now as the band depicts their interpretation of the face of John Harvard and plays Harvard Man Reborn.
 
 :sd[Band forms a B and plays Brown Man Born.]

@@ -24,13 +24,13 @@ We’ve heard about an up and coming player in the league, first spotted in 2017
 
 Watch now as the Band signs this new player for sicks point nein meow-llion and plays The Commentators That We Get.
 
-:sd[Band forms X and plays The Impression That I Get.]
+:sd[Band forms a cat and plays The Impression That I Get.]
 
-That commentary on a grey cat playing football was about as much as we understand of pig (or maybe cat?) skin gridiron. Oh wait, we just found a video explaining how it works from Disney in 1944. Apparently the goal is "to advance the ball over the pole line of the opposing team by hook or crook. There are 11 men on either end, two ends, and”. AAHH AAH AAHH AHH AHH AHH
+That commentary on a grey cat playing football was about as much as we understand of pig (or maybe cat?) skin gridiron. Oh wait, we just found a video explaining how it works from Disney in 1944. Apparently the goal is "to advance the ball over the pole line of the opposing team by hook or crook. There are 15 men on either end, two ends, and”. AAHH AAH AAHH AHH AHH AHH
 
 Watch now as the band squares up for kickoff and gets TOTALLY In The Endzone.
 
-:sd[Band forms X and plays In The Fray]
+:sd[Band forms a B and plays In The Fray]
 
 Catch us at halftime when we lick Petri dishes and kiss each other and then swap Petri dishes and lick those too.
 
@@ -42,7 +42,7 @@ Hello opposing team! We know you don’t know what this feels like, but listen. 
 
 Watch now as the band slams its door and then cracks it open and plays Welcome to the Homecoming Parade but not too loud because we don’t want mom to ask us what’s wrong.
 
-:sd[Band forms X and plays Welcome to the Black Parade.]
+:sd[Band forms a skull and plays Welcome to the Black Parade.]
 
 Fine. You wanna know what we like? Here:
 
@@ -59,7 +59,7 @@ Fine. You wanna know what we like? Here:
 
 I’m not like other girls, and I’ll show you. Watch now as the band sets up camp at Hot Topic and plays I Write Sins not Band Tees.
 
-:sd[Band forms X and plays I Write Sins.]
+:sd[Band forms a band tee and plays I Write Sins.]
 
 “About three things the band is absolutely positive. First, Edward was a vampire. Second, there was a part of him—and we didn’t know how potent that part might be—that thirsted for our blood. And third, we were unconditionally and irrevocably in love with him.”\
 Watch now as the band waits for a thunderstorm, steps up to the plate, and plays Modern Baseball in Forks, Washington.
