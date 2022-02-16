@@ -47,7 +47,11 @@ exports.default = ({ title, site, bodyAttrs, content }) => (
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
         <link
-          href="https://fonts.googleapis.com/css2?family=Niconne&family=Quicksand:wght@500;700&display=swap"
+          href="https://fonts.googleapis.com/css2?family=Niconne&text=The%20Brown%20Band&display=block"
+          rel="stylesheet"
+        />
+        <link
+          href="https://fonts.googleapis.com/css2?family=Quicksand:wght@500;700&display=optional"
           rel="stylesheet"
         />
       </head>
