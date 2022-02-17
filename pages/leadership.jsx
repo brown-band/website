@@ -120,7 +120,7 @@ async function PeopleTable({ sections }) {
         sections.flatMap((section) =>
           section.people.map(async (person, i) => (
             <tr>
-              <th class="people-table-head">
+              <th class="people-table-head" style="width: 40%">
                 {i === 0 && (await (<Markdown content={section.name} />))}
               </th>
               <td>
