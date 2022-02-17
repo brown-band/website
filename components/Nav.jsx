@@ -1,4 +1,5 @@
 const { createElement } = require("eleventy-hast-jsx");
+const Icon = require("./Icon");
 
 const findPage = (id, all) => all.find((p) => p.filePathStem === "/" + id);
 
@@ -88,7 +89,7 @@ module.exports = ({ site, quote, nav, all, currentURL }) => (
                       return (
                         <li>
                           <a class="dropdown-item" href={link.url}>
-                            {link.title}
+                            {link.title} <Icon name="external-link" size={12} />
                           </a>
                         </li>
                       );
