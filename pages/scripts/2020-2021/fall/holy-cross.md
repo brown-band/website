@@ -14,7 +14,7 @@ It is now our distinct pleasure to welcome the Holy Cross Crusades to Brown. I m
 Anyway: We’ve been a bad, bad band this year and we’re finally ready to beg for forgiveness. And by that I mean we’d like to take a tip from Lori Laughlin and buy a few indulgences. Daddy, forgive us our sins, for we have a campus bar that stays open for more than three hours a week. And let’s not forget that thing that happened back in the eighties.\
 Watch now as the band justifies another Holy War and plays Make Everyone A Believer.
 
-:sd[Band forms [X] and plays I’m A Believer.]
+:sd[Band forms X and plays I’m A Believer.]
 
 Now that we have your land - I mean attention, we’d like to recite a, shall we say, colorful story. Today’s reading? Daniel, Chapter 10, verses 5-6.
 
