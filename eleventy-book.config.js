@@ -21,12 +21,12 @@ module.exports = (eleventyConfig) => {
   // CHANGE THESE!
   eleventyConfig.addGlobalData("book", {
     extraYear: false,
-    graduationYear: 2019,
+    graduationYear: 2022,
   });
 
   eleventyConfig.addPassthroughCopy({
     "book/node_modules/pagedjs/dist/paged.polyfill.js":
-      "assets/paged.polyfill.js",
+      "assets/vendor/paged.polyfill.js",
   });
 
   let port;

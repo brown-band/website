@@ -6,7 +6,7 @@ body {
 
 /* Page / margin styles */
 @page {
-  margin: 1in;
+  margin: 0.5in 0.25in;
   widows: 3;
   width: 8.5in;
   height: 11in;
@@ -110,4 +110,12 @@ h2 {
 
 p {
   margin-bottom: 0.8em;
+}
+
+a:not([href^="#"]) {
+  color: inherit;
+  text-decoration: none;
+}
+a:not([href^="#"])::after {
+  content: " (" attr(href) ")";
 }

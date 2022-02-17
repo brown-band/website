@@ -9,7 +9,7 @@ exports.data = {
   permalink: "/",
 };
 
-exports.default = ({ book, collections, schoolColors, buttons }) => (
+exports.default = ({ book, collections, schoolColors }) => (
   <>
     <link rel="stylesheet" href="/assets/css/book.css" />
     <link rel="stylesheet" href="/assets/css/script.css" />
@@ -63,7 +63,8 @@ exports.default = ({ book, collections, schoolColors, buttons }) => (
             </h1>
             {writers?.length > 0 && (
               <p class="h5 fst-italic fw-normal">
-                Scriptwriter{writers.length !== 1 && "s"}: {listify(writers)}
+                Scriptwriter{writers.length !== 1 && "s"}:{" "}
+                {listify(writers.map((s) => s.replaceAll(" ", "\xA0")))}
               </p>
             )}
           </header>
