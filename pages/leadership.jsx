@@ -124,8 +124,8 @@ async function PeopleTable({ sections }) {
                 {i === 0 && (await (<Markdown content={section.name} />))}
               </th>
               <td>
-                <a href={"mailto:" + person.email}>{person.name}</a> '
-                {person.year}
+                <a href={"mailto:" + person.email}>{person.name}</a>{" "}
+                {person.year === "GS" ? person.year : "’" + person.year}
               </td>
             </tr>
           ))
