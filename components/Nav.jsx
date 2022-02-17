@@ -50,6 +50,7 @@ module.exports = ({ site, quote, nav, all, currentURL }) => (
                       (ch) =>
                         !ch.disabled &&
                         !ch.heading &&
+                        !ch.url &&
                         findPage(ch, all).url === currentURL
                     )
                       ? " active"
@@ -82,6 +83,14 @@ module.exports = ({ site, quote, nav, all, currentURL }) => (
                     } else if (link.disabled) {
                       return (
                         <li class="dropdown-item disabled">{link.disabled}</li>
+                      );
+                    } else if (link.title) {
+                      return (
+                        <li>
+                          <a class="dropdown-item" href={link.url}>
+                            {link.title}
+                          </a>
+                        </li>
                       );
                     } else {
                       const page = findPage(link, all);

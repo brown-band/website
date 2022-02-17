@@ -7,19 +7,22 @@
 - title: Media
   content:
     - buttons
-    # - disabled: Photos
+    - title: Photos
+      url: https://students.brown.edu/band/photos
     - recordings
     # - disabled: Videos
     - lyrics
     - scripts
-    # - disabled: Alumni Newsletters
+    - title: Alumni Newsletters
+      url: https://students.brown.edu/band/alumni-newsletters
 
 - title: History
   content:
     - about-us
     - elrod-snidley
     - sound-off
-    # - disabled: 75 Years in Pictures
+    - title: 75 Years in Pictures
+      url: https://students.brown.edu/band/75-years-pictures
 
 - title: More Info
   content:
@@ -28,4 +31,5 @@
     - ivy-bands
     - ivy-bands-agreement
     # - disabled: Commencement
-    # - disabled: Arranging Music
+    - title: Arranging Music
+      url: http://students.brown.edu/band/arranging
