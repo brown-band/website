@@ -30,7 +30,7 @@ Be back in two years when the band lets the pigs out of the Penn.
 
 ## Actual Show (as performed by the Brown Band)
 
-:script-note[Band remained on the track during entire show.]
+::script-note[Band remained on the track during entire show.]
 
 Enough of this Penndemonium. Ladies and Gentlemen, Friends and Alumni, and all you retractable pens. Direct from a one mile swim from campus, the only band without enough sense to come in from the rain, presenting the Brown University 10,000 Man Invisible band. Watch now as the band performs a spritely drill formation to the tune of “Ever True to Brown.”
 

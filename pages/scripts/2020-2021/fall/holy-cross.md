@@ -6,7 +6,7 @@ date: 2020-10-10
 
 ## Pregame
 
-:script-note[5 min scriptwriting concluded: we just want to release this and let anybody who wants to do the video film it according to their own vision]
+::script-note[5 min scriptwriting concluded: we just want to release this and let anybody who wants to do the video film it according to their own vision]
 
 Ladies and gentlemen, friends and alumni, presenting an organization whose very existence is its own brand of abstinence, it’s the Brown University “It works ninety-nine point nine percent of the time” BANNNDDDDDDDDDDD!
 

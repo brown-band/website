@@ -10,7 +10,7 @@ teams:
 date: 2001-11-03
 ---
 
-:script-note[This script shows that Communism isn't as funny as it used to be. The stuff about the Yale newspaper is true. I've never seen an op-ed about handjobs before.]
+::script-note[This script shows that Communism isn't as funny as it used to be. The stuff about the Yale newspaper is true. I've never seen an op-ed about handjobs before.]
 
 ## Pregame
 

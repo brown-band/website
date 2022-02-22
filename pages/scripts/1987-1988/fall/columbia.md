@@ -120,7 +120,7 @@ Wake up, Band! You were having a nightmare! It's time to graduate! :sd[Band scre
 
 :sd[Band marches off to "Ever True"]
 
-:script-note[Actually the last line was supposed to be "Be back in two months when we turn into the nation's only skating band and play for a team that really appreciates us." See previous notes for various Rosenburg anecdotes. (What a craphead.) The only memorable factor of this game, besides Brown's almost losing to Columbia, was that it was butt-cold.]
+::script-note[Actually the last line was supposed to be "Be back in two months when we turn into the nation's only skating band and play for a team that really appreciates us." See previous notes for various Rosenburg anecdotes. (What a craphead.) The only memorable factor of this game, besides Brown's almost losing to Columbia, was that it was butt-cold.]
 
 :sd[The following are footnotes handed out to fans for this show, and corresponding to the footnotes indicated in the halftime script]
 

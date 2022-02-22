@@ -58,7 +58,7 @@ function directivesPlugin() {
       if (node.type === "textDirective" && node.name === "sd") {
         return { ...node, data: h("span", "_69-direction") };
       }
-      if (node.type === "textDirective" && node.name === "script-note") {
+      if (node.type === "leafDirective" && node.name === "script-note") {
         return Object.assign(parent, {
           ...node,
           data: h("blockquote", "_69-note"),

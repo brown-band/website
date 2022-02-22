@@ -50,4 +50,4 @@ A final change in the university is the new parietal system. Now the possibiliti
 :sd[the band plays the tune from that Winston commercial]\
 :sd[the band marches off the field as the crowd strangles.]
 
-:script-note[I think the commerical referenced is “[It’s Not How Long You Make It… It’s How You Make it Long](https://youtu.be/2BXiyMDD9Hk).” — JF]
+::script-note[I think the commerical referenced is “[It’s Not How Long You Make It… It’s How You Make it Long](https://youtu.be/2BXiyMDD9Hk).” — JF]

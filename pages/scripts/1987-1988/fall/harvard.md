@@ -42,4 +42,4 @@ The Band would like to express its gratitude to Rosemary's Limousine Service of 
 
 :sd[Band marches off to "Ever True." Hah, hah, yuk, yuk.]
 
-:script-note[This Parents' Weekend exercise in spectacle featured a loss on the team's part, thus dashing our hopes for the league championship. (Buttheads.) But we did have a good time playing with all the gizmos in the limousines.]
+::script-note[This Parents' Weekend exercise in spectacle featured a loss on the team's part, thus dashing our hopes for the league championship. (Buttheads.) But we did have a good time playing with all the gizmos in the limousines.]

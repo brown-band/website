@@ -13,7 +13,7 @@ date: 2017-11-10
 
 ## Pregame
 
-:script-note[Neither the pregrame nor the halftime script were actually read at the game, as we were unable to gain access to the Fenway Park PA system. Nevertheless, we felt that our script was too witty not to be read by all who visit our impeccably maintained website.]
+::script-note[Neither the pregrame nor the halftime script were actually read at the game, as we were unable to gain access to the Fenway Park PA system. Nevertheless, we felt that our script was too witty not to be read by all who visit our impeccably maintained website.]
 
 Ladies and gentlemen, friends and alumni, presenting an organization that loves Smash Mouth, it's the Brown University "at least we're not in New Hampshire" BANNNDDDDDDDDDDD!
 

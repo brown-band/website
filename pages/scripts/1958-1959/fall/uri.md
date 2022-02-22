@@ -32,4 +32,4 @@ Finally, in 1958 Al Curran, a junior music major, completed a now arrangement of
 
 [_Band plays the new "Ever True To Brown" and then_
 
-:script-note[Unfortunately, the scan I had of this script did not include its second page — JF]
+::script-note[Unfortunately, the scan I had of this script did not include its second page — JF]

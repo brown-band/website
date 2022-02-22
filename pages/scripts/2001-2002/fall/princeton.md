@@ -10,7 +10,7 @@ teams:
 date: 2001-10-13
 ---
 
-:script-note[Halftime for this show was never written as we knew ahead of time that it would be claimed my Manos.]
+::script-note[Halftime for this show was never written as we knew ahead of time that it would be claimed my Manos.]
 
 Ladies and Gentlemen, Friends and Alumni, Philosophers and Hegemonists, presenting an organization that can mix anything without using its hands, it's the Brown University "you stirred this with WHAT?!?" BAND!!!
 

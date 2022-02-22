@@ -46,10 +46,6 @@ The Band now has formed the most beloved institution on College Hill—The Brown
 
 :sd[Band play same song as in previous formation.]
 
-:script-tab
-
-:script-tab
-
 :sd[Band marches off field as crowd strangles.]
 
 ## Short Version
@@ -81,4 +77,4 @@ The Band has indeed formed a pattie of butter. No longer does the American farme
 
 :sd[band plays.]
 
-:script-note[The “????” is blanked out in the copy I have access to — JF]
+::script-note[The “????” is blanked out in the copy I have access to — JF]

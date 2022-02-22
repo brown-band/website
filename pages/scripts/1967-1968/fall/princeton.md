@@ -10,7 +10,7 @@ teams:
 date: 1967-11-04
 ---
 
-:script-note[this one is the same as the Yale script. huh. — JF]
+::script-note[this one is the same as the Yale script. huh. — JF]
 
 Introducing the Brown University Marching Band, Don Kent, President; Frank Marrianoccio, Director; Mark Hochberg, Ken Pasternak and Don Herron Drum Majors.
 

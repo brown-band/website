@@ -49,4 +49,4 @@ Has this show been too subtle for you? Come to Cambridge next week to see the ba
 
 :sd[band marches off to "Ever True" while the parents decide either to transfer their kids to Rhode Island College or send an extra thousand dollars to Brown at the end of the year]
 
-:script-note[1984 was the year that placing recruiters under citizens' arrest was in style. Also, Prof. Neusner almost sued the band for mentioning his name!]
+::script-note[1984 was the year that placing recruiters under citizens' arrest was in style. Also, Prof. Neusner almost sued the band for mentioning his name!]

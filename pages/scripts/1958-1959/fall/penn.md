@@ -10,7 +10,7 @@ teams:
 date: 1958-10-18
 ---
 
-:script-note[Does this remind you of another 1958 script? Perhaps the Yale one above? If so, you’re not alone — they’re nearly identical. — JF]
+::script-note[Does this remind you of another 1958 script? Perhaps the Yale one above? If so, you’re not alone — they’re nearly identical. — JF]
 
 :sd[Band in block on goal line]
 

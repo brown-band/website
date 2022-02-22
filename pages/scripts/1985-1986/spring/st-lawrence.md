@@ -8,7 +8,7 @@ teams:
 date: 1986-02-15
 ---
 
-:script-note[Never performed.]
+::script-note[Never performed.]
 
 Ladies and Gentlemen, Friends and Alumni, now conducting purely routine training maneuvers, it's the Brown University, "How many votes can you stuff into a Manila envelope?" Band!
 
@@ -26,4 +26,4 @@ As you leave tonight, please don't forget to sign our petition for a microwave-f
 
 :sd[Counterskate to Number Three in the 'B,' bow, and skate off the ice. Crowd wakes up and goes home. Peter Sultan gives up show-writing for lent.]
 
-:script-note[Show not done due to lack of Bandies on ice.]
+::script-note[Show not done due to lack of Bandies on ice.]

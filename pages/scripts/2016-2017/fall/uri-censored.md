@@ -12,7 +12,7 @@ date: 2016-10-01
 
 ## Halftime
 
-:script-note[This is the script we wrote for the Fall 2016 URI game, but the URI athletics department did not allow us to read it during halftime.]
+::script-note[This is the script we wrote for the Fall 2016 URI game, but the URI athletics department did not allow us to read it during halftime.]
 
 Ladies and gentlemen, friends and alumni, presenting an organization that will try to be on its best behavior for the high schoolers, it's the Brown University "let's be honest, that's a low standard" BANNNDDDDDDDDDDD!
 

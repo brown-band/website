@@ -39,7 +39,7 @@ Bring the Victory.\
 
 The football teams will resume play on these premises shortly.
 
-## Halftime (actually performed).
+## Halftime (actually performed)
 
 Band.\
 :sd[The band walks onto the field, screaming and sobbing].
@@ -49,8 +49,9 @@ The Dirge.\
 :sd[The band wails horribly, and pretends to die.]
 
 The Wii Theme.\
-:sd[The band attempts to play The Wii Theme with rehearsed pauses.]\
-:script-note[*most* of the band remembered that we put pauses in - JF]
+:sd[The band attempts to play The Wii Theme with rehearsed pauses.]
+
+::script-note[*most* of the band remembered that we put pauses in - JF]
 
 The football teams will resume play on these premises shortly.
 

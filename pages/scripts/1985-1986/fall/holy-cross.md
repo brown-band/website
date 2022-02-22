@@ -38,4 +38,4 @@ That's fine. Be back in two years to watch the Brown Band say "In Deo Speramus" 
 
 This week's Button: LACK OF VIRGIN (HEY!)
 
-:script-note[John Parry censored the original version of this show beyond recognition, and a makeshift show had to be reconstructed hastily before Tuesday night rehearsal by Sultan, Dougan and Co. For reference: The St Louis Cardinals were playing the Kansas City Royals in the World Series as this show was performed. KC won, I believe.]
+::script-note[John Parry censored the original version of this show beyond recognition, and a makeshift show had to be reconstructed hastily before Tuesday night rehearsal by Sultan, Dougan and Co. For reference: The St Louis Cardinals were playing the Kansas City Royals in the World Series as this show was performed. KC won, I believe.]

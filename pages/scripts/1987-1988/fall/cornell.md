@@ -63,4 +63,4 @@ Be back in two weeks when we confirm for all of you parents all those nagging su
 
 :sd[Band marches off to "Ever True."]
 
-:script-note[This show, of course, reprised our triumph of two year precious where we masqueraded as the Cornell Band, many Brunonians believing us to be the real thing. Shiela Clifford '88 returned in her triumphant role as the Voice of the Cornell Band. And a humorous torch was added when the flaming torches (towels soaked in kerosene) flew gracefully off their batons onto the field, leaving some nice burn marks in the sod.]
+::script-note[This show, of course, reprised our triumph of two year precious where we masqueraded as the Cornell Band, many Brunonians believing us to be the real thing. Shiela Clifford '88 returned in her triumphant role as the Voice of the Cornell Band. And a humorous torch was added when the flaming torches (towels soaked in kerosene) flew gracefully off their batons onto the field, leaving some nice burn marks in the sod.]
