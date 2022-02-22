@@ -1,13 +1,11 @@
 .carousel {
-  height: 350px;
+  --height: 450px;
   position: relative;
   margin-inline: calc(var(--bs-gutter-x) * -0.5);
 }
 
-.carousel > img {
-  height: 100%;
+.carousel img {
+  height: var(--height);
   width: 100%;
   object-fit: cover;
-  position: absolute;
-  top: 0;
 }

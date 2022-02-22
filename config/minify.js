@@ -86,6 +86,11 @@ module.exports = (eleventyConfig) => {
           "data-bs-popper",
           // added by Bootstrap when opening modals
           "modal-backdrop",
+          // used by Bootstrap for carousels
+          "carousel-item-start",
+          "carousel-item-end",
+          "carousel-item-prev",
+          "carousel-item-next",
         ],
         // not sure why this isn’t picked up
         variables: ["--bs-font-monospace", "--bs-body-font-weight"],
