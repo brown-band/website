@@ -2,11 +2,9 @@
 
 Welcome to the repository for the Brown Band!
 
-## Documentation
-
 (this whole thing is probably somewhat out of date, so if you see any issues please correct them)
 
-### Getting Started
+## Getting Started
 
 This site is a static site powered by [Eleventy (11ty)](https://www.11ty.dev) and hosted on GitHub Pages. That means that the files in this repository are transformed by a build script producing a folder full of plain HTML files that any static site host can serve. If GitHub Pages ceases to exist, you should have a wide variety of competitors to choose from. Hopefully.
 
@@ -19,7 +17,22 @@ In a terminal, run `git clone https://github.com/brown-band/website` to copy the
 - <code>npm run **format**</code>: Runs [Prettier](https://prettier.io) to ensure consistent code and document formatting. Ideally, set up your code editor to run Prettier whenever you save a file — check out their [editor integration docs](https://prettier.io/docs/en/editors.html) or search your editor’s package manager for a “Prettier” package.
 - <code>npm run **start:book**</code> and <code>npm run **build:book**</code>: like `npm start` and `npm run build` but for the script book. See below!
 
-### File organization
+Optionally, check out the external documentation for packages this project uses for a deeper understanding of how things work (in approximately decreasing order of importance):
+
+- [Eleventy](https://www.11ty.dev/docs/)
+- [Node.js](https://nodejs.org/en/docs/)
+- [`eleventy-hast-jsx`](https://github.com/j-f1/eleventy-hast-jsx)
+- [Bootstrap](https://getbootstrap.com/docs/5.1/)
+- [CommonMark](https://commonmark.org/help/)
+- [unified](https://unifiedjs.com/learn/)
+- [PurgeCSS](https://purgecss.com/configuration.html)
+- [YAML](https://yaml.org/) (YAML is terrifying, but don’t let that intimidate you)
+
+## File organization
+
+This is intended as an overview; check out the individual files themselves as well as the other documentation sections below for more details.
+
+Top-level folders:
 
 - `assets`: miscellaneous static files (i.e. images, JS, CSS, and anything else that you need that isn’t a page)
   - `js`:
@@ -54,8 +67,15 @@ In a terminal, run `git clone https://github.com/brown-band/website` to copy the
     - figures out the right semesters to include in the book
     - (it might do other things too if this section is out of date, go check!)
   - `nav.yml`: contains the data for the nav bar
+    - put just the path of the page (without a leading or trailing slash or extension) to automatically pick up the page’s title
+    - use an object with `title` and `url` keys for external links
+    - use an object with a `heading` key to add a section heading
+    - use an object with a `disabled` key to add a disabled link
+    - need to do something else? Add the necessary functionality to `components/Nav.jsx` (and make sure to document it here).
   - `quote.js`: selects the random quote displayed on the site header
-  - `schoolColors.yml`: Contains the primary color used by most/all of the schools we’ve played in the past. The `color` property is used by the buttons page to tint the table headers and the script renderer to color the college names in the script titles. The `type` property is used to help split the buttons page into categories.
+  - `schoolColors.yml`: Contains the primary color used by most/all of the schools we’ve played in the past.
+    - the `color` property is used by the buttons page to tint the table headers and the script renderer to color the college names in the script titles.
+    - the `type` property is used to help split the buttons page into categories.
   - `site.yml`: global metadata for the website (currently just the title)
   - `specialButtons.yml`: list of buttons that don’t fit into any of the existing categories
 - `layouts`
@@ -64,51 +84,66 @@ In a terminal, run `git clone https://github.com/brown-band/website` to copy the
   - `page.jsx`: renders the page title and summary (inherits `web.jsx`)
 - `node_modules`: Created by `npm install`. Don’t change it yourself — instead use `npm` commands to add and remove packages.
 - `pages`: the pages on the website. Each page is automatically compiled into HTML by Eleventy.
-  - `scripts`: show scripts. Contains a subfolder for each year’s scripts, with `fall` and `spring` subfolders.
+  - `scripts`: show scripts.
+    - Contains a subfolder for each year’s scripts, with `fall` and `spring` subfolders.
+    - Add an `.11tydata.yml` file (matching the name of the folder it goes into) to record the list of scriptwriters for a semester or year.
   - `index.md`: the homepage
   - `script-semester.jsx`: Eleventy copies this page for every semester for which we have scripts for.
 - `public`: the output directory, not checked into Git. Eleventy creates and updates (but does not delete) files in this directory when you run `npm start` or `npm run build`.
+
+Top-level files:
+
+- `.editorconfig`: tells your editor how to indent code, using the [editorconfig.org](https://editorconfig.org/) format.
+- `.gitignore`: tells Git which files to ignore.
 - `.node-version`: the version of Node.js that the website is confirmed to build properly with. Feel free to update this any time (but make sure you double-check that things still work properly!).
-- `eleventy.config.js`, `eleventy-book.config.js`: configuration files for Eleventy. See docs inside the file for more details.
+- `.prettierignore`: tells Prettier to ignore output files.
+- `.prettierrc.json`: configures Prettier. Avoid adding options here if possible.
+- `design-decisions.md`: see the bottom of this file
+- `eleventy.config.js`, `eleventy-book.config.js`: configuration files for Eleventy. See the comments inside the files, as well as [Eleventy's docs](https://www.11ty.dev/docs/config/) for more details.
 - `jsconfig.json`: used to configure TypeScript language features for editor integration (we’re not actually using TypeScript at this point, but the autocomplete it provides is sometimes helpful)
 - `package.json`, `package-lock.json`: lists the packages used by the website (both on the frontend and on the backend), and defines the scripts accessible using `npm run`.
   - the convention I’ve tried to maintain is that packages from which one or more files are copied into `public/` during the build process get installed as `dependencies`, and everything else gets installed into `devDependencies`.
+- `README.md`: congrats, you’ve found this file!
 
-### Technical Overview
+## Technical Overview
 
-#### Templates
+### Templates
 
 You’ll notice three kinds of files in the `pages/` folder:
 
 1. HTML files (`.html`). These are copied as-is (with the content injected into the appropriate layout) into `public/`.
 2. Markdown files (`.md`). These are converted to HTML by Eleventy using the code in `config/markdown.mjs`, and then follow the HTML process.
-3. JSX files (`.jsx`). These are handled by [`eleventy-hast-jsx`](https://www.npmjs.com/package/eleventy-hast-jsx) package, which has a bunch of documentation around how the JSX files are processed. Note that these are _not_ using React in any way, and are converted to HTML strings at build time. If you want to have an interactive web page, write some separate client-side JS (check out `recordings.jsx` and `recordings.js` for an example). See “Why JSX?” below for the rationale behind this somewhat unusual choice.
+3. JSX files (`.jsx`). These are handled by [`eleventy-hast-jsx`](https://www.npmjs.com/package/eleventy-hast-jsx) package, which has a bunch of documentation around how the JSX files are processed. Note that these are _not_ using React in any way, and are converted to HTML strings at build time. If you want to have an interactive web page, write some separate client-side JS (check out `recordings.jsx` and `recordings.js` for an example). See “Why JSX?” in [the design decisions doc](./design-decisions.md) for the rationale behind this choice.
 
-#### Book
+You can use [Nunjucks template commands](https://mozilla.github.io/nunjucks/templating.html) in HTML and Markdown pages to incorporate data into the page, although you should switch to JSX if you’re doing anything fancy.
+
+### Book
 
 `paged.js` is used to convert a single long HTML page into a long PDF for printing. A second Eleventy config file `eleventy-book.config.js` is used because some configuration needs to be slightly different. The page used for printing (`pages/scripts/book.jsx`) is ignored by the main site’s Eleventy config.
 
-#### Components
+### Components
 
 …live in the `components` folder if they’re used by multiple files (or are intended to be shared). Otherwise, they generally go at the bottom of the page they are used on.
 
-#### Deployment
+### Deployment
 
 Deployment is via GitHub Pages because it is free for team projects (provided the repository is public). The workflow in `.github/workflows/deploy.yml` runs whenever you push to the `main` branch. It will overwrite any commits on the `gh-pages` branch, so avoid pushing anything there manually.
 
-### Layouts
+Builds currently (as of February 2022) take about 2–3 minutes to complete. If this significantly increases, consider looking into what is making things slow.
+
+## Layouts
 
 You probably won’t need to create a new one, but definitely feel free to do so! Remember that the `base.jsx` layout is used by both the website and the book, so make sure any changes you make there work with both.
 
-### ES Modules
+## ES Modules
 
 Currently, only one file uses the ES Modules syntax (which was first proposed in 2015 (!) and is very slowly being adopted across the ecosystem). Hopefully the ecosystem will catch up at some point! In that case, definitely feel free to move things over — or not.
 
-If you’re reading this in the future, check in on ESM support in the main blocking dependencies (`@11ty/eleventy` and `eleventy-hast-jsx`). If Eleventy fully supports ES Modules and `eleventy-hast-jsx` doesn’t, ping Jed. :)
+If you’re reading this in the future, check in on ESM support in the main blocking dependencies ([`@11ty/eleventy`](https://github.com/11ty/eleventy/issues/836) and [`eleventy-hast-jsx`](https://github.com/j-f1/eleventy-hast-jsx/issues/1)). If Eleventy fully supports ES Modules and `eleventy-hast-jsx` doesn’t, ping Jed. :)
 
-### Common Tasks
+## Common Tasks
 
-#### Updating Leadership
+### Updating Leadership
 
 To update the people page, edit the files in `data/people/`.
 
@@ -126,22 +161,22 @@ For band board and the conductors, provide the following properties:
 - `link`: apostrophe link provided by the person
 - `year` graduation year (2 digits, represented as a number)
   - If you’re seeing unexpected behavior because people are graduating on or after 2100, I’m sorry. (actually I’m probably dead and therefore not capable of being sorry)
-- `bio`: bio provided by the person. Uses a YAML [“literal block scalar”](https://web.archive.org/web/20211119210045/https://yaml-multiline.info) to preserve newlines. Make sure to keep the `|` after the `:`, and start the bio on the next line.
+- `bio`: bio provided by the person. Uses a YAML [“literal block scalar”](https://web.archive.org/web/20211119210045/https://yaml-multiline.info) to preserve newlines. Make sure to keep the `|` after the `:`, and start the bio on the next line. Markdown is supported, so make sure to escape any special characters with a `\` (check by running `npm start` and then visiting http://localhost:8080/leadership/ to see if there’s anything that needs changing)
 
 For section leaders and appointed positions, provide the following properties:
 
-- `name`: the name of the position.
+- `name`: the name of the position. Markdown is supported.
 - `people`: a list of objects with these properties:
   - `name`: the person’s full name
   - `email`: their email
-  - `year`: their graduation year (2 digits, represented as a number). See disclaimer above about this property
+  - `year`: their graduation year (2 digits, represented as a number). See disclaimer above about this property.
 
-#### Adding Buttons
+### Adding Buttons
 
 First, save a lossless copy of the button image for posterity (do **not** convert this back from the `.jpg`, instead make sure you get a `.png` or vector graphic file from the corsec)
 
 1. In the `band-media` repository, create a new folder inside `buttons` with the current year, i.e. `2031-2032`
-2. Add `.png` files for each button to that folder, with lowercased names. Replace spaces in the name with dashes.
+2. Add `.png` (or `.svg` or any other lossless/vector format) files for each button to that folder, with lowercased names. Replace spaces in the name with dashes.
 
 Next, back in this repo:
 
@@ -151,17 +186,17 @@ Next, back in this repo:
    - This is done because JPEGs are significantly (~90%) smaller than the original PNGs. Git is annoying to use with huge files, so I leave that issue for the (hopefully less-frequently-updated) media repo. Feel free to swap out the JPEGs for whatever fancy new format the people from your time have cooked up! Just make sure you encode from the original PNGs rather than re-encoding the JPEGs.
 3. Create a `labels.yml` file inside that folder.
    - Use the following format for each line: <code>_College Name (with proper spaces and capitalization)_: _Description on Button_</code>
-   - For the description, include any text on the button. For graphic elements (such as images), enclose a brief description of the graphic in braces (`{}`). If the description starts with a brace or a quote, make sure you wrap it in quotes so YAML handles it properly.
+   - For the description, include any text on the button. For graphic elements (such as images), enclose a brief description of the graphic in braces (`{}`). If the description starts with a brace or a quote, make sure you wrap it in double quotes so YAML handles it properly.
    - Look at old buttons for examples of how to write the description!
 
 That’s it! The build script will automatically pick up the new buttons and add them to the buttons page.
 
-#### Adding Scripts
+### Adding Scripts
 
 1. Create a new folder for the current semester (in `pages/scripts`, following existing patterns) if necessary
 2. Create a new `.md` file for the script, with the name based on either the opponent or the name of the event (check previous scripts for inspiration)
-3. In the script file, add a front matter section with the following information:
-   - `sport`: the type of sport — either `football` or `hockey`. Leave this out if the script is for a non-sports-game event.
+3. In the script file, add a front matter section with the following information (for more details on front matter and formatting in general, see the Adding/Removing Pages section below):
+   - `sport`: the type of sport, lowercased. Leave this out if the script is for a non-sports-game event.
    - `teams`: the teams at the sports game. Again, leave this out for non-sports scripts. An object with two keys:
      - `home`: the team that was at home (if it was a home game for us, that will be Brown; otherwise, it will be the opponent)
      - `away`: the other team (i.e. the one that that was the away team for this game)
@@ -169,78 +204,63 @@ That’s it! The build script will automatically pick up the new buttons and add
        - `name`: The human-readable name of the college/university (usually abbreviated), e.g. `Harvard`, `Penn`, `Holy Cross`
        - `score` (optional): the score that team had at the end of the game. This can usually be found online pretty easily. But if not, just leave it off.
    - sometimes, you won’t know the score or whether we were home or away (this applies more to historical games than ones from the present). In that case, specify an `opponent` key instead of `teams`, and just give the name of the opponent (e.g. `opponent: Princeton`)
+   - `date`: this is _very required_. Specify the date the event occurred on. Feel free to guess for historical events if necessary, but make sure you leave a comment (`# ....`) above the date describing your rationale so it doesn’t get treated as authoritative.
    - `title`: if the event is unusual in some way, set a custom title.
-   - `date`: this is _very required_ and the site will not build without it. Specify the date the event occurred on. Feel free to guess for historical events if necessary, but make sure you leave a comment (`# ....`) above the date describing your rationale so it doesn’t get treated as authoritative.
+   - `subtitle`: optional, if there’s something special about this script, put it here.
+     - for example: homecoming, parents’ weekend, or halloween
+   - `location`: very optional. If the band played somewhere special, put that info here.
 
-#### Compiling senior script books
+There are a few extensions to Markdown that this project uses to make it easier to encode scripts. Look at `directivesPlugin` in `config/markdown.mjs` for the code that powers this, and check out the [generic directives proposal](https://talk.commonmark.org/t/generic-directives-plugins-syntax/444) for a description of the syntax used.:
+
+- `:script-tab` will insert a small chunk of blank space.
+- `:break[…]` will force text inside the brackets to be broken at any character, rather than just word boundaries. This is only necessary if you have very long words (of at least 20-25 letters) in a script, and those words are long enough to break the page layout on mobile.
+  - `:break[...]{hyphens}` will tell the browser to insert hyphens at syllable boundaries instead of breaking the text willy-nilly. This can sometimes be better, so try both ways and see what works well. Hyphenation is great for real words, while arbitrary-character breaks are great for fake ones.
+- `:sd[...]` italicizes the text wrapped in brackets, and adds some fancy brackets around the text. Use this whenever the script tells the band to do something (like make a form or play a song) or otherwise gives non-spoken directions.
+- Put `::script-note[...]` around a paragraph to mark it as being context or commentary.
+  - You can also use a `:::script-note` block to wrap multiple paragraphs
+- For lists (“A-B-C-D-E-F The Princeton Band!”), use a `:::script-list` block.
+  - Leave blank lines between the `:::` lines and the list items, to make Prettier work right.
+  - Use a single unordered list (i.e. `- blah`) inside the block with as many items as you’d like, and write in the delimiters yourself. This allows for flexibility regarding the progression of letters, which scriptwriters sometimes use creatively.
+
+### Compiling senior script books
 
 1. In `eleventy-book.config.js`, update `graduationYear` (to the desired graduation year, with a .5 if the book is for a .5er) and `extraYear` (to `true` if you’re making it for someone who took an extra year, `false` otherwise)
 2. Run `npm run build:book`, then open `book/book.pdf` in your favorite PDF viewer. Expect it to be around 100 pages.
-3. Make sure there are no typos and everything is laid out decently, then…
-   - If you have to make changes, run `npm run start:book` and open http://localhost:8080 in your browser to get a live preview of what the book will look like. Note that you will have to manually refresh to get CSS changes to apply, due to the way the paging library works.
+3. Make sure there are no typos and everything is laid out decently
+   - If you have to make changes, run `npm run start:book` and open http://localhost:8080 in your browser to get a live preview of what the book will look like. Note that you will have to manually refresh to get CSS changes to apply, due to the way the library that slices the HTML into pages works.
 4. [TODO: fill out this step once I figure out how to print it out]
 
-#### Adding/removing pages
+### Adding/removing pages
 
-1. Create a new `.md` file in the `pages` folder. The name of the file will be the URL (i.e. `about-us.md` is `/about-us`).
-   - The title will be automatically created from the name of the file by replacing dashes with spaces and title-casing. If this behavior is incorrect, specify the `title` property in the front matter (front matter is described below)
-   - Use the `.html` extension if you want to write HTML instead of Markdown.
+1. Create a new file in the `pages` folder. The name of the file will be the URL (i.e. `about-us.md` is `/about-us/`).
+   - See the “Templates” section above to help you decide what file extension to use.
 2. (optional) Add [front matter](https://www.11ty.dev/docs/data-frontmatter/) (three dashes on a line, followed by some YAML, followed by three more dashes on a line, followed by the actual content of the file). You can specify any data here, but currently the website supports:
    - `title`: A custom title for the page. By default, it will be generated from the file name, so in most cases you won’t need to manually specify it.
      - if the default title is only wrong due to mis-capitalizing an acronym or similar, add the correct capitalization to the `special` array at the end of the `title` function in `eleventyComputed.js` and it will be used instead.
-   - `layout`: defaults to `page.njk` (i.e. `layouts/page.njk`). Specify a different layout if you want.
-   - `summary`: italicized, indented text displayed between the title and the content
+   - `layout`: defaults to `page.jsx` (i.e. `layouts/page.jsx`). Specify a different layout if you want.
+   - `summary`: text displayed between the title and the content, with a bracket to set it apart
    - `showHeader`: disable the default header. for when you want a something custom
-   - `toc`: By default, a table of contents will be generated for any page with at least one header with an `id` property (put `{#id}` at the end of a heading to set an ID). You can override this by specifying `toc: false` to disable the table of contents, or pass an array of custom headings (check out `buttons.html` for an example of this).
-   - (there are a bunch more for scripts, described below)
+   - `toc`: By default, a table of contents will be generated for any page with at least one header with an `id` property (put <code>{#_id_}</code> at the end of a heading to set an ID). You can override this by specifying `toc: false` to disable the table of contents, or pass an array of custom headings (check out `buttons.jsx` for an example of this).
+   - (there are a bunch more for scripts, described above)
    - check out [Eleventy’s docs](https://www.11ty.dev/docs/data-configuration/) for additional options.
-3. Add the page content, formatted using Markdown. You can use [Nunjucks template commands](https://mozilla.github.io/nunjucks/templating.html) to incorporate data into the page.
+3. Add the page content, formatted using the language you chose.
 4. Add the page to the navbar:
-   - To add it at the top level, edit `Nav.jsx` to add a link to the page (use the “Contact” link as an example)
    - To add it to a menu, edit `nav.yml` by adding an entry somewhere with the path of the page (without the file extension; use the others as an example). The title will be automatically picked up.
+   - To add it at the top level, edit `Nav.jsx` to add a link to the page (use the “Contact” link as an example)
 
-#### Adding an icon
+### Adding an icon
 
 To add a new icon to `assets/icons.svg`:
 
 1. Find the icon you want online, in SVG format. Make sure it has a free/permissive license!
 2. Create a new `<symbol>` element in `assets/icons.svg`:
-   - The `id` property should be an ID (use `kebab-case` and avoid spaces).
+   - The `id` property should be the ID used to reference the icon from templates (use `kebab-case` and avoid spaces).
    - The `viewBox` property should match the one on the `<svg>` tag of the SVG you’re copying
-     - if there isn’t a `viewBox` property, `0 0 width height` (where `width` and `height`) are replaced by those properties on the SVG) should work.
+     - if there isn’t a `viewBox` property, `0 0 width height` (where `width` and `height` are replaced by those properties on the SVG) should work.
 3. Paste everything inside of the `<svg>` tag into the `<symbol>`.
 
 ---
 
-## Descriptions of design decisions
-
-### Why Eleventy?
-
-I (Jed) chose Eleventy for several reasons.
-
-- I hadn’t used it before and wanted to try something new
-- I like JavaScript and am comfortable writing it
-- Eleventy is a few years old but still quite modern and actively maintained
-- Very little of the content of this repo is actually specific to Eleventy.
-  - Most static site generators have a concept of front matter, data files, layouts, includes, and assets.
-  - The templates are written in a popular template language (Nunjucks), which is quite similar to Liquid (used by Jekyll and others) and Handlebars.
-- Unlike static site generators that offer framework integration (Gatsby, Next.js, Nuxt, …), Eleventy does not impose any requirements or restrictions on the frontend.
-  - For what the band site does now, plain old static HTML with a little vanilla JS sprinkled on top is perfectly adequate.
-  - I built a site with Gatsby once and it is so unnecessarily complicated. Most of the code in this repo is about making a site for the band, not appeasing the framework.
-- The previous website was built with Drupal. PHP bad.
-
-One downside of Eleventy is that, because it’s code-based with no graphical editor, it is less accessible to people with no coding background. However, Markdown is becoming more and more common, and I doubt the band will have a shortage of CS students anytime soon.
-
-While I think I’ve made a sound technical decision in late 2021, I’m not naïve enough to believe that Eleventy will always be the best option. Use your own judgement! Hopefully the work I put into converting the various pieces of historical data into a reasonable format will make it reasonably easy to switch over to a new platform/framework. If the website just needs a fresh coat of paint, you can rewrite `layouts` and `includes` (and throw out Bootstrap if you want) while still keeping Eleventy around.
+Also check out [`design-decisions.md`](./design-decisions.md) for more insight into why things are the way the are. Feel free to add sections when you make new decisions so future webmasters can have context!
 
 If you ever get really stuck with something, you can always [reach out to me](mailto:jed@jedfox.com) and I’ll do my best to lend a hand!
-
-### Why JSX?
-
-JSX is the fourth template language I tried using while building this website. (The first three were Liquid, Nunjucks, and Handlebars.) The common issues I saw with all three were that auto-formatter support (in particular Prettier, but I did look around a bit for alternatives) was lacking, and that it was hard to do “real logic” in the templates.
-
-Formatting was lacking, I think, because template languages are extremely difficult to write a formatter for. There is Prettier support for Handlebars, but it did not support all the language features, and being confident that it will always produce correct results is very hard. Fundamentally, a template language mixes two programming languages (in our case, Markdown or HTML and the language that defines the `{{ ... }}` and `{% ... %}` syntax) with no structure. Interpolations can theoretically contain any content, meaning that solving the parsing problem for all cases is impossible (and solving it for “reasonable” cases is extremely difficult). You could, for example, wrap an if statement around only the opening tag of an HTML tag. (That isn’t theoretical, while looking for test cases while trying to [improve Prettier’s Handlebars formatting support](https://github.com/prettier/prettier/pull/12037) I found real examples of this).
-
-And logic, I believe, is lacking because writing programming languages is hard. There are projects like EJS which attempt to merge a “real” language like JavaScript with template content (but they encounter a much harder version of the formatting problem because both languages are highly complex). As a result, most template languages come up with their own mini-language for pulling properties off of objects and running helper functions. Since the top level of most template languages is defined to output literal content (for ease of use and readability reasons), there isn’t a good place to define helper functions. Handlebars came the closest here with its “inline partials,” but its language is otherwise quite limited.
-
-I realized that JSX (used by React) solves many of these problems. The locations you can inject arbitrary expressions are quite tightly limited to only the “normal” places. Because of this (and because it is very widely used), formatter and tooling support is excellent. Because JavaScript is a full-featured language, you can easily write helper functions and share code across files. I was able to go from 5–6 “shortcodes” in Nunjucks (and 15–20 for Handlebars) to zero for JSX. Unfortunately, Eleventy doesn’t support JSX by default. So I spent a few days making a plugin that lets it do just that, which seems to work ok for the use case I’ve tested it on (namely, this site). It runs fairly quickly (only a bit slower than Handlebars) and mostly works as you’d expect.
