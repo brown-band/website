@@ -1,7 +1,8 @@
 name: GitHub Pages
 
 permissions:
-  contents: write
+  contents: read
+  pages: write
 
 on:
   push:
@@ -30,11 +31,12 @@ jobs:
       - run: npm ci
       - run: npm run build
 
-      - name: Deploy
-        uses: peaceiris/actions-gh-pages@v3
+      - name: Upload Built Site
+        uses: actions/upload-artifact@v2
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./public
-          force_orphan: true
-          user_name: "github-actions[bot]"
-          user_email: "github-actions[bot]@users.noreply.github.com"
+          name: github-pages
+          path: public/
+      - name: Deploy to GitHub Pages
+        uses: actions/deploy-pages@v1
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
