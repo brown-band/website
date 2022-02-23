@@ -12,9 +12,9 @@ exports.default = ({ scripts }) => (
       over 60 years. Over this time, cultural norms have changed significantly.
       We recognize that some of the humor in our scripts goes beyond “edgy” and
       is at times discriminatory or otherwise highly offensive. We’ve decided to
-      leave the scripts unchanged — typos included — as a part of the historical
-      record. Don’t let this scare you away, though. Check out our more recent
-      scripts and consider becoming a scriptwriter yourself!
+      leave the scripts unchanged — typos included — as a part of an honest
+      historical record. Don’t let this scare you away, though. Check out our
+      more recent scripts and consider becoming a scriptwriter yourself!
     </p>
 
     <table
