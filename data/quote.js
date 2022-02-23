@@ -9,24 +9,25 @@ module.exports = async () => {
     cwd: path.dirname(__dirname),
   });
 
-  const quotes = (
-    await Promise.all(
-      allFiles.reverse().map(async (p) => {
-        const content = await fs.readFile(p, "utf8");
-        return [
-          /Brown University ["“]([^”"]+)["”] b/i.exec(content),
-          /ladies and gentlemen, .+?[,!] presenting (.+?), it['’]s/i.exec(
-            content
-          ),
-        ];
-      })
-    )
-  )
-    .flatMap((matches) => matches)
+  const regexes = [
+    /Brown University ["“]([^”"]+)["”] b/i,
+    /ladies and gentlemen, .+?[,!] presenting (.+?), it['’]s/i,
+  ];
+
+  const matches = await Promise.all(
+    allFiles.map(async (p) => {
+      const content = await fs.readFile(p, "utf8");
+      return regexes.map((re) => re.exec(content));
+    })
+  );
+
+  const quotes = matches
+    .flatMap((x) => x)
     .filter(Boolean)
     .map(([context, quote]) => quote)
     // attempt to prevent quotes from breaking onto >= 3 lines
     .filter((q) => q.length <= 70);
+
   return {
     all: quotes,
     random: () => quotes[Math.floor(Math.random() * quotes.length)],
