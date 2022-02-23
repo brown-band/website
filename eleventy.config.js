@@ -48,7 +48,7 @@ module.exports = (eleventyConfig) => {
   });
 
   // disable printing each page as it is converted (since there are a lot of them)
-  eleventyConfig.setQuietMode(true);
+  eleventyConfig.setQuietMode(!process.env.CI);
 
   return {
     markdownTemplateEngine: "md",
