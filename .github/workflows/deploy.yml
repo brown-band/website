@@ -3,6 +3,7 @@ name: GitHub Pages
 permissions:
   contents: read
   pages: write
+  id-token: write
 
 on:
   push:
@@ -13,6 +14,9 @@ jobs:
     runs-on: ubuntu-20.04
     concurrency:
       group: ${{ github.workflow }}-${{ github.ref }}
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - uses: actions/checkout@v2
 
@@ -38,5 +42,6 @@ jobs:
           path: public/
       - name: Deploy to GitHub Pages
         uses: actions/deploy-pages@v1
+        id: deployment
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
