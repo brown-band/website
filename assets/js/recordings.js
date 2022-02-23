@@ -150,7 +150,7 @@ const renderAlbum = (/** @type {Album} */ album) =>
   getTemplate("trackList", (sec) => {
     sec.querySelector("h2").id = album.id;
     sec.querySelector("h2").textContent = album.title;
-    sec.querySelector("p").textContent = album.about;
+    sec.querySelector("p").innerHTML = album.about;
 
     const includeArranger = album.tracks.some((t) => "arranger" in t);
     if (!includeArranger) {
