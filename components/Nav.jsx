@@ -1,5 +1,6 @@
 const { createElement } = require("eleventy-hast-jsx");
 const Icon = require("./Icon");
+const Markdown = require("./Markdown");
 
 const findPage = (id, all) => all.find((p) => p.filePathStem === "/" + id);
 
@@ -11,7 +12,7 @@ const findPage = (id, all) => all.find((p) => p.filePathStem === "/" + id);
  * @param {Array} props.all `collections.all` from the page data
  * @param {string} props.currentURL the URL of the current page (`page.url` from the page data)
  */
-module.exports = ({ site, quote, nav, all, currentURL }) => (
+module.exports = async ({ site, quote, nav, all, currentURL }) => (
   <>
     <link rel="stylesheet" href="/assets/css/navbar-colors.css" />
     <link rel="stylesheet" href="/assets/css/nav.css" />
@@ -38,7 +39,9 @@ module.exports = ({ site, quote, nav, all, currentURL }) => (
               <span style="font-family: Niconne; font-size: 1.25em">
                 {site.title}
               </span>
-              <span class="header-quote">{quote.random()}</span>
+              <span class="header-quote">
+                {(await (<Markdown content={quote.random()} />))[0].children}
+              </span>
             </div>
           </a>
           <ul class="navbar-nav bg-brown3 flex-sm-row">

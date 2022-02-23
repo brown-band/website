@@ -11,11 +11,13 @@ exports.data = {
 
 exports.default = async ({ site, quote, nav, collections, page, content }) => (
   <>
-    <Nav
-      {...{ site, quote, nav }}
-      all={collections.all}
-      currentURL={page.url}
-    />
+    {await (
+      <Nav
+        {...{ site, quote, nav }}
+        all={collections.all}
+        currentURL={page.url}
+      />
+    )}
 
     <div class="container mt-4 mb-5 px-md-0 flex-shrink-0">
       <div class="row">

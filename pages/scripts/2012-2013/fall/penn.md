@@ -12,7 +12,7 @@ date: 2012-10-27
 
 ## Pregame
 
-Ladies and Gentlemen, friends and alumni, presenting an organization that'll let you have whatever you like, it's the Brown University "~~~StAcKs On DeCk, PaTrOn On IcE~~~" BAAAANNNDDD!
+Ladies and Gentlemen, friends and alumni, presenting an organization that'll let you have whatever you like, it's the Brown University "\~\~\~StAcKs On DeCk, PaTrOn On IcE\~\~\~" BAAAANNNDDD!
 
 We're somewhat kinda not really excited to be in the grand City of Brotherly Love and to play an exciting game against Penn State! I meant the University of Pittsburgh! I meant the University of Pennsylvania, the finest public university in all the Philly Cheesesteak-covered land of Philadelphia!
 
