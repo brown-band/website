@@ -4,6 +4,8 @@ summary: |
   Are you a Brown University undergraduate, grad student, or employee? Does your heart swell with pride whenever a touchdown, basket, or goal is scored in defense of Brunonia's honor? Do your friends refuse to attend sporting events with you because they are embarrassed by your loud and heartfelt cheering? Do you like bagels? If yes, you're already Brown Band material - all you have to do now is join up!
 ---
 
+**[Commencement Schedule 2022 &rarr;](/commencement/)**
+
 ## Why join the band?
 
 The Band is a fun-loving group of Brunonians who help to keep school spirit alive at Brown. Whether we are following the football team on the road, cheering on men's and women's basketball and hockey here in Providence, or playing for major school events, such as Convocation, we are Ever True to Brown. We interact with alumni, administrators and other students, sharing our love for Brown and leading our appreciative audiences in displaying our school spirit. And when the night falls, we party like there's no tomorrow. Here are some other reasons to join:
