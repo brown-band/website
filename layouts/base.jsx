@@ -51,7 +51,7 @@ exports.default = ({ title, site, bodyAttrs, content }) => (
           rel="stylesheet"
         />
         <link
-          href="https://fonts.googleapis.com/css2?family=Quicksand:wght@500;700&display=optional"
+          href="https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&display=optional"
           rel="stylesheet"
         />
       </head>
