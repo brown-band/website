@@ -82,7 +82,7 @@ module.exports = (eleventyConfig) => {
           "data-bs-popper",
         ],
         // not sure why this isn’t picked up
-        variables: ["--bs-font-monospace"],
+        variables: ["--bs-font-monospace", "--bs-body-font-weight"],
       },
       rejected: process.env.NODE_ENV !== "production",
     });

@@ -11,6 +11,11 @@
   --toc-offset: 2.75rem;
   --toc-width: 300px;
 }
+@media (min-width: 1200px) {
+  :root {
+    --toc-width: 350px;
+  }
+}
 
 .toc nav > ul {
   padding-left: 1rem;
@@ -76,11 +81,5 @@
   }
   .toc li li {
     opacity: 0.85;
-  }
-}
-
-@media (min-width: 1200px) {
-  .toc {
-    --toc-width: 350px;
   }
 }
