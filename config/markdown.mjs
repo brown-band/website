@@ -58,6 +58,15 @@ function directivesPlugin() {
       if (node.type === "textDirective" && node.name === "sd") {
         return { ...node, data: h("span", "_69-direction") };
       }
+      if (node.type === "textDirective" && node.name === "red") {
+        return {
+          ...node,
+          data: {
+            hName: "span",
+            hProperties: { style: "font-weight: 650; color: #ff0200" },
+          },
+        };
+      }
       if (node.type === "leafDirective" && node.name === "script-note") {
         return Object.assign(parent, {
           ...node,
