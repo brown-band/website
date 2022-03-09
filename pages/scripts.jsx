@@ -8,26 +8,27 @@ exports.data = {
 exports.default = async ({ scripts }) => {
   const { groups, reverse } = await import("d3-array");
 
-  const button = "btn btn-link fw-bold px-2 py-1 text-dark";
+  const button = "btn btn-link fw-bold px-2 py-1";
+  const style = "color: var(--bs-body-color);";
 
   const thisYear = scripts.years[scripts.years.length - 1];
 
   const fallSpring = (year) => [
     year.fall ? (
-      <a class={button} href={"/" + year.fall}>
+      <a class={button} style={style} href={"/" + year.fall}>
         Fall
       </a>
     ) : (
-      <button class={button} disabled style="opacity: 0.4">
+      <button class={button} style={style + "opacity: 0.4"} disabled>
         Fall
       </button>
     ),
     year.spring ? (
-      <a class={button} href={"/" + year.spring}>
+      <a class={button} style={style} href={"/" + year.spring}>
         Spring
       </a>
     ) : (
-      <button class={button} disabled style="opacity: 0.4">
+      <button class={button} style={style + "opacity: 0.4"} disabled>
         Spring
       </button>
     ),

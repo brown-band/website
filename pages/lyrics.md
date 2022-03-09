@@ -7,13 +7,13 @@
 <table class="table table-borderless">
 <thead class="text-center">
 <tr>
-    <th scope="col" style="border-right: 1.5px solid #aaa">Traditional version</th>
+    <th scope="col" style="border-right: 1.5px solid var(--bs-border-color)">Traditional version</th>
     <th scope="col">"Modern" version</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td style="border-right: 1.5px solid #aaa">
+<td style="border-right: 1.5px solid var(--bs-border-color)">
 
 We are ever true to Brown,  
 For we love our college dear,  
