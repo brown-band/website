@@ -63,10 +63,7 @@ module.exports = (eleventyConfig) => {
     console.time("Bootstrap CSS");
     const result = await purger.purge({
       content: [`${outDir}/**/*.html`, `${outDir}/*.html`],
-      css: [
-        `${outDir}/assets/css/*.css`,
-        "node_modules/bootstrap-dark-5/dist/css/bootstrap-dark.css",
-      ],
+      css: [`${outDir}/assets/css/*.css`, `assets/vendor/bootstrap.css`],
       extractors: [{ extractor: extractFromHTML, extensions: ["html"] }],
       variables: true,
       keyframes: true,
@@ -84,6 +81,7 @@ module.exports = (eleventyConfig) => {
         // not sure why this isn’t picked up
         variables: ["--bs-font-monospace", "--bs-body-font-weight"],
       },
+      dynamicAttributes: ["data-theme"],
       rejected: process.env.NODE_ENV !== "production",
     });
     if (process.env.NODE_ENV === "production") {
@@ -96,9 +94,7 @@ module.exports = (eleventyConfig) => {
     } else {
       await writeFile(
         path.join(outDir, "assets", "vendor", "bootstrap.min.css"),
-        await readFile(
-          "node_modules/bootstrap-dark-5/dist/css/bootstrap-dark.css"
-        )
+        await readFile(`assets/vendor/bootstrap.css`)
       );
     }
     if (result[result.length - 1].rejected) {

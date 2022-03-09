@@ -17,7 +17,7 @@ module.exports = async ({ site, quote, nav, all, currentURL }) => (
     <link rel="stylesheet" href="/assets/css/navbar-colors.css" />
     <link rel="stylesheet" href="/assets/css/nav.css" />
 
-    <nav class="navbar navbar-expand-md navbar-brown">
+    <nav class="navbar navbar-expand-md navbar-dark bg-brown2">
       <div class="container-lg">
         <div class="col-lg-1 col-xl-2" />
         <div
@@ -69,7 +69,7 @@ module.exports = async ({ site, quote, nav, all, currentURL }) => (
                 </button>
 
                 <ul
-                  class="dropdown-menu dropdown-menu-brown rounded-3 sm-shadow-brown mx-3 mx-sm-0"
+                  class="dropdown-menu dropdown-menu-dark dropdown-menu-brown rounded-3 sm-shadow-brown mx-3 mx-sm-0"
                   aria-labelledby={`dropdownMenuLink-${index}`}
                 >
                   {item.content.map((link) => {

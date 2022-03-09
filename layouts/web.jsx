@@ -30,6 +30,7 @@ exports.default = async ({ site, quote, nav, collections, page, content }) => (
 
     {await (<Footer />)}
 
+    <script type="module" src="/assets/js/dark-mode.js" />
     {process.env.NODE_ENV !== "production" && (
       <script type="module" src="/assets/js/check-purged.js" />
     )}
