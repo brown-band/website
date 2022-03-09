@@ -63,7 +63,10 @@ function directivesPlugin() {
           ...node,
           data: {
             hName: "span",
-            hProperties: { style: "font-weight: 650; color: #ff0200" },
+            hProperties: {
+              class: "text-danger",
+              style: "font-weight: 650",
+            },
           },
         };
       }
