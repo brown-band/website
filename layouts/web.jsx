@@ -11,6 +11,15 @@ exports.data = {
 
 exports.default = async ({ site, quote, nav, collections, page, content }) => (
   <>
+    <script>{`
+      const media = matchMedia("(prefers-color-scheme: dark)");
+      const update = () => {
+        document.documentElement.dataset.theme = media.matches ? "dark" : "light";
+      };
+      update();
+
+      media.addEventListener("change", update);
+    `}</script>
     {await (
       <Nav
         {...{ site, quote, nav }}
@@ -30,7 +39,6 @@ exports.default = async ({ site, quote, nav, collections, page, content }) => (
 
     {await (<Footer />)}
 
-    <script type="module" src="/assets/js/dark-mode.js" />
     {process.env.NODE_ENV !== "production" && (
       <script type="module" src="/assets/js/check-purged.js" />
     )}
