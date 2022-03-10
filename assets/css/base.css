@@ -1,15 +1,12 @@
 :root {
-  --bs-body-font-family: Quicksand, sans-serif;
-  --bs-body-font-weight: 500;
-}
-
-[data-theme="light"] {
   --brown-1: #271b0c;
   --brown-2: #382710;
   --brown-3: #483314;
   --brown-4: #593f17;
   --shadow-brown: 0 0.35rem 1rem 0.4rem #593f1755;
   color-scheme: light;
+  --bs-body-font-family: Quicksand, sans-serif;
+  --bs-body-font-weight: 500;
 }
 
 [data-theme="dark"] {
