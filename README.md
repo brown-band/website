@@ -8,14 +8,14 @@ Welcome to the repository for the Brown Band!
 
 This site is a static site powered by [Eleventy (11ty)](https://www.11ty.dev) and hosted on GitHub Pages. That means that the files in this repository are transformed by a build script producing a folder full of plain HTML files that any static site host can serve. If GitHub Pages ceases to exist, you should have a wide variety of competitors to choose from. Hopefully.
 
-To get started making updates to the website, make sure you have [Node.js](https://nodejs.org/en/) and [Git](https://git-scm.com) installed on your computer. I recommend using something like [nvm](https://github.com/nvm-sh/nvm) (or my favorite, [asdf](https://asdf-vm.com)), which will automatically pick up the `.node-version` file in this repository and prompt you to install that version of Node.
+To get started making updates to the website, make sure you have [Node.js](https://nodejs.org/en/), [Git](https://git-scm.com), and [pnpm](https://pnpm.io) installed on your computer. I recommend using something like [nvm](https://github.com/nvm-sh/nvm) (or my favorite, [asdf](https://asdf-vm.com)), which will automatically pick up the `.node-version` file in this repository and prompt you to install that version of Node.
 
-In a terminal, run `git clone https://github.com/brown-band/website` to copy the website to your computer. Then open a terminal to the folder that this README file is in, and run `npm install` to install most dependencies. Once that finishes, you can run one of several scripts via `npm run`:
+In a terminal, run `git clone https://github.com/brown-band/website` to copy the website to your computer. Then open a terminal to the folder that this README file is in, and run `pnpm install` to install most dependencies. Once that finishes, you can run one of several scripts via `pnpm`:
 
-- <code>npm **start**</code>: Runs Eleventy in development mode, starting a local server and rebuilding whenever you change a file. Open https://localhost:8080 to view the website locally!
-- <code>npm run **build**</code>: Runs Eleventy once, outputting the generated site in the `public` folder. Run this before uploading the contents of that folder to a static site host. (There’s typically no need for you to do this, since a new build will be automatically triggered whenever you push updated code to GitHub)
-- <code>npm run **format**</code>: Runs [Prettier](https://prettier.io) to ensure consistent code and document formatting. Ideally, set up your code editor to run Prettier whenever you save a file — check out their [editor integration docs](https://prettier.io/docs/en/editors.html) or search your editor’s package manager for a “Prettier” package.
-- <code>npm run **start:book**</code> and <code>npm run **build:book**</code>: like `npm start` and `npm run build` but for the script book. See below!
+- <code>pnpm **start**</code>: Runs Eleventy in development mode, starting a local server and rebuilding whenever you change a file. Open https://localhost:8080 to view the website locally!
+- <code>pnpm **build**</code>: Runs Eleventy once, outputting the generated site in the `public` folder. Run this before uploading the contents of that folder to a static site host. (There’s typically no need for you to do this, since a new build will be automatically triggered whenever you push updated code to GitHub)
+- <code>pnpm **format**</code>: Runs [Prettier](https://prettier.io) to ensure consistent code and document formatting. Ideally, set up your code editor to run Prettier whenever you save a file — check out their [editor integration docs](https://prettier.io/docs/en/editors.html) or search your editor’s package manager for a “Prettier” package.
+- <code>pnpm **start:book**</code> and <code>pnpm **build:book**</code>: like `pnpm start` and `pnpm build` but for the script book. See below!
 
 Optionally, check out the external documentation for packages this project uses for a deeper understanding of how things work (in approximately decreasing order of importance):
 
@@ -40,7 +40,7 @@ Top-level folders:
     - `recordings.js`: renders the decrypted recordings page on the client side and enables playback.
     - `check-purged.js`: checks that CSS removed to reduce file size is not actually being used.
 - `book`: handles printing the script books given to seniors at graduation. See below for details.
-- `book-html`: the output directory for `npm run book:*`, not checked into Git.
+- `book-html`: the output directory for `pnpm run book:*`, not checked into Git.
 - `buttons`: contains folders for each class year. See below for more detailed instructions.
   - `buttons/[year]/labels.yml`: contains a mapping from college name → button description for that year
 - `components`: See each file for a description of the props it expects
@@ -82,14 +82,14 @@ Top-level folders:
   - `base.jsx`: contains the basic page layout (shared across print and web), including the page title, CSS/JS imports, and page content
   - `web.jsx`: contains the navbar and `container` (which sets the maximum width of the content) (inherits `base.jsx`)
   - `page.jsx`: renders the page title and summary (inherits `web.jsx`)
-- `node_modules`: Created by `npm install`. Don’t change it yourself — instead use `npm` commands to add and remove packages.
+- `node_modules`: Created by `pnpm install`. Don’t change it yourself — instead use `pnpm` commands to add and remove packages.
 - `pages`: the pages on the website. Each page is automatically compiled into HTML by Eleventy.
   - `scripts`: show scripts.
     - Contains a subfolder for each year’s scripts, with `fall` and `spring` subfolders.
     - Add an `.11tydata.yml` file (matching the name of the folder it goes into) to record the list of scriptwriters for a semester or year.
   - `index.md`: the homepage
   - `script-semester.jsx`: Eleventy copies this page for every semester for which we have scripts for.
-- `public`: the output directory, not checked into Git. Eleventy creates and updates (but does not delete) files in this directory when you run `npm start` or `npm run build`.
+- `public`: the output directory, not checked into Git. Eleventy creates and updates (but does not delete) files in this directory when you run `pnpm start` or `pnpm run build`.
 
 Top-level files:
 
@@ -101,7 +101,7 @@ Top-level files:
 - `design-decisions.md`: see the bottom of this file
 - `eleventy.config.js`, `eleventy-book.config.js`: configuration files for Eleventy. See the comments inside the files, as well as [Eleventy's docs](https://www.11ty.dev/docs/config/) for more details.
 - `jsconfig.json`: used to configure TypeScript language features for editor integration (we’re not actually using TypeScript at this point, but the autocomplete it provides is sometimes helpful)
-- `package.json`, `package-lock.json`: lists the packages used by the website (both on the frontend and on the backend), and defines the scripts accessible using `npm run`.
+- `package.json`, `pnpm-lock.yaml`: lists the packages used by the website (both on the frontend and on the backend), and defines the scripts accessible using `pnpm`.
   - the convention I’ve tried to maintain is that packages from which one or more files are copied into `public/` during the build process get installed as `dependencies`, and everything else gets installed into `devDependencies`.
 - `README.md`: congrats, you’ve found this file!
 
@@ -161,7 +161,7 @@ For band board and the conductors, provide the following properties:
 - `link`: apostrophe link provided by the person
 - `year` graduation year (2 digits, represented as a number)
   - If you’re seeing unexpected behavior because people are graduating on or after 2100, I’m sorry. (actually I’m probably dead and therefore not capable of being sorry)
-- `bio`: bio provided by the person. Uses a YAML [“literal block scalar”](https://web.archive.org/web/20211119210045/https://yaml-multiline.info) to preserve newlines. Make sure to keep the `|` after the `:`, and start the bio on the next line. Markdown is supported, so make sure to escape any special characters with a `\` (check by running `npm start` and then visiting http://localhost:8080/leadership/ to see if there’s anything that needs changing)
+- `bio`: bio provided by the person. Uses a YAML [“literal block scalar”](https://web.archive.org/web/20211119210045/https://yaml-multiline.info) to preserve newlines. Make sure to keep the `|` after the `:`, and start the bio on the next line. Markdown is supported, so make sure to escape any special characters with a `\` (check by running `pnpm start` and then visiting http://localhost:8080/leadership/ to see if there’s anything that needs changing)
 
 For section leaders and appointed positions, provide the following properties:
 
@@ -225,9 +225,9 @@ There are a few extensions to Markdown that this project uses to make it easier 
 ### Compiling senior script books
 
 1. In `eleventy-book.config.js`, update `graduationYear` (to the desired graduation year, with a .5 if the book is for a .5er) and `extraYear` (to `true` if you’re making it for someone who took an extra year, `false` otherwise)
-2. Run `npm run build:book`, then open `book/book.pdf` in your favorite PDF viewer. Expect it to be around 100 pages.
+2. Run `pnpm build:book`, then open `book/book.pdf` in your favorite PDF viewer. Expect it to be around 100 pages.
 3. Make sure there are no typos and everything is laid out decently
-   - If you have to make changes, run `npm run start:book` and open http://localhost:8080 in your browser to get a live preview of what the book will look like. Note that you will have to manually refresh to get CSS changes to apply, due to the way the library that slices the HTML into pages works.
+   - If you have to make changes, run `pnpm start:book` and open http://localhost:8080 in your browser to get a live preview of what the book will look like. Note that you will have to manually refresh to get CSS changes to apply, due to the way the library that slices the HTML into pages works.
 4. [TODO: fill out this step once I figure out how to print it out]
 
 ### Adding/removing pages

@@ -15,19 +15,18 @@ jobs:
     steps:
       - uses: actions/checkout@v2
 
+      - uses: pnpm/action-setup@v2.0.1
+        with:
+          version: 6.32.3
+
       - name: Setup Node
         uses: actions/setup-node@v2
         with:
           node-version-file: .node-version
+          cache: pnpm
 
-      - name: Cache dependencies
-        uses: actions/cache@v2
-        with:
-          path: ~/.npm
-          key: npm-${{ hashFiles('package-lock.json') }}
-          restore-keys: npm-
-
-      - run: npm ci
+      - name: Install dependencies
+        run: pnpm install --frozen-lockfile
       - run: npm run build
 
       - name: Deploy
