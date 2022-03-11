@@ -19,11 +19,6 @@ module.exports = (eleventyConfig) => {
    */
   // set the default layout
   eleventyConfig.addGlobalData("layout", "page.jsx");
-  // set the domain of the media bucket
-  eleventyConfig.addGlobalData(
-    "recordings_url",
-    "https://brown-band-recordings.s3.amazonaws.com"
-  );
 
   /**
    * Assets

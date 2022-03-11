@@ -10,7 +10,7 @@ exports.data = {
     "The Brown Band is best known for its scrambling, its skating, and its satire, but few people realize that we are also the only student group to carry on many traditions of Brown that would have otherwise been lost. Most important of these traditions are Brown songs, which were composed upwards of a century ago. Today, the Brown Band brings this music out of commencement ceremonies and alumni reunions and into sporting events and campus marches where they can be heard and enjoyed all over Rhode Island.",
 };
 
-exports.default = ({ recordings_url }) => (
+exports.default = ({ site: { urls } }) => (
   <>
     <link rel="stylesheet" href="/assets/css/recordings.css" />
 
@@ -90,7 +90,7 @@ exports.default = ({ recordings_url }) => (
     </template>
 
     <script src="/assets/vendor/base64-arraybuffer.umd.js" />
-    <script>globalThis.mediaHost = new URL("{recordings_url}");</script>
+    <script>globalThis.mediaHost = new URL("{urls.recordings}");</script>
     <script type="module" src="/assets/js/handle-password.js" />
     <script type="module" src="/assets/js/recordings.js" />
   </>
