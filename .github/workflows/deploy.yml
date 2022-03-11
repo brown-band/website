@@ -13,7 +13,8 @@ jobs:
     concurrency:
       group: ${{ github.workflow }}-${{ github.ref }}
     steps:
-      - uses: actions/checkout@v2
+      - name: Checkout
+        uses: actions/checkout@v2
 
       - name: Cache dependencies
         uses: actions/cache@v2
@@ -22,7 +23,8 @@ jobs:
           key: pnpm-${{ hashFiles('pnpm-lock.yaml') }}
           restore-keys: pnpm-
 
-      - uses: pnpm/action-setup@v2.0.1
+      - name: Setup pnpm
+        uses: pnpm/action-setup@v2.0.1
         with:
           version: 6.32.3
 
@@ -33,9 +35,13 @@ jobs:
 
       - name: Install dependencies
         run: pnpm install --frozen-lockfile
-      - run: npm run build
 
-      - name: Deploy
+      - name: Run Eleventy
+        run: npm run build
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Upload built site to gh-pages branch
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
