@@ -19,17 +19,43 @@
 module.exports = async () => {
   const fs = require("node:fs/promises");
   const path = require("node:path");
+  const { AssetCache } = require("@11ty/eleventy-fetch");
   const slugify = require("@sindresorhus/slugify");
   const d3 = await import("d3-array"); // not "d3" because that takes ~300ms to load; see https://github.com/d3/d3/issues/3550
+  const { default: fetch } = await import("node-fetch");
   const { load: loadYaml } = require("js-yaml");
 
-  const readYaml = (...args) =>
-    fs.readFile(path.join(buttonsDir, ...args), "utf8").then(loadYaml);
+  const readYaml = (name) =>
+    fs.readFile(path.join(buttonsDir, name), "utf8").then(loadYaml);
 
   const buttonsDir = path.join(path.dirname(__dirname), "buttons");
-  const years = (await fs.readdir(buttonsDir)).filter(
-    (y) => y !== "unknown" && y !== ".DS_Store"
-  );
+  const years = (await fs.readdir(buttonsDir))
+    .map((y) => y.replace(".yml", ""))
+    .filter((y) => y !== "unknown" && y !== ".DS_Store");
+
+  const imagesAsset = new AssetCache("button-images");
+  if (!imagesAsset.isCacheValid("1h")) {
+    const result = await fetch("https://api.github.com/graphql", {
+      method: "POST",
+      headers: {
+        "Content-Type": "application/json",
+        Authorization: `Bearer ${process.env.GITHUB_TOKEN}`,
+      },
+      body: JSON.stringify({ query: buttonsQuery }),
+    }).then((res) => res.json());
+
+    const buttons = result.data.repository.defaultBranchRef.target.tree.entries
+      .filter(({ type }) => type === "tree")
+      .map(({ name, object }) => [
+        name,
+        object.entries.map(({ name }) => name),
+      ]);
+
+    await imagesAsset.save(buttons, "json");
+  }
+
+  /** @type {Map<string, string[]>} */
+  const buttonImages = new Map(await imagesAsset.getCachedValue());
 
   const rawLabels = await Promise.all(
     years.map(
@@ -37,7 +63,7 @@ module.exports = async () => {
         /** @type {const} */ ([
           year,
           /** @type {{ [key: string]: string }} */ (
-            await readYaml(year, "labels.yml")
+            await readYaml(year + ".yml")
           ),
         ])
     )
@@ -45,7 +71,6 @@ module.exports = async () => {
 
   const allButtonsByYear = await Promise.all(
     rawLabels.map(async ([year, labels]) => {
-      const buttonImages = await fs.readdir(path.join(buttonsDir, year));
       return /** @type {const} */ ([
         year,
         await Promise.all(
@@ -56,8 +81,8 @@ module.exports = async () => {
               school,
               schoolId,
               label,
-              image: buttonImages.includes(`${schoolId}.jpg`)
-                ? `/buttons/${year}/${schoolId}.jpg`
+              image: buttonImages.get(year)?.includes(`${schoolId}.png`)
+                ? `${year}/${schoolId}.png`
                 : null,
             };
           })
@@ -100,10 +125,37 @@ module.exports = async () => {
 
     unknown:
       /** @type {{about: string, imageName?: number, label: string}[]} */ (
-        await readYaml("unknown", "labels.yml")
+        await readYaml("unknown.yml")
       ).map(({ imageName, ...button }) => ({
         ...button,
-        image: imageName ? `/buttons/unknown/${imageName}.jpg` : null,
+        image: imageName ? `unknown/${imageName}.jpg` : null,
       })),
   };
 };
+
+// https://docs.github.com/en/graphql/overview/explorer
+const buttonsQuery = /* GraphQL */ `
+  query FetchButtons {
+    repository(owner: "brown-band", name: "buttons") {
+      defaultBranchRef {
+        target {
+          ... on Commit {
+            tree {
+              entries {
+                name
+                type
+                object {
+                  ... on Tree {
+                    entries {
+                      name
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+`;

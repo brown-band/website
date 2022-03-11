@@ -10,7 +10,11 @@ This site is a static site powered by [Eleventy (11ty)](https://www.11ty.dev) an
 
 To get started making updates to the website, make sure you have [Node.js](https://nodejs.org/en/), [Git](https://git-scm.com), and [pnpm](https://pnpm.io) installed on your computer. I recommend using something like [nvm](https://github.com/nvm-sh/nvm) (or my favorite, [asdf](https://asdf-vm.com)), which will automatically pick up the `.node-version` file in this repository and prompt you to install that version of Node.
 
-In a terminal, run `git clone https://github.com/brown-band/website` to copy the website to your computer. Then open a terminal to the folder that this README file is in, and run `pnpm install` to install most dependencies. Once that finishes, you can run one of several scripts via `pnpm`:
+In a terminal, run `git clone https://github.com/brown-band/website` to copy the website to your computer. Then open a terminal to the folder that this README file is in, and run `pnpm install` to install most dependencies.
+
+Next, copy the `.env.sample` file to `.env` and fill in the values by following the comments in the file.
+
+Once you’ve done that, you can run one of several scripts via `pnpm`:
 
 - <code>pnpm **start**</code>: Runs Eleventy in development mode, starting a local server and rebuilding whenever you change a file. Open https://localhost:8080 to view the website locally!
 - <code>pnpm **build**</code>: Runs Eleventy once, outputting the generated site in the `public` folder. Run this before uploading the contents of that folder to a static site host. (There’s typically no need for you to do this, since a new build will be automatically triggered whenever you push updated code to GitHub)
@@ -41,8 +45,8 @@ Top-level folders:
     - `check-purged.js`: checks that CSS removed to reduce file size is not actually being used.
 - `book`: handles printing the script books given to seniors at graduation. See below for details.
 - `book-html`: the output directory for `pnpm run book:*`, not checked into Git.
-- `buttons`: contains folders for each class year. See below for more detailed instructions.
-  - `buttons/[year]/labels.yml`: contains a mapping from college name → button description for that year
+- `buttons`: contains the labels for all the buttons. See below for more detailed instructions.
+  - `buttons/[year].yml`: contains a mapping from college name → button description for that year
 - `components`: See each file for a description of the props it expects
   - `CryptoWall.jsx`: password field, currently only used by the recordings page
   - `Footer.jsx`: the page footer
@@ -60,7 +64,7 @@ Top-level folders:
   - `templates.js`: Loads in the template config
 - `data`: contains a combination of static data (`.yml` files) and scripts that produce the relevant data for the website (`.js` files)
   - `people/*.yml`: lists the section leaders, appointed positions, conductors, and members of band board.
-  - `buttons.js`: scans the `buttons` folder and formats the buttons for display on the buttons page
+  - `buttons.js`: scans the `buttons` folder and the [`brown-band/buttons` repository](https://github.com/brown-band/buttons) and formats the buttons for display on the buttons page
   - `eleventyComputed.js`: (in order)
     - identifies the opponent (i.e. who Brown was playing) in all of our scripts
     - handles automatically creating titles for pages that don’t specify them.
@@ -173,21 +177,18 @@ For section leaders and appointed positions, provide the following properties:
 
 ### Adding Buttons
 
-First, save a lossless copy of the button image for posterity (do **not** convert this back from the `.jpg`, instead make sure you get a `.png` or vector graphic file from the corsec)
+First, save a lossless copy of the button image to the [`brown-band/buttons`](https://github.com/brown-band/buttons) repository (do **not** convert this back from a `.jpg`, instead make sure you get a `.png` or vector graphic file from the corsec):
 
-1. In the `band-media` repository, create a new folder inside `buttons` with the current year, i.e. `2031-2032`
+1. In the `buttons` repository, create a new folder inside `buttons` with the current year if it doesn’t already exist, i.e. `2031-2032`
 2. Add `.png` (or `.svg` or any other lossless/vector format) files for each button to that folder, with lowercased names. Replace spaces in the name with dashes.
 
-Next, back in this repo:
+Next, back in this repo, create a new file inside the `buttons` folder with the current year and the `.yml` extension, i.e. `2031-2032.yml`:
 
-1. Create a new folder inside `buttons` with the current year, i.e. `2031-2032`
-2. Convert the button images from above to `.jpg` and add them to the new folder, with the same naming convention as the `.png` files above.
-   - I (Jed) used 80% quality for my conversions, but feel free to pick an appropriate value!
-   - This is done because JPEGs are significantly (~90%) smaller than the original PNGs. Git is annoying to use with huge files, so I leave that issue for the (hopefully less-frequently-updated) media repo. Feel free to swap out the JPEGs for whatever fancy new format the people from your time have cooked up! Just make sure you encode from the original PNGs rather than re-encoding the JPEGs.
-3. Create a `labels.yml` file inside that folder.
-   - Use the following format for each line: <code>_College Name (with proper spaces and capitalization)_: _Description on Button_</code>
-   - For the description, include any text on the button. For graphic elements (such as images), enclose a brief description of the graphic in braces (`{}`). If the description starts with a brace or a quote, make sure you wrap it in double quotes so YAML handles it properly.
-   - Look at old buttons for examples of how to write the description!
+- Use the following format for each line: <code>_College Name (with proper spaces and capitalization)_: _Description on Button_</code>
+- For the description, include any text on the button. For graphic elements (such as images), enclose a brief description of the graphic in braces (`{}`). If the description starts with a brace or a quote, make sure you wrap it in double quotes so YAML handles it properly.
+- Look at old buttons for examples of how to write the description!
+
+You might need to remove the `.cache` folder to tell Eleventy to re-download the list of buttons from the `buttons` repository.
 
 That’s it! The build script will automatically pick up the new buttons and add them to the buttons page.
 

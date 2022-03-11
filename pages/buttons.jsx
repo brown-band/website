@@ -42,7 +42,7 @@ const toplink = (
   </a>
 );
 
-exports.default = ({ buttons, specialButtons }) => (
+exports.default = ({ buttons, specialButtons, site: { urls } }) => (
   <>
     <h2 id="current">{buttons.currentYear} Season</h2>
     <p>
@@ -75,11 +75,11 @@ exports.default = ({ buttons, specialButtons }) => (
               </a>
             </td>
             <td>
-              <a href={button.image}>
+              <a href={`${urls.buttons}/${button.image}`}>
                 <img
                   alt={button.label}
                   title={button.label}
-                  src={button.image}
+                  src={`${urls.buttons}/${button.image}`}
                   width="100"
                   height="100"
                   style="border-radius: 50%"
@@ -93,17 +93,17 @@ exports.default = ({ buttons, specialButtons }) => (
 
     <h2 id="ivies">Ivy League: Past Seasons {toplink}</h2>
     {buttons.bySchool.ivy.map((school) => (
-      <ButtonTable school={school} />
+      <ButtonTable school={school} urls={urls} />
     ))}
 
     <h2 id="recent">Recent Seasons: Other Schools {toplink}</h2>
     {buttons.bySchool.recent.map((school) => (
-      <ButtonTable school={school} />
+      <ButtonTable school={school} urls={urls} />
     ))}
 
     <h2 id="other">Past Seasons: Other Schools {toplink}</h2>
     {buttons.bySchool.other.map((school) => (
-      <ButtonTable school={school} />
+      <ButtonTable school={school} urls={urls} />
     ))}
 
     <h2 id="special">Special Buttons {toplink}</h2>
@@ -121,7 +121,7 @@ exports.default = ({ buttons, specialButtons }) => (
             <td>{button.year}</td>
             <td>{button.school}</td>
             <td>
-              <a href={button.image}>{button.label}</a>
+              <a href={`${urls.buttons}/${button.image}`}>{button.label}</a>
             </td>
           </tr>
         ))}
@@ -143,7 +143,7 @@ exports.default = ({ buttons, specialButtons }) => (
             <td>{button.about}</td>
             <td>
               {button.image ? (
-                <a href={button.image}>{button.label}</a>
+                <a href={`${urls.buttons}/${button.image}`}>{button.label}</a>
               ) : (
                 button.label
               )}
@@ -155,7 +155,7 @@ exports.default = ({ buttons, specialButtons }) => (
   </>
 );
 
-function ButtonTable({ school: { id, name, mascot, buttons, color } }) {
+function ButtonTable({ school: { id, name, mascot, buttons, color }, urls }) {
   return (
     <>
       <a name={id} />
@@ -177,7 +177,7 @@ function ButtonTable({ school: { id, name, mascot, buttons, color } }) {
               <td>{button.year}</td>
               <td>
                 {button.image ? (
-                  <a href={button.image}>{button.label}</a>
+                  <a href={`${urls.buttons}/${button.image}`}>{button.label}</a>
                 ) : (
                   button.label
                 )}

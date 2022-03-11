@@ -1,4 +1,5 @@
 // @ts-check
+require("dotenv").config();
 
 /** @type {(eleventyConfig: import("@11ty/eleventy/src/UserConfig")) => void} */
 module.exports = (eleventyConfig) => {
