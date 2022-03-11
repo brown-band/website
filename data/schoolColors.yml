@@ -1,5 +1,6 @@
 brown:
-  color: "#59260b" # Seal Brown
+  # color: "#59260b" # Seal Brown
+  color: "var(--brown-brand)" # Seal Brown
   type: ivy
   mascot: Bears (Homecoming)
 caroling:

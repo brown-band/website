@@ -3,6 +3,7 @@
   --brown-2: #382710;
   --brown-3: #483314;
   --brown-4: #593f17;
+  --brown-brand: #59260b;
   --shadow-brown: 0 0.35rem 1rem 0.4rem #593f1755;
   color-scheme: light;
   --bs-body-font-family: Quicksand, sans-serif;
@@ -15,17 +16,33 @@
   --brown-3: #382710;
   --brown-2: #483314;
   --brown-1: #593f17;
+  --brown-brand: #80360f;
   --shadow-brown: 0 0.35rem 1rem 0.4rem #271b0c55;
 }
 
+/* workarounds */
 .dropdown-item {
   font-weight: var(--bs-body-font-weight);
+}
+
+.table {
+  --bs-table-border-color: var(--bs-border-color);
 }
 
 .btn {
   --bs-btn-font-weight: var(--bs-body-font-weight);
   --bs-btn-active-border-color: transparent;
   --bs-btn-hover-border-color: transparent;
+}
+
+/* prettier-ignore */
+h6, .h6, h5, .h5, h4, .h4, h3, .h3, h2, .h2, h1, .h1 {
+  font-weight: 600;
+}
+/* end workarounds */
+
+.fw-normal {
+  font-weight: var(--bs-body-font-weight) !important;
 }
 
 .bg-brown1 {
