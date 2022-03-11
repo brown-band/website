@@ -44,6 +44,10 @@ module.exports = async () => {
       body: JSON.stringify({ query: buttonsQuery }),
     }).then((res) => res.json());
 
+    if (!result.data) {
+      console.error(result);
+    }
+
     const buttons = result.data.repository.defaultBranchRef.target.tree.entries
       .filter(({ type }) => type === "tree")
       .map(({ name, object }) => [
