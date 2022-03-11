@@ -9,10 +9,21 @@
 
 /**
  * @param {string} path
- * @param {(status: { received: number, total: number }) => void} onProgress
+ * @param {object} [opts]
+ * @param {(status: { received: number, total: number }) => void} [opts.onProgress]
+ * @param {AbortSignal | null} [opts.signal]
+ * @param {ArrayBuffer} [opts.iv]
  * @returns {Promise<ArrayBuffer>}
  */
-const fetchFile = (path, onProgress = () => {}, signal = null) =>
+const fetchFile = (
+  path,
+  {
+    onProgress = () => {},
+    signal = null,
+    iv = new Uint8Array(path.match(/[\da-f]{2}/gi).map((d) => parseInt(d, 16)))
+      .buffer,
+  } = {}
+) =>
   fetch(new URL("/" + path, globalThis.mediaHost).toString(), { signal })
     .then(async (res) => {
       // https://javascript.info/fetch-progress
@@ -43,9 +54,7 @@ const fetchFile = (path, onProgress = () => {}, signal = null) =>
       crypto.subtle.decrypt(
         {
           name: "AES-CBC",
-          iv: await crypto.subtle
-            .digest("SHA-256", new TextEncoder().encode(path))
-            .then((buf) => buf.slice(0, 16)),
+          iv: iv.slice(0, 16),
         },
         globalThis.decryptionKey,
         data
@@ -80,16 +89,19 @@ const playTrack = (/** @type {FileTrack} */ track) => {
   if (abortController) abortController.abort();
   abortController = new AbortController();
 
-  fetchFile(
-    track.file,
-    ({ received, total }) => {
+  fetchFile(track.file, {
+    onProgress({ received, total }) {
       progress.max = total;
       progress.value = received;
     },
-    abortController.signal
-  )
+    signal: abortController.signal,
+  })
     .then((song) =>
-      URL.createObjectURL(new Blob([song], { type: `audio/${track.type}` }))
+      URL.createObjectURL(
+        new Blob([song], {
+          type: track.type === "m4a" ? "audio/mp4" : `audio/${track.type}`,
+        })
+      )
     )
     .then((songURL) => {
       if (urlToDispose) URL.revokeObjectURL(urlToDispose);
@@ -166,9 +178,12 @@ const renderAlbum = (/** @type {Album} */ album) =>
 
 document.addEventListener("password:decrypt", async () => {
   /** @type {Album[]} */
-  const inventory = await fetchFile("inventory.json").then((decrypted) =>
-    JSON.parse(new TextDecoder().decode(decrypted))
-  );
+  const inventory = await fetchFile("inventory.json", {
+    iv: await crypto.subtle.digest(
+      "SHA-256",
+      new TextEncoder().encode("inventory.json")
+    ),
+  }).then((decrypted) => JSON.parse(new TextDecoder().decode(decrypted)));
   const root = document.querySelector("#root");
   root.innerHTML = "";
 
