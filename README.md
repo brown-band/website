@@ -80,7 +80,11 @@ Top-level folders:
   - `schoolColors.yml`: Contains the primary color used by most/all of the schools we’ve played in the past.
     - the `color` property is used by the buttons page to tint the table headers and the script renderer to color the college names in the script titles.
     - the `type` property is used to help split the buttons page into categories.
-  - `site.yml`: global metadata for the website (currently just the title)
+  - `site.yml`: global metadata for the website
+    - `title`: the title of the website (“The Brown Band”)
+    - `urls`: URLs for separately-hosted resources
+      - `recordings`: the root URL for the encrypted media (see https://github.com/brown-band/recordings for details)
+      - `buttons`: the root URL for the buttons page
   - `specialButtons.yml`: list of buttons that don’t fit into any of the existing categories
 - `layouts`
   - `base.jsx`: contains the basic page layout (shared across print and web), including the page title, CSS/JS imports, and page content
