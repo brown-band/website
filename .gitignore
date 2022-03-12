@@ -2,7 +2,6 @@ node_modules
 public
 book-html
 
-*.code-workspace
 *book.pdf
 
 .env

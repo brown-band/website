@@ -98,10 +98,12 @@ Top-level folders:
 Top-level files:
 
 - `.editorconfig`: tells your editor how to indent code, using the [editorconfig.org](https://editorconfig.org/) format.
+- `.env`, `.env.sample`: environment variables (i.e. configuration values that shouldn’t be made public for security reasons)
 - `.gitignore`: tells Git which files to ignore.
 - `.node-version`: the version of Node.js that the website is confirmed to build properly with. Feel free to update this any time (but make sure you double-check that things still work properly!).
 - `.prettierignore`: tells Prettier to ignore output files.
 - `.prettierrc.json`: configures Prettier. Avoid adding options here if possible.
+- `brown-band.code-workspace`: If you clone all of the repos in the `brown-band` organization into a single folder, you can use this file to open them all at once in VS Code.
 - `design-decisions.md`: see the bottom of this file
 - `eleventy.config.js`, `eleventy-book.config.js`: configuration files for Eleventy. See the comments inside the files, as well as [Eleventy's docs](https://www.11ty.dev/docs/config/) for more details.
 - `jsconfig.json`: used to configure TypeScript language features for editor integration (we’re not actually using TypeScript at this point, but the autocomplete it provides is sometimes helpful)

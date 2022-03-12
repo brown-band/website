@@ -1,0 +1,16 @@
+{
+  "folders": [
+    {
+      "path": "../recordings"
+    },
+    {
+      "path": "../buttons"
+    },
+    {
+      "path": "../../eleventy-hast-jsx"
+    },
+    {
+      "path": "."
+    }
+  ]
+}
