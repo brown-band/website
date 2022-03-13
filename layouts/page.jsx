@@ -7,7 +7,8 @@ exports.data = {
 };
 
 const Heading = ({ title, pageHeader, showHeader }) =>
-  title && showHeader != false && <h1>{pageHeader || title}</h1>;
+  (pageHeader || title) &&
+  showHeader != false && <h1>{pageHeader || title}</h1>;
 
 const getToc = async (toc, content) => {
   if (toc != null) return toc;
