@@ -1,5 +1,3 @@
-const { createElement } = require("eleventy-hast-jsx");
-
 const CryptoWall = require("../components/CryptoWall");
 const Toc = require("../components/Toc");
 const TocButton = require("../components/TocButton");

@@ -1,4 +1,3 @@
-const { createElement } = require("eleventy-hast-jsx");
 const Icon = require("./Icon.jsx");
 
 const { promisify } = require("node:util");

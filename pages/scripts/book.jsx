@@ -1,6 +1,5 @@
 // This page is only enabled when generating script books
 
-const { createElement } = require("eleventy-hast-jsx");
 const listify = require("listify");
 const { default: Script } = require("../../components/Script");
 

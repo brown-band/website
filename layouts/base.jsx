@@ -1,4 +1,4 @@
-const { createElement, Raw, DOCTYPE } = require("eleventy-hast-jsx");
+const { Raw, DOCTYPE } = require("eleventy-hast-jsx");
 
 exports.default = ({ title, site, bodyAttrs, content }) => (
   <>

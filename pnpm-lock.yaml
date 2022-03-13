@@ -12,7 +12,7 @@ specifiers:
   date-fns: ^2.28.0
   date-fns-tz: ^1.2.2
   dotenv: ^16.0.0
-  eleventy-hast-jsx: j-f1/eleventy-hast-jsx#4b06a5a
+  eleventy-hast-jsx: ^0.3.0
   fast-glob: ^3.2.11
   hast-util-to-html: ^8.0.3
   js-yaml: ^4.1.0
@@ -52,14 +52,14 @@ devDependencies:
   date-fns: 2.28.0
   date-fns-tz: 1.3.0_date-fns@2.28.0
   dotenv: 16.0.0
-  eleventy-hast-jsx: github.com/j-f1/eleventy-hast-jsx/4b06a5a
+  eleventy-hast-jsx: 0.3.0
   fast-glob: 3.2.11
   hast-util-to-html: 8.0.3
   js-yaml: 4.1.0
   listify: 1.0.3
   node-fetch: 3.2.2
   nodemon: 2.0.15
-  prettier: github.com/prettier/prettier/4364ea2cc92d2febef7ad6f310669a6360b0ec1a
+  prettier: github.com/prettier/prettier/92f2c29235fe458ff7f2cc2c2927b86920118813
   purgecss: 4.1.3
   purgecss-from-html: 4.1.1
   rehype: 12.0.1
@@ -1390,6 +1390,23 @@ packages:
 
   /electron-to-chromium/1.4.81:
     resolution: {integrity: sha512-Gs7xVpIZ7tYYSDA+WgpzwpPvfGwUk3KSIjJ0akuj5XQHFdyQnsUoM76EA4CIHXNLPiVwTwOFay9RMb0ChG3OBw==}
+    dev: true
+
+  /eleventy-hast-jsx/0.3.0:
+    resolution: {integrity: sha512-Lc5HkQiOSPZ2eU+RtjRqzRc8Glv0ZJLz68CUKZZk0rlbmdWvcet4le0DtQuiwpf5eBYPAJVHBDnMmtR1VpUaJA==}
+    dependencies:
+      '@11ty/eleventy-utils': 1.0.0
+      '@babel/core': 7.17.5
+      '@babel/plugin-syntax-jsx': 7.16.7_@babel+core@7.17.5
+      '@babel/plugin-transform-react-jsx': 7.17.3_@babel+core@7.17.5
+      '@babel/register': 7.17.0_@babel+core@7.17.5
+      '@types/babel__core': 7.1.18
+      '@types/hast': 2.3.4
+      '@types/node': 17.0.21
+      hast-util-to-html: 8.0.3
+      hastscript: 6.0.0
+    transitivePeerDependencies:
+      - supports-color
     dev: true
 
   /emoji-regex/8.0.0:
@@ -4857,29 +4874,8 @@ packages:
     version: 1.0.2
     dev: true
 
-  github.com/j-f1/eleventy-hast-jsx/4b06a5a:
-    resolution: {tarball: https://codeload.github.com/j-f1/eleventy-hast-jsx/tar.gz/4b06a5a}
-    name: eleventy-hast-jsx
-    version: 0.2.3
-    prepare: true
-    requiresBuild: true
-    dependencies:
-      '@11ty/eleventy-utils': 1.0.0
-      '@babel/core': 7.17.5
-      '@babel/plugin-syntax-jsx': 7.16.7_@babel+core@7.17.5
-      '@babel/plugin-transform-react-jsx': 7.17.3_@babel+core@7.17.5
-      '@babel/register': 7.17.0_@babel+core@7.17.5
-      '@types/babel__core': 7.1.18
-      '@types/hast': 2.3.4
-      '@types/node': 17.0.21
-      hast-util-to-html: 8.0.3
-      hastscript: 6.0.0
-    transitivePeerDependencies:
-      - supports-color
-    dev: true
-
-  github.com/prettier/prettier/4364ea2cc92d2febef7ad6f310669a6360b0ec1a:
-    resolution: {tarball: https://codeload.github.com/prettier/prettier/tar.gz/4364ea2cc92d2febef7ad6f310669a6360b0ec1a}
+  github.com/prettier/prettier/92f2c29235fe458ff7f2cc2c2927b86920118813:
+    resolution: {tarball: https://codeload.github.com/prettier/prettier/tar.gz/92f2c29235fe458ff7f2cc2c2927b86920118813}
     name: prettier
     version: 2.6.0-dev
     engines: {node: '>=12.17.0'}

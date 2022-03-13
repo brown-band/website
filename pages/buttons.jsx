@@ -1,5 +1,3 @@
-const { createElement } = require("eleventy-hast-jsx");
-
 exports.data = {
   summary: `
     It just wouldn't be complete if we cheered on the Bears without paying our

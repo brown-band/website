@@ -1,4 +1,4 @@
-const { createElement, Raw } = require("eleventy-hast-jsx");
+const { Raw } = require("eleventy-hast-jsx");
 
 const slugify = require("@sindresorhus/slugify");
 const formatDate = require("date-fns-tz/formatInTimeZone");

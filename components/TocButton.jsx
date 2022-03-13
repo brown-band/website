@@ -1,5 +1,3 @@
-const { createElement } = require("eleventy-hast-jsx");
-
 module.exports = () => (
   <button
     class="toc-btn btn btn-sm btn-secondary d-lg-none dropdown-toggle m-1"

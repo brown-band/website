@@ -1,4 +1,3 @@
-const { createElement } = require("eleventy-hast-jsx");
 const { readFileSync } = require("node:fs");
 const path = require("node:path");
 

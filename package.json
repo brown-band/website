@@ -21,7 +21,7 @@
     "date-fns": "^2.28.0",
     "date-fns-tz": "^1.2.2",
     "dotenv": "^16.0.0",
-    "eleventy-hast-jsx": "j-f1/eleventy-hast-jsx#4b06a5a",
+    "eleventy-hast-jsx": "^0.3.0",
     "fast-glob": "^3.2.11",
     "hast-util-to-html": "^8.0.3",
     "js-yaml": "^4.1.0",

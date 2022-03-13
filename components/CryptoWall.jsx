@@ -1,5 +1,3 @@
-const { createElement } = require("eleventy-hast-jsx");
-
 module.exports = () => (
   <>
     <p>

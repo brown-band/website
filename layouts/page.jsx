@@ -1,4 +1,4 @@
-const { createElement, Raw } = require("eleventy-hast-jsx");
+const { Raw } = require("eleventy-hast-jsx");
 const Toc = require("../components/Toc");
 const TocButton = require("../components/TocButton");
 

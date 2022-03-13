@@ -1,4 +1,3 @@
-const { createElement } = require("eleventy-hast-jsx");
 const listify = require("listify");
 const { default: Script, ScriptTitle } = require("../components/Script");
 

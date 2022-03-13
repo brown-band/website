@@ -1,4 +1,3 @@
-const { createElement } = require("eleventy-hast-jsx");
 const slugify = require("@sindresorhus/slugify");
 const Markdown = require("../components/Markdown");
 

@@ -1,5 +1,3 @@
-const { createElement } = require("eleventy-hast-jsx");
-
 /**
  * @typedef {Object} Heading
  * @property {string} id the HTML id="" attribute value
