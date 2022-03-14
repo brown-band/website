@@ -31,7 +31,7 @@ module.exports = (eleventyConfig) => {
 
   let port;
 
-  eleventyConfig.on("afterBuild", async () => {
+  eleventyConfig.on("eleventy.after", async () => {
     if (port) {
       (await renderPDF)(port);
     }

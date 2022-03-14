@@ -59,7 +59,7 @@ module.exports = (eleventyConfig) => {
    */
   const purger = new PurgeCSS();
   const minifier = new CleanCSS({ level: 2, returnPromise: true });
-  eleventyConfig.on("afterBuild", async () => {
+  eleventyConfig.on("eleventy.after", async () => {
     console.time("Bootstrap CSS");
     const result = await purger.purge({
       content: [`${outDir}/**/*.html`, `${outDir}/*.html`],
