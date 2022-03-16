@@ -1,3 +1,7 @@
 public
 book-html
 pagedjs-interface.css
+.cache
+.netlify
+pnpm-lock.yaml
+bootstrap.css
