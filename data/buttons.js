@@ -132,7 +132,7 @@ module.exports = async () => {
         await readYaml("unknown.yml")
       ).map(({ imageName, ...button }) => ({
         ...button,
-        image: imageName ? `unknown/${imageName}.jpg` : null,
+        image: imageName ? `unknown/${imageName}.png` : null,
       })),
   };
 };
