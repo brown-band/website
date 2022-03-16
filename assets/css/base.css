@@ -123,3 +123,7 @@ blockquote:not(.blurb):not(._69-note)::after {
 main {
   position: relative;
 }
+
+.modal.zoom:not(.show) .modal-dialog {
+  transform: scale(0.8);
+}

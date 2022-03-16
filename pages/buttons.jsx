@@ -73,7 +73,7 @@ exports.default = ({ buttons, specialButtons, site: { urls } }) => (
               </a>
             </td>
             <td>
-              <a href={`${urls.buttons}/${button.image}`}>
+              <a class="button-link" href={`${urls.buttons}/${button.image}`}>
                 <img
                   alt={button.label}
                   title={button.label}
@@ -119,7 +119,9 @@ exports.default = ({ buttons, specialButtons, site: { urls } }) => (
             <td>{button.year}</td>
             <td>{button.school}</td>
             <td>
-              <a href={`${urls.buttons}/${button.image}`}>{button.label}</a>
+              <a class="button-link" href={`${urls.buttons}/${button.image}`}>
+                {button.label}
+              </a>
             </td>
           </tr>
         ))}
@@ -141,7 +143,9 @@ exports.default = ({ buttons, specialButtons, site: { urls } }) => (
             <td>{button.about}</td>
             <td>
               {button.image ? (
-                <a href={`${urls.buttons}/${button.image}`}>{button.label}</a>
+                <a class="button-link" href={`${urls.buttons}/${button.image}`}>
+                  {button.label}
+                </a>
               ) : (
                 button.label
               )}
@@ -150,6 +154,29 @@ exports.default = ({ buttons, specialButtons, site: { urls } }) => (
         ))}
       </tbody>
     </table>
+
+    <div
+      // pe-auto is a workaround for a bug caused by using 2 diff Bootstrap versions
+      class="modal fade zoom pe-auto"
+      id="buttonLightbox"
+      tabindex="-1"
+      aria-labelledby="buttonLightboxImage"
+      aria-hidden="true"
+    >
+      <div class="modal-dialog modal-dialog-centered">
+        <div class="modal-content">
+          <button
+            type="button"
+            class="btn-close position-absolute top-0 end-0 p-3"
+            data-bs-dismiss="modal"
+            aria-label="Close"
+          />
+          <img src="" alt="" id="buttonLightboxImage" style="aspect-ratio: 1" />
+        </div>
+      </div>
+    </div>
+
+    <script async src="/assets/js/buttons.js"></script>
   </>
 );
 
@@ -175,7 +202,12 @@ function ButtonTable({ school: { id, name, mascot, buttons, color }, urls }) {
               <td>{button.year}</td>
               <td>
                 {button.image ? (
-                  <a href={`${urls.buttons}/${button.image}`}>{button.label}</a>
+                  <a
+                    class="button-link"
+                    href={`${urls.buttons}/${button.image}`}
+                  >
+                    {button.label}
+                  </a>
                 ) : (
                   button.label
                 )}

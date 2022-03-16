@@ -77,6 +77,8 @@ module.exports = (eleventyConfig) => {
           // added by Bootstrap when opening dropdowns in the navbar
           "show",
           "data-bs-popper",
+          // added by Bootstrap when opening modals
+          "modal-backdrop",
         ],
         // not sure why this isn’t picked up
         variables: ["--bs-font-monospace", "--bs-body-font-weight"],
