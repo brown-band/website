@@ -50,10 +50,11 @@ exports.default = async ({ people }) => {
 
       {await (<PeopleTable sections={people.appointedPositions} />)}
 
-      <Heading title="Faculty Advisor" id="faculty-advisor" section="VI" />
+      <a name="faculty-advisor" />
+      <Heading title="Advisor" id="advisor" section="VI" />
 
       <center>
-        <a href="mailto:kmellor@alumni.brown.edu">Karen Mellor</a> '82
+        <a href="mailto:karen_mellor@brown.edu">Karen Mellor</a> '82
       </center>
     </>
   );
