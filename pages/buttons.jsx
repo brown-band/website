@@ -1,3 +1,5 @@
+const Icon = require("../components/Icon");
+
 exports.data = {
   summary: `
     It just wouldn't be complete if we cheered on the Bears without paying our
@@ -170,8 +172,25 @@ exports.default = ({ buttons, specialButtons, site: { urls } }) => (
             class="btn-close position-absolute top-0 end-0 p-3"
             data-bs-dismiss="modal"
             aria-label="Close"
+            // fix for dark mode
+            style="filter: none"
           />
-          <img src="" alt="" id="buttonLightboxImage" style="aspect-ratio: 1" />
+          <img
+            src=""
+            alt=""
+            id="buttonLightboxImage"
+            class="m-1"
+            style="max-height: calc(100vh - 4rem - 2px); object-fit: contain;"
+          />
+          <a
+            class="btn-close position-absolute bottom-0 end-0 p-3"
+            id="buttonLightboxLink"
+            href="#"
+            style="background: none"
+            target="_blank"
+          >
+            <Icon name="external-link" />
+          </a>
         </div>
       </div>
     </div>
