@@ -5,34 +5,42 @@
 // but new CSS features starting to become available as of 2022 will make this unsafe.
 // Presumably something like Bootstrap won’t use :has() and friends for several more years.
 
-const toCheck = await fetch("/purged-names.json")
-  .then((res) => res.json())
-  .then((selectors) =>
-    selectors.filter((sel) => {
-      try {
-        // some selectors are invalid in some browsers,
-        // including them would break the combined selector
-        // and be a waste of time
-        document.querySelector(sel);
-        return true;
-      } catch {
-        return false;
-      }
-    })
-  );
+const toCheck = new Set(
+  await fetch("/purged-names.json")
+    .then((res) => res.json())
+    .then((selectors) =>
+      selectors.filter((sel) => {
+        try {
+          // some selectors are invalid in some browsers,
+          // including them would break the combined selector
+          // and be a waste of time
+          document.querySelector(sel);
+          return true;
+        } catch {
+          return false;
+        }
+      })
+    )
+);
 // enables quickly checking whether any selector matches
-const merged = toCheck.join(",");
+let merged = [...toCheck].join(",");
 
+window.$reportedSelectors = new Set();
 function check(node) {
   // quick return if nothing matches
   if (!node.querySelector(merged)) return;
 
   for (const selector of toCheck) {
-    if (node.querySelector(selector))
+    if (node.querySelector(selector)) {
       alert(
         `Purged selector was used: ${selector}. Add "${selector}" to the safelist in config/minify.js to ensure it works properly!`
       );
+      $reportedSelectors.add(selector);
+      toCheck.delete(selector);
+    }
   }
+
+  merged = [...toCheck].join(",");
 }
 
 // check the entire document right away to get a clean baseline
@@ -60,7 +68,7 @@ const watcher = new MutationObserver((changes) => {
     setTimeout(() => {
       console.time("checking purge correctness");
       for (const target of changesToPurge) {
-        console.log("checking", target);
+        console.log(`checking ${toCheck.size} selectors in`, target);
         check(target);
       }
       console.timeEnd("checking purge correctness");
