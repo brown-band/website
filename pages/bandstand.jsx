@@ -17,10 +17,9 @@ exports.default = async ({ bandstands }) => {
   return (
     <>
       <p>
-        …is the Band’s alumni newsletter. It has had two eras of production: the
-        first era is called “Before Current Century” by the people (who{" "}
-        <em>definitely</em> exist) that study the Band professionally, and the
-        second era is called “After Printing’s Rebirth” by those same scholars.
+        …is the Band’s alumni newsletter. Lovingly composed from time to time by
+        our ALs, it keeps our crusties up-to-date on the latest developments —
+        musical and otherwise — of our esteemed organization.
       </p>
 
       <p>
