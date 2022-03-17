@@ -10,7 +10,7 @@ module.exports = async () => {
   });
 
   const regexes = [
-    /Brown University ["“]([^”"]+)["”] b/i,
+    // /Brown University ["“]([^”"]+)["”] b/i,
     /ladies and gentlemen, .+?[,!] presenting (.+?), it['’]s/i,
   ];
 
