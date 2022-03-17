@@ -37,20 +37,6 @@ module.exports = (eleventyConfig) => {
     }
   });
 
-  eleventyConfig.setBrowserSyncConfig({
-    snippet: false,
-    callbacks: {
-      async ready(err, bs) {
-        port = bs.server.address().port;
-        await (
-          await renderPDF
-        )(port);
-        if (process.env.BAND_BOOK_ONESHOT) {
-          process.exit(0);
-        }
-      },
-    },
-  });
   return {
     markdownTemplateEngine: "md",
     htmlTemplateEngine: "html",

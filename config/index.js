@@ -10,6 +10,10 @@ module.exports = (eleventyConfig) => {
   // minify and/or format HTML, purge unused CSS in production
   eleventyConfig.addPlugin(require("./minify"));
 
+  eleventyConfig.setServerOptions({
+    domdiff: false,
+  });
+
   /**
    * Markdown: use Remark with some customizations as the parser
    */

@@ -27,21 +27,6 @@ module.exports = (eleventyConfig) => {
   eleventyConfig.addPassthroughCopy("buttons/*/*.jpg");
   eleventyConfig.addWatchTarget("buttons");
 
-  /**
-   * Dev Mode
-   */
-  eleventyConfig.setBrowserSyncConfig({
-    callbacks: {
-      ready(err, bs) {
-        bs.addMiddleware("*", (req, res) => {
-          res.writeHead(404, { "Content-Type": "text/html; charset=UTF-8" });
-          res.write(fs.readFileSync("public/404.html"));
-          res.end();
-        });
-      },
-    },
-  });
-
   // disable printing each page as it is converted (since there are a lot of them)
   eleventyConfig.setQuietMode(!process.env.CI);
 
