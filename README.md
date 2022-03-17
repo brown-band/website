@@ -21,6 +21,8 @@ Once you’ve done that, you can run one of several scripts via `pnpm`:
 - <code>pnpm **format**</code>: Runs [Prettier](https://prettier.io) to ensure consistent code and document formatting. Ideally, set up your code editor to run Prettier whenever you save a file — check out their [editor integration docs](https://prettier.io/docs/en/editors.html) or search your editor’s package manager for a “Prettier” package.
 - <code>pnpm **start:book**</code> and <code>pnpm **build:book**</code>: like `pnpm start` and `pnpm build` but for the script book. See below!
 
+(Why `pnpm` rather than npm? It is several times faster, especially when installing dependencies inside GitHub Actions.)
+
 Optionally, check out the external documentation for packages this project uses for a deeper understanding of how things work (in approximately decreasing order of importance):
 
 - [Eleventy](https://www.11ty.dev/docs/)
@@ -64,6 +66,7 @@ Top-level folders:
   - `templates.js`: Loads in the template config
 - `data`: contains a combination of static data (`.yml` files) and scripts that produce the relevant data for the website (`.js` files)
   - `people/*.yml`: lists the section leaders, appointed positions, conductors, and members of band board.
+  - `bandstands.yml`: has info about all the issues of The Bandstand.
   - `buttons.js`: scans the `buttons` folder and the [`brown-band/buttons` repository](https://github.com/brown-band/buttons) and formats the buttons for display on the buttons page
   - `eleventyComputed.js`: (in order)
     - identifies the opponent (i.e. who Brown was playing) in all of our scripts
@@ -254,6 +257,16 @@ There are a few extensions to Markdown that this project uses to make it easier 
 4. Add the page to the navbar:
    - To add it to a menu, edit `nav.yml` by adding an entry somewhere with the path of the page (without the file extension; use the others as an example). The title will be automatically picked up.
    - To add it at the top level, edit `Nav.jsx` to add a link to the page (use the “Contact” link as an example)
+
+### Adding an issue of The Bandstand
+
+1. Add an entry to `bandstands.yml` (in the `new` section, unless you’ve recovered an old Bandstand!):
+   - `volume` and `issue`: take this from the first or second page of the PDF
+   - `date`: whatever the PDF says (such as “April 1980” or “Fall 2018”)
+   - Make sure to keep the file in chronological order.
+2. Rename the PDF to <code>_volume_-_issue_.pdf</code> (e.g. `1-1.pdf`)
+3. Connect to `students.brown.edu` over SSH and upload the PDF to the appropriate folder of `/var/www/html/Brown_Band/the-bandstand/` (either `old` or `new`, corresponding to the key under which you listed it in `bandstands.yml`).
+4. Commit and push the changes to this repository.
 
 ### Adding an icon
 
