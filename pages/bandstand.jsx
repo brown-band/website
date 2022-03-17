@@ -53,7 +53,9 @@ exports.default = async ({ bandstands }) => {
         )}
       </dl>
 
-      <h2 id="old">Before Current Century</h2>
+      <h2 id="old">
+        20<sup>th</sup>-century Bandstands
+      </h2>
       <dl class="index-list">
         {groups(bandstands.old, (d) => d.volume).map(([volume, issues]) => (
           <div>
