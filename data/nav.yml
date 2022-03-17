@@ -7,8 +7,8 @@
 - title: Media
   content:
     - buttons
-    - title: Photos
-      url: https://students.brown.edu/band/photos
+    # - title: Photos
+    #   url: https://students.brown.edu/band/photos
     - recordings
     # - disabled: Videos
     - lyrics
@@ -28,5 +28,5 @@
     - visiting-bands
     - ivy-bands
     - ivy-bands-agreement
-    # - disabled: Commencement
+    - commencement
     - arranging
