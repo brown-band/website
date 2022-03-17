@@ -13,7 +13,7 @@
 }
 
 .dropdown-menu-brown .dropdown-item:not(.active):not(:active) {
-  opacity: 0.7;
+  opacity: 0.8;
 }
 
 .dropdown-menu-brown .dropdown-item:hover,

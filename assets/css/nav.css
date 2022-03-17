@@ -9,6 +9,10 @@
   align-items: center;
 }
 
+.dropdown-menu-brown .dropdown-item {
+  color: white;
+}
+
 @media (max-width: 576px) {
   .navbar-nav {
     width: 100vw;
