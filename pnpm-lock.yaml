@@ -1,7 +1,7 @@
 lockfileVersion: 5.3
 
 specifiers:
-  '@11ty/eleventy': 2.0.0-canary.3
+  '@11ty/eleventy': 2.0.0-canary.4
   '@11ty/eleventy-fetch': ^3.0.0
   '@sindresorhus/slugify': ^1.1.2
   '@stefanprobst/rehype-extract-toc': ^2.1.3
@@ -44,7 +44,7 @@ dependencies:
   bootstrap: 5.1.3
 
 devDependencies:
-  '@11ty/eleventy': 2.0.0-canary.3
+  '@11ty/eleventy': 2.0.0-canary.4
   '@11ty/eleventy-fetch': 3.0.0
   '@sindresorhus/slugify': 1.1.2
   '@stefanprobst/rehype-extract-toc': 2.1.3
@@ -91,7 +91,7 @@ packages:
     engines: {node: '>=12'}
     dependencies:
       '@11ty/eleventy-utils': 1.0.0
-      debug: 4.3.3
+      debug: 4.3.4
       dev-ip: 1.0.1
       finalhandler: 1.1.2
       mime: 3.0.0
@@ -124,8 +124,8 @@ packages:
       normalize-path: 3.0.0
     dev: true
 
-  /@11ty/eleventy/2.0.0-canary.3:
-    resolution: {integrity: sha512-446TfaDRHaA20IrMb6ejIBbOHM36n5fWGP1sMig4/l/fooIk8nCbSiCuC2xlk9iyJ2iUfvWq2SpyW2K3gFLvkw==}
+  /@11ty/eleventy/2.0.0-canary.4:
+    resolution: {integrity: sha512-SG40Mo94n/iQwvzjOM7akeuF6n5RyKEAlnxYU/paS4gccBkOPpc2KFCl3tDbpkTuqJuqzwEPFi9xN1tl41A2QA==}
     engines: {node: '>=12'}
     hasBin: true
     dependencies:
@@ -136,7 +136,7 @@ packages:
       '@sindresorhus/slugify': 1.1.2
       chokidar: 3.5.3
       cross-spawn: 7.0.3
-      debug: 4.3.3
+      debug: 4.3.4
       dependency-graph: 0.11.0
       ejs: 3.1.6
       fast-glob: 3.2.11
@@ -344,6 +344,12 @@ packages:
 
   /@babel/parser/7.17.3:
     resolution: {integrity: sha512-7yJPvPV+ESz2IUTPbOL+YkIGyCqOyNIzdguKQuJGnH7bg1WTIifuM21YqokFt/THWh1AkCRn9IgoykTRCBVpzA==}
+    engines: {node: '>=6.0.0'}
+    hasBin: true
+    dev: true
+
+  /@babel/parser/7.17.7:
+    resolution: {integrity: sha512-bm3AQf45vR4gKggRfvJdYJ0gFLoCbsPxiFLSH6hTVYABptNHY6l9NrhnucVjQ/X+SPtLANT9lc0fFhikj+VBRA==}
     engines: {node: '>=6.0.0'}
     hasBin: true
     dev: true
@@ -1027,7 +1033,7 @@ packages:
   /constantinople/4.0.1:
     resolution: {integrity: sha512-vCrqcSIq4//Gx74TXXCGnHpulY1dskqLTFGDmhrGxzeXL8lF8kvXv6mpNWlJj1uD4DW23D4ljAqbY4RRaaUZIw==}
     dependencies:
-      '@babel/parser': 7.17.3
+      '@babel/parser': 7.17.7
       '@babel/types': 7.17.0
     dev: true
 
@@ -1123,6 +1129,18 @@ packages:
 
   /debug/4.3.3:
     resolution: {integrity: sha512-/zxw5+vh1Tfv+4Qn7a5nsbcJKPaSvCDhojn6FEl9vupwK2VCSDtEiEtqr8DFtzYFOdz63LBkxec7DYuc2jon6Q==}
+    engines: {node: '>=6.0'}
+    peerDependencies:
+      supports-color: '*'
+    peerDependenciesMeta:
+      supports-color:
+        optional: true
+    dependencies:
+      ms: 2.1.2
+    dev: true
+
+  /debug/4.3.4:
+    resolution: {integrity: sha512-PRWFHuSU3eDtQJPvnNY7Jcket1j0t5OuOsFzPPzsekD52Zl8qUfFIPEiswXqIvHWGVHOgX+7G/vCNNhehwxfkQ==}
     engines: {node: '>=6.0'}
     peerDependencies:
       supports-color: '*'
@@ -4148,7 +4166,7 @@ packages:
     resolution: {integrity: sha512-RNGKj82nUPg3g5ygxkQl0R937xLyho1J24ItRCBTr/m1YnZkzJy1hUiHUJrc/VlsDQzsCnInEGSg3bci0Lmd4w==}
     engines: {node: '>= 10.0.0'}
     dependencies:
-      '@babel/parser': 7.17.3
+      '@babel/parser': 7.17.7
       '@babel/types': 7.17.0
       assert-never: 1.2.1
       babel-walk: 3.0.0-canary-5
