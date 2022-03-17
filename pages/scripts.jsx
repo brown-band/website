@@ -67,13 +67,13 @@ exports.default = async ({ scripts }) => {
         scriptwriter yourself!
       </p>
 
-      <dl style="columns: 240px">
+      <dl class="index-list">
         {groups(reverse(scripts.years).slice(1), (d) => d.year.slice(0, 3)).map(
           ([decade, years], i) => (
-            <div class={i > 0 && "mt-3"} style="break-inside: avoid-column">
+            <div>
               <dt>{decade}0s</dt>
               {reverse(years).map((year) => (
-                <dd class="d-flex align-items-center ms-3 mb-0">
+                <dd>
                   <span style="font-family: var(--bs-font-sans-serif); font-variant: tabular-nums">
                     {year.year}
                   </span>

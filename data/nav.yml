@@ -13,8 +13,7 @@
     # - disabled: Videos
     - lyrics
     - scripts
-    - title: Alumni Newsletters
-      url: https://students.brown.edu/band/alumni-newsletters
+    - bandstand
 
 - title: History
   content:

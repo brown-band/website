@@ -127,3 +127,17 @@ main {
 .modal.zoom:not(.show) .modal-dialog {
   transform: scale(0.8);
 }
+
+.index-list {
+  columns: 240px;
+}
+.index-list > div {
+  break-inside: avoid-column;
+  padding-bottom: 1rem;
+}
+.index-list dd {
+  display: flex;
+  align-items: center;
+  margin-left: 1rem;
+  margin-bottom: 0;
+}

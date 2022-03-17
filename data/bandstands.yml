@@ -1,0 +1,137 @@
+old:
+  - volume: 1
+    issue: 1
+    date: October 1977
+  - volume: 1
+    issue: 2
+    date: December 1977
+  - volume: 1
+    issue: 3
+    date: April 1978
+  - volume: 2
+    issue: 1
+    date: November 1978
+  - volume: 2
+    issue: 2
+    date: February 1979
+  - volume: 2
+    issue: 3
+    date: March 1979
+  - volume: 2
+    issue: 4
+    date: May 1979
+  - volume: 3
+    issue: 1
+    date: October 1979
+  - volume: 3
+    issue: 2
+    date: April 1980
+  - volume: 4
+    issue: 1
+    date: February 1981
+  - volume: 4
+    issue: 2
+    date: June 1981
+  - volume: 5
+    issue: 1
+    date: January 1982
+  - volume: 6
+    issue: 1
+    date: October 1982
+  - volume: 6
+    issue: 2
+    date: January 1983
+  - volume: 7
+    issue: 2
+    date: October 1983
+  - volume: 8
+    issue: 3
+    date: November 1984
+  - volume: 9
+    issue: 1
+    date: May 1985
+  - volume: 10
+    issue: 1
+    date: October 1986
+  - volume: 10
+    issue: 2
+    date: June 1987
+  - volume: 11
+    issue: 1
+    date: December 1987
+  - volume: 11
+    issue: 2
+    date: April 1988
+  - volume: 12
+    issue: 2
+    date: May 1990
+  - volume: 13
+    issue: 1
+    date: April 1991
+new:
+  - volume: 1
+    issue: 1
+    date: Fall 2008
+  - volume: 1
+    issue: 2
+    date: Spring 2009
+  - volume: 1
+    issue: 3
+    date: Summer 2009
+  - volume: 2
+    issue: 1
+    date: Fall 2009
+  - volume: 2
+    issue: 2
+    date: Spring 2010
+  - volume: 3
+    issue: 1
+    date: Fall 2010
+  - volume: 3
+    issue: 2
+    date: Winter 2012
+  - volume: 4
+    issue: 1
+    date: Fall 2012
+  - volume: 4
+    issue: 2
+    date: Winter 2013
+  - volume: 5
+    issue: 1
+    date: Fall 2013
+  - volume: 5
+    issue: 2
+    date: Winter/Spring 2013-14
+  - volume: 6
+    issue: 1
+    date: Fall 2014
+  - volume: 6
+    issue: 2
+    date: Winter 2015
+  - volume: 7
+    issue: 1
+    date: Summer/Fall 2015
+  - volume: 7
+    issue: 2
+    date: Winter 2016
+  - volume: 8
+    issue: 1
+    date: Summer/Fall 2016
+  - volume: 8
+    issue: 2
+    date: Spring 2017
+  - volume: 9
+    issue: 1
+    date: Winter/Spring 2018
+  - volume: 10
+    issue: 1
+    date: Fall 2018
+  - volume: 10
+    issue: 2
+    date: Winter 2019
+  - volume: 11
+    issue: 1
+    date: Fall 2019
+  - volume: 11
+    issue: 2
+    date: Winter/Spring 2020
