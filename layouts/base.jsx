@@ -1,6 +1,6 @@
 const { Raw, DOCTYPE } = require("eleventy-hast-jsx");
 
-exports.default = ({ title, site, bodyAttrs, content }) => (
+exports.default = ({ title, site, bodyAttrs, content, NODE_ENV }) => (
   <>
     <DOCTYPE />
     <html lang="en" class="h-100">
@@ -11,7 +11,13 @@ exports.default = ({ title, site, bodyAttrs, content }) => (
 
         <title>{title ? `${title} | ${site.title}` : site.title}</title>
 
-        <script async src="/assets/vendor/bootstrap.min.js" />
+        <script
+          async
+          src={
+            "/assets/vendor/" +
+            (NODE_ENV === "development" ? "bootstrap.js" : "bootstrap.min.js")
+          }
+        />
         <link rel="stylesheet" href="/assets/vendor/bootstrap.min.css" />
         <link rel="stylesheet" href="/assets/css/base.css" />
 

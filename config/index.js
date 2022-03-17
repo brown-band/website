@@ -3,6 +3,7 @@ require("dotenv").config();
 
 /** @type {(eleventyConfig: import("@11ty/eleventy/src/UserConfig")) => void} */
 module.exports = (eleventyConfig) => {
+  const env = process.env.NODE_ENV || "development";
   // creates per-semester collections of scripts
   eleventyConfig.addPlugin(require("./scripts"));
   // defines all the Handlebars helpers
@@ -30,10 +31,7 @@ module.exports = (eleventyConfig) => {
     require("js-yaml").load(contents)
   );
   // add NODE_ENV as a global value
-  eleventyConfig.addGlobalData(
-    "NODE_ENV",
-    process.env.NODE_ENV || "development"
-  );
+  eleventyConfig.addGlobalData("NODE_ENV", env);
 
   /**
    * Copy assets to the assets/ folder
@@ -42,9 +40,10 @@ module.exports = (eleventyConfig) => {
   eleventyConfig.addPassthroughCopy(
     Object.fromEntries(
       [
-        "node_modules/bootstrap/dist/js/bootstrap.min.js*",
-        "node_modules/base64-arraybuffer/dist/base64-arraybuffer.umd.js*",
-      ].map((k) => [k, "assets/vendor"])
+        "node_modules/bootstrap/dist/js/" +
+          (env === "development" ? "bootstrap.js" : "bootstrap.min.js"),
+        "node_modules/base64-arraybuffer/dist/base64-arraybuffer.umd.js",
+      ].map((k) => [k, "assets/vendor/" + require("path").basename(k)])
     )
   );
 
