@@ -1,4 +1,6 @@
 // @ts-check
+const path = require("path");
+
 require("dotenv").config();
 
 /** @type {(eleventyConfig: import("@11ty/eleventy/src/UserConfig")) => void} */
@@ -43,7 +45,7 @@ module.exports = (eleventyConfig) => {
         "node_modules/bootstrap/dist/js/" +
           (env === "development" ? "bootstrap.js" : "bootstrap.min.js"),
         "node_modules/base64-arraybuffer/dist/base64-arraybuffer.umd.js",
-      ].map((k) => [k, "assets/vendor/" + require("path").basename(k)])
+      ].map((k) => [k, "assets/vendor/" + path.basename(k)])
     )
   );
 
