@@ -12,23 +12,27 @@ date: 1964-10-31
 
 ## Pregame
 
-:sd[Ever True to the goal line]
+:sd[Ever True to End Zone]
 
-Presenting the Brown University Marching Band and its alumni; Martin Fischer, Director, Gordon Tomas, President, Jay Ambrosinni, Drum Major.
+Presenting the Brown University Marching Band and its Alumni, 150 strong! Martin Fischer, Director; Gordon Tomas, President; Jay Ambrosini, Drum Major, and Irving Harris, Foiunder of the Band, Drum Major Emeritus.
 
-:sd[Jump to big block and play National Emblem to mid field]\
-:sd[Quick March to CANNON: Squat it.]
+:sd[form Cannon]
 
-:sd[Fanfare with loud bang at the end. Band plays Princeton Cannon Song as cannon ball runs out and forms P. (P will be alumni who will not play)]
+The band salutes Princeton University.
 
-:sd[Quick March to “Gigantic B”; Squat]\
-:sd[Brown Cheering Song and Star Spangled Banner]
+:sd[Play <u>Cannon Song</u> as Alumni form P]\
+:sd[Form BROWN]
 
-:sd[Quick march to WIN! : Squat]
+The Band has now predicted the winner of today’s game!
 
-:sd[Jump to Funnel : Ever True.]
+:sd[Play BBB]
 
-:sd[Jump to block on Runway (track) and march to band section.]
+Ladies and gentlemen, our National Anthem
+
+:sd[Play natl. antm.]\
+:sd[Form GAS]
+
+It has been said that Princeton's team ahs a tiger in its tank. The Band suggests that the Brown football team throw out the tiger and give them plenty of hi-test gas.
 
 ## Halftime
 
