@@ -10,7 +10,7 @@ teams:
 date: 2021-11-13
 ---
 
-::script-note[Women’s Soccer. Columbia wouldn’t let us play in their stadium. Context for this script: on Sunday, 11/07/21, there was both a bomb threat on Brown's campus, and a deer trapped in the entrance to Morriss Lounge. -AF+JF]
+::script-note[Women’s Soccer. Columbia wouldn’t let us play in their stadium. Context for this script: on Sunday, 11/07/21, there was both a bomb threat on Brown’s campus, and a deer trapped in the entrance to Morriss Lounge. -AF+JF]
 
 ## Halftime
 

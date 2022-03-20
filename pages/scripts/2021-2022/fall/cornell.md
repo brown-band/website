@@ -45,7 +45,7 @@ Band.\
 :sd[The band walks onto the field, screaming and sobbing].
 
 The Dirge.\
-:sd[The band plays The Dirge (Cornell's alma mater, but slowed down).]\
+:sd[The band plays The Dirge (Cornell’s alma mater, but slowed down).]\
 :sd[The band wails horribly, and pretends to die.]
 
 The Wii Theme.\

@@ -30,6 +30,6 @@ This date is of special significance to the Pembroke dads, many of whose daughte
 
 Finally, in 1958 Al Curran, a junior music major, completed a now arrangement of our most popular song “Ever True to Brown.” This band will now play this old favorite in its modern setting.”
 
-[_Band plays the new "Ever True To Brown" and then_
+[_Band plays the new “Ever True To Brown” and then_
 
 ::script-note[Unfortunately, the scan I had of this script did not include its second page — JF]

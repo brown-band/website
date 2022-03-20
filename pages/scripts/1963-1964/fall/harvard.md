@@ -34,4 +34,4 @@ The band now salutes Harvard Univ., who, though it will be far less expensive th
 :sd[Brown Band forms “FUND”]\
 :sd[Harvard Band forms “UNITED”]
 
-To conclude this afternoon's halftime show, the Brown and Harvard Bands, for the first time in the history of the Ivy League, appear on the field at the same time for a common purpose. The bands have united, as have the 97 member organizations of the fund, in the hope that the people of our states will likewise unite in support of the United Fund,
+To conclude this afternoon’s halftime show, the Brown and Harvard Bands, for the first time in the history of the Ivy League, appear on the field at the same time for a common purpose. The bands have united, as have the 97 member organizations of the fund, in the hope that the people of our states will likewise unite in support of the United Fund,

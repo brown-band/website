@@ -29,9 +29,9 @@ Catch us at halftime when we navigate logistical issues like we’ve been doing 
 
 Ladies and gentlemen, friends and alumni, presenting an organization that is pleased to welcome its alumni back to campus with the utmost regard, honor, and respect, it’s the Brown University “yo what’s up, moldy oldies” BANNNDDDDDDDDDDD!
 
-We are contractually required to cover all outbreaks of humorous assaults on Ivy League campuses, so today we will fulfill our obligation to you — our listenership — by discussing your recent spate of paintball incidents. According to the excellent reporting in the Yale Daily News, it's becoming something of a tradition. Of course, as a band, we stand firmly against all forms of assault, and we also stand against unreasonable searches of our dark-colored sedan for paintball paraphernalia. Watch now as the band throws out some paint-covered smocks and plays "Paintball."
+We are contractually required to cover all outbreaks of humorous assaults on Ivy League campuses, so today we will fulfill our obligation to you — our listenership — by discussing your recent spate of paintball incidents. According to the excellent reporting in the Yale Daily News, it’s becoming something of a tradition. Of course, as a band, we stand firmly against all forms of assault, and we also stand against unreasonable searches of our dark-colored sedan for paintball paraphernalia. Watch now as the band throws out some paint-covered smocks and plays “Paintball.”
 
-:sd[Band forms X and plays "Pompeii"]
+:sd[Band forms X and plays “Pompeii”]
 
 We’re honoring Brown University alumni this week, so we figured it would be nice to honor some of our favorite alumni of Yale, like:
 
@@ -50,7 +50,7 @@ Call me Ishmael and I’ll call you by the name Montero, put down that peach, an
 
 :sd[Band forms X and plays The Impression That I Get.]
 
-Speaking of ice, it will soon be winter! And the coming of winter means that the world's only ice-skating marching band (yours truly) will be joining the ranks of our school’s Skate-America competitor in winning gold over Yale, something that is greatly helped by the fact that our band actually skates and your band definitely does not. \
+Speaking of ice, it will soon be winter! And the coming of winter means that the world’s only ice-skating marching band (yours truly) will be joining the ranks of our school’s Skate-America competitor in winning gold over Yale, something that is greatly helped by the fact that our band actually skates and your band definitely does not. \
 And that ends our paragraph. **T**ighten your **L**aces, and and **L**ighten your **T**aces, and watch now as the band sharpens up its skates to play Ice Blade in Ice Skate Fray Ice (In the Fray).
 
 :sd[Band forms a B and plays In the Fray]

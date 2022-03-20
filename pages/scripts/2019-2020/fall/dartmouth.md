@@ -14,7 +14,7 @@ date: 2019-11-23
 
 Ladies and gentlemen, friends and alumni, presenting an organization that really appreciates French poetry, it’s the Brown University “wee wee baguette” BANNNDDDDDDDDDDD!
 
-_Il y a une seule fois que la beauté de la nature m'a enveloppé complètement. C'est en l'année vent-cent-huit, juste comme je pataugeais sur la plage de Nice. L'eau tiède était jusqu'aux genoux. Mes cheveux et mon short de bain avaient la même teinte de jaune-vert vif. Ma poitrine nue brillait dans l'air salé, complètement sans poils. Mes abdos volés ondulaient comme des vagues sur mon corps élancé. Je me plais à plonger au sein de mon image. Je l'embrasses des yeux et des bras, et mon coeur se distrait quelquefois de sa propre rumeur au bruit de cette plainte indomptable et sauvage. J'ai alors compris le bonheur absolu._ Watch now as the band gets snow in their face and plays Johnny L. Mamater.
+_Il y a une seule fois que la beauté de la nature m’a enveloppé complètement. C’est en l’année vent-cent-huit, juste comme je pataugeais sur la plage de Nice. L’eau tiède était jusqu’aux genoux. Mes cheveux et mon short de bain avaient la même teinte de jaune-vert vif. Ma poitrine nue brillait dans l’air salé, complètement sans poils. Mes abdos volés ondulaient comme des vagues sur mon corps élancé. Je me plais à plonger au sein de mon image. Je l’embrasses des yeux et des bras, et mon coeur se distrait quelquefois de sa propre rumeur au bruit de cette plainte indomptable et sauvage. J’ai alors compris le bonheur absolu._ Watch now as the band gets snow in their face and plays Johnny L. Mamater.
 
 :sd[Band forms a snowflake and plays Johnny B. Goode.]
 
@@ -35,7 +35,7 @@ Watch now as the band draws you like one of your French girls and plays Monet, M
 
 :sd[Band forms Favorite Form and plays Favorite Song.]
 
-France also has cats. I LOVE fat cats!!!! (chuckle) Chonky. There is a cat in the woods. For some people, the cat is easy to see. Others don't see it at all. Some people say the cat is tame. Others say it's vicious and dangerous. Since no one can really be sure who's right, isn't it smart to be as strong as the cat? If there is a cat.\
+France also has cats. I LOVE fat cats!!!! (chuckle) Chonky. There is a cat in the woods. For some people, the cat is easy to see. Others don’t see it at all. Some people say the cat is tame. Others say it’s vicious and dangerous. Since no one can really be sure who’s right, isn’t it smart to be as strong as the cat? If there is a cat.\
 Watch now as the Band visits the town neighboring La Croix, France and plays Fire Cat Bear.
 
 :sd[Band forms B and plays Brown Bear.]

@@ -14,13 +14,13 @@ date: 2021-10-23
 
 ## Pregame
 
-Ladies and gentlemen, friends and alumni, presenting an organization that had hoped to perform a quote pointless rant unquote, but after much negotiation has settled on whatever you're about to hear, it’s the Brown University “we sure hope constraints do in fact lead to better art” BANNNDDDDDDDDDDD!
+Ladies and gentlemen, friends and alumni, presenting an organization that had hoped to perform a quote pointless rant unquote, but after much negotiation has settled on whatever you’re about to hear, it’s the Brown University “we sure hope constraints do in fact lead to better art” BANNNDDDDDDDDDDD!
 
-Hello Cornell and Neighboring Institutions. We are coming to you live from the beautiful city of Ithaca and Surrounding Communities. It is a beautiful day. The sun is shining. The football is oblong. We have no negative feelings to express about the process of submitting a script for content review. Watch now as the band carefully directs its criticism only toward a certain so-called elite university in Rhode Island and plays Any Way Cornell Athletics Wants It (That's The Way They'll Get It?)
+Hello Cornell and Neighboring Institutions. We are coming to you live from the beautiful city of Ithaca and Surrounding Communities. It is a beautiful day. The sun is shining. The football is oblong. We have no negative feelings to express about the process of submitting a script for content review. Watch now as the band carefully directs its criticism only toward a certain so-called elite university in Rhode Island and plays Any Way Cornell Athletics Wants It (That’s The Way They’ll Get It?)
 
 :sd[Band forms X and plays Any Way You Want It]
 
-In order to ensure our script maintains its relevance to the athletic contest at hand, we figured we ought to stick only to events that are happening at the moment. Like me reading this sentence. Or how a few minutes ago some esteemed gentlemen were tossing the ol' pigskin around. Oh, look - there are some people in brown jackets running around and yelling. That’s weird. Now someone in an official-looking uniform is approaching me very quickly and- hey wait, get off me! Hey! No! :sd[sounds of a struggle] :sd[in a differently-pitched voice] watch now as the band does what it's told for once and plays, um, Go Brown? Cheer for Brown? I don't actually know what songs you play.
+In order to ensure our script maintains its relevance to the athletic contest at hand, we figured we ought to stick only to events that are happening at the moment. Like me reading this sentence. Or how a few minutes ago some esteemed gentlemen were tossing the ol’ pigskin around. Oh, look - there are some people in brown jackets running around and yelling. That’s weird. Now someone in an official-looking uniform is approaching me very quickly and- hey wait, get off me! Hey! No! :sd[sounds of a struggle] :sd[in a differently-pitched voice] watch now as the band does what it’s told for once and plays, um, Go Brown? Cheer for Brown? I don’t actually know what songs you play.
 
 :sd[Band forms a B and plays For Bruno and 4 Brown]
 
@@ -34,7 +34,7 @@ It has come to our attention that at our last visit to this most esteemed instit
 
 :sd[Band forms X and plays Party in the U.S.A]
 
-I know that didn’t sound like an apology, so to continue in the spirit of reconciliation, we thought we'd come up with a list of things that are bigger and better at Cornell than at Brown.
+I know that didn’t sound like an apology, so to continue in the spirit of reconciliation, we thought we’d come up with a list of things that are bigger and better at Cornell than at Brown.
 
 :::script-list
 

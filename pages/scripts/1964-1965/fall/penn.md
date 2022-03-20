@@ -23,10 +23,10 @@ The Bend salutes the Immigrant peddlers grandson … from the extreme right of t
 
 The Band now salutes the Democratic candidate from the radical middle of the field. The formation that has been made is a lonely desk, in a big room, in a little white house, behind a big iron fence, far from ’Ole Texas.
 
-:sd[Band plays I'm and Ole Cow Hand.]\
+:sd[Band plays I’m and Ole Cow Hand.]\
 :sd[Band marches to Massa-york.]
 
-In salute to the Keating - Kennedy race in New York, the Band has formed the states of New York and Massachusetts. As an aid to Mr. Kennedy's ambitions, the Band suggests the formation of a new state: Massa-york.
+In salute to the Keating - Kennedy race in New York, the Band has formed the states of New York and Massachusetts. As an aid to Mr. Kennedy’s ambitions, the Band suggests the formation of a new state: Massa-york.
 
 :sd[Band removes dividing line.]
 

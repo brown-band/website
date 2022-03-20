@@ -30,6 +30,6 @@ A rather large concrete change on campus is the new, white library. The curious 
 
 :sd[Mickey Mouse March; Band marches to eyeglasses]
 
-Everyone recognizes that tie most important change of all is the high intellectual standard of this year's freshman class as symbolized by the eyeglasses formed on the field. fortunately, Saturday night finds the Brown freshman no different from any of his predecessors. Watch his reaction to the typical local girl.
+Everyone recognizes that tie most important change of all is the high intellectual standard of this year’s freshman class as symbolized by the eyeglasses formed on the field. fortunately, Saturday night finds the Brown freshman no different from any of his predecessors. Watch his reaction to the typical local girl.
 
 :sd[<u>There is Nothing like a Dame</u>. March off.]

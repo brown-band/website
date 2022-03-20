@@ -21,6 +21,6 @@ While President Johnson travels through Asia, back in the States the candidates 
 
 :sd[Band forms outline of Alabama]\
 The Band has formed the sovereign state of Alabama. Although George Wallace will not himself be candidate for re-election this year he has found, in his wife, the only person truly worthy on becoming his successor. The Band salutes the premise that bedfellows make strange politics as it plays, “A Good <u>Man</u> is Hard to Find.”\
-:sd[The Band plays "A Good Man is Hard to Find.”]
+:sd[The Band plays “A Good Man is Hard to Find.”]
 
 :sd[Band marches off field as crowd strangles.]

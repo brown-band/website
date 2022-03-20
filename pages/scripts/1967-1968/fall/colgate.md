@@ -39,7 +39,7 @@ The Band has formed a piece of pie. At the Brown Refectory one sees the obvious 
 
 The Band has formed a tombstone. It has been rumored lately that the most revered institution of all has passed away. Decrying the thought of the death of him, we hopefully play “It Ain’t Necessarily So.”
 
-:sd[Band plays "It Ain't Necessarily So.”]\
+:sd[Band plays “It Ain’t Necessarily So.”]\
 :sd[Band forms a blob.]
 
 The Band now has formed the most beloved institution on College Hill—The Brown University Marching Band. On bended knee they repent for any past transgressions and pray for your forgiveness.
@@ -57,7 +57,7 @@ A prominent journalist on a certain Providence newspaper has often criticized th
 :sd[band parades up an down field.]\
 :sd[band still in block]
 
-Well fans, wasn't that entertaining. Now to the meat of the show.
+Well fans, wasn’t that entertaining. Now to the meat of the show.
 
 :sd[band forms dollar sign]
 
@@ -66,7 +66,7 @@ Today the Band salutes changes in traditional American institutions. The Band ha
 :sd[band plays]\
 :sd[band forms a piece of pie.]
 
-The band has formed a piece of pie. At the Brown Refectory one sees the obvious decline of apple pie’s popularity. Instead the band forms mrs Feeney’s notorious air pie. The Band plays "Up, Up, and Away in My Beautiful Balloon.”
+The band has formed a piece of pie. At the Brown Refectory one sees the obvious decline of apple pie’s popularity. Instead the band forms mrs Feeney’s notorious air pie. The Band plays “Up, Up, and Away in My Beautiful Balloon.”
 
 :sd[band plays]\
 :sd[band does no????] :sd[payton yells]: Hey Band you want to go to a pattie?\

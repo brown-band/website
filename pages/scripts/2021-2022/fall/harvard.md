@@ -14,7 +14,7 @@ date: 2021-09-24
 
 Ladies and gentlemen, friends and alumni, presenting an organization that denies any involvement in the recent spate of bicycle punching incidents, it’s the Brown University “U-Lock, U-Duck, U-Cover” BANNNDDDDDDDDDDD!
 
-Don’t worry, Harvard! The Brown Band has heard about your recent slew of Bicycle Punching Incidents (trademark pending) and we’re donning our investigation skinsuits as we speak! We're shifting our ten-speed coffee machine into the most middling intensity gear possible—get ready for some moderately engaged evidence pedalling, and look for your story near the bottom of the 24-hour news cycle.\
+Don’t worry, Harvard! The Brown Band has heard about your recent slew of Bicycle Punching Incidents (trademark pending) and we’re donning our investigation skinsuits as we speak! We’re shifting our ten-speed coffee machine into the most middling intensity gear possible—get ready for some moderately engaged evidence pedalling, and look for your story near the bottom of the 24-hour news cycle.\
 Strap on some protection in the form of a bike helmet (you gotta fight tire with tire) and watch now as the band mounts our communal bike, puts on our boxing gloves, and plays Everytime We Punch—yeah, it’s a little on the nose, but, so were the punches.
 
 :sd[Band forms X and plays Everytime We Touch.]
@@ -48,7 +48,7 @@ Sorry about that. We’ve just received the correct informational report about �
 
 :::
 
-Overall, we think you've got a nice university there and :sd[Italiano accent] it would be a shame if something were to happen to it. Watch now as the band offers you an insurance policy you can't refuse and plays Collegiate Mobster.
+Overall, we think you’ve got a nice university there and :sd[Italiano accent] it would be a shame if something were to happen to it. Watch now as the band offers you an insurance policy you can’t refuse and plays Collegiate Mobster.
 
 :sd[Band forms \[ and plays Rock Lobster.]
 
@@ -57,4 +57,4 @@ Clean the blood off your silver spoons and watch now as the band makes new conne
 
 :sd[Band forms a B and plays #2]
 
-It's been really exciting to play with such a well-endowed group of people! Brown band out.
+It’s been really exciting to play with such a well-endowed group of people! Brown band out.

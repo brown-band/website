@@ -31,14 +31,14 @@ The Band has formed an E as a salute to mid-semester exams.. In an attempt to av
 :sd[Sit down and study]\
 :sd[March around to E]
 
-Guess what the Band has formed this time—as it salutes Brown's Sharpe Refectory. The E could stand for eat, but in this case it stands for <u>EUCCH</u>! As a substitute, the Band endorses the formation of a Brown Eating Club, but with a special type of waitress. The Band plays the “Bunny Hop”.
+Guess what the Band has formed this time—as it salutes Brown’s Sharpe Refectory. The E could stand for eat, but in this case it stands for <u>EUCCH</u>! As a substitute, the Band endorses the formation of a Brown Eating Club, but with a special type of waitress. The Band plays the “Bunny Hop”.
 
 :sd[Play Bunny Hop. March to E]
 
-Finally the Band salutes the United Fund by forming the next to the last letter in the word United. In recognition of the United Fund's service to the R.I. community, the Band presents a statement specially prepared for today's show: Quote: “The 1964 United Fund campaign to serve human needs is under way. Every year the Brown University Band salutes the United Fund campaign. Today the Band urges all, no matter where they live, to support their United Fund or Community Chests,” Unquote, The Band wishes success to the campaign as it plays ‘Pennies from Heaven’.
+Finally the Band salutes the United Fund by forming the next to the last letter in the word United. In recognition of the United Fund’s service to the R.I. community, the Band presents a statement specially prepared for today’s show: Quote: “The 1964 United Fund campaign to serve human needs is under way. Every year the Brown University Band salutes the United Fund campaign. Today the Band urges all, no matter where they live, to support their United Fund or Community Chests,” Unquote, The Band wishes success to the campaign as it plays ‘Pennies from Heaven’.
 
 :sd[Play ‘Pennies’] :sd[Form concert E]
 
-The Band concludes by forming a Concert E. We salute the festivities of Pembroke Father-Daughter Weekend by playing, in concert, E. E. Bagley's famous march, the “Purple Carnival”.
+The Band concludes by forming a Concert E. We salute the festivities of Pembroke Father-Daughter Weekend by playing, in concert, E. E. Bagley’s famous march, the “Purple Carnival”.
 
 :sd[Play Purple Carnival] :sd[Exit]

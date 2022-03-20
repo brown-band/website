@@ -29,7 +29,7 @@ Catch us at halftime when beetles fight these battles in a bottle with their pad
 
 ## Halftime
 
-Ladies and gentlemen, friends and alumni, presenting an organization that is taking its motto-writing class S/NC, it’s the Brown University "Lorem Ipsum Ki Bear Come Now" BANNNDDDDDDDDDDD!
+Ladies and gentlemen, friends and alumni, presenting an organization that is taking its motto-writing class S/NC, it’s the Brown University “Lorem Ipsum Ki Bear Come Now” BANNNDDDDDDDDDDD!
 
 Hey Penn, did you know you had an issue with your original motto? We totally get it—Latin can be tricky. The Brown Band was certainly surprised when it learned that our motto “_Miximus in lecto_” didn’t actually translate to making delectable mixed drinks during class. Still, though, at least we never discovered that our 100-year-old motto could be translated as “loose women without morals.” But, uh, yeah, Penn, in 1898, you did. It’s really too bad: “sine moribus vanae” had such a nice ring to it.
 

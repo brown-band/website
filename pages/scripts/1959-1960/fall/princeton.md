@@ -22,6 +22,6 @@ Students on the graduate level include such courses as advanced basket weaving. 
 
 :sd[Band plays “A Tisket, A Tasket”; then forms <u>glasses and eyes</u>.]
 
-Tired eyes need help during these many hours of study. As its final formation, The Band has formed a pair of glasses. But glasses help to see lots of things more clearly. Watch those eyes move. :sd[Eyes move.] Band, you're making a spectacle of yourself.
+Tired eyes need help during these many hours of study. As its final formation, The Band has formed a pair of glasses. But glasses help to see lots of things more clearly. Watch those eyes move. :sd[Eyes move.] Band, you’re making a spectacle of yourself.
 
 :sd[Band plays “There is Nothing Like a Dame”; then marches off in formation, on street beat.]

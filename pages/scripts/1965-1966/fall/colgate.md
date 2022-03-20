@@ -21,7 +21,7 @@ In honor of Colgate the band has formed an invisible shield… in this formation
 
 with a <u>Gleem</u> in its eye, the A & E committee of the university saluted parents webkind by guaranteeing—that in one area at least—Brown will be first in the ivy league. The Band voices the cry of all parents: “Help”
 
-:sd[Band plays "help".]\
+:sd[Band plays “help”.]\
 :sd[Band forms horizontal line; prepares to remove hats.]
 
 It’s hats off to that reknowned student publication, the Brown Daily Herald, now at the <u>Crest</u> of its popularity, whom the band salutes by forming a headline. With apologies to Colgate for recommending a competitve product, the band recognizes the BDH’s style of journalism by playing “You’ll Wonder Where the Yellow Went”.

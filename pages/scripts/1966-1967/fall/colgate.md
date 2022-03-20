@@ -17,7 +17,7 @@ Today the Band looks at prominent figures…in the world of politics. In the pas
 :sd[Band plays “When You Wish Upon A Star.”]
 
 :sd[The Band forms H H.]\
-the band salutes horace hobs by playing "who?"\
+the band salutes horace hobs by playing “who?”\
 :sd[The Band plays “Who?”]
 
 :sd[The Band forms H H.]\

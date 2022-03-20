@@ -27,4 +27,4 @@ The Band salutes all those Pembrokers who are now self-consciously tugging at th
 :sd[Band plays “There is Nothing Like a Dame”]
 
 :sd[Band forms concert oval.]\
-Now in concert formation, the Band plays selections from the Off-Broadway musical "The Fantasticks."
+Now in concert formation, the Band plays selections from the Off-Broadway musical “The Fantasticks.”

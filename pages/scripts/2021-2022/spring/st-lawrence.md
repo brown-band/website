@@ -13,7 +13,7 @@ date: 2022-02-05
 
 Ladies and gentlemen, friends and alumni, presenting an organization that came here to play hockey and break ankles, and just ran out of hockey, it’s the Brown University “Dunking on the Olds” BAND!!!!
 
-We’re thrilled to welcome a hockey team from that most prestigious of towns, birthplace of the great bard William Shakespeare himself… oh wait you’re in Bradford upon Avon, not Stratford. And you're a college in America, not a high school in England. And the game’s over. We "regret" the “error.”\
+We’re thrilled to welcome a hockey team from that most prestigious of towns, birthplace of the great bard William Shakespeare himself… oh wait you’re in Bradford upon Avon, not Stratford. And you’re a college in America, not a high school in England. And the game’s over. We “regret” the “error.”\
 Goodbye to a hockey team from an extremely average town somewhere in, like, the north or something. Whatever, who cares.\
 Bid bye-bye to the boring bros from Bradford and behold as the Band bisits ba bore binteresting bown in the borth and blays Bskating Bup to Soston. :sd[long pause] uh…
 
@@ -36,7 +36,7 @@ Jokes aside, it’s good to see you all, alumni. If we behave, will you tell tha
 
 :sd[Band forms a palm tree on a beach and plays The Time Warp]
 
-As the Brown Band’s alumni can certainly attest, we have a deep understanding of the value of rehearsal, serious work ethic, and practice time. But we also understand that academics come before athletics (or at least within a couple of minutes of each other, if everybody involved is courteous) and therefore limit our rehearsals to a reasonable one hour per week. Unlike St. Lawrence’s hockey team, who tried to count to four and ended up at nine hours of practice. :sd[band yells “YOU CAN'T DO THAT”]. Watch now as the band values the hard work, dedication, and math skills of our own overeducated alums and plays Nine B​​runo and Nine Brown.
+As the Brown Band’s alumni can certainly attest, we have a deep understanding of the value of rehearsal, serious work ethic, and practice time. But we also understand that academics come before athletics (or at least within a couple of minutes of each other, if everybody involved is courteous) and therefore limit our rehearsals to a reasonable one hour per week. Unlike St. Lawrence’s hockey team, who tried to count to four and ended up at nine hours of practice. :sd[band yells “YOU CAN’T DO THAT”]. Watch now as the band values the hard work, dedication, and math skills of our own overeducated alums and plays Nine B​​runo and Nine Brown.
 
 :sd[The band counter skates into the B while playing In The Fray]
 

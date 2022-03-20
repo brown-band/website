@@ -16,7 +16,7 @@ Ladies and gentlemen, friends and alumni, presenting an organization that swears
 
 Hello everyone. We now have a message from a close...friend, and we’d love for you to listen closely so that we can-
 
-_Alright let’s cut to the chase. That’s a nice bike you have there Princeton, ‘d be a real shame sumthin’ happn’d to it. I’ve been hearing many things about this “Bait Bike” project you’ve cooked up, and our first reaction is good, good. Really, I’m impressed. Keeping real criminals out of the game with a clever trick like that, it’s like the heat is plastered right on the back of your neck. Or, so I imagine, that’s what it could be like. Just an idea of course. But why don’t you get back to your little game, and I'll get back to Raymond Patriarca's Coin-O-Matic._
+_Alright let’s cut to the chase. That’s a nice bike you have there Princeton, ‘d be a real shame sumthin’ happn’d to it. I’ve been hearing many things about this “Bait Bike” project you’ve cooked up, and our first reaction is good, good. Really, I’m impressed. Keeping real criminals out of the game with a clever trick like that, it’s like the heat is plastered right on the back of your neck. Or, so I imagine, that’s what it could be like. Just an idea of course. But why don’t you get back to your little game, and I’ll get back to Raymond Patriarca’s Coin-O-Matic._
 
 Uh, watch now as the band cleans up this one-horse town and confronts the Lock Mobster.
 

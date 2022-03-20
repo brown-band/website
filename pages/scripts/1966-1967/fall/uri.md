@@ -32,6 +32,6 @@ Recently several buildings around the University have been torn down. It was sug
 
 :sd[Band forms RLH.]\
 The Band salutes Brown’s thirteenth president and asks everyone to join in welcoming him by singing the Alma Mater.\
-:sd[Band plays "Alma Mater".]
+:sd[Band plays “Alma Mater”.]
 
 :sd[Band marches off filed as crowd strangles.]

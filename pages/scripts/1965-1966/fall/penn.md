@@ -18,9 +18,9 @@ Today the band salutes the many sides of one of Pennsylvania’s most famous res
 
 :sd[Band marches out, forms cocktail glass.]
 
-First we salute Franklin as moralist. Pennsylvania—as a result of recent incidents—may have to recognize Franklin’s emphasis on temperance, and switch a famous school song from “Have a Highball at Nightfall" to “Tea for Two.”
+First we salute Franklin as moralist. Pennsylvania—as a result of recent incidents—may have to recognize Franklin’s emphasis on temperance, and switch a famous school song from “Have a Highball at Nightfall” to “Tea for Two.”
 
-:sd[Band plays "Tea for two".]\
+:sd[Band plays “Tea for two”.]\
 :sd[Band forms UPENN Coed.]
 
 Next, we salute Benjamin Franklin as founder of the University of Pennsylvania. Franklin’s original plan did not include the coeds who now inhabit the campus. The Band suggests that perhaps he had reason for this as it prays “I’ve got plenty of nothing”.

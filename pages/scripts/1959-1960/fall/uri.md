@@ -10,7 +10,7 @@ teams:
 date: 1959-10-24
 ---
 
-:sd[Band on goal line plays "Fanfare".]
+:sd[Band on goal line plays “Fanfare”.]
 
 Ladies and Gentlemen, the Brown University Marching Band — Martin Fischer, Director; Mike Weston, President; Skip Fleming, Drum Major.
 
@@ -25,6 +25,6 @@ The band has formed a blank check, which should be familiar to all you parents o
 :sd[Band plays “There is Nothing Like a Dame” — marches into concert oval on “Billboard March”]
 
 A new brown song has been written by Mr.\
-Brown, class of :script-tab. The words to this song have been provided for you. join us in singing "You Men Down There"
+Brown, class of :script-tab. The words to this song have been provided for you. join us in singing “You Men Down There”
 
-:sd[Band plays "You Men Down There" — marches off on streetbeat.]
+:sd[Band plays “You Men Down There” — marches off on streetbeat.]

@@ -50,7 +50,7 @@ Catch us at halftime when we stick a hard candy into our Dart Orifice and recall
 
 Ladies and gentlemen, friends and alumni, presenting an organization that has plenty of engineers but a dearth of humanities concentrators, it’s the Brown University “you can drive a train, but can you write a poem?” BANNNDDDDDDDDDDD!
 
-Hi, Dartmouth! Welcome to our time-honored tradition of ignoring you and focusing on ourselves! I'm sure you have a college worthy of being mocked, but instead we'll be discussing our seniors. They’ve worked so hard at making our band the best one in the Ivy League, and in this stadium right now, so we figured the least we could do was spit some incredible lines in their honor.
+Hi, Dartmouth! Welcome to our time-honored tradition of ignoring you and focusing on ourselves! I’m sure you have a college worthy of being mocked, but instead we’ll be discussing our seniors. They’ve worked so hard at making our band the best one in the Ivy League, and in this stadium right now, so we figured the least we could do was spit some incredible lines in their honor.
 
 From the Final Frontier of Washington\
 Comes our favorite first-year senior Adam Furman.\
@@ -82,8 +82,8 @@ Cymbal player from Texas\
 Deserves to drive a Lexus\
 Frances, dearest, we don’t deserve you.
 
-It's time for us to talk about Charlie.\
-It's true that we've never seen him in a Harley.\
+It’s time for us to talk about Charlie.\
+It’s true that we’ve never seen him in a Harley.\
 The freshmen he scares\
 With his peculiar glares\
 Thanks for safewalking us down a dark alley.
@@ -121,7 +121,7 @@ And she’s the sweetest flute player I’ve met
 There once was a Julia Henke,\
 From the Midwest, but she’s not a Yankee,\
 She’s a big fan of nutella\
-And she don't have Rubella\
+And she don’t have Rubella\
 But her leg do be mad stanky.
 
 To NPR Lee Ding does listen\
@@ -143,8 +143,8 @@ And biking down Barus and Holls\
 Build us a plane we demand!
 
 Ryan Burnett’s a real great drummer\
-Without him next year, we'll sound dumber\
-He’s on our b'ryan't button\
+Without him next year, we’ll sound dumber\
+He’s on our b‘ryan’t button\
 In the cargos he’s struttin’\
 Hey, cutie, can I get your number?
 
@@ -152,7 +152,7 @@ Miss Caskey is rec secretary\
 If possible, Sara i’d marry\
 3rd trumpet she tweets\
 Her emails are sweet\
-Inflatable John she'll always carry
+Inflatable John she’ll always carry
 
 Our most favoritest president Stacey\
 During board meetings, she’s the opposite of spacey\
@@ -172,4 +172,4 @@ He hails from Rhody\
 Wants a BEO degree\
 Just don’t end up in finance wink wink
 
-Congratulations to the Class of 2022 on your impending exit from this immortal institution! Hope you enjoyed that stunning display of the underclassmen's poetic power—we’re tooootally going to be fine without you next year, yep, uh huh, yes we are. Bye for now—we’ll see you again when you’re crustier than those bagels we left behind at Penn (or just at the end of halftime). Brown band out!
+Congratulations to the Class of 2022 on your impending exit from this immortal institution! Hope you enjoyed that stunning display of the underclassmen’s poetic power—we’re tooootally going to be fine without you next year, yep, uh huh, yes we are. Bye for now—we’ll see you again when you’re crustier than those bagels we left behind at Penn (or just at the end of halftime). Brown band out!

@@ -20,7 +20,7 @@ Holy cow! The Brown Band has gone hog wild making their first flight ever to the
 
 :sd[The Band forms a crevice on the field.]
 
-We've taken a good look at your gorgeous campus and were struck by the great cornell crevices. We understand that in order to bridge the gap between man and nature at cornell a crevice watching society was formed whose membership, rather than growing by leaps and bounds, has fallen sharply. A salute to the drop-outs—as the Band forms said crevass and plays “I Want to Be around to Pick up the Pieces.”
+We’ve taken a good look at your gorgeous campus and were struck by the great cornell crevices. We understand that in order to bridge the gap between man and nature at cornell a crevice watching society was formed whose membership, rather than growing by leaps and bounds, has fallen sharply. A salute to the drop-outs—as the Band forms said crevass and plays “I Want to Be around to Pick up the Pieces.”
 
 :sd[The Band plays “I Want to Be Around.”]
 

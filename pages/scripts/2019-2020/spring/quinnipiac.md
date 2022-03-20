@@ -30,9 +30,9 @@ Hey you! Yeah you! Stop making fun of us. Quit it. Stop. Don’t laugh at our wo
 
 - A. Shopping seven classes, all Monday/Wednesday/friday from 1-2, and all are concentration requirements
 - B. Recovering from mono after a marathon spit-spit-swallow tournament
-- C. Receiving an email after their thesis advisor sees their first chapter and only replies, "I have concerns. We need to meet. Immediately."
+- C. Receiving an email after their thesis advisor sees their first chapter and only replies, “I have concerns. We need to meet. Immediately.”
 - D. Writing a formal email and constantly rethinking how many exclamation points you should use (It’s two you only need two)
-- E. Trying to figure out what's going to happen when you graduate in 3.5 months (help) and
+- E. Trying to figure out what’s going to happen when you graduate in 3.5 months (help) and
 - F. The Princeton band
 
 :::

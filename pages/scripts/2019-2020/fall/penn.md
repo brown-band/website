@@ -55,7 +55,7 @@ Watch now as the band demands a fair shake for Benny Boy and plays Dr. Inventor.
 
 :sd[Band forms a milkshake and plays Doctor Worm.]
 
-As you probably know, we got here on a bus, which is also known as the bandwagon. We're glad it's not a SEPTA bus. Your SEPTA, short for the Society for Elimination of Public Transit in America, is a top-class government-sponsored corporation. A transit authority that pronounces "We're getting there!" must do a great job of getting people somewhere! Your tax dollars went into building a cathedral tunnel underneath the center of Philadelphia and blowing up a gasoline truck. Watch now as the band goes on strike and drives For Buses and For Trains.
+As you probably know, we got here on a bus, which is also known as the bandwagon. We’re glad it’s not a SEPTA bus. Your SEPTA, short for the Society for Elimination of Public Transit in America, is a top-class government-sponsored corporation. A transit authority that pronounces “We’re getting there!” must do a great job of getting people somewhere! Your tax dollars went into building a cathedral tunnel underneath the center of Philadelphia and blowing up a gasoline truck. Watch now as the band goes on strike and drives For Buses and For Trains.
 
 [Band forms a B and plays For Bruno and For Brown]
 

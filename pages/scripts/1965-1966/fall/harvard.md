@@ -28,7 +28,7 @@ Several months ago President Johnson, in an effort to cut federal spending, requ
 
 :sd[Band forms E-.]\
 As school opened the statement was made that overcrowding in the dormitories would be eliminated by midsemester. It now becomes obvious how this is being acheived. In salute to the new grading system the Band forms not an E, but. an E-. The Band plays “So Long Its Been Nice to Know You.”\
-:sd[Band plays "So Long Its Been Nice to Know You.”]
+:sd[Band plays “So Long Its Been Nice to Know You.”]
 
 :sd[Band forms 28.]\
 The Band salutes federal aid to education. In addition to the traditional grants used to enhance academic qualities brown university may soon receive a different type op federal relief. This to aid in alleviating overcrowding in student rooms.\

@@ -19,17 +19,17 @@ We realized that we had enough material to make an entire ice show with just son
 
 Lord Farquaad is ashamed of being small, but Puss in Boots is even smaller and he’s killing the game! Maybe it’s that snazzy footwear, or maybe it’s just Antonio Banderas. Either way, they’re lining up for a catbath. Whether you’re like Mongo the giant gingerbread cookie or more like regular Gingy, the size of your heart is more important than the size of your gumdrop buttons. Watch now as the band proves it’s not compensating for anything and plays “I Believe That Size Doesn’t Matter”
 
-:sd[Band forms Farquaad's tower and plays I'm A Believer]
+:sd[Band forms Farquaad’s tower and plays I’m A Believer]
 
 Shrek says that an ogre is like an onion because it has layers. But here’s the deal: all the layers of an onion are the same! It’s just layer after layer of delicious onion-y flavor – and tears. So we decided to unwrap our own layers, and here’s what we found:
 
 :::script-list
 
-- A. They don't stop coming
-- B. And they don't stop coming
-- C. And they don't stop coming
-- D. And they don't stop coming
-- E. And they don't stop coming AND
+- A. They don’t stop coming
+- B. And they don’t stop coming
+- C. And they don’t stop coming
+- D. And they don’t stop coming
+- E. And they don’t stop coming AND
 - F. The Princeton band
 
 :::

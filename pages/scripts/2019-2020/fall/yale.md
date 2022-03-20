@@ -51,7 +51,7 @@ So watch now as the band complains about intonation and plays Come on Eileen.
 
 :sd[Band forms X and plays Come On Eileen.]
 
-The Band used to think that they were Gutenberg’s gift to creation, but an article in the Yale Daily News about the female organism says otherwise. In October, Yale researchers said that their and their rabbits’ "neuro-endocrine reflex is too complex to be an evolutionary accident," and that therefore all female organisms have a biological purpose! Anyways, through some pretty big jumps in logic, your researchers were able to determine that humans are exactly the same as camels and cats too! That’s why the Band always bats your Gutenberg’s cookbook off the counter- because it’s secretly a cat and not a human! We never would have known that the female organism even existed if it weren’t for you! Thanks, Yale!\
+The Band used to think that they were Gutenberg’s gift to creation, but an article in the Yale Daily News about the female organism says otherwise. In October, Yale researchers said that their and their rabbits’ “neuro-endocrine reflex is too complex to be an evolutionary accident,” and that therefore all female organisms have a biological purpose! Anyways, through some pretty big jumps in logic, your researchers were able to determine that humans are exactly the same as camels and cats too! That’s why the Band always bats your Gutenberg’s cookbook off the counter- because it’s secretly a cat and not a human! We never would have known that the female organism even existed if it weren’t for you! Thanks, Yale!\
 Watch now as the band proves the importance of the female organism and plays Bring the Evolutionary Victory.
 
 :sd[Band forms a B and plays Bring the Victory.]

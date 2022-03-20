@@ -26,7 +26,7 @@ Watch now as the Band signs this new player for sicks point nein meow-llion and 
 
 :sd[Band forms a cat and plays The Impression That I Get.]
 
-That commentary on a grey cat playing football was about as much as we understand of pig (or maybe cat?) skin gridiron. Oh wait, we just found a video explaining how it works from Disney in 1944. Apparently the goal is "to advance the ball over the pole line of the opposing team by hook or crook. There are 15 men on either end, two ends, and”. AAHH AAH AAHH AHH AHH AHH
+That commentary on a grey cat playing football was about as much as we understand of pig (or maybe cat?) skin gridiron. Oh wait, we just found a video explaining how it works from Disney in 1944. Apparently the goal is “to advance the ball over the pole line of the opposing team by hook or crook. There are 15 men on either end, two ends, and”. AAHH AAH AAHH AHH AHH AHH
 
 Watch now as the band squares up for kickoff and gets TOTALLY In The Endzone.
 
