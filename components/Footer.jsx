@@ -33,7 +33,7 @@ module.exports = async () => (
             <Icon name="github" />
           </a>
         </li>
-        <li class="ms-5 ms-md-4">
+        <li class="ms-4 ms-sm-5 ms-md-4">
           <a
             class="link-secondary"
             href="https://twitter.com/BrownUBandStand"
@@ -42,7 +42,7 @@ module.exports = async () => (
             <Icon name="twitter" />
           </a>
         </li>
-        <li class="ms-5 ms-md-4">
+        <li class="ms-4 ms-sm-5 ms-md-4">
           <a
             class="link-secondary"
             href="https://instagram.com/brownbandstagram/"
@@ -51,13 +51,22 @@ module.exports = async () => (
             <Icon name="instagram" />
           </a>
         </li>
-        <li class="ms-5 ms-md-4">
+        <li class="ms-4 ms-sm-5 ms-md-4">
           <a
             class="link-secondary"
             href="https://facebook.com/BrownBand"
             aria-label="Facebook"
           >
             <Icon name="facebook" />
+          </a>
+        </li>
+        <li class="ms-4 ms-sm-5 ms-md-4">
+          <a
+            class="link-secondary"
+            href="https://www.youtube.com/user/BrownUBandstand"
+            aria-label="YouTube"
+          >
+            <Icon name="youtube" size={28} />
           </a>
         </li>
       </ul>
