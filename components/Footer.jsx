@@ -24,52 +24,44 @@ module.exports = async () => (
       </div>
 
       <ul class="nav list-unstyled justify-content-center justify-content-md-end d-flex flex-fill">
-        <li class="ms-md-4">
-          <a
-            class="link-secondary"
-            href="https://github.com/brown-band"
-            aria-label="GitHub"
-          >
-            <Icon name="github" />
-          </a>
-        </li>
-        <li class="ms-4 ms-sm-5 ms-md-4">
-          <a
-            class="link-secondary"
-            href="https://twitter.com/BrownUBandStand"
-            aria-label="Twitter"
-          >
-            <Icon name="twitter" />
-          </a>
-        </li>
-        <li class="ms-4 ms-sm-5 ms-md-4">
-          <a
-            class="link-secondary"
-            href="https://instagram.com/brownbandstagram/"
-            aria-label="Instagram"
-          >
-            <Icon name="instagram" />
-          </a>
-        </li>
-        <li class="ms-4 ms-sm-5 ms-md-4">
-          <a
-            class="link-secondary"
-            href="https://facebook.com/BrownBand"
-            aria-label="Facebook"
-          >
-            <Icon name="facebook" />
-          </a>
-        </li>
-        <li class="ms-4 ms-sm-5 ms-md-4">
-          <a
-            class="link-secondary"
-            href="https://www.youtube.com/user/BrownUBandstand"
-            aria-label="YouTube"
-          >
-            <Icon name="youtube" size={28} />
-          </a>
-        </li>
+        <SocialLink
+          href="https://github.com/brown-band"
+          label="GitHub"
+          icon="github"
+          isFirst
+        />
+        <SocialLink
+          href="https://twitter.com/BrownUBandStand"
+          label="Twitter"
+          icon="twitter"
+        />
+        <SocialLink
+          href="https://instagram.com/brownbandstagram/"
+          label="Instagram"
+          icon="instagram"
+        />
+        <SocialLink
+          href="https://facebook.com/BrownBand"
+          label="Facebook"
+          icon="facebook"
+        />
+        <SocialLink
+          href="https://www.youtube.com/user/BrownUBandstand"
+          label="YouTube"
+          icon="youtube"
+          size={28}
+        />
       </ul>
     </div>
   </footer>
 );
+
+function SocialLink({ label, href, icon, size, isFirst }) {
+  return (
+    <li class={isFirst ? "ms-md-4" : "ms-4 ms-sm-5 ms-md-4"}>
+      <a class="link-secondary" href={href} aria-label={label}>
+        <Icon name={icon} size={size} />
+      </a>
+    </li>
+  );
+}
