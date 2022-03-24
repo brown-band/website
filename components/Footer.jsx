@@ -1,11 +1,5 @@
 const Icon = require("./Icon.jsx");
 
-const { promisify } = require("node:util");
-const exec = promisify(require("node:child_process").exec);
-
-const longPromise = exec("git rev-parse HEAD");
-const shortPromise = exec("git rev-parse --short HEAD");
-
 module.exports = async () => (
   <footer class="mt-auto border-top" style="padding-block: 2rem">
     <div
@@ -27,18 +21,6 @@ module.exports = async () => (
 
       <div class="mb-3 mb-md-0 text-secondary text-center">
         ©&nbsp;1955–present Brown&nbsp;University&nbsp;Band&nbsp;members
-        <span class="d-none d-sm-inline">&nbsp;•&nbsp;</span>
-        <br class="d-sm-none" />
-        Commit&nbsp;
-        <a
-          href={
-            "https://github.com/brown-band/website/commit/" +
-            (await longPromise).stdout.trim()
-          }
-          class="text-secondary text-decoration-none"
-        >
-          <code>{(await shortPromise).stdout.trim()}</code>
-        </a>
       </div>
 
       <ul class="nav list-unstyled justify-content-center justify-content-md-end d-flex flex-fill">
