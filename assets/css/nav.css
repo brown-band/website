@@ -83,3 +83,24 @@
 .btn.nav-link:focus-visible:not([aria-expanded="true"]) {
   outline: revert !important;
 }
+
+details.nav-item > summary {
+  list-style: none;
+}
+
+details.nav-item > summary::before,
+details.nav-item > summary::-webkit-details-marker {
+  display: none;
+}
+details.nav-item[open] > summary::before {
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  z-index: 80;
+  display: block;
+  cursor: auto;
+  content: " ";
+  background: transparent;
+}

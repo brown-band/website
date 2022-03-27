@@ -45,74 +45,75 @@ module.exports = async ({ site, quote, nav: { nav }, all, currentURL }) => (
           </a>
           <ul class="navbar-nav bg-brown3 flex-sm-row">
             {nav.map((item, index) => (
-              <li class="nav-item dropdown mx-sm-3 mx-md-1">
-                <button
-                  class={
-                    "nav-link dropdown-toggle btn" +
-                    (item.content.some(
-                      (ch) =>
-                        !ch.disabled &&
-                        !ch.heading &&
-                        !ch.url &&
-                        findPage(ch, all).url === currentURL
-                    )
-                      ? " active"
-                      : "")
-                  }
-                  style="outline: 0"
-                  id={`dropdownMenuLink-${index}`}
-                  data-bs-toggle="dropdown"
-                  aria-expanded="false"
-                >
-                  {item.title}
-                </button>
-
-                <ul
-                  class="dropdown-menu dropdown-menu-dark dropdown-menu-brown rounded-3 sm-shadow-brown mx-3 mx-sm-0"
-                  aria-labelledby={`dropdownMenuLink-${index}`}
-                >
-                  {item.content.map((link) => {
-                    if (link.heading) {
-                      return (
-                        <>
-                          <li>
-                            <hr class="dropdown-divider" />
-                          </li>
-                          <li>
-                            <h6 class="dropdown-header">{link.heading}</h6>
-                          </li>
-                        </>
-                      );
-                    } else if (link.disabled) {
-                      return (
-                        <li class="dropdown-item disabled">{link.disabled}</li>
-                      );
-                    } else if (link.title) {
-                      return (
-                        <li>
-                          <a class="dropdown-item" href={link.url}>
-                            {link.title} <Icon name="external-link" size={12} />
-                          </a>
-                        </li>
-                      );
-                    } else {
-                      const page = findPage(link, all);
-                      return (
-                        <li>
-                          <a
-                            class={
-                              "dropdown-item" +
-                              (page.url === currentURL ? " active" : "")
-                            }
-                            href={page.url}
-                          >
-                            {page.data.title}
-                          </a>
-                        </li>
-                      );
+              <li>
+                <details class="nav-item mx-sm-3 mx-md-1">
+                  <summary
+                    role="button"
+                    tabIndex={0}
+                    class={
+                      "nav-link dropdown-toggle btn" +
+                      (item.content.some(
+                        (ch) =>
+                          !ch.disabled &&
+                          !ch.heading &&
+                          !ch.url &&
+                          findPage(ch, all).url === currentURL
+                      )
+                        ? " active"
+                        : "")
                     }
-                  })}
-                </ul>
+                    style="outline: 0"
+                  >
+                    {item.title}
+                  </summary>
+
+                  <ul class="dropdown-menu dropdown-menu-dark dropdown-menu-brown rounded-3 sm-shadow-brown mx-3 mx-sm-0 d-block">
+                    {item.content.map((link) => {
+                      if (link.heading) {
+                        return (
+                          <>
+                            <li>
+                              <hr class="dropdown-divider" />
+                            </li>
+                            <li>
+                              <h6 class="dropdown-header">{link.heading}</h6>
+                            </li>
+                          </>
+                        );
+                      } else if (link.disabled) {
+                        return (
+                          <li class="dropdown-item disabled">
+                            {link.disabled}
+                          </li>
+                        );
+                      } else if (link.title) {
+                        return (
+                          <li>
+                            <a class="dropdown-item" href={link.url}>
+                              {link.title}{" "}
+                              <Icon name="external-link" size={12} />
+                            </a>
+                          </li>
+                        );
+                      } else {
+                        const page = findPage(link, all);
+                        return (
+                          <li>
+                            <a
+                              class={
+                                "dropdown-item" +
+                                (page.url === currentURL ? " active" : "")
+                              }
+                              href={page.url}
+                            >
+                              {page.data.title}
+                            </a>
+                          </li>
+                        );
+                      }
+                    })}
+                  </ul>
+                </details>
               </li>
             ))}
             <li class="nav-item mx-sm-3 mx-md-1">
