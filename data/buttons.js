@@ -117,10 +117,12 @@ module.exports = async () => {
     }));
 
   const currentYear = years[years.length - 1];
+  const currentYearLabels = rawLabels.find(([year]) => year === currentYear)[1];
   return {
     currentYear,
-    currentYearButtons: allButtons.filter(
-      (b) => b.year === currentYear.split("-")[0]
+    currentYearButtons: d3.sort(
+      allButtons.filter((b) => b.year === currentYear.split("-")[0]),
+      (d) => Object.keys(currentYearLabels).indexOf(d.school)
     ),
 
     schools,
