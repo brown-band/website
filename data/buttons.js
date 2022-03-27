@@ -115,9 +115,22 @@ module.exports = async () => {
 
   const currentYear = years[years.length - 1];
   const currentYearLabels = rawLabels.find(([year]) => year === currentYear)[1];
-  const [[, recent], [, other]] = d3.groups(
-    allBySchool.filter((d) => !d.ivy),
-    (d) => parseInt(d.buttons[0].year) >= new Date().getFullYear() - 4
+  const { recent, other } = Object.fromEntries(
+    d3.groups(
+      // first sort by most recent year, then
+      // alphabetically in case of ties.
+      d3.sort(
+        d3.sort(
+          allBySchool.filter((d) => !d.ivy),
+          (d) => d.name
+        ),
+        (d) => -parseInt(d.buttons[0].year)
+      ),
+      (d) =>
+        parseInt(d.buttons[0].year) >= new Date().getFullYear() - 4
+          ? "recent"
+          : "other"
+    )
   );
 
   return {
