@@ -216,9 +216,9 @@ function ButtonTable({ school: { id, name, mascot, buttons, color }, urls }) {
           </tr>
         </thead>
         <tbody>
-          {buttons.map((button) => (
+          {buttons.map((button, i) => (
             <tr>
-              <td>{button.year}</td>
+              <td style={i === 0 ? "width: 50px" : null}>{button.year}</td>
               <td>
                 {button.image ? (
                   <a
