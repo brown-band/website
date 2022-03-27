@@ -79,7 +79,9 @@ module.exports = async () => {
         year,
         await Promise.all(
           Object.entries(labels).map(async ([school, label]) => {
-            const schoolId = slugify(school).toLowerCase();
+            const schoolId = slugify(school, {
+              customReplacements: [["UAlbany", "ualbany"]],
+            }).toLowerCase();
             return {
               year: year.split("-")[0],
               school,
@@ -110,7 +112,7 @@ module.exports = async () => {
         buttons.map(({ school: _, schoolId: _2, ...button }) => button)
       ),
       ...(schools[buttons[0].schoolId] ??
-        /** @type {const} */ ({ color: "black" })),
+        /** @type {const} */ ({ color: "salmon; " + buttons[0].schoolId })),
     }));
 
   const currentYear = years[years.length - 1];

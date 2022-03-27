@@ -65,12 +65,18 @@ lafayette:
   color: "#910029" # Maroon
 lehigh:
   color: "#653819" # Brown
+maine:
+  color: "#003263" # Navy
+marshall:
+  color: "#00ac3e" # “Primary Green”
 penn-state:
   color: "#001e44" # Blue
 providence-college:
   color: "#8a8d8f" # Blue
 quinnipiac:
   color: "#0000ff" # Blue
+richmond:
+  color: "#900" # Spider Red? idk
 rpi:
   color: "#de3163" # Cherry
 san-diego:
@@ -93,3 +99,5 @@ uri:
   color: "#75b2dd" # Keaney Blue
 uvm:
   color: "#007155" # UVM Green
+william-and-mary:
+  color: "#115740" # W&M Gold (web version)
