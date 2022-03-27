@@ -204,7 +204,7 @@ function ButtonTable({ school: { id, name, mascot, buttons, color }, urls }) {
     <>
       <a name={id} />
       <table class="table table-sm">
-        <thead>
+        <thead class={buttons.length > 10 ? "sticky-top" : null}>
           <tr>
             <th
               colspan="2"
