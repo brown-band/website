@@ -60,6 +60,9 @@ army:
 bucknell:
   color: "#ef5b0c" # Orange
   type: other
+cal-poly:
+  color: "#154734" # Poly Green
+  type: other
 clarkson:
   color: "#03522B" # Green
   type: other
