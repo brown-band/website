@@ -5,7 +5,7 @@
  * @property {string} name
  * @property {string} id
  * @property {SchoolButton[]} buttons
- * @property {"ivy" | "recent" | "other"} type
+ * @property {true} [ivy]
  * @property {string} color
  */
 
@@ -96,7 +96,7 @@ module.exports = async () => {
   );
   const allButtons = allButtonsByYear.flatMap((b) => b[1]);
 
-  /** @type {{ [key: string]: { color: string, type: "ivy" | "recent" | "other", mascot?: string } }} */
+  /** @type {{ [key: string]: { color: string, ivy?: true, mascot?: string } }} */
   const schools = await fs
     .readFile(path.join(__dirname, "schoolColors.yml"), "utf-8")
     .then(/** @type {(_: string) => any} */ (loadYaml));
@@ -110,14 +110,16 @@ module.exports = async () => {
         buttons.map(({ school: _, schoolId: _2, ...button }) => button)
       ),
       ...(schools[buttons[0].schoolId] ??
-        /** @type {const} */ ({
-          type: "other",
-          color: "black",
-        })),
+        /** @type {const} */ ({ color: "black" })),
     }));
 
   const currentYear = years[years.length - 1];
   const currentYearLabels = rawLabels.find(([year]) => year === currentYear)[1];
+  const [[, recent], [, other]] = d3.groups(
+    allBySchool.filter((d) => !d.ivy),
+    (d) => parseInt(d.buttons[0].year) >= new Date().getFullYear() - 4
+  );
+
   return {
     currentYear,
     currentYearButtons: d3.sort(
@@ -126,7 +128,11 @@ module.exports = async () => {
     ),
 
     schools,
-    bySchool: Object.fromEntries(d3.groups(allBySchool, (d) => d.type)),
+    bySchool: {
+      ivy: allBySchool.filter((d) => d.ivy),
+      recent,
+      other,
+    },
     byYear: Object.fromEntries(allButtonsByYear),
 
     unknown:

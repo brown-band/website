@@ -1,122 +1,95 @@
 brown:
   # color: "#59260b" # Seal Brown
   color: "var(--brown-brand)" # Seal Brown
-  type: ivy
+  ivy: true
   mascot: Bears (Homecoming)
 caroling:
   color: black
-  type: ivy
+  ivy: true
 family-weekend:
   color: black
-  type: ivy
+  ivy: true
 hockey:
   color: black
-  type: ivy
+  ivy: true
 columbia:
   color: "#75b2dd" # Columbia Blue
-  type: ivy
+  ivy: true
   mascot: Lions
 cornell:
   color: "#b31b1b" # Carnelian
-  type: ivy
+  ivy: true
   mascot: Big Red
 dartmouth:
   color: "#00703c" # Dartmouth Green
-  type: ivy
+  ivy: true
   mascot: Big Green
 harvard:
   color: "#dc143c" # Crimson
-  type: ivy
+  ivy: true
   mascot: Crimson
 princeton:
   color: "#ff7f00" # Orange
-  type: ivy
+  ivy: true
   mascot: Tigers
 penn:
   color: "#0000ff" # Blue
-  type: ivy
+  ivy: true
   mascot: Quakers
 yale:
   color: "#0f4d92" # Yale Blue
-  type: ivy
+  ivy: true
   mascot: Bulldogs
 
-uri:
-  color: "#75b2dd" # Keaney Blue
-  type: recent
-bryant:
-  color: "#bdb76b" # Dark Khaki
-  type: recent
-holy-cross:
-  color: "#993366" # Purple
-  type: recent
-
-ualbany:
-  color: "#46166b" # Purple
-  type: other
 army:
   color: "#BE9969" # Gold
-  type: other
+bryant:
+  color: "#bdb76b" # Dark Khaki
 bucknell:
   color: "#ef5b0c" # Orange
-  type: other
 cal-poly:
   color: "#154734" # Poly Green
-  type: other
 clarkson:
   color: "#03522B" # Green
-  type: other
 colgate:
   color: "#800000" # Maroon
-  type: other
 duquesne:
   color: "#041e42" # Navy
-  type: other
 fordham:
   color: "#700429" # Maroon
-  type: other
 georgetown:
   color: "#808080" # Gray
-  type: other
+holy-cross:
+  color: "#993366" # Purple
 lafayette:
   color: "#910029" # Maroon
-  type: other
 lehigh:
   color: "#653819" # Brown
-  type: other
 penn-state:
   color: "#001e44" # Blue
-  type: other
 providence-college:
   color: "#8a8d8f" # Blue
-  type: other
 quinnipiac:
   color: "#0000ff" # Blue
-  type: other
 rpi:
   color: "#de3163" # Cherry
-  type: other
 san-diego:
   color: "#c69214" # UC San Diego Gold
-  type: other
 st-johns:
   color: "#cf102d" # St. John’s Red
-  type: other
 st-lawrence:
   color: "#ff2400" # Scarlet
-  type: other
 stetson:
   color: "#0e5540" # Stetson Green
-  type: other
 stony-brook:
   color: "#ff2400" # Scarlet
-  type: other
+ualbany:
+  color: "#46166b" # Purple
 uconn:
   color: "#000e2f" # Navy Blue
-  type: other
 union:
   color: "#822433" # Union Garnet
-  type: other
+uri:
+  color: "#75b2dd" # Keaney Blue
 uvm:
   color: "#007155" # UVM Green
-  type: other
