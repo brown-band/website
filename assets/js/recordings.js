@@ -186,6 +186,17 @@ document.addEventListener("password:decrypt", async () => {
   }).then((decrypted) => JSON.parse(new TextDecoder().decode(decrypted)));
   const root = document.querySelector("#root");
   root.innerHTML = "";
+  root.style.opacity = 0;
+
+  let oldHash;
+  if (location.hash) {
+    oldHash = location.hash;
+    history.replaceState(
+      {},
+      document.title,
+      window.location.href.split("#")[0]
+    );
+  }
 
   getTemplate("toc", (toc) => {
     [...toc.children]
@@ -216,6 +227,17 @@ document.addEventListener("password:decrypt", async () => {
     document.querySelector(".player-wrapper").setAttribute("hidden", "");
     audio.pause();
   });
+
+  if (oldHash) {
+    document.documentElement.classList.remove("smooth-scroll");
+    setTimeout(() => {
+      location.hash = oldHash;
+      document.documentElement.classList.add("smooth-scroll");
+      root.style.opacity = 1;
+    });
+  } else {
+    root.style.opacity = 1;
+  }
 });
 
 export {};

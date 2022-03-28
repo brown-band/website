@@ -10,6 +10,10 @@
   --bs-body-font-weight: 500;
 }
 
+:root:not(.smooth-scroll) {
+  scroll-behavior: auto;
+}
+
 [data-theme="dark"] {
   color-scheme: dark;
   --brown-4: #271b0c;

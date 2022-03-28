@@ -3,7 +3,7 @@ const { Raw, DOCTYPE } = require("eleventy-hast-jsx");
 exports.default = ({ title, site, bodyAttrs, content, NODE_ENV }) => (
   <>
     <DOCTYPE />
-    <html lang="en" class="h-100">
+    <html lang="en" class="h-100 smooth-scroll">
       <head>
         <meta charset="utf-8" />
         <meta name="viewport" content="width=device-width" />

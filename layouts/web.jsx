@@ -19,6 +19,13 @@ exports.default = async ({ site, quote, nav, collections, page, content }) => (
       update();
 
       media.addEventListener("change", update);
+
+      if (location.hash) {
+        document.documentElement.classList.remove("smooth-scroll");
+        window.addEventListener("load", () => {
+          document.documentElement.classList.add("smooth-scroll");
+        });
+      }
     `}</script>
     {await (
       <Nav
