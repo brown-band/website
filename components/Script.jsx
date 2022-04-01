@@ -129,7 +129,7 @@ function ScriptTitle({
 }
 
 function ButtonImage({ buttons, name, semester }) {
-  const image = `/buttons/${semester.years}/${name}.jpg`;
+  const image = `/buttons/${semester.years}/${name}.png`;
   const alt = buttons[semester.years]?.find((b) => b.schoolId === name)?.label;
   return (
     semester.semester === "fall" &&
