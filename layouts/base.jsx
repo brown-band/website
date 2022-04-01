@@ -56,10 +56,7 @@ exports.default = ({ title, site, bodyAttrs, content, NODE_ENV }) => (
           href="https://fonts.googleapis.com/css2?family=Niconne&text=The%20Brown%20Band&display=block"
           rel="stylesheet"
         />
-        <link
-          href="https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&display=optional"
-          rel="stylesheet"
-        />
+        <link href="/assets/fonts/quicksand/variable.css" rel="stylesheet" />
       </head>
       <body {...bodyAttrs}>
         <Raw html={content} />

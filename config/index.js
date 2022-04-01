@@ -48,6 +48,12 @@ module.exports = (eleventyConfig) => {
       ].map((k) => [k, "assets/vendor/" + path.basename(k)])
     )
   );
+  eleventyConfig.addPassthroughCopy({
+    "node_modules/@fontsource/quicksand/files/*variable*":
+      "assets/fonts/quicksand/files/",
+    "node_modules/@fontsource/quicksand/variable.css":
+      "assets/fonts/quicksand/variable.css",
+  });
 
   /**
    * Dev Mode
