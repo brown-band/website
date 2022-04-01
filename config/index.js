@@ -1,5 +1,7 @@
 // @ts-check
 const path = require("path");
+const subsetFont = require("subset-font");
+const fs = require("fs/promises");
 
 require("dotenv").config();
 
@@ -53,6 +55,31 @@ module.exports = (eleventyConfig) => {
       "assets/fonts/quicksand/files/",
     "node_modules/@fontsource/quicksand/variable.css":
       "assets/fonts/quicksand/variable.css",
+    "node_modules/@fontsource/niconne/index.css":
+      "assets/fonts/niconne/index.css",
+  });
+
+  eleventyConfig.on("eleventy.after", async () => {
+    const inputData = await fs.readFile(
+      require.resolve(
+        "@fontsource/niconne/files/niconne-latin-400-normal.woff2"
+      )
+    );
+
+    const text = "The Brown Band";
+    const [woff, woff2] = await Promise.all([
+      subsetFont(inputData, text, { targetFormat: "woff" }),
+      subsetFont(inputData, text, { targetFormat: "woff2" }),
+    ]);
+    await fs.mkdir("public/assets/fonts/niconne/files", { recursive: true });
+    await fs.writeFile(
+      "public/assets/fonts/niconne/files/niconne-latin-400-normal.woff",
+      woff
+    );
+    await fs.writeFile(
+      "public/assets/fonts/niconne/files/niconne-latin-400-normal.woff2",
+      woff2
+    );
   });
 
   /**

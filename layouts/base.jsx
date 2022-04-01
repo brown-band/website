@@ -50,12 +50,7 @@ exports.default = ({ title, site, bodyAttrs, content, NODE_ENV }) => (
           media="(prefers-color-scheme: dark)"
         />
 
-        <link rel="preconnect" href="https://fonts.googleapis.com" />
-        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-        <link
-          href="https://fonts.googleapis.com/css2?family=Niconne&text=The%20Brown%20Band&display=block"
-          rel="stylesheet"
-        />
+        <link href="/assets/fonts/niconne/index.css" rel="stylesheet" />
         <link href="/assets/fonts/quicksand/variable.css" rel="stylesheet" />
       </head>
       <body {...bodyAttrs}>
