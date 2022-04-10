@@ -37,6 +37,7 @@ exports.data = {
 };
 
 exports.default = ({
+  site: { urls },
   pagination,
   collections,
   semester,
@@ -73,6 +74,7 @@ exports.default = ({
         <>
           {i === 0 || <hr style="margin-bottom: 5em" />}
           <Script
+            urls={urls}
             script={script}
             buttons={buttons.byYear}
             semester={semester}

@@ -16,6 +16,7 @@ const {
  * @param {string} [props.idPrefix] a prefix to add to the ID of the heading
  */
 exports.default = ({
+  urls,
   script: { fileSlug, data, date, templateContent },
   buttons,
   semester,
@@ -25,7 +26,12 @@ exports.default = ({
   <article>
     <header style="text-align: center">
       {buttons && (
-        <ButtonImage buttons={buttons} name={fileSlug} semester={semester} />
+        <ButtonImage
+          urls={urls}
+          buttons={buttons}
+          name={fileSlug}
+          semester={semester}
+        />
       )}
       <h1 class="display-5 fw-normal" id={idPrefix + fileSlug}>
         <ScriptTitle
@@ -128,8 +134,8 @@ function ScriptTitle({
   );
 }
 
-function ButtonImage({ buttons, name, semester }) {
-  const image = `/buttons/${semester.years}/${name}.png`;
+function ButtonImage({ urls, buttons, name, semester }) {
+  const image = `${urls.buttons}/${semester.years}/${name}.png`;
   const alt = buttons[semester.years]?.find((b) => b.schoolId === name)?.label;
   return (
     semester.semester === "fall" &&
