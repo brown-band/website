@@ -195,7 +195,7 @@ exports.default = ({ buttons, specialButtons, site: { urls } }) => (
       </div>
     </div>
 
-    <script async src="/assets/js/buttons.js"></script>
+    <script async src="/assets/js/buttons.js" />
   </>
 );
 
