@@ -45,10 +45,12 @@ Band.\
 :sd[The band walks onto the field, screaming and sobbing].
 
 The Dirge.\
+:sd[The band forms a circle, badly.]\
 :sd[The band plays The Dirge (Cornell’s alma mater, but slowed down).]\
 :sd[The band wails horribly, and pretends to die.]
 
 The Wii Theme.\
+:sd[The band forms a vulva.]\
 :sd[The band attempts to play The Wii Theme with rehearsed pauses.]
 
 ::script-note[*most* of the band remembered that we put pauses in - JF]

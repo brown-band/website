@@ -16,28 +16,30 @@ date: 2021-11-13
 
 Ladies and gentlemen, friends and alumni, presenting an organization that has had an explosively tense week, it’s the Brown University “is that a suspicious package in your pocket or are you just coming down from the adrenaline rush of having your dorm evacuated” BANNNDDDDDDDDDDD!
 
-LET’S GO WOMEN’S SOCCER WOOOO I LOVE IT WHEN WE WIN!! I SURE HOPE WATCHING A BROWN UNIVERSITY SPORTS TEAM THAT IS UNDEFEATED IN THE LEAGUE DOESN’T AWAKEN ANYTHING IN ME, LIKE AN INSATIABLE DESIRE TO WIIIIIIIIIIN! OH-- oh wait, hang on, I’m getting a phone call… Uh-huh. Yeah. Okay.
+LET’S GO WOMEN’S SOCCER! WOOOOOO I LOVE IT WHEN WE WIN!! I SURE HOPE WATCHING A BROWN UNIVERSITY SPORTS TEAM THAT IS UNDEFEATED IN THE LEAGUE DOESN’T AWAKEN ANYTHING IN ME, LIKE AN INSATIABLE DESIRE TO WIIIIIIIIIIN! OH—oh wait, hang on, I’m getting a phone call… Uh-huh. Yeah. Okay.
 
 Ahem. Oh deer, oh deer, it seems we have an unauthorized visitor in our dorm building. He walks like a confused and frightened four-legged Cervidae, but he talks… also like that. Watch now as the band holds the door for our new furry friend, calls up the environmental police, and plays Accidentally in MoChamp.
 
 :sd[Band forms a deer and plays Accidentally in Love.]
 
-We heard that St. Johnald may not give a formal GPA, :sd[all yell, “nor do they actually teach anything”] but we don’t really have a leg to stand on there. Still, at least our majors actually make sense, unlike St Johnjamin’s degrees in:
+We heard that St. Johnald may not give a formal GPA, :sd[Band yells NOR DO THEY ACTUALLY TEACH ANYTHING!] but we don’t really have a leg to stand on there. Still, at least our majors actually make sense, unlike St Johnjamin’s degrees in:
 
 :::script-list
 
-- A. Hospitality management :sd[band yells ROOM SERVICE]
-- B. Homeland security :sd[band yells SHOES OFF]
-- C. Student Government, comma, Incorporated :sd[band yells BIG BROTHER WHAT ARE YOU DOING]
-- D. Decapitation? :sd[band yells SALOME NO]
-- E. Fitness Administration :sd[band yells THE FITNESSGRAM PACER TEST IS A MULTISTAGE AEROBIC CAPACITY TEST THAT PROGRESSIVELY GETS MORE DIFFICULT AS IT CONTINUES], and
-- F. The Princeton band
+- A. Hospitality management :sd[band yells ROOM SERVICE!]
+- B. Homeland security :sd[band yells SHOES OFF!]
+- C. Student Government, comma, Incorporated :sd[band yells BIG BROTHER WHAT ARE YOU DOING?]
+- D. Decapitation? :sd[band yells SALOME, NO!]
+- E. Fitness Administration :sd[band yells THE FITNESSGRAM PACER TEST IS A MULTISTAGE AEROBIC CAPACITY TEST THAT PROGRESSIVELY GETS MORE DIFFICULT AS IT CONTINUES!] and
+- F. The Princeton Band
 
 :::
 
 Pick up your BS in BS and watch now as the band plays Johnny B.A. in Underwater Basketweaving.
 
-:sd[Band forms X and plays Johnny B. Goode.]
+:sd[Band forms the FitnessGram PACER Test* and plays Johnny B. Goode.]
+
+::script-note[(*actually a working guillotine) — VR]
 
 In order to honor St. Johnohnathan’s international campus in Limerick, Ireland, we have written this limerick for you:
 
