@@ -41,11 +41,14 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Upload built site to gh-pages branch
-        uses: peaceiris/actions-gh-pages@v3
+      - name: Tar built website
+        run: tar -cvvf public.tar.gz public/
+
+      - name: Upload Artifact
+        uses: actions/upload-artifact@v3
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./public
-          force_orphan: true
-          user_name: "github-actions[bot]"
-          user_email: "github-actions[bot]@users.noreply.github.com"
+          name: gh-pages-${{ github.sha }}
+          path: public.tar.gz
+
+      - name: Deploy to GitHub Pages
+        uses: actions/deploy-pages@v1
