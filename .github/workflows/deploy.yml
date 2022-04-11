@@ -1,7 +1,9 @@
 name: GitHub Pages
 
 permissions:
-  contents: write
+  contents: read
+  pages: write
+  id-token: write
 
 on:
   push:
