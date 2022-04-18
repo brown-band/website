@@ -1,7 +1,7 @@
 lockfileVersion: 5.3
 
 specifiers:
-  '@11ty/eleventy': 2.0.0-canary.4
+  '@11ty/eleventy': 2.0.0-canary.5
   '@11ty/eleventy-fetch': ^3.0.0
   '@fontsource/niconne': ^4.5.5
   '@fontsource/quicksand': ^4.5.6
@@ -50,7 +50,7 @@ dependencies:
   subset-font: 1.4.0
 
 devDependencies:
-  '@11ty/eleventy': 2.0.0-canary.4
+  '@11ty/eleventy': 2.0.0-canary.5
   '@11ty/eleventy-fetch': 3.0.0
   '@sindresorhus/slugify': 1.1.2
   '@stefanprobst/rehype-extract-toc': 2.1.3
@@ -88,15 +88,15 @@ devDependencies:
 
 packages:
 
-  /@11ty/dependency-tree/2.0.0:
-    resolution: {integrity: sha512-tYrGX3Tvccufy2jaYDkYpjBmVP1LeQq6b/d0r4GYThTXL4f3ZR7yMAl/0r8h9xvnsP+gkO53wfnV7s8cXcCtEg==}
+  /@11ty/dependency-tree/2.0.1:
+    resolution: {integrity: sha512-5R+DsT9LJ9tXiSQ4y+KLFppCkQyXhzAm1AIuBWE/sbU0hSXY5pkhoqQYEcPJQFg/nglL+wD55iv2j+7O96UAvg==}
     dev: true
 
-  /@11ty/eleventy-dev-server/1.0.0-canary.7:
-    resolution: {integrity: sha512-aHL8sE44yh922CK+KRSxz1jJLVdVSZwULZ5HPuP1SJzjSkdQgkmlQf05BlFtWINsiimbqZA4Jb8nRGsoFnovHw==}
+  /@11ty/eleventy-dev-server/1.0.0-canary.9:
+    resolution: {integrity: sha512-+NQovuRu+xaTBgwoJSt+s0IMNMCv7nBADnV4BB8EmcEjK2N0q+vUs6/Z4J8z+vbBy/aDBSVFFYiNL66P0zQQEw==}
     engines: {node: '>=12'}
     dependencies:
-      '@11ty/eleventy-utils': 1.0.0
+      '@11ty/eleventy-utils': 1.0.1
       debug: 4.3.4
       dev-ip: 1.0.1
       finalhandler: 1.1.2
@@ -130,14 +130,21 @@ packages:
       normalize-path: 3.0.0
     dev: true
 
-  /@11ty/eleventy/2.0.0-canary.4:
-    resolution: {integrity: sha512-SG40Mo94n/iQwvzjOM7akeuF6n5RyKEAlnxYU/paS4gccBkOPpc2KFCl3tDbpkTuqJuqzwEPFi9xN1tl41A2QA==}
+  /@11ty/eleventy-utils/1.0.1:
+    resolution: {integrity: sha512-HPpCTz4PzudcQU+i+x6GSNHVqgnvRhnVYg5dLKaAoRWLN966odAGsBxKSyhF8i1MdlOPtsytYb2AGWP7jISC5w==}
+    engines: {node: '>=12'}
+    dependencies:
+      normalize-path: 3.0.0
+    dev: true
+
+  /@11ty/eleventy/2.0.0-canary.5:
+    resolution: {integrity: sha512-mVC9836L+M4fmK+emyui34Gjh1xQPp3QSF7GlamfFhJqAZWRFJmY+s+bEqOUFTspNmEnnE+J8SXGrYpgzS+6kw==}
     engines: {node: '>=12'}
     hasBin: true
     dependencies:
-      '@11ty/dependency-tree': 2.0.0
-      '@11ty/eleventy-dev-server': 1.0.0-canary.7
-      '@11ty/eleventy-utils': 1.0.0
+      '@11ty/dependency-tree': 2.0.1
+      '@11ty/eleventy-dev-server': 1.0.0-canary.9
+      '@11ty/eleventy-utils': 1.0.1
       '@iarna/toml': 2.2.5
       '@sindresorhus/slugify': 1.1.2
       chokidar: 3.5.3
@@ -146,7 +153,7 @@ packages:
       dependency-graph: 0.11.0
       ejs: 3.1.6
       fast-glob: 3.2.11
-      graceful-fs: 4.2.9
+      graceful-fs: 4.2.10
       gray-matter: 4.0.3
       hamljs: 0.6.2
       handlebars: 4.7.7
@@ -156,7 +163,7 @@ packages:
       lodash: 4.17.21
       luxon: 2.3.1
       markdown-it: 12.3.2
-      minimist: 1.2.5
+      minimist: 1.2.6
       moo: 0.5.1
       multimatch: 5.0.0
       mustache: 4.2.0
@@ -167,7 +174,7 @@ packages:
       pretty: 2.0.0
       pug: 3.0.2
       recursive-copy: 2.0.14
-      semver: 7.3.5
+      semver: 7.3.7
       slugify: 1.6.5
     transitivePeerDependencies:
       - bufferutil
@@ -1595,6 +1602,10 @@ packages:
       url-parse-lax: 3.0.0
     dev: true
 
+  /graceful-fs/4.2.10:
+    resolution: {integrity: sha512-9ByhssR2fPVsNZj478qUUbKfmL0+t5BDVyjShtyZZLiK7ZDAArFFfopyOTj0M05wE2tJPisA4iTnnXl2YoPvOA==}
+    dev: true
+
   /graceful-fs/4.2.9:
     resolution: {integrity: sha512-NtNxqUcXgpW2iMrfqSfR73Glt39K+BLwWsPs94yR63v45T0Wbej7eRmL5cWfwEgqXnmjQp3zaJTshdRW/qC2ZQ==}
     dev: true
@@ -1618,7 +1629,7 @@ packages:
     engines: {node: '>=0.4.7'}
     hasBin: true
     dependencies:
-      minimist: 1.2.5
+      minimist: 1.2.6
       neo-async: 2.6.2
       source-map: 0.6.1
       wordwrap: 1.0.0
@@ -2702,6 +2713,10 @@ packages:
     resolution: {integrity: sha512-FM9nNUYrRBAELZQT3xeZQ7fmMOBg6nWNmJKTcgsJeaLstP/UODVpGsr5OhXhhXg6f+qtJ8uiZ+PUxkDWcgIXLw==}
     dev: true
 
+  /minimist/1.2.6:
+    resolution: {integrity: sha512-Jsjnk4bw3YJqYzbdyBiNsPWHPfO++UGG749Cxs6peCu5Xg4nrena6OVxOYxrQTqww0Jmwt+Ref8rggumkTLz9Q==}
+    dev: true
+
   /minipass/3.1.6:
     resolution: {integrity: sha512-rty5kpw9/z8SX9dmxblFA6edItUmwJgMeYDZRrwlIVN27i8gysGbznJwUggw2V/FVqFSDdWy040ZPS811DYAqQ==}
     engines: {node: '>=8'}
@@ -2713,7 +2728,7 @@ packages:
     resolution: {integrity: sha512-NKmAlESf6jMGym1++R0Ra7wvhV+wFW63FaSOFPwRahvea0gMUcGUhVeAg/0BC0wiv9ih5NYPB1Wn1UEI1/L+xQ==}
     hasBin: true
     dependencies:
-      minimist: 1.2.5
+      minimist: 1.2.6
     dev: true
 
   /moo/0.5.1:
@@ -3265,7 +3280,7 @@ packages:
     resolution: {integrity: sha512-K8WNY8f8naTpfbA+RaXmkaQuD1IeW9EgNEfyGxSqqTQukpVtoOKros9jUqbpEsSw59YOmpd8nCBgtqJZy5nvog==}
     dependencies:
       errno: 0.1.8
-      graceful-fs: 4.2.9
+      graceful-fs: 4.2.10
       junk: 1.0.3
       maximatch: 0.1.0
       mkdirp: 0.5.5
@@ -3731,6 +3746,14 @@ packages:
 
   /semver/7.3.5:
     resolution: {integrity: sha512-PoeGJYh8HK4BTO/a9Tf6ZG3veo/A7ZVsYrSA6J8ny9nb3B1VrpkuN+z9OE5wfE5p6H4LchYZsegiQgbJD94ZFQ==}
+    engines: {node: '>=10'}
+    hasBin: true
+    dependencies:
+      lru-cache: 6.0.0
+    dev: true
+
+  /semver/7.3.7:
+    resolution: {integrity: sha512-QlYTucUYOews+WeEujDoEGziz4K6c47V/Bd+LjSSYcA94p+DmINdf7ncaUinThfvZyu13lN9OY1XDxt8C0Tw0g==}
     engines: {node: '>=10'}
     hasBin: true
     dependencies:

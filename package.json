@@ -15,7 +15,7 @@
     "subset-font": "^1.4.0"
   },
   "devDependencies": {
-    "@11ty/eleventy": "2.0.0-canary.4",
+    "@11ty/eleventy": "2.0.0-canary.5",
     "@11ty/eleventy-fetch": "^3.0.0",
     "@sindresorhus/slugify": "^1.1.2",
     "@stefanprobst/rehype-extract-toc": "^2.1.3",
