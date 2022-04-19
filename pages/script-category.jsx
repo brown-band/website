@@ -71,46 +71,31 @@ exports.default = ({
   category,
   schoolColors,
   buttons,
-}) => {
-  const { writers } = category.scripts[0].script.data;
-  return (
-    <>
-      <link rel="stylesheet" href="/assets/css/script.css" />
-
-      <p class="d-flex">
-        {pagination.page.previous && (
-          <a href={pagination.href.previous}>
-            ← {pagination.page.previous.title}
-          </a>
-        )}
-        <span class="flex-fill" />
-        {pagination.page.next && (
-          <a href={pagination.href.next}>{pagination.page.next.title} →</a>
-        )}
-      </p>
-
-      {writers?.length > 0 && (
-        <p class="h4">
-          Scriptwriter
-          {writers.length === 1 ? "" : "s"}:{" "}
-          {listify(writers.map((s) => s.replaceAll(" ", "\xA0")))}
-        </p>
-      )}
-
-      {category.scripts.map((script, i) => (
-        <>
-          {i === 0 || <hr style="margin-bottom: 5em" />}
-          <Script
-            id={`${script.semester.semester}-${script.semester.year}`}
-            urls={urls}
-            script={script.script}
-            buttons={buttons.byYear}
-            semester={script.semester}
-            schoolColors={schoolColors}
-          />
-        </>
-      ))}
-    </>
-  );
-  r;
-};
+}) => (
+  <>
+    <link rel="stylesheet" href="/assets/css/script.css" />
+    {category.scripts.map((script, i) => (
+      <>
+        {i === 0 || <hr style="margin-bottom: 5em" />}
+        <Script
+          id={`${script.semester.semester}-${script.semester.year}`}
+          urls={urls}
+          script={script.script}
+          buttons={buttons.byYear}
+          semester={script.semester}
+          schoolColors={schoolColors}
+        >
+          {script.script.data.writers?.length > 0 && (
+            <p class="h5">
+              Scriptwriter
+              {script.script.data.writers.length === 1 ? "" : "s"}:{" "}
+              {listify(
+                script.script.data.writers.map((s) => s.replaceAll(" ", "\xA0"))
+              )}
+            </p>
+          )}
+        </Script>
+      </>
+    ))}
+  </>
+);

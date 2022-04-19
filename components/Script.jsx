@@ -24,6 +24,7 @@ exports.default = ({
   schoolColors,
   id = fileSlug,
   idPrefix = "",
+  children,
 }) => (
   <article>
     <header style="text-align: center">
@@ -62,6 +63,7 @@ exports.default = ({
           <span class="script-censored">CENSORED</span>
         </h4>
       )}
+      {children}
     </header>
     <Raw html={templateContent} />
   </article>
