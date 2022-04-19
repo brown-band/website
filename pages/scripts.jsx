@@ -3,13 +3,25 @@ exports.data = {
     "The Brown Band shows possess a unique satirical humor that only could come from the twisted minds of our members. Although many hours of brainstorming go into each script, the true talent behind our show is our scriptwriters. Pay attention to the names that appear on the season’s page! So if you are ready, choose a season below.",
 };
 
-exports.default = async ({ scripts }) => {
+exports.default = async ({ collections, scripts, buttons }) => {
   const { groups, reverse } = await import("d3-array");
 
   const button = "btn btn-link fw-bold px-2 py-1";
   const style = "color: var(--bs-body-color); border: none;";
 
   const thisYear = scripts.years[scripts.years.length - 1];
+
+  const categories = require("./script-utils").categorizeByOpponent(
+    collections.script,
+    scripts
+  );
+
+  const countScripts = (name) => (
+    <span class="text-muted ps-1">
+      ({categories[name].scripts.length} script
+      {categories[name].scripts.length === 1 ? "" : "s"})
+    </span>
+  );
 
   const fallSpring = (year) => [
     year.fall ? (
@@ -67,6 +79,8 @@ exports.default = async ({ scripts }) => {
         scriptwriter yourself!
       </p>
 
+      <h3 id="years">Scripts By Year</h3>
+
       <dl class="index-list">
         {groups(reverse(scripts.years).slice(1), (d) => d.year.slice(0, 3)).map(
           ([decade, years], i) => (
@@ -83,6 +97,93 @@ exports.default = async ({ scripts }) => {
             </div>
           )
         )}
+      </dl>
+
+      <h3 id="categories">Scripts By Opponent/Occasion</h3>
+
+      <dl class="index-list">
+        <div>
+          <dt>Special Events</dt>
+          <dd>
+            <a href="/scripts/adoch/">ADOCH</a>
+            {countScripts("ADOCH")}
+          </dd>
+          <dd>
+            <a href="/scripts/stealth-show/">Stealth Show</a>
+            {countScripts("Stealth Show")}
+          </dd>
+          <dd>
+            <a href="/scripts/other/">Everything Else</a>
+            {countScripts("Other")}
+          </dd>
+        </div>
+        <div>
+          <dt>Ivies</dt>
+          {buttons.bySchool.ivy
+            .filter(
+              (school) =>
+                !["brown", "hockey", "family-weekend", "caroling"].includes(
+                  school.id
+                )
+            )
+            .map((school) => (
+              <dd>
+                <a href={"/scripts/" + school.id}>{school.name}</a>
+                <span class="text-muted ps-1">
+                  ({categories[school.name].scripts.length} script
+                  {categories[school.name].scripts.length === 1 ? "" : "s"})
+                </span>
+              </dd>
+            ))}
+        </div>
+        <div>
+          <dt>Recent</dt>
+          {buttons.bySchool.recent
+            .filter((school) => Object.keys(categories).includes(school.name))
+            .sort((a, b) =>
+              a.name.toLowerCase().localeCompare(b.name.toLowerCase())
+            )
+            .map((school) => (
+              <dd>
+                <a href={"/scripts/" + school.id}>{school.name}</a>
+                {countScripts(school.name)}
+              </dd>
+            ))}
+        </div>
+        <div>
+          <dt>Others</dt>
+          {Object.keys(categories)
+            .filter(
+              (id) =>
+                !buttons.bySchool.ivy.some((s) => s.name === id) &&
+                !buttons.bySchool.recent.some((s) => s.name === id) &&
+                !["ADOCH", "Stealth Show", "Other"].includes(id)
+            )
+            .sort(
+              (a, b) =>
+                categories[b].scripts[
+                  categories[b].scripts.length - 1
+                ].script.date.getFullYear() -
+                  categories[a].scripts[
+                    categories[a].scripts.length - 1
+                  ].script.date.getFullYear() ||
+                a.toLowerCase().localeCompare(b.toLowerCase())
+            )
+            .map((school) => (
+              <dd>
+                <a href={"/scripts/" + categories[school].slug}>
+                  {categories[school].title}
+                </a>
+                <span class="text-muted ps-1">
+                  (
+                  {categories[school].scripts[
+                    categories[school].scripts.length - 1
+                  ].script.date.getFullYear()}
+                  , {countScripts(school).children.slice(1, -1)})
+                </span>
+              </dd>
+            ))}
+        </div>
       </dl>
     </>
   );

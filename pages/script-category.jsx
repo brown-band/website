@@ -1,16 +1,6 @@
 const listify = require("listify");
 const { default: Script, ScriptTitle } = require("../components/Script");
 
-const others = [
-  "alumni",
-  "fanueil",
-  "haffenreffer",
-  "hasbro-children's-hospital-ice-show",
-  "nbc-show",
-  "skating-party",
-  "the-cat-in-the-hat",
-];
-
 exports.data = {
   pagination: {
     data: "collections.script",
@@ -18,25 +8,10 @@ exports.data = {
     alias: "category",
     addAllPagesToCollections: true,
     before(allScripts, { scripts }) {
-      const categories = {};
-      for (const script of allScripts) {
-        let category = script.data.opponent || script.data.title;
-        if (others.includes(script.data.page.fileSlug)) category = "other";
-        if (!categories[category]) {
-          categories[category] = {
-            title: category,
-            slug: category === "other" ? "other" : script.data.page.fileSlug,
-            scripts: [],
-          };
-        }
-        categories[category].scripts.push({
-          // title: title,
-          script,
-          semester: scripts.semesters.find((s) =>
-            script.filePathStem.includes(s.years + "/" + s.semester)
-          ),
-        });
-      }
+      const categories = require("./script-utils").categorizeByOpponent(
+        allScripts,
+        scripts
+      );
 
       return Object.values(categories).sort((a, b) =>
         a.title.toLowerCase().localeCompare(b.title.toLowerCase())
