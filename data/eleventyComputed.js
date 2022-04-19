@@ -4,7 +4,7 @@ const title = require("title");
 
 // Heads up! this **overrides** data set anywhere else, including in the front matter of a page.
 module.exports = {
-  opponent: ({ teams, opponent }) => {
+  opponent({ teams, opponent }) {
     if (teams?.home) {
       if (teams.home.name === "Brown") {
         return teams.away.name;

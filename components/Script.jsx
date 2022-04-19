@@ -13,6 +13,7 @@ const {
  * @param {Object} props.buttons `buttons.byYear` from global data
  * @param {Object} props.semester An entry from the global semesters array.
  * @param {Object} props.schoolColors from `data/schoolColors.yml`
+ * @param {string} [props.id] an alternate ID to use for the script.
  * @param {string} [props.idPrefix] a prefix to add to the ID of the heading
  */
 exports.default = ({
@@ -21,6 +22,7 @@ exports.default = ({
   buttons,
   semester,
   schoolColors,
+  id = fileSlug,
   idPrefix = "",
 }) => (
   <article>
@@ -33,7 +35,7 @@ exports.default = ({
           semester={semester}
         />
       )}
-      <h1 class="display-5 fw-normal" id={idPrefix + fileSlug}>
+      <h1 class="display-5 fw-normal" id={idPrefix + id}>
         <ScriptTitle
           script={data}
           fileSlug={fileSlug}
