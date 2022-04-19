@@ -33,11 +33,11 @@ exports.default = async ({ collections, scripts, buttons }) => {
       </button>
     ),
     year.spring ? (
-      <a class={button} style={style} href={"/" + year.spring}>
+      <a class={button} href={"/" + year.spring}>
         Spring
       </a>
     ) : (
-      <button class={button} style={style + "opacity: 0.4"} disabled>
+      <button class={button} style="opacity: 0.4" disabled>
         Spring
       </button>
     ),
