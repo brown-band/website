@@ -28,7 +28,11 @@ exports.default = async ({ collections, scripts, buttons }) => {
         Fall
       </a>
     ) : (
-      <button class={button} style="opacity: 0.4" disabled>
+      <button
+        class={button}
+        style="border-color: transparent; opacity: 0.4"
+        disabled
+      >
         Fall
       </button>
     ),
@@ -37,7 +41,11 @@ exports.default = async ({ collections, scripts, buttons }) => {
         Spring
       </a>
     ) : (
-      <button class={button} style="opacity: 0.4" disabled>
+      <button
+        class={button}
+        style="border-color: transparent; opacity: 0.4"
+        disabled
+      >
         Spring
       </button>
     ),
