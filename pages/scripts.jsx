@@ -7,7 +7,6 @@ exports.default = async ({ collections, scripts, buttons }) => {
   const { groups, reverse } = await import("d3-array");
 
   const button = "btn btn-link fw-bold px-2 py-1";
-  const style = "color: var(--bs-body-color); border: none;";
 
   const thisYear = scripts.years[scripts.years.length - 1];
 
@@ -25,11 +24,11 @@ exports.default = async ({ collections, scripts, buttons }) => {
 
   const fallSpring = (year) => [
     year.fall ? (
-      <a class={button} style={style} href={"/" + year.fall}>
+      <a class={button} href={"/" + year.fall}>
         Fall
       </a>
     ) : (
-      <button class={button} style={style + "opacity: 0.4"} disabled>
+      <button class={button} style="opacity: 0.4" disabled>
         Fall
       </button>
     ),
