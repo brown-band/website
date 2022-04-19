@@ -140,8 +140,6 @@ main {
   padding-bottom: 1rem;
 }
 .index-list dd {
-  display: flex;
-  align-items: center;
   margin-left: 1rem;
   margin-bottom: 0;
 }
