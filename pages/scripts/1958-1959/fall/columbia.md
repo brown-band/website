@@ -12,7 +12,7 @@ date: 1958-09-27
 
 :sd[Band marks time while announcer reads]
 
-This is the age of bigger and letter. Automobiles have grown so long one can barely park them. Movies, while they may not he better than ever, are certaily bigger than ever. The Brown University Band has long advocated smell small-screen half time shows, but progress is progress. The Band today proposes to stretch the football field out beyond its hundred yards. As a salute to Columbie, the Brown Band will form the largest lion ever created. Stand back, friends, put on your three-D glasses, and away we go.
+This is the age of bigger and letter. Automobiles have grown so long one can barely park them. Movies, while they may not he better than ever, are certaily bigger than ever. The Brown University Band has long advocated small-screen half time shows, but progress is progress. The Band today proposes to stretch the football field out beyond its hundred yards. As a salute to Columbia, the Brown Band will form the largest lion ever created. Stand back, friends, put on your three-D glasses, and away we go.
 
 :sd[Roll-off into BBB and step off after intro.]
 
