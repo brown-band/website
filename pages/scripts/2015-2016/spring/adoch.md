@@ -17,7 +17,6 @@ In the last few weeks, well-meaning friends and relatives may have gotten confus
 - C) The end of a question for your Canadian doctor — eh, Doc?
 - D) Another Day Of Chill Hanging-out
 - E) A cool way to get your dachshund’s attention — “Ayy, Dach!,” and
-- F) The Princeton band. <!-- this one wasn’t in the original but the presence of “, and” above makes me think it’s an oversight -JF -->
 
 :::
 
