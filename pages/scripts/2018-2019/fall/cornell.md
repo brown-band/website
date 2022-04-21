@@ -35,7 +35,7 @@ Being reunited with our good ol' parents and guardians really makes us think abo
 
 Don't worry Mom, I think we'll stick to the Naked Donut Run. Watch now as the Band gets ready for its swim test and plays In the Pool.
 
-:sd[Band forms X and plays In the Fray.]
+:sd[Band forms B and plays In the Fray.]
 
 Catch us at halftime, after we spend some time enjoying Cornell's new variety of grape.
 
