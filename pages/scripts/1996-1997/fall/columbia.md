@@ -12,21 +12,21 @@ date: 1996-11-23
 
 ## Pregame
 
-Ladies and gentlemen, friends and alumni, presenting an organization that promises no smurf jokes or triple your money back, it’s the Brown University "Three apples high" BAND!
+Ladies and gentlemen, friends and alumni, presenting an organization that promises no smurf jokes or triple your money back, it’s the Brown University “Three apples high” BAND!
 
 :sd[Band runs onto field, forms football]
 
-:sd[Band plays "NFL Today"]
+:sd[Band plays “NFL Today”]
 
-Today’s game, which has historically been played to see who would avoid residing in the basement of the Ivy League, is instead a battle for second place. Watch now as the Brown Band salutes an amazing season of Brown football by playing "For Bruno and For Brown."
+Today’s game, which has historically been played to see who would avoid residing in the basement of the Ivy League, is instead a battle for second place. Watch now as the Brown Band salutes an amazing season of Brown football by playing “For Bruno and For Brown.”
 
-:sd[Band forms "B," plays #4]
+:sd[Band forms “B,” plays #4]
 
-:sd[Band Marches off to #1 (still in "B")]
+:sd[Band Marches off to #1 (still in “B”)]
 
 ## Halftime
 
-Ladies and gentlemen, friends and alumni, presenting an organization that has been banned from BioSphere 2, it’s the Brown University "Which virus was in the vial I just dropped?" BAND!
+Ladies and gentlemen, friends and alumni, presenting an organization that has been banned from BioSphere 2, it’s the Brown University “Which virus was in the vial I just dropped?” BAND!
 
 :sd[Band infects field]
 
@@ -44,9 +44,9 @@ What do you want me to do?
 
 :sd[Chapman shrugs]
 
-OK, I’ll wing it. Watch now as the band, um. . . as the band... gets a head start on Thanksgiving by forming a turkey baster and playing "Birdland."
+OK, I’ll wing it. Watch now as the band, um. . . as the band... gets a head start on Thanksgiving by forming a turkey baster and playing “Birdland.”
 
-:sd[Band forms baster and plays "Birdland"]
+:sd[Band forms baster and plays “Birdland”]
 
 OK, I know... We’ll do a salute to Mother Goose:
 
@@ -65,11 +65,11 @@ But still couldn’t find victory
 Sing a song of Clinton, let’s make him a big cake\
 Four and twenty Grad Students set out for to bake\
 When the bake was finished one Grad said to the rest\
-"Hope this cake is really good ‘cause I just missed my test!"
+“Hope this cake is really good ‘cause I just missed my test!”
 
-Watch now as the Brown Band disses the butcher and the candlestick maker and salutes the baker, and the voters of California, by forming a cake and playing "Brown Man Baked."
+Watch now as the Brown Band disses the butcher and the candlestick maker and salutes the baker, and the voters of California, by forming a cake and playing “Brown Man Baked.”
 
-:sd[Band forms cake and plays "Brown Man Born"]
+:sd[Band forms cake and plays “Brown Man Born”]
 
 Baa baa green sheep\
 Have you any band?\
@@ -78,8 +78,8 @@ They play Hawaii 5-0 on demand
 
 Boris, Boris, with liver porous,\
 How does your country run?\
-"With vodka glasses and heart bypasses\
-And KGB files on everyone."
+“With vodka glasses and heart bypasses\
+And KGB files on everyone.”
 
 Hickory dickory dock\
 The band was watching the clock\
@@ -88,7 +88,7 @@ You all can...
 
 Watch now as the Brown Band forms what’s left of Boris Yeltsin’s liver and tries to turn back time.
 
-:sd[Band forms "B" and plays "Timewarp"]
+:sd[Band forms “B” and plays “Timewarp”]
 
 And now ladies and gentlemen, sit tight for the next component of the half-time festivities: No, they’re not refugees from the East Side, they’re a group of the only musicians on Earth more confused than Michael Jackson... as for the Brown Band, we’ll see you all next season!
 

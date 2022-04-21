@@ -12,9 +12,9 @@ date: 2002-10-05
 
 ## Pregame
 
-Ladies and Gentlemen, Friends and Alumni, presenting an organization that wants to elect Spike for Governor, it’s the Brown University "I accept your engorging hot-dog challenge" BAND!!!
+Ladies and Gentlemen, Friends and Alumni, presenting an organization that wants to elect Spike for Governor, it’s the Brown University “I accept your engorging hot-dog challenge” BAND!!!
 
-The grim blade of term limits has descended on Rhode Island governor Lincoln Almond, finally ending URI’s vice-like grip on state politics. Almond says he looks forward to retirement, which he will use to spend time with his family, polish his tusks, and eat Providence. The Band, divided between its school loyalty for Republican Don Carcieri and its social conscience for Democrat Myrth "This Time For Sure" York, will remember that we’re not even registered to vote here anyway and play ...
+The grim blade of term limits has descended on Rhode Island governor Lincoln Almond, finally ending URI’s vice-like grip on state politics. Almond says he looks forward to retirement, which he will use to spend time with his family, polish his tusks, and eat Providence. The Band, divided between its school loyalty for Republican Don Carcieri and its social conscience for Democrat Myrth “This Time For Sure” York, will remember that we’re not even registered to vote here anyway and play ...
 
 :sd[band forms a football]
 
@@ -24,7 +24,7 @@ But we rejoice because the favored candidate for the real capo de tuti capi of R
 
 ## Halftime
 
-Ladies and Gentlemen, Friends and Alumni, presenting an organization that’s not afraid to construct distractions on the side of major highways, it’s the "Nibbles WHAT??? Away" Big Blue Bug Band!
+Ladies and Gentlemen, Friends and Alumni, presenting an organization that’s not afraid to construct distractions on the side of major highways, it’s the “Nibbles WHAT??? Away” Big Blue Bug Band!
 
 Recent surveys of Rhode Island residents have shown that termites, even colossal cerulean ones, simply aren’t being perceived as terrifying pests anymore. Other vermin, like the silverfish, the Egyptian mosquito, the syphilitic plague-ridden monkey, the rust-proof mongoose, Cranston, the ewok, or the lesser-horned ram are instilling more fear than the common termite ever has. New England Pest Control is going so far as to consider replacing its iconic mascot with a more despicable pest, a 9 foot tall Joe Mollicone.
 

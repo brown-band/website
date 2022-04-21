@@ -12,7 +12,7 @@ date: 2018-09-29
 
 ## Pregame
 
-Ladies and gentlemen, friends and alumni, presenting an organization that has a few more gray hairs than usual, it’s the Brown University "back in my day" BANNNDDDDDDDDDDD!
+Ladies and gentlemen, friends and alumni, presenting an organization that has a few more gray hairs than usual, it’s the Brown University “back in my day” BANNNDDDDDDDDDDD!
 
 This week we’re welcoming back our alumni for this special homecoming game! We made sure to include things at our breakfast reception that would make them feel more at home:
 
@@ -39,7 +39,7 @@ Catch us at halftime after the alumni take their mid-day naps. Brown Band Out.
 
 ## Halftime
 
-Ladies and gentlemen, friends and alumni, presenting an organization that hasn’t been to church in a while, it’s the Brown University "and also with you" BANNNDDDDDDDDDDD!
+Ladies and gentlemen, friends and alumni, presenting an organization that hasn’t been to church in a while, it’s the Brown University “and also with you” BANNNDDDDDDDDDDD!
 
 Peace be with you, Georgetown. We’re glad you made the trip all the way up here from DC, although frankly, we’d find any excuse to get out of the beltway if we were you. It’s astonishing you made it considering the traffic – and you had to go through Jersey! DC is home to an astonishing collection of snakes, vermin, and weasels – and it’s home to the National Zoo! So we’re glad you made it out for a weekend to hang with the Bears. Watch now as the band forms the Washington Monument and plays Take On Corruption.
 
@@ -62,7 +62,7 @@ Watch now as the band forms a chalice and plays We’re All In One Body of Chris
 
 :sd[Band forms a chalice and plays We’re All in This Together.]
 
-We have to admit, when we heard that John Mulaney is an alum of yours, it was tempting to borrow Kid Gorgeous wholesale. Our favorite, of course, is his "horse in a hospital" bit, but we’ve been wondering, what kind of horse? Clydesdale? Thoroughbred? Shetland Pony? It could even be a Trojan horse, although we know you aren’t so familiar with Trojans over there. Watch now as the band shows off our STREET SMARTS and plays our Brown Horse-Fearing Song.
+We have to admit, when we heard that John Mulaney is an alum of yours, it was tempting to borrow Kid Gorgeous wholesale. Our favorite, of course, is his “horse in a hospital” bit, but we’ve been wondering, what kind of horse? Clydesdale? Thoroughbred? Shetland Pony? It could even be a Trojan horse, although we know you aren’t so familiar with Trojans over there. Watch now as the band shows off our STREET SMARTS and plays our Brown Horse-Fearing Song.
 
 :sd[Band forms a B and plays #2.]
 

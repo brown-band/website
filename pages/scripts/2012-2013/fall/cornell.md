@@ -12,19 +12,19 @@ date: 2012-10-20
 
 ## Pregame
 
-Ladies and Gentlemen, friends and alumni, presenting an organization that recently got demoted from its numbah one spot, it’s the Brown University "Get in My Belly!" BAAAANNNNDDDD!!
+Ladies and Gentlemen, friends and alumni, presenting an organization that recently got demoted from its numbah one spot, it’s the Brown University “Get in My Belly!” BAAAANNNNDDDD!!
 
 Hey Cornell, we heard some big news over the summer... summer 2011, that is! GQ rated you the number one university in the country... at cleaning! We tried to congratulate you about this last year, but your school wouldn’t let us, so we’re doing it again this year. Since Brown was formerly the cleanliness champion, we thought we’d give you some tips to help you keep the throne. The only thing better than one popped collar is two popped collars! How clean! Never hold a door for a lady as she enters or leaves a room; that’s how you spread germs! Make sure that you and yo boyz always have the same haircut and fresh sneaks, and finally, never stop talking about John Mayer. He’s just so clean. Watch now as the band forms the pinnacle of cleanliness and aces this song on Guitar Hero!
 
-:sd[Band forms a showerhead and plays "Build Me Up, Buttercup!"]
+:sd[Band forms a showerhead and plays “Build Me Up, Buttercup!”]
 
 Hey Band? (Hey what?) I’ve got some Cornell University Trivia for you! Every year Cornell students celebrate the famous Slope Day—an entire holiday devoted to Newton’s First Derivative. Cornell University also has a Tibetan Monastery! And finally, Ann Coulter went to Cornell! (Repeat ad nauseam.)
 
-:sd[Band forms a B and plays "Brown Bear."]
+:sd[Band forms a B and plays “Brown Bear.”]
 
 ## Halftime
 
-Ladies and Gentlemen, friends and alumni, presenting an organization that prefers Sidestate New York to the Finger Lakes, it’s the Brown University "Our Island is Stronger Where It Counts" BAAAANNNNNNNDDDDDD!
+Ladies and Gentlemen, friends and alumni, presenting an organization that prefers Sidestate New York to the Finger Lakes, it’s the Brown University “Our Island is Stronger Where It Counts” BAAAANNNNNNNDDDDDD!
 
 Dear Families, welcome to Brown’s Family Weekend 2012! We hope you’re enjoying your stay in Providence so far because let us tell you, it’s way better than being in Ithaca right now. We members of the Brown Band might have a bias, but we think you made the right choice in choosing to send your kids to Brown instead of Cornell. Here’s why!
 
@@ -58,11 +58,11 @@ Sentry-like o’er lake and valley towers her regal form,\
 
 Watch now as the band forms Gonzo the Great and plays a tribute to Hunter S. Thompson.
 
-:sd[Band forms Gonzo the Great and plays "Karn Evil No. 9 First Impression Part II."]
+:sd[Band forms Gonzo the Great and plays “Karn Evil No. 9 First Impression Part II.”]
 
-Do you want to know something cool that just happened at Brown? The Dalai Lama spoke this past Wednesday to a packed house of students, faculty, and staff in the Providence Convention Center. We were a stop on his tour to promote his new album, aptly called "Rockin’ the Himalayas." It drops December 3rd, just in time for the holidays! It was nice to hear his new stuff, but we were really hoping that he’d play us some deep cuts from his third reincarnation, such as "Prayer Chant 1," "Prayer Chant 3," "Prayer Chant 46," and the Band’s personal favorite, "Shangri-La La La." Only at Brown could we have opportunities like this! Watch now as the Band celebrates its university and plays "For the Dalai Lama and For World Peace."
+Do you want to know something cool that just happened at Brown? The Dalai Lama spoke this past Wednesday to a packed house of students, faculty, and staff in the Providence Convention Center. We were a stop on his tour to promote his new album, aptly called “Rockin’ the Himalayas.” It drops December 3rd, just in time for the holidays! It was nice to hear his new stuff, but we were really hoping that he’d play us some deep cuts from his third reincarnation, such as “Prayer Chant 1,” “Prayer Chant 3,” “Prayer Chant 46,” and the Band’s personal favorite, “Shangri-La La La.” Only at Brown could we have opportunities like this! Watch now as the Band celebrates its university and plays “For the Dalai Lama and For World Peace.”
 
-:sd[Band forms the word BROWN and plays "For Bruno and For Brown."]
+:sd[Band forms the word BROWN and plays “For Bruno and For Brown.”]
 
 Shoot, we got caught up in Tibetan Buddhism and forgot about the Feast of St. Ignatius of Antioch! We hope this doesn’t disqualify us from the rapture. Next week on iCarly, the Brown Band travels to the City of Brotherly Love and watches the Bears take on the Pennsylvania State Fightin’ Penns. Since it’s the Halloween game, we’ll be trick-or-treating while Rome burns. Smell ya later, alligator!
 

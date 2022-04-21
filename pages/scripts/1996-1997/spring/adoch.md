@@ -8,11 +8,11 @@ Ladies and gentlemen :sd[beat] and prefrosh, presenting another organization tha
 
 CONGRATULATIONS! Whatever you do, don’t throw this envelope away. You may already have won a no-expense paid trip to a higher plane of existence. . . No, it’s not the Hale-Bopp Comet, it’s a prestigious Ivy League University! That’s right, all you have to do is return the enclosed forms. . . take several dozen standardized tests. . . endure a nerve wracking personal interview. . . have flawlessly perfect grades AND if we don’t decide that we just don’t like the look of your face WE’LL SAY:
 
-"JOE STUDENT HAS JUST barely SURVIVED THE COLLEGE ADMISSIONS PROCESS!"
+“JOE STUDENT HAS JUST barely SURVIVED THE COLLEGE ADMISSIONS PROCESS!”
 
 Thaaaaaat’s right! You may have already won a spiff new college education-- It slices! It dices! Just look at all those julienned brain cells! It even makes a decent wall decoration, and if you’re really lucky it MIGHT JUST get you a job!
 
-:sd[Band plays "Joshua"]
+:sd[Band plays “Joshua”]
 
 Your own diploma! Don’t miss this opportunity. Not sold in any stores... how much would you expect to pay for this little wonder? 3 million dollars? 4 million dollars? More? Order now and it’s yours for the low, low Ivy League price of 29 thousand nine-hundred ninety-nine, ninety-nine per year!
 
@@ -42,7 +42,7 @@ Alright, pop quiz hotshot! If you fail to answer any of these questions, you wil
 
 Watch now as the band thinks about all the things it learned in high school.
 
-:sd[Band plays "Kodachrome"]
+:sd[Band plays “Kodachrome”]
 
 Well, it seems as if you’ve all survived your ordeal. The envelopes arrived and by golly they were big suckers. You’ve now reached that point in your life when you stop trying to impress colleges and THEY start trying to impress YOU. And you gotta admit it’s pretty impressive the way those tourguides can walk backwards like that.
 
@@ -52,7 +52,7 @@ But no worries for now, just sit back and relax. Enjoy the a capella frenzy that
 
 At least. . . not until a few years in the future when it’s time to apply for summer internships.
 
-:sd[Band plays "Time Warp"]
+:sd[Band plays “Time Warp”]
 
 Join us again tomorrow at noon at Faunce Arch to see the Brown Band perform its world infamous impersonation of the Pied Piper. You can’t miss us-- we’ll be the ones with the shiny instruments playing the loud music.
 

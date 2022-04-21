@@ -30,7 +30,7 @@ Remember those old courses:
 
 Watch now as the Band eats that first Thanksgiving dinner at Plymouth and plays Rock Around the Clock.
 
-:sd[The band forms a line on the 50 yard line and plays "Rock Around the Clock."]
+:sd[The band forms a line on the 50 yard line and plays “Rock Around the Clock.”]
 
 Turning from turkeys to turkeys, we look at the URI band. Oh!!! They’re not there. We hadn’t noticed. We wonder where they might be. Could it be that Little Bo Peep has lost her sheep. Or has she lost something else? We form a shepherd’s transistor staff and play “Where, oh Where has my Little Ram Gone?”
 

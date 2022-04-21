@@ -81,18 +81,18 @@ for these nine seniors, our hearts with pride swell\
 
 ## Halftime
 
-Ladies and Gentlemen, friends and alumni, presenting an organization whose favorite smurf was Handy Smurf, it’s the Brown University, "La la la-la la la" ... BAND!
+Ladies and Gentlemen, friends and alumni, presenting an organization whose favorite smurf was Handy Smurf, it’s the Brown University, “La la la-la la la” ... BAND!
 
-The band spent the past week writing, directing, and producing its own musical: "The Life and Times of Josiah Carberry." Wanting a frenetic, high-energy show, the band tried to recruit Tommy Tune as its choreographer. Unfortunately we had to make due with Professor Morone. We had to give up our dream of opening at the Winter Garden for a slightly smaller space... a broom closet on fifth floor Keeney. Watch now as the band looks for another opening, and gets off off off off off Broadway.
+The band spent the past week writing, directing, and producing its own musical: “The Life and Times of Josiah Carberry.” Wanting a frenetic, high-energy show, the band tried to recruit Tommy Tune as its choreographer. Unfortunately we had to make due with Professor Morone. We had to give up our dream of opening at the Winter Garden for a slightly smaller space... a broom closet on fifth floor Keeney. Watch now as the band looks for another opening, and gets off off off off off Broadway.
 
-:sd[Band forms star, plays "On Broadway"]
+:sd[Band forms star, plays “On Broadway”]
 
-Our protagonist is a young doctor of psychoceramics who comes of age in New York during the era of blackjack and Madame Butterfly. Wait-- forget the blackjack. And New York City. We’ll just call it "Madame Butterfly" and set it in Japan, with Godzilla as the love interest. Mothra will appear in a special role as the spurned lover. Watch now as the show’s one star rating goes up in flames, and the band plays "Starblazers."
+Our protagonist is a young doctor of psychoceramics who comes of age in New York during the era of blackjack and Madame Butterfly. Wait-- forget the blackjack. And New York City. We’ll just call it “Madame Butterfly” and set it in Japan, with Godzilla as the love interest. Mothra will appear in a special role as the spurned lover. Watch now as the show’s one star rating goes up in flames, and the band plays “Starblazers.”
 
-:sd[Band forms butterfly, plays "Starblazers"]
+:sd[Band forms butterfly, plays “Starblazers”]
 
-Tragically, our hero is killed when Mothra asks him if he is a god, and he says no. The correct answer, of course, is "You bet your sweet patootie I’m a god." Mothra then goes to a final battle with the Stay-Puff Marshmallow Man over the streets of Kyoto. Watch now as the band forms B for butterfly and covers the field with sweet, sticky white stuff.
+Tragically, our hero is killed when Mothra asks him if he is a god, and he says no. The correct answer, of course, is “You bet your sweet patootie I’m a god.” Mothra then goes to a final battle with the Stay-Puff Marshmallow Man over the streets of Kyoto. Watch now as the band forms B for butterfly and covers the field with sweet, sticky white stuff.
 
-:sd[Band forms B, plays "In the Fray"]
+:sd[Band forms B, plays “In the Fray”]
 
 We feel that Mothra, like the Columbia Band, was just misunderstood. All it asked for was a little tender loving care. Speaking of TLC, next week the band will be taking a holiday to go home and eat so much they’ll have to roll us back up College Hill. Happy Thanksgiving, everyone!

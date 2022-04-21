@@ -45,7 +45,7 @@ We in the Brown Band would like to be the first to congratulate Yale on their se
 - 3. Professor of Hotel Administration at Cornell
 - 2. President of the Yale Band
 - ...and the number one job for which Yale President’s are qualified:
-- 1. "Would you like fries with that?"
+- 1. “Would you like fries with that?”
 
 :::
 

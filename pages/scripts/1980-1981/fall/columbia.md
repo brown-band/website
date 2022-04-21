@@ -44,4 +44,4 @@ Yet another wonderful site in New York is Central Park. This park features a won
 
 Be back in two years when you’ll all be another year closer to graduation.
 
-:sd[The band marches off on yardlines to "Ever True"]
+:sd[The band marches off on yardlines to “Ever True”]

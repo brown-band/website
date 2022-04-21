@@ -16,13 +16,13 @@ These Mad Hatters are speeding to a tea party with Alice. It looks like the part
 
 :sd[The Band forms a wide grin on the field.]
 
-Turning from grins to Grimm’s, do you remember these fairy tale folk? The big bad wolf, who was busted by the three little pigs for too much huffing and puffing and blowing down houses. Rapunzel, who let down her hair but the prince climbed up the bushes. That fairy tailor who slew seven with one blow, and Brown’s favorite fairy tale, the three bears meet Columbian Goldilocks. Lastly, there was Pinocchio, whose proboscis would protrude every time he prevaricated. The Band forms this olfactory organ and plays "Gonna Lie Now. "
+Turning from grins to Grimm’s, do you remember these fairy tale folk? The big bad wolf, who was busted by the three little pigs for too much huffing and puffing and blowing down houses. Rapunzel, who let down her hair but the prince climbed up the bushes. That fairy tailor who slew seven with one blow, and Brown’s favorite fairy tale, the three bears meet Columbian Goldilocks. Lastly, there was Pinocchio, whose proboscis would protrude every time he prevaricated. The Band forms this olfactory organ and plays “Gonna Lie Now.”
 
-:sd[As the nose grows, the Band plays "Gonna Fly Now."]
+:sd[As the nose grows, the Band plays “Gonna Fly Now.”]
 
-Leaving reality behind, the Band enters New York, city of free enterprise, where there’s a fortune to be made on any street corner. Where you take your life in your hands when you try to cross 5th Avenue, or the New York Harbor. But at least the papers are rolling, causing cheerful faces to light up all over. The <u>Daily News</u> headlines “New Legislation in New York City.” Your dog has been scooped by the <u>New York Times</u> wraps up the story. The Band cleans up the streets of the city as we take a bite from the Big A and play "Rebirth of the News."
+Leaving reality behind, the Band enters New York, city of free enterprise, where there’s a fortune to be made on any street corner. Where you take your life in your hands when you try to cross 5th Avenue, or the New York Harbor. But at least the papers are rolling, causing cheerful faces to light up all over. The <u>Daily News</u> headlines “New Legislation in New York City.” Your dog has been scooped by the <u>New York Times</u> wraps up the story. The Band cleans up the streets of the city as we take a bite from the Big A and play “Rebirth of the News.”
 
-:sd[Band plays "Birth of the Blues" as the apple becomes an apple core.]
+:sd[Band plays “Birth of the Blues” as the apple becomes an apple core.]
 
 A young man from Morningside Heights\
 Found fruit a refreshing delight.\

@@ -39,7 +39,7 @@ Thank you!
 
 Please watch now as the Brown Ice Troupe performs an interpretive dance.
 
-:sd[Band does just that while playing "Johnny’s Mambo"]
+:sd[Band does just that while playing “Johnny’s Mambo”]
 
 Behold as it behooves the band to become bristly like great Gregorian’s goatee. And while we’re on the matter of woolly matter (a weighty matter indeed), we thought it ought to be enlightening for some of the Dartmouth fans in the audience to point out that Scottish scientists recently succeeded in cloning--
 
@@ -47,7 +47,7 @@ Oh, never mind. It’s just too easy.
 
 Watch now as the band performs its salute to popular culture as simultaneous expression and subversion of the capitalist mass marketplace by forming a roll-on.
 
-:sd[Band does just that and plays "Smells Like Teen Spirit"]
+:sd[Band does just that and plays “Smells Like Teen Spirit”]
 
 Killer Emus couldn’t drag us away, but our press agent says we should keep it short and sweet. You know, leave you wanting more. Besides, we have to grease the wheels by buying the local art critic dinner at Paragon. In any case, we’ll see you all next season!
 

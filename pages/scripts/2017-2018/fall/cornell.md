@@ -12,7 +12,7 @@ date: 2017-10-21
 
 ## Pregame
 
-Ladies and gentlemen, friends and alumni, presenting an organization that loves reading from the banned book list, it’s the Brown University "I do not like green eggs and ham" BANNNDDDDDDDDDDD!
+Ladies and gentlemen, friends and alumni, presenting an organization that loves reading from the banned book list, it’s the Brown University “I do not like green eggs and ham” BANNNDDDDDDDDDDD!
 
 Every year we are always disappointed to hear that we aren’t playing Cornell College in football. If we traveled to the beautiful city of Mount Vernon, Iowa, we’d be able to speak without the eyes of Big Brother watching us! This College has won TWO national wrestling team titles. Neat, right? We thought so, which is why it’s in our script. At least we can pretend we’re in the middle of nowhere...Watch now as the Band is double plus ungood and plays Iowa Touch Myself.
 
@@ -26,7 +26,7 @@ See you at halftime after we finish writing this script under the watchful eye o
 
 ## Halftime
 
-Ladies and gentlemen, friends and alumni, presenting an organization that is gorges, it’s the Brown University "I’d rather be fjords" BANNNDDDDDDDDDDD!
+Ladies and gentlemen, friends and alumni, presenting an organization that is gorges, it’s the Brown University “I’d rather be fjords” BANNNDDDDDDDDDDD!
 
 Wow all of this running around has made us famished. Time to whip out our trusty recipe for roast chicken, or as we like to call it, Rob Lowe chicken. What, never heard of it? Shameful! Here, we’ll give you some tips:
 
@@ -49,7 +49,7 @@ Does Halloween come to upstate New York? We’re not quite sure ourselves. We’
 
 :sd[Band forms a question mark and plays the Johnny B. Goode.]
 
-It was strongly suggested that we, the humble travelers from lil’ Rhody, provide some updates from Brown for our own team’s enjoyment. Brown is launching a new morning newsletter, Today@Brown, and is officially killing off our beloved Morning Mail. In a so-called "new approach to important campus information, . . . Brown is aligning with best practices in higher education by moving toward a more unified approach to campus communications." We scriptwriters are also aligning with best practices in campus communications by streamlining our words to be as vague as possible. Watch now as the Band takes a "phased approach" and plays Email Deleting Song.
+It was strongly suggested that we, the humble travelers from lil’ Rhody, provide some updates from Brown for our own team’s enjoyment. Brown is launching a new morning newsletter, Today@Brown, and is officially killing off our beloved Morning Mail. In a so-called “new approach to important campus information, . . . Brown is aligning with best practices in higher education by moving toward a more unified approach to campus communications.” We scriptwriters are also aligning with best practices in campus communications by streamlining our words to be as vague as possible. Watch now as the Band takes a “phased approach” and plays Email Deleting Song.
 
 :sd[Band forms a B and plays the Brown Cheering Song.]
 

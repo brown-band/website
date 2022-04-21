@@ -32,9 +32,9 @@ Please rise and join us as we give Cornell a Big Red salute and play the Cornell
 
 :sd[Band forms CU and plays Rawhide.]
 
-The Band recently found an aging copy of the diary of Ezra Cornell. Let us recount one of the more moving passages from Ezra’s life, when he first arrived in Ithaca. "Having thoroughly lost my way to Florida, I’ve given up and decided to found my university here in Ithaca. While Ithaca doesn’t have the sun, beaches, and tennis facilities that Florida has, the area is gorge-ous and will surely provide future students with places to relax and dive into their studies. I must confess, Ithaca is not the ideal location for a university. But someday this backwards rural village will become a bustling metropolis and the pinnacle of higher education in America - (pause) - or maybe not."
+The Band recently found an aging copy of the diary of Ezra Cornell. Let us recount one of the more moving passages from Ezra’s life, when he first arrived in Ithaca. “Having thoroughly lost my way to Florida, I’ve given up and decided to found my university here in Ithaca. While Ithaca doesn’t have the sun, beaches, and tennis facilities that Florida has, the area is gorge-ous and will surely provide future students with places to relax and dive into their studies. I must confess, Ithaca is not the ideal location for a university. But someday this backwards rural village will become a bustling metropolis and the pinnacle of higher education in America - (pause) - or maybe not.”
 
-Watch now as the band forms Ezra’s diary and plays "The Weather in Ithaca is so nice in March."
+Watch now as the band forms Ezra’s diary and plays “The Weather in Ithaca is so nice in March.”
 
 :sd[Band forms Ezra’s diary and plays the Liberty Bell March.]
 
@@ -42,7 +42,7 @@ And now please welcome the Brown University Cello Choir in their first ever half
 
 :sd[Cello Choir plays Stars and Stripes Forever.]
 
-As most of you probably know by now, the Brown Bookstore completed major renovations this past summer. The Bookstore is offering many new products for sale. Among other items, the Bookstore now carries University Hall trading cards. You can collect all your favorites and trade with your friends - "I’ll give you a President Gregorian for a Dean Blumstein!" The Bookstore is also offering for sale special limited edition "My parents spent $100,000 to send me to Brown and all I got was this shirt" t-shirts. The Bookstore has generously offered to donate a percentage of the profits to the Capital Campaign.
+As most of you probably know by now, the Brown Bookstore completed major renovations this past summer. The Bookstore is offering many new products for sale. Among other items, the Bookstore now carries University Hall trading cards. You can collect all your favorites and trade with your friends - “I’ll give you a President Gregorian for a Dean Blumstein!” The Bookstore is also offering for sale special limited edition “My parents spent $100,000 to send me to Brown and all I got was this shirt” t-shirts. The Bookstore has generously offered to donate a percentage of the profits to the Capital Campaign.
 
 Please rise now and join us - for real this time - , as the Band and the Cello Choir, together for the first time, honor Brown and play the Alma Mater.
 

@@ -12,13 +12,13 @@ date: 2015-11-20
 
 ## Halftime
 
-Ladies and gentlemen, friends and alumni, presenting an organization that isn’t sure where it is right now, it’s the Brown University "Brown University Band in the City of New York" BANNNDDDDDDDDDDD!
+Ladies and gentlemen, friends and alumni, presenting an organization that isn’t sure where it is right now, it’s the Brown University “Brown University Band in the City of New York” BANNNDDDDDDDDDDD!
 
 Here we are: New York. The Big City. The Big Apple. The City That Never Sleeps. The City So Nice They Named It Twice. The best city since Old York. The home of the Pizza Rat. The Helm’s Deep of the East Coast. The Ba Sing Se of the Batman Universe. The Gotham of the Fire Nation. The Land Down Under. Hell’s Port-A-Potty.
 
 Watch now as the band puts 50 people on some grass and blows some hot air.
 
-:sd[Band forms turbulent flow and plays "B flat Cheering Song".]
+:sd[Band forms turbulent flow and plays “B flat Cheering Song”.]
 
 We’ve heard a lot of buzz recently about a Columbia senior’s endeavor to start a restaurant in his dorm room. We admire his efforts, considering how little success we’ve had with making our own concoctions at home. Here’s a list of some of our most successful dorm room creations.
 
@@ -33,9 +33,9 @@ We’ve heard a lot of buzz recently about a Columbia senior’s endeavor to sta
 
 :::
 
-Watch now as the band just like, chills out, and plays "Sweet Cuisine".
+Watch now as the band just like, chills out, and plays “Sweet Cuisine”.
 
-:sd[Band maxes and relaxes all cool and plays "Sweet Caroline".]
+:sd[Band maxes and relaxes all cool and plays “Sweet Caroline”.]
 
 While perusing the New York Post, we came across an article detailing one professor’s immersive research techniques, used to study how social interactions at bars impact sexual experiences. However, in order to fit in, Professor Khan admitted that he sometimes faked drinking alcohol and getting drunk. We, too, have faked a lot of things before, such as:
 
@@ -50,9 +50,9 @@ While perusing the New York Post, we came across an article detailing one profes
 
 :::
 
-Watch now as the Band forms a solution to list entry D and "Fakes on Me".
+Watch now as the Band forms a solution to list entry D and “Fakes on Me”.
 
-:sd[Band forms a rabbit and plays "Take on Me".]
+:sd[Band forms a rabbit and plays “Take on Me”.]
 
 Well, this is our last game of the season. You may have noticed we’ve run out of ideas. That’s just how it goes sometimes. Here’s a list of some of our favorite lists.
 
@@ -67,9 +67,9 @@ Well, this is our last game of the season. You may have noticed we’ve run out 
 
 :::
 
-Turn your attention to the field as the Band forms two curved shopping lists and plays "List-Ing the Victory".
+Turn your attention to the field as the Band forms two curved shopping lists and plays “List-Ing the Victory”.
 
-:sd[Band forms a B and plays "Bring the Victory".]
+:sd[Band forms a B and plays “Bring the Victory”.]
 
 Thank you for an amazing season! Join us back at Brown in two weeks for our first hockey appearance against Princeton. Brown Band out!
 

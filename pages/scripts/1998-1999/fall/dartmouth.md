@@ -17,7 +17,7 @@ Friends and alumni, grandpas and grannies!\
 We proudly present a grupulous group\
 That will wow you all down with a hearty ka-zoop!\
 So all of you fans, let’s give them a hand!\
-It’s the Brown University "Buppulous" Band!
+It’s the Brown University “Buppulous” Band!
 
 :sd[Band gallops onto field, forms champagne glass.]
 
@@ -43,7 +43,7 @@ And gives loyal athletic support to the Bears.
 For the purpose of verse, we’ll call him Mike Zwarge\
 Which is helpful: he’s tall, not to mention he’s large.\
 He like-a to swing, he teaches us all,\
-It’s Michael Zwarg—"Whaddaya mean it’s last call?"
+It’s Michael Zwarg—“Whaddaya mean it’s last call?”
 
 Now we have Persky, whose first name is Jon\
 A bandie so long that his liver’s half gone\
@@ -62,7 +62,7 @@ Friends and alumni, fascists and commies,\
 Presenting an organization that toots\
 On clarinets, trumpets, kazoos, and some flutes.\
 And so, without further ado, give a hand\
-To the Brown Unversity "Air-Breathing" Band!
+To the Brown Unversity “Air-Breathing” Band!
 
 :sd[Band charges field.]
 
@@ -79,7 +79,7 @@ And swim to Pa-Wunk in a pinstriped wetsuit.\
 Or tour the far-FAR-away Land of Lazarmy.\
 And perhaps he will take with him Richard K. Armey.\
 Watch now as the Band forms a Congress sans Newt\
-And plays the song "Aqualung" as a salute.
+And plays the song “Aqualung” as a salute.
 
 :sd[Band does this.]
 
@@ -93,12 +93,12 @@ And who says that money and corporate leverage\
 Should determine a campus’s choices of beverage?\
 And so we would like to bring onto the scene\
 A new type of drink for the folks at Big Green.\
-Its name shall be "Moose Juice." From that, please deduce\
+Its name shall be “Moose Juice.” From that, please deduce\
 That Moose Juice is simply the juice of a moose.\
 Its flavor is moosey. Its color is spruce.\
 It’s endorsed by one Thickwit, the Green-Hearted Moose!\
 Watch now as the band forms a moose’s long :sd[half a beat] antler,\
-And plays "Pepsico Inferno" before we dismantl’er.
+And plays “Pepsico Inferno” before we dismantl’er.
 
 :sd[Band does this too.]
 

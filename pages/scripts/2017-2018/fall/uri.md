@@ -12,7 +12,7 @@ date: 2017-09-30
 
 ## Pregame
 
-Ladies and gentlemen, friends and alumni, presenting an organization that has heard of Elf on the Shelf, it’s the Brown University "now get ready for Bill Nye the Science Guy at URI" BANNNDDDDDDDDDDD!
+Ladies and gentlemen, friends and alumni, presenting an organization that has heard of Elf on the Shelf, it’s the Brown University “now get ready for Bill Nye the Science Guy at URI” BANNNDDDDDDDDDDD!
 
 Welcome back URI! It is so nice to finally be able to talk to you again considering last year...you know...when you forcibly recommended we not read our script. For an entire year we’ve been dying to ask you one question. Do you know what a bra is? We’re not quite sure if you know, since one of your fans confused it with a baritone sax harness. Perhaps Victoria’s real secret was that she didn’t know what a bra was. Watch now as the Band forms the offending undergarment and plays Take Off Me Bra.
 
@@ -26,7 +26,7 @@ Catch us at halftime when we’ll contemplate why Rhode Island is nor a road or 
 
 ## Halftime
 
-Ladies and gentlemen, friends and alumni, presenting an organization that dropped out of URI because of the egg sandwiches, it’s the Brown University "there was a lack of egg and bread" BANNNDDDDDDDDDDD!
+Ladies and gentlemen, friends and alumni, presenting an organization that dropped out of URI because of the egg sandwiches, it’s the Brown University “there was a lack of egg and bread” BANNNDDDDDDDDDDD!
 
 Hey there URI! We heard that this year you’re celebrating your quasquicentennial. Congratulations! Orbiting the sun is always such hard work. We would know: we’ve done it twice as many times as you. In celebration, we have some suggestion for how to Imagine URI 125+:
 

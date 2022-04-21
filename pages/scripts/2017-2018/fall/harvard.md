@@ -12,7 +12,7 @@ date: 2017-09-23
 
 ## Pregame
 
-Ladies and gentlemen, friends and alumni, presenting an organization that hasn’t lost to URI... this year, it’s the Brown University "we’ll see what happens next week" BANNNDDDDDDDDDDD!
+Ladies and gentlemen, friends and alumni, presenting an organization that hasn’t lost to URI... this year, it’s the Brown University “we’ll see what happens next week” BANNNDDDDDDDDDDD!
 
 Harvard, we need to have a talk. You lost to URI last week. Now as the only team present who is actually from Rhode Island, we would like to point out that losing to URI is our sole purview. We don’t need you Massachussetts people coming in and taking our jobs. Maybe we need to institute a Rhode Island First policy. You losing to Rhody is the worst deal in the history of deals, possibly ever. Watch now as the band enacts some protectionist legislation and plays Rhode Islanders Are All In This Together.
 
@@ -26,7 +26,7 @@ Catch us at halftime, when we will honor some of Harvard’s great alumni.
 
 ## Halftime
 
-Ladies and gentlemen, friends and alumni, presenting an organization that didn’t buy its way into the Ivy League, it’s the Brown University "please meme responsibly" BANNNDDDDDDDDDDD!
+Ladies and gentlemen, friends and alumni, presenting an organization that didn’t buy its way into the Ivy League, it’s the Brown University “please meme responsibly” BANNNDDDDDDDDDDD!
 
 So we hear you’re looking for a new president. We would like to present, for your consideration, our dear friend Elrod T. Snidley. He’s proven to be a strong candidate in the past. In Brown’s 1988 University Council of Students election, he won nearly half of the vote as a write-in candidate. Vote for Snidley - he won’t do diddley! Elrod would also bring a lot to Harvard’s campus, most specifically, his trumpet and bass drum. His drum is much more practically sized than the one we see floating around here that we tried to steal back in the ’70s, since he doesn’t have to overcompensate. Watch now as the Band forms Elrod’s superior bass drum, and plays I’m A Believer in Elrod.
 

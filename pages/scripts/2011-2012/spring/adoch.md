@@ -8,12 +8,12 @@ Hello to all the accepted students from the class of 2016. Through our detailed 
 
 :sd[Band forms an ARC and plays Fuck You]
 
-As you all may or may not be aware, five of Brown’s professors have been named on the Princeton Review’s first ever "300 Best Professor List." In case you haven’t been spending all of your waking hours on Brown’s website, here’s the run down on who they are.
+As you all may or may not be aware, five of Brown’s professors have been named on the Princeton Review’s first ever “300 Best Professor List.” In case you haven’t been spending all of your waking hours on Brown’s website, here’s the run down on who they are.
 
 :::script-list
 
 - a) Barrett Hazeltine, professor of Engineering but wizard of Business. Rides his bike to work, gets paid one dollar a year, and professionally tap dances in his free time.
-- b) JOSEPH MICHAEL PUCCI, professor of Classics, Comparative Literature, and Medieval Studies. Can bench press 300 lbs., once threw a knife into heaven, and quote "his wife is really nice."
+- b) JOSEPH MICHAEL PUCCI, professor of Classics, Comparative Literature, and Medieval Studies. Can bench press 300 lbs., once threw a knife into heaven, and quote “his wife is really nice.”
 - c) Stephanie Ravillon, professor of Foreign Language, French to be specific. Shows up on time... sometimes, makes awesome crepes, and has eaten frog on many occasions.
 - d) Robert Serrano, professor of Economics. Denominates all business transactions in the Kazakhstani tenge, recommended that Chipotle be nationalized in order to better distribute burritos to the 99%; and believes in replacing fiat currency with the aluminum standard.
 - e) Daniel Stupar, professor of Studio Art. His favorite student organization is the Brown Band, he takes personal credit for what Seth McFarlane has become, and he repainted every single portrait in Sayles Hall after the failed 2003 SPG/Spagfest doubleheader. And finally

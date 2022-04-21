@@ -44,4 +44,4 @@ Their honeymoon was spent at the College Town Motor Inn to commemorate the night
 
 Be back for hockey season when the band stops balling and starts pucking around.
 
-:sd[Band marches off on yardlines to "Ever True."]
+:sd[Band marches off on yardlines to “Ever True.”]

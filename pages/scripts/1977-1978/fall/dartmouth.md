@@ -37,7 +37,7 @@ But we can understand why all the guys at Dartmouth have to take out their frust
 
 Turning from Green Gangs to Gangreens, the Band takes a classic look inside itself, and considers the Ilium and the artery, along with other healthy parts of a Homer-sapien. But according to current AMA policy, just because its healthy, that’s no reason not to remove it. The Band cut-ups form a scalpel, perform our third clarinectomy, and close with “Another Opening, Another Sew.”
 
-:sd[The Band forms a scalpel and the third clarinets form themselves. During the song, the scalpel moves through the clarinets, splitting them apart, as the Band plays "Another Opening, Another Show."]
+:sd[The Band forms a scalpel and the third clarinets form themselves. During the song, the scalpel moves through the clarinets, splitting them apart, as the Band plays “Another Opening, Another Show.”]
 
 Be back in two years, as our glockenspiel player finds once again that Dartmouth weather can freeze your bells off.
 

@@ -16,7 +16,7 @@ Watch now as the band forms Lois’s jewel.
 
 Artichoke Pasta Man takes Lois to his ice palace. He turns the key in the lock of her box, and there keeps her prisoner.
 
-:sd[The band changes the diamond into two plus signs. They play "Can-Can." Meanwhile, Arti and his dastardly doers, the sax section, entrap Lois in a prison made from the two hockey nets.]
+:sd[The band changes the diamond into two plus signs. They play “Can-Can.” Meanwhile, Arti and his dastardly doers, the sax section, entrap Lois in a prison made from the two hockey nets.]
 
 Will Artichoke Pasta Man snatch Lois’s jewel? Will help arrive in time before he weighs her carats? Will Artichoke Pasta Man get fresh? Will he find a flaw in her structure? Will he fence the ice?
 

@@ -18,7 +18,7 @@ Ladies and gentlemen, friends and alumni, and Harvard students, presenting an or
 
 It’s really great to be performing once again at UMass Cambridge, you’re all beautiful people. Anybody here from out of town? We really hope our show doesn’t bomb. We want you to like us-- so here’s a present for you. Watch out though, the postmark is from somewhere in Montana.
 
-:sd[Band forms package, plays "Vehicle"]
+:sd[Band forms package, plays “Vehicle”]
 
 Watch now, ladies and gentlemen, as the Brown Band spontaneously combusts.
 
@@ -32,12 +32,12 @@ More likely it was one of the seven deadly sins: We suspect that the Crimsons en
 
 Watch now, ladies and gentlemen, as the Brown University Microsoft Band forms a great big hole in the ground and plays the Crater Envy Polka.
 
-:sd[Band forms big-ass hole in the ground, plays "Brown Bear"]
+:sd[Band forms big-ass hole in the ground, plays “Brown Bear”]
 
 This year marks John Keats’ 200th anniversary, and the Brown Band’s crack team of literary historians has recently unearthed a previously unknown collaboration between John Keats and John Harvard. It turns out that it was the two Johns working together who wrote the little-known masterpiece “Commode on a Grecian Urn.” The lyric deals with a Greek vase being brought to the Peabody Museum by a Harvard student. Tragedy strikes when the student tries to take the train and ends up drowning because he never needed to use the library.
 
-Watch now as the still unravished Band of Brown University, foster children of volume and cut time, salute Keats by forming John’s urn and playing "Birthday."
+Watch now as the still unravished Band of Brown University, foster children of volume and cut time, salute Keats by forming John’s urn and playing “Birthday.”
 
-:sd[Band forms urn, plays "Birthday"]
+:sd[Band forms urn, plays “Birthday”]
 
 Join us next week when Brown plays Dartmouth and the band unveils its giant pair of maracas.

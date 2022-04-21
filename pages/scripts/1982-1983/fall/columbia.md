@@ -33,7 +33,7 @@ We are gathered here today to salute things which have recently passed away.
 
 :sd[Band falls down on field]
 
-Just Kidding. Today we add to the list a dear friend - Baker Field. Paying tribute to this famous coliseum, where many hard fought battles were fought hard, the Band forms a coffin and plays "Chopin’s Funeral March".
+Just Kidding. Today we add to the list a dear friend - Baker Field. Paying tribute to this famous coliseum, where many hard fought battles were fought hard, the Band forms a coffin and plays “Chopin’s Funeral March”.
 
 :sd[Form a coffin and play Funeral March]
 
@@ -50,7 +50,7 @@ Incidentally, Chopin is dead too. So this is Baker Field. Well we see the demoli
 
 :::
 
-We wish the Columbia Football team good luck at their new home in the Meadowlands but ask how the Columbia band plans to get there. The Band forms a subway train on the field and plays "Give My regards to the Meadowlands".
+We wish the Columbia Football team good luck at their new home in the Meadowlands but ask how the Columbia band plans to get there. The Band forms a subway train on the field and plays “Give My regards to the Meadowlands”.
 
 :sd[Form it and play it - at end of song Flag is thrown]
 
@@ -69,9 +69,9 @@ He was attached to the Yalie.\
 Why did the Columbia student cross the road?\
 It was stapled to the chicken.
 
-In memory of these dead jokes, the band forms a chicken on the field, salutes the Ivy League and plays "The Magnificent Seven" and Columbia.
+In memory of these dead jokes, the band forms a chicken on the field, salutes the Ivy League and plays “The Magnificent Seven” and Columbia.
 
-:sd[Band forms a Chicken and plays "The Mag 7"] :sd[After song band members raise hands]
+:sd[Band forms a Chicken and plays “The Mag 7”] :sd[After song band members raise hands]
 
 What is it band? Oh - it’s down the hall, second door on the left.
 

@@ -18,7 +18,7 @@ Ladies and gentlemen, friends and alumni, and all you waggish fops, presenting t
 
 Hollywood seems to have decided that one bad movie deserves another, coming up with such classics as “Damien Omen 2” and “International Velvet.” Jumping on the BANDwagon, we have recently put into production some sequels of our own. Be on the lockout for “Heaven Can Wait a Little Longer” with Francisco Franco; “The Morning After the Night of the Living Dead,” with Julie Nixon Eisenhower; “TWO on One”; “A Star Reaches Puberty” starring Tatum O’Neal; “The Way We Still Are” with Dick Clark, and “Funny old Lady” with Ruth Gordon. Projecting bright future for these movies, the band spins its reels and plays “Another Opening, Another Show.”
 
-:sd[The band forms a movie projector with spinning wheels, plays "Another Opening, Another Show," and runs to the next formation in slow motion.]
+:sd[The band forms a movie projector with spinning wheels, plays “Another Opening, Another Show,” and runs to the next formation in slow motion.]
 
 As the Bionic Band runs into its next formation, we remind you that son you will be seeing TV sequels, such as that sequel to “The Love Boat” — “All My Children,” and “Found in Space,” starring the Yale Band. What with the high cost of intergalactic travel, it’s no wonder that Yale is having financial difficulties. The Band of course has SCIe money-saving suggestions. Yale could, naturally, elimiate their marching band, but that would be redundant. They might trade in the Yale Bowl for the Hartford Civic Center Bowl at its new reduced rate. Or the Yale administration could take tip from the Brown Band as we form a bouncing check on the field and play “Big Spender.”
 

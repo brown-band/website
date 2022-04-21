@@ -2,13 +2,13 @@
 date: 1998-04-15
 ---
 
-Ladies and gentlemen, friends and alumni- and prefrosh- presenting an organization that is the best class in the history of Brown University, it’s the Brown University "Good things come to those who wait-list" Band!
+Ladies and gentlemen, friends and alumni- and prefrosh- presenting an organization that is the best class in the history of Brown University, it’s the Brown University “Good things come to those who wait-list” Band!
 
 :sd[Band applies itself to the stage in Meehan]
 
-In this show, the Band would like to salute...er, we mean...completely ridicule the college admissions process. For this purpose, our two brave show writers went to the admissions office and said, "Excuse me. We want to make fun of you. Can we have an application?" They told us they had run out, and to try back next September. After being so quickly deferred by the admissions office, we set out in search of an application, visiting 10 colleges in three days. We were unable to find an application anywhere, so we decided to write our own and send it into Brown. We even filled out part of it! Watch now as the Band plays "Brown Application."
+In this show, the Band would like to salute...er, we mean...completely ridicule the college admissions process. For this purpose, our two brave show writers went to the admissions office and said, “Excuse me. We want to make fun of you. Can we have an application?” They told us they had run out, and to try back next September. After being so quickly deferred by the admissions office, we set out in search of an application, visiting 10 colleges in three days. We were unable to find an application anywhere, so we decided to write our own and send it into Brown. We even filled out part of it! Watch now as the Band plays “Brown Application.”
 
-:sd[Band plays "Brown Bear."]
+:sd[Band plays “Brown Bear.”]
 
 :::script-note
 
@@ -42,9 +42,9 @@ How did you hear about Brown?
 
 :::
 
-Watch now as the Band remembers its college search by playing "Bruno’s Mambo."
+Watch now as the Band remembers its college search by playing “Bruno’s Mambo.”
 
-:sd[Band plays "Johnny’s Mambo"]
+:sd[Band plays “Johnny’s Mambo”]
 
 _Part II- Academic information_
 
@@ -74,16 +74,16 @@ The Breakfast Club\
 The Nine of Clubs\
 President of the Celene Dion Fan Club\
 The Anarchists’ Organization\
-The "Looks good on a college application" Club\
+The “Looks good on a college application” Club\
 The National Dishonor Society\
 Captain of the Miniature Golf Team\
 Editor of the Student Propaganda Leaflet\
 Bathroom Wall Poet and Artist\
 and The Young Illuminati.**
 
-Watch now as the secret rulers of the world, the Brown Band, begin the apocalypse by unleashing evil hordes of snare drummers and playing "Fire."
+Watch now as the secret rulers of the world, the Brown Band, begin the apocalypse by unleashing evil hordes of snare drummers and playing “Fire.”
 
-:sd[Band plays "Fire."]
+:sd[Band plays “Fire.”]
 
 We interrupt this satire for a commercial break....
 
@@ -123,9 +123,9 @@ You will...
 
 And the school that will bring it to you is Brown University.
 
-We now return you to your regularly scheduled show by playing "Joshua."
+We now return you to your regularly scheduled show by playing “Joshua.”
 
-:sd[Band plays "Joshua"]
+:sd[Band plays “Joshua”]
 
 _The Final Segment- Essays._
 
@@ -146,10 +146,10 @@ Finally, read an essay in your own handwriting.
 
 **The activities I was involved in in High School taught me a lot about leadership. I was very active in serving my community, and I think that community service is an important part of who we are as citizens. I think that... never mind what I think! What do you think? You only take 17% of your applicants? What’s up with that? And what’s up with pencils? I mean, nobody uses those, right? Don’t you love the paternalism of Windows 95? Pope me some Guam! :sd[serious, earnest voice] And in conclusion, I think Brown would be the best place for me to develop my talents and become a future citizen of the world.**
 
-Well, that’s it. You’re done! You can relax; all the heart-wrenching struggle of the application process is over. (ominously) Until you start applying for a job. Watch now as the Band looks ahead to the future by playing "Time Warp."
+Well, that’s it. You’re done! You can relax; all the heart-wrenching struggle of the application process is over. (ominously) Until you start applying for a job. Watch now as the Band looks ahead to the future by playing “Time Warp.”
 
-:sd[Band plays "Time Warp."]
+:sd[Band plays “Time Warp.”]
 
 We hope you enjoyed our show. Be sure to talk to us during the Activities Fair to follow. We’re the ones with the shiny uniforms and the big instruments!
 
-:sd[Band boogies out, playing "Ever True to Brown."]
+:sd[Band boogies out, playing “Ever True to Brown.”]

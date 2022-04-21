@@ -6,12 +6,12 @@ _Brown Band vs. University of Michigan Band -- Live on the Green from NBC’s To
 
 :sd[Close up of Announcer [Voice, Rick Perera]]
 
-Good Morning America! It’s the Brown University "We’ll teach you to put us on live television" Band!
+Good Morning America! It’s the Brown University “We’ll teach you to put us on live television” Band!
 
 :sd[Band runs out madly at word ‘University’ into concert formation]
 
 The Band asked for Sixty Minutes on Sunday night, but only got one and a half on Thursday morning.\
- Not being sure if we could form a Peacock on the air, we decided to form only half. We now enter a green Pea formation to salute the Ivy League and play "The Magnificent Seven" plus Cornell.
+ Not being sure if we could form a Peacock on the air, we decided to form only half. We now enter a green Pea formation to salute the Ivy League and play “The Magnificent Seven” plus Cornell.
 
 :sd[Band starts to play Mag 7, but loses its sound after intro]
 

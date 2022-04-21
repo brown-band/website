@@ -21,15 +21,15 @@ Having nearly spent our small reservoir of that precious natural fluid, petroleu
 - We can set afire previously unrealized combustables such as Cayuga’s waters and Harvard’s curriculum requirements.
 - In addition, energy will be conserved if unnecessary night time driving can be curtailed with nocturnal emission controls.
 
-Unfortunately, such innovation from the government is about as likely as Playboy doing a spread on Ivy League women. The band gets an empty tank, and from the hit musical, "Geysers and Dollars," we play "Roll Out the Oil Barrel."
+Unfortunately, such innovation from the government is about as likely as Playboy doing a spread on Ivy League women. The band gets an empty tank, and from the hit musical, “Geysers and Dollars,” we play “Roll Out the Oil Barrel.”
 
 :sd[The band forms a gas gauge, with the pointer going from full to empty].
 
-The supposed source of our skyrocketing oil prices is those OPECers in the Middle East, where the bywords of the day are "Ayatollah so!" or "life is strife." Nevertheless, the band would lie to salute Israeli and Egyptian overtures toward international harmony. :sd[The band forms a peace sign]. Our musical program includes "Begin (Bay-gin) the Beguine" and "Anwar Egyptian Soldiers," followed by "Side by Side" and "Tea for Two"...
+The supposed source of our skyrocketing oil prices is those OPECers in the Middle East, where the bywords of the day are “Ayatollah so!” or “life is strife.” Nevertheless, the band would lie to salute Israeli and Egyptian overtures toward international harmony. :sd[The band forms a peace sign]. Our musical program includes “Begin (Bay-gin) the Beguine” and “Anwar Egyptian Soldiers,” followed by “Side by Side” and “Tea for Two”...
 
 _2nd voice:_ Wait right there Brown Band!\
 _Band voice:_ What’s going on here?\
-_2nd voice:_ Quiet! I have taken over! The Band of Rebels now plays "Yassir, That’s My Baby"\
+_2nd voice:_ Quiet! I have taken over! The Band of Rebels now plays “Yassir, That’s My Baby”\
 _Band voice after song:_ Can’t we talk about this? Let’s negotiate.\
 _Jimmy Carter:_ I’m sorry, but I overheard that and I’ll have to ask for the band’s resignation. And I hope none of you out there recognize this formation or I’ll have to ask for your resignations too.\
 _Karl Malden:_ What will the brown Band do? What Wilbur... (a la Mr. Ed) What _will_ they do? :sd[Band feels for its traveller’s checks] .
@@ -41,10 +41,10 @@ Go to Calhoun, and get a check,\
 Go to Saybrook, and get a check,\
 Go to Sillman, and get a check.
 
-We think you get the idea. Saluting the Yalies, we play "You’ve Still Got Plenty of Nothing."
+We think you get the idea. Saluting the Yalies, we play “You’ve Still Got Plenty of Nothing.”
 
 :sd[The band forms a dollar sign which changes to a cents sign].
 
 Be back in two years when we’ll excite you once more with our precision march and drill.
 
-:sd[March off to "Ever True" on yard lines].
+:sd[March off to “Ever True’ on yard lines].

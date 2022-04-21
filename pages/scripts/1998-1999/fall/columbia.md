@@ -12,19 +12,19 @@ date: 1998-11-21
 
 ## Pregame
 
-Senoritas y senores, amigos y graduados, presentemente una organizacion que le gusta tocarse, es el Brown Universidad "Bandito" Banda!
+Senoritas y senores, amigos y graduados, presentemente una organizacion que le gusta tocarse, es el Brown Universidad “Bandito” Banda!
 
 :sd[Banda corre sobre el campo.]
 
 Esta manana, la Banda viajo por Columbia. Sin embargo, nos preguntamos que era una viaje bastante rapido, y…what? Columbia _University_? In New York? Ohhh! No wonder we didn’t have to take a boat or a plane! Um. Well, yeah. Let’s play some music now.
 
-Watch now as the band forms an oblate spheroid and plays "NFL on Fox."
+Watch now as the band forms an oblate spheroid and plays “NFL on Fox.”
 
-:sd[Band forms a football, plays that. And "In the Fray." And forms a B somewhere, I guess. Usual spiel.]
+:sd[Band forms a football, plays that. And “In the Fray.” And forms a B somewhere, I guess. Usual spiel.]
 
 ## Halftime
 
-Ladies and gentlemen, friends and alumni, and Columbia sports columnists, presenting an organization that caused the recent drop in the stock market, it’s the Brown University "Antichrist" Band!
+Ladies and gentlemen, friends and alumni, and Columbia sports columnists, presenting an organization that caused the recent drop in the stock market, it’s the Brown University “Antichrist” Band!
 
 :sd[Band attacks the field.]
 
@@ -40,7 +40,7 @@ Thanks, Dan. We appreciate your quote-unquote criticism. But we have one questio
 
 Watch now as the Band forms a quote-unquote band and plays a school spirit quote-unquote song to enliven the quote-unquote crowd.
 
-:sd[Band forms amorphous blob with quotation marks around it, and plays "Brown Cheering Song."]
+:sd[Band forms amorphous blob with quotation marks around it, and plays “Brown Cheering Song.”]
 
 OK, OK. By now, you’ve ALL heard about the Brown grad student who tried to poison his ex-girlfriend with radioactive iodine. But frankly, we don’t see why people are making such a big deal about it. Heck, people poison each other with radioactive iodine all the time at _Columbia_. You just don’t notice, since the entire New York metropolitan area is radioactive. So please, get a half-life! Besides, we can think of better ways to kill OUR lovers. And now, ladies and gentlemen, the Brown Band proudly presents…:sd[drumroll]…Fifty ways to kill your lover! Here are the top six:
 
@@ -55,9 +55,9 @@ OK, OK. By now, you’ve ALL heard about the Brown grad student who tried to poi
 
 :::
 
-Watch now as the Band forms a bottle of radioactive iodine and contaminates the field by playing "Spill Out."
+Watch now as the Band forms a bottle of radioactive iodine and contaminates the field by playing “Spill Out.”
 
-:sd[Band forms bottle, spills radioactive iodine on the field, and plays "Sell Out."]
+:sd[Band forms bottle, spills radioactive iodine on the field, and plays “Sell Out.”]
 
 We now interrupt this halftime show for a commercial break.
 
@@ -65,9 +65,9 @@ Hi. I’m Senator Al D’Amato, and I’m here to talk about an exciting new pro
 
 New Jersey may be the nation’s armpit, but New York needs Columbia Roll-On!
 
-Watch now as the Band forms a B, for blighted beaches, and plays "Garbage Bag Time."
+Watch now as the Band forms a B, for blighted beaches, and plays “Garbage Bag Time.”
 
-:sd[Band forms B, plays "Ragtime."]
+:sd[Band forms B, plays “Ragtime.”]
 
 That’s all for today. Join us next week as the Band takes on its final exams. As for football, see you next year!
 

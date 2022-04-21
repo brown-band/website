@@ -99,16 +99,16 @@ Ladies and gentlemen, friends and alumni, presenting an organization that’s ab
 
 All season long we’ve been following the epic story of the band’s hero, Elrod Snidley. Originally we planned to end that story in this halftime show. Well, it ain’t gonna happen. We pre-empt the season finale to bring you something with even more intrigue, seduction, and scandal - epic election coverage! Watch now as the band tries to prevent a miscarriage of justice in Florida and forms a metaphor for the state’s electoral votes.
 
-:sd[Band forms a trophy, plays "Smooth"]
+:sd[Band forms a trophy, plays “Smooth”]
 
-Last week, Brown announced our next president, something that we don’t anticipate the United States managing for another year or so. To make Dr. Simmons’s transition to Brown as comfortable as possible, the band will now form a comfortable shoe and play "Play That Funky Music Brown Boys" :sd[band shouts "and Girls"]
+Last week, Brown announced our next president, something that we don’t anticipate the United States managing for another year or so. To make Dr. Simmons’s transition to Brown as comfortable as possible, the band will now form a comfortable shoe and play “Play That Funky Music Brown Boys” :sd[band shouts “and Girls”]
 
-:sd[Band forms shoe, plays "Play That Funky Music Brown Boys"]
+:sd[Band forms shoe, plays “Play That Funky Music Brown Boys”]
 
 So, to summarize - Brown has a new president, the rest of the country can’t quite figure it out, and Harvard and Princeton can’t even narrow it down to two candidates. And Columbia students? Well, they were awfully confused by the SAT’s, so filling out a New York ballot was probably far beyond them - though it is multiple choice.
 
-:sd[Band forms "B", plays "Brown Bear"]
+:sd[Band forms “B”, plays “Brown Bear”]
 
 Join us next year, when the Bears take on the University of San Diego on their home turf, and the band continues to make jokes about the still-undecided election results.
 
-:sd[Band marches off to "Ever True"]
+:sd[Band marches off to “Ever True”]

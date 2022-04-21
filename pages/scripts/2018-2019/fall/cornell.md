@@ -12,7 +12,7 @@ date: 2018-10-20
 
 ## Pregame
 
-Ladies and gentlemen, friends and alumni, presenting an organization that might be being followed around by bees, it’s the Brown University "nope, just our kazoo section!" BANNNDDDDDDDDDDD!
+Ladies and gentlemen, friends and alumni, presenting an organization that might be being followed around by bees, it’s the Brown University “nope, just our kazoo section!” BANNNDDDDDDDDDDD!
 
 Yes, it’s family weekend here at Brown, and that means our kazoo section is back! They’re not real bugs, they’re our relatives. If you’re looking for genuine insects, though, it sounds like there are plenty at Cornell – enough for an event called the Insectapalooza! If you feel up to the challenge, you can stick your hand in a bucket of maggots, or let a scorpion walk across your arm. It’s a six-hour drive, but if you start now you might just make it!
 
@@ -26,7 +26,7 @@ Being reunited with our good ol’ parents and guardians really makes us think a
 
 - A. Fail your swim test, just for kicks
 - B. Road trip to Canada, flirt with the border patrol, smuggle booze back
-- C. "...weep when it rains..."
+- C. “...weep when it rains...”
 - D. Watch Ezra and Andrew be friends at midnight
 - E. Found an institution where any person can find instruction in any study, and
 - F. The Princeton Band
@@ -44,9 +44,9 @@ The Brown University Band
 
 ## Halftime
 
-Ladies and gentlemen, friends and alumni, presenting an organization that furiously cleaned our rooms last night, it’s the Brown University "yes Mom, it’s always this clean" BANNNDDDDDDDDDDD!
+Ladies and gentlemen, friends and alumni, presenting an organization that furiously cleaned our rooms last night, it’s the Brown University “yes Mom, it’s always this clean” BANNNDDDDDDDDDDD!
 
-We’d like to offer our sincere, and quite belated, congratulations to Ithaca for being ranked one of Outside Magazine’s top 10 American river towns! According to the review, Ithaca "isn’t your classic river town", which makes sense, because there isn’t actually a river! What does Outside Magazine know that we don’t? Watch now as the Band plays Happy to Live in a Real River Town.
+We’d like to offer our sincere, and quite belated, congratulations to Ithaca for being ranked one of Outside Magazine’s top 10 American river towns! According to the review, Ithaca “isn’t your classic river town”, which makes sense, because there isn’t actually a river! What does Outside Magazine know that we don’t? Watch now as the Band plays Happy to Live in a Real River Town.
 
 :sd[Band forms a sea bass that turns into a B and plays Happy Together]
 

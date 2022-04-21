@@ -2,7 +2,7 @@
 date: 2018-04-15
 ---
 
-Ladies and gentlemen, friends and alumni, presenting an organization that loves stable emulsions of oil, egg yolk, and either vinegar or lemon juice, it’s the Brown University "yes mayonnaise is an instrument!" BANNNDDDDDDDDDDD!
+Ladies and gentlemen, friends and alumni, presenting an organization that loves stable emulsions of oil, egg yolk, and either vinegar or lemon juice, it’s the Brown University “yes mayonnaise is an instrument!” BANNNDDDDDDDDDDD!
 
 Welcome to Brown! We hope you’ve had a great time so far. There’s a long lineup for this show tonight, and all of these groups are full of awesome people, but the band is waaaayyyy better! We get to travel round and round, watch a ton of losing sportsball, and play goofy music - all while wearing the hottest trend to sweep 2018: khakis, polos, and blazers.
 

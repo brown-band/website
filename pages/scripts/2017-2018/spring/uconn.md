@@ -11,7 +11,7 @@ teams:
 date: 2018-02-03
 ---
 
-Ladies and gentlemen, friends and alumni, presenting an organization that thinks it better down where it’s wetter, it’s the Brown University "Chef Louis just wanted a nice crab dinner" BANNNDDDDDDDDDDD!
+Ladies and gentlemen, friends and alumni, presenting an organization that thinks it better down where it’s wetter, it’s the Brown University “Chef Louis just wanted a nice crab dinner” BANNNDDDDDDDDDDD!
 
 :sd[water noises for as long as possible]
 
@@ -21,7 +21,7 @@ Watch now as the Band salutes all our lobster/whale hybrid friends and plays Wha
 
 :sd[Band forms Plankton and plays Rock Lobster.]
 
-We’re a little bit confused. We were told to embody the theme of "Under the Sea," but then when we got here, we were also on ice? Which one is it? Is this some kind water/ice combination? Like maybe a SlurpeeTM? If so, we demand blue-raspberry flavored ice, which is objectively the only acceptable variety. How else could you get the entire inside of your mouth to be that bizarre blue color? Watch now as the band embodies the spirit of the slightly-too-gnarly surfers who rode similarly textured icy waves during the BOMB CYCLONE and plays the soundtrack of wave riders everywhere.
+We’re a little bit confused. We were told to embody the theme of “Under the Sea,” but then when we got here, we were also on ice? Which one is it? Is this some kind water/ice combination? Like maybe a SlurpeeTM? If so, we demand blue-raspberry flavored ice, which is objectively the only acceptable variety. How else could you get the entire inside of your mouth to be that bizarre blue color? Watch now as the band embodies the spirit of the slightly-too-gnarly surfers who rode similarly textured icy waves during the BOMB CYCLONE and plays the soundtrack of wave riders everywhere.
 
 :sd[Band forms Seaweed and plays I Get Around.]
 

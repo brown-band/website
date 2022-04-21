@@ -39,4 +39,4 @@ The Band salutes the bishoporic of Rhode Island with a moment of celibacy. Turni
 
 Be back next year when the Brown Band celebrates a Worcester, Mass.
 
-:sd[Band exits to "Ever True"]
+:sd[Band exits to “Ever True”]

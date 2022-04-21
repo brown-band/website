@@ -12,19 +12,19 @@ date: 2012-11-17
 
 ## Pregame
 
-Ladies and Gentlemen, friends and alumni, presenting an organization that has absolutely no knowledge of copyright laws, it’s the Brown University "Theeeeeeeeeeeey’re Great!" Baaaaaaaaaaaaaaaand!
+Ladies and Gentlemen, friends and alumni, presenting an organization that has absolutely no knowledge of copyright laws, it’s the Brown University “Theeeeeeeeeeeey’re Great!” Baaaaaaaaaaaaaaaand!
 
-The Disney Corporation has let us in on the fact that the Star Wars prequel trilogy was a schizophrenic nightmare brought on by continuous blunt force trauma to the head. As such the sequel trilogy will star Sylvester Stallone as Luke "The Italian Stallion" Skywalker, Carrie Fisher as Princess Ladrian Organa and James Earl Jones as the posthumous voice of Darth Apollo Creed. Unfortunately Han "Cut me Mick" Solo and Chew "Chewie" Bacca split when Chewie declared himself a New York Giants fan. Watch now as the band forms Smaug and plays Isaacs’s other favorite song.
+The Disney Corporation has let us in on the fact that the Star Wars prequel trilogy was a schizophrenic nightmare brought on by continuous blunt force trauma to the head. As such the sequel trilogy will star Sylvester Stallone as Luke “The Italian Stallion” Skywalker, Carrie Fisher as Princess Ladrian Organa and James Earl Jones as the posthumous voice of Darth Apollo Creed. Unfortunately Han “Cut me Mick” Solo and Chew “Chewie” Bacca split when Chewie declared himself a New York Giants fan. Watch now as the band forms Smaug and plays Isaacs’s other favorite song.
 
-:sd[Band forms Smaug and plays "This Love."]
+:sd[Band forms Smaug and plays “This Love.”]
 
-The film opens to find Luke awakening from his 20th concussion sustained while fighting Ivan "The Rancor" Drago, Emperor of Fisticuffs. In a surprising turn of events, he is informed by C3 "Get the Pizzas" P0 that he is Ladrian’s only hope. And in a heartwarming sub-plot, R2 "Paulie Badabing" D2 tries to learn American Sign Language. Watch now as the band gives this movie a better rating that Roger Ebert did and wins.
+The film opens to find Luke awakening from his 20th concussion sustained while fighting Ivan “The Rancor” Drago, Emperor of Fisticuffs. In a surprising turn of events, he is informed by C3 “Get the Pizzas” P0 that he is Ladrian’s only hope. And in a heartwarming sub-plot, R2 “Paulie Badabing” D2 tries to learn American Sign Language. Watch now as the band gives this movie a better rating that Roger Ebert did and wins.
 
-:sd[Band forms a B and plays "Bring the Victory."]
+:sd[Band forms a B and plays “Bring the Victory.”]
 
 ## Halftime
 
-Ladies and Gentlemen, friends and alumni, presenting an organization that’s pretty sure you missed a few graduation requirements, it’s the Brown University "never leave us!" BAAANNNNDDDD!
+Ladies and Gentlemen, friends and alumni, presenting an organization that’s pretty sure you missed a few graduation requirements, it’s the Brown University “never leave us!” BAAANNNNDDDD!
 
 :sd[Band forms a champagne glass with senior bubbles and plays Bits & Pieces after each senior Limerick.]
 
@@ -54,7 +54,7 @@ _Our friend Isaac is on his way out\
 When he leaves we will all start to pout\
 At his last hockey game\
 He rose to great fame\
-For "Vehicle" thrice did he shout_
+For “Vehicle” thrice did he shout_
 
 _There’s this grandmother named Michelle Graff\
 She has a melodious laugh\

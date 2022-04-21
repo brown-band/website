@@ -2,9 +2,9 @@
 date: 2017-04-13
 ---
 
-Ladies and gentlemen, friends and alumni, presenting an organization that pulled out our camo khakis, it’s the Brown University "you can’t even see us right now" BANNNDDDDDDDDDDD!
+Ladies and gentlemen, friends and alumni, presenting an organization that pulled out our camo khakis, it’s the Brown University “you can’t even see us right now” BANNNDDDDDDDDDDD!
 
-We gather here today to mourn the loss of our beloved Wilson Hall. You may have an F rating in accessibility, but you were always a solid B- building in our hearts. "FRIEEEEDMAAAAN!" just doesn’t have quite the same ring as "WILSOOOOOOON!" :sd[in the style of Castaway].
+We gather here today to mourn the loss of our beloved Wilson Hall. You may have an F rating in accessibility, but you were always a solid B- building in our hearts. “FRIEEEEDMAAAAN!” just doesn’t have quite the same ring as “WILSOOOOOOON!” :sd[in the style of Castaway].
 
 To pay tribute to good ol’ Willy, here’s a list of our favorite things about Wilson Hall:
 
@@ -27,14 +27,14 @@ This week is the Jewish holiday of Passover, so how could we pass up this opport
 
 :sd[Band forms a glass of wine and plays Raise Your Glass.]
 
-Like many other Brown students, we’ve all recently had the privilege to receive free copies of Rich Shapero’s multimedia literary masterpiece, _Arms from the Sea_. For those of you who haven’t had the chance to read the epic tale of Lyle’s encounters with a "monstrous, seductive god" and his romance with a polyp, we thought we’d treat you all to a live reading.
+Like many other Brown students, we’ve all recently had the privilege to receive free copies of Rich Shapero’s multimedia literary masterpiece, _Arms from the Sea_. For those of you who haven’t had the chance to read the epic tale of Lyle’s encounters with a “monstrous, seductive god” and his romance with a polyp, we thought we’d treat you all to a live reading.
 
 The tip was inches from Lyle’s face. It began to wriggle.\
-"What you long for--" The Polyp’s voice was rich with emotion.\
+“What you long for--” The Polyp’s voice was rich with emotion.\
 My dream, Lyle thought.\
-"Your dream--to create life and tend it. This dream," the Polyp whispered, "is as real as you want it to be."\
+“Your dream--to create life and tend it. This dream,” the Polyp whispered, “is as real as you want it to be.”\
 Lyle raised his hand. The wriggling tip touched his palm.\
-"Lord of the deep," the Polyp said.\
+“Lord of the deep,” the Polyp said.\
 Watch now as the Band forms one of Polyp’s tentacles and plays Bring the Tentacles.
 
 :sd[Band forms a B-shaped tentacle and plays Bring the Victory.]

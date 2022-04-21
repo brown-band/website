@@ -28,7 +28,7 @@ Ladies and Gentlemen, friends and alumni, presenting an organization that likes 
 
 Coming back to campus is always fun. Seeing your friends, welcoming the freshmen, starting new classes, its all part of the college ritual. Those of us that have been her six or seven years may be getting tired of this, but we always have that third stab at calculus to look forward to. “Daddy, I know I would make such a good doctor but I just can’t pass any of the pre-med classes! Give me one more try and I promise I can do it.” Those of us who are seniors are looking out of the ivory tower, and staring back at us the REAL WORLD! AHH! Jobs, bills, kids, the thought of it all is just terrifying. If only we could be as the freshmen, frolicking on the main green without a care in the world. Want to take all intro courses? Sure! Don’t have any idea what you want to do with your life? Me either! Man, those were the days. Watch now as the band forms an ivory tower and yearns for the good old days when Michael Jackson was a cute kid with an afro by playing “I Want You Back.”
 
-:sd[Band forms a ivory tower, plays “I Want You Back."]
+:sd[Band forms a ivory tower, plays “I Want You Back.”]
 
 Speaking of the summer two years before an election, who do you think is going to win the presidency in 2008? Will it be Hillary, Barak, Mitt? While we don’t claim to be as knowledgeable as Tim Russert, the band would like to offer some things to watch out for as the election season nears ever closer.
 
@@ -45,7 +45,7 @@ Speaking of the summer two years before an election, who do you think is going t
 
 Watch now as the band forms a butterfly ballot and plays the name we were called when abroad in Prague last semester.
 
-:sd[Band forms a butterfly ballot, plays “American Idiot."]
+:sd[Band forms a butterfly ballot, plays “American Idiot.”]
 
 Usually, halftime is a democratic institution, shared equally by bands from both schools. However, this week we have staged a hostile takeover of the Duquesne Band and stolen their show. They were going to make fun of us for having no grades and an ultra-liberal student body, but we ripped their script up. Instead we are going to form a B and play the Brown Cheering Song to drown out their imaginary sound.
 

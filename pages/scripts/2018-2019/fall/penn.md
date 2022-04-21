@@ -12,7 +12,7 @@ date: 2018-10-27
 
 ## Pregame
 
-Ladies and gentlemen, friends and alumni, presenting an organization that knows that the powder on Tastykake donuts is like 70% cornstarch, it’s the Brown University "but go off I guess" BANNNDDDDDDDDDDD!
+Ladies and gentlemen, friends and alumni, presenting an organization that knows that the powder on Tastykake donuts is like 70% cornstarch, it’s the Brown University “but go off I guess” BANNNDDDDDDDDDDD!
 
 It’s battle of the cities that start with P today, folks, as we play the University of Pennsylvania. And it’s Halloweekend, the only thing spookier than how late the SEPTA runs. We’ve got our costumes, but we heard you’ve got something even eerier – a whole research center devoted to ghosts! The Penn Ghost Project combines ghastly workings from archaeology, art history, religious studies, and nursing and medicine; we would hope the medical students would be more interested in preventing ghosts than documenting them though.
 
@@ -41,7 +41,7 @@ Catch us at halftime as the haunting of Brown Stadium continues.
 
 ## Halftime
 
-Ladies and gentlemen, friends and alumni, presenting an organization that just wants to let any vampires in the audience know that at this point in the semester not having to eat or sleep sounds pretty good, it’s the Brown University "hewwo?" BANNNDDDDDDDDDDD!
+Ladies and gentlemen, friends and alumni, presenting an organization that just wants to let any vampires in the audience know that at this point in the semester not having to eat or sleep sounds pretty good, it’s the Brown University “hewwo?” BANNNDDDDDDDDDDD!
 
 Penn, normally we’d be happy that you had the chance to escape Philadelphia for a weekend, but we were sad to hear that this weekend, Pennsylvania trees are forecasted to be at peak color! Rain, fungi, warmth, and vampires: all threats to leaves. Have you thought about planting garlic in with all your sidewalk trees? Or whittling your tree branches into pre-made wooden stakes? Fun fact: hanging mirrors on all your trees will also help to keep the fungi away. It won’t keep out that new monster Venom, though, that’s taking movie theaters and people who liked The Shape of Water way too much by storm. Watch now as the Band gets kicked out of the theater and plays I Touch Myself.
 

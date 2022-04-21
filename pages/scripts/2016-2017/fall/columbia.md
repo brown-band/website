@@ -12,7 +12,7 @@ date: 2016-11-12
 
 ## Pregame
 
-Ladies and gentlemen, friends and alumni, presenting an organization that is probably better at football than the Columbia football team, it’s the Brown University "Put us in, coach!" BANNNDDDDDDDDDDD!
+Ladies and gentlemen, friends and alumni, presenting an organization that is probably better at football than the Columbia football team, it’s the Brown University “Put us in, coach!” BANNNDDDDDDDDDDD!
 
 This past spring, Columbia students erupted with anger and began protesting a new Henry Moore statue on campus. Despite how well its twin already fits in on Brown’s campus, the same statue evoked outrage at Columbia and led to petitions calling for its removal. Here are our suggestions for a new statue in front of Butler Library that might be less controversial:
 
@@ -27,11 +27,11 @@ This past spring, Columbia students erupted with anger and began protesting a ne
 
 :::
 
-We know you have the cream of the crop of statues from which to choose! Watch now as the Band ghost"busts" a move.
+We know you have the cream of the crop of statues from which to choose! Watch now as the Band ghost“busts” a move.
 
 :sd[Band forms a statue and plays Ghostbusters.]
 
-We recently learned that Columbia University suspended its football program in 1906 due to a rise in serious injuries and deaths from collegiate football. Deeming the sport "too violent," Columbia’s President Nicolas Butler rightly decided that the least violent time to resume the sport would be... 1915. Of course, the most peaceful time in world history! President Butler also called football an "academic nuisance," which would explain why Columbia never really re-formed its football team - just ask their opponents between 1983 and 1988! Watch now as the Band B-lieves in you and plays "Be Bruno and Be Brown."
+We recently learned that Columbia University suspended its football program in 1906 due to a rise in serious injuries and deaths from collegiate football. Deeming the sport “too violent,” Columbia’s President Nicolas Butler rightly decided that the least violent time to resume the sport would be... 1915. Of course, the most peaceful time in world history! President Butler also called football an “academic nuisance,” which would explain why Columbia never really re-formed its football team - just ask their opponents between 1983 and 1988! Watch now as the Band B-lieves in you and plays “Be Bruno and Be Brown.”
 
 :sd[Band forms a B and plays For Bruno and For Brown.]
 
@@ -39,11 +39,11 @@ Join us at halftime as the band’s fightin’ seniors take on Graduation - wait
 
 ## Halftime
 
-Ladies and gentlemen, friends and alumni, presenting an organization that’s losing a lot of seniors, it’s the Brown University "But we’ll gain a lot of freshmen" BAANNNNNNDD!!!!!!!!!!
+Ladies and gentlemen, friends and alumni, presenting an organization that’s losing a lot of seniors, it’s the Brown University “But we’ll gain a lot of freshmen” BAANNNNNNDD!!!!!!!!!!
 
 It’s Saturday. Aka November 19. Aka International Men’s Day. Aka Adam Driver’s birthday. Aka World Toilet Day. Aka National Bagpipe Day. Aka aka aka. Aka game day! Aka Football vs. Columbia. Aka the last home game of the year. Aka the senior game! Aka the day when we’re not crying, you’re crying! Watch now as the band celebrates National Carbonated Beverage with Caffeine Day and honors its seniors with a carbonated, but un-caffeinated beverage.
 
-:sd[Band forms a champagne glass with senior bubbles and plays "Bits and Pieces" after each senior Limerick.]
+:sd[Band forms a champagne glass with senior bubbles and plays “Bits and Pieces” after each senior Limerick.]
 
 _A trumpet, had Gabe always blown\
 But he chose to slide into trombone\
@@ -69,7 +69,7 @@ No, his name isn’t Kyle\
 ‘Cause he has \*saxy\* style\
 Pirate scrabble will show his true thunder._
 
-_As prez, Caleb "salient" Hersh reigns\
+_As prez, Caleb “salient” Hersh reigns\
 No one’s great as Gaston, so he claims\
 With a road beer to bring\
 The only true thing\

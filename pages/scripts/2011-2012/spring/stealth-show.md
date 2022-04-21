@@ -2,7 +2,7 @@
 date: 2012-04-26
 ---
 
-Ladies and Gentlemen, Friends and Alumni, presenting an organization that did not have sexual relations with that woman, it’s the Brown University, "Do blowjobs count?" BAAAAAAAAAAAAAAAAND!!!!!!!!!!!!!
+Ladies and Gentlemen, Friends and Alumni, presenting an organization that did not have sexual relations with that woman, it’s the Brown University, “Do blowjobs count?” BAAAAAAAAAAAAAAAAND!!!!!!!!!!!!!
 
 I’m sure that you are all aware that this past weekend was Spring Weekend. What you may not be aware of was all of the scandalous shenanigans that happened behind the scenes. It all began the first week of April when BSA Marketplace had a terrible case of the bad gateways, henceforth to be known as badgatewaygate. This was just a last minute excuse that resulted from Scooter Libby sending the Stuxnet virus to the BSA server. The next day all the issues seemed to have been resolved, but our good friend badgatewaygate made a triumphant return this past Friday evening. The BCA told us that they weren’t letting us in because Childish Gambino’s plane was delayed, but it was actually because the SMU boosters were buying mustangs to get the best GHM staff. This was not badgatewaygate’s swan song, as the trapdoor beneath Sepalcure’s beat never opened, and the beat never dropped. Thankfully, badgatewaygate disappeared after that mishap and the rest of the weekend went off without a hitch.
 

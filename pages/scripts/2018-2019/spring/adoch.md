@@ -2,7 +2,7 @@
 date: 2019-04-07
 ---
 
-Ladies and gentlemen, friends and alumni, presenting an organization that definitely didn’t pay to be here, it’s the Brown University "still waiting on that tennis scholarship" BANNNDDDDDDDDDDD!
+Ladies and gentlemen, friends and alumni, presenting an organization that definitely didn’t pay to be here, it’s the Brown University “still waiting on that tennis scholarship” BANNNDDDDDDDDDDD!
 
 I’m not sure if the other groups know this, but this is a talent competition, not a talent show, and we’ve already won. It’s not even a contest! And we have all of elementary school’s greatest hits! A cursed doll! And an unconscionable amount of Sour Patch Kids! Now, we know a lot of other groups here prefer to express themselves through motion. So no offense to those who like to pop and lock and jam. But we don’t dance. Not a chance. Watch now as the band hits it out of the arc and plays We’re On This Bus Together.
 

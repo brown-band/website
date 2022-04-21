@@ -12,7 +12,7 @@ date: 2016-10-29
 
 ## Pregame
 
-Ladies and gentlemen, friends and alumni, presenting an organization that’s dressed in our Sunday best, it’s the Brown University "what are you talking about, we wear this every weekend" BANNNDDDDDDDDDDD!
+Ladies and gentlemen, friends and alumni, presenting an organization that’s dressed in our Sunday best, it’s the Brown University “what are you talking about, we wear this every weekend” BANNNDDDDDDDDDDD!
 
 It’s time to face the elephant in room, and we’re not talking about Wharton. One of your graduates is running for President, and we have some things to say about him. We are talking of course about Laurence Kotlikoff. After reading up on his issues, he actually seems like a pretty cool dude! It would be quite an honor to be the second Penn graduate to become President after William Henry Harrison, and everyone remembers what an amazing 31 days that was! Watch now as the band honors the memory of ol’ Tippecanoe and celebrates what a party it was in the U.S.A. in 1841.
 
@@ -26,7 +26,7 @@ We’re sure that halftime we’ll feature the spookiest things you’ve heard t
 
 ## Halftime
 
-Ladies and gentlemen, friends and alumni, presenting an organization that’s the best band in the Ivy League, it’s the Brown University "believe us, everyone says so, watch how bigly we get" BANNNDDDDDDDDDDD!
+Ladies and gentlemen, friends and alumni, presenting an organization that’s the best band in the Ivy League, it’s the Brown University “believe us, everyone says so, watch how bigly we get” BANNNDDDDDDDDDDD!
 
 Let’s face it folks, when Penn graduates its students, they’re not graduating their best. They’re bringing corruption to Wall Street. They’re bringing unqualified presidential candidates. They’re losers. And some, I assume, are good people. But I speak to the admission officers and they tell us what we’re getting. And it only makes common sense. It only makes common sense. They’re sending us not the right people. It’s coming from more than Penn. It’s coming from all over the Ivy League, and it’s coming probably— probably— from Harvard. But we don’t know. Because we have no protection and we have no competence, we don’t know what’s happening. And it’s got to stop and it’s got to stop fast. Watch now as the Band puts a stop to this nonsense and marches imperially.
 

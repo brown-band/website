@@ -43,7 +43,7 @@ The Brown Band has not been to Cornell in four years, so we did some research to
 
 :sd[Band forms McGraw Tower, plays “Any Way You Want It.”]
 
-The motto of Cornell is, "I would found an institution where any person can find instruction in any study." Cornell is the federal land-grant institution of New York State, a private endowed university, a member of the Ivy League/Ancient Eight, and a partner of the State University of New York. It has been described as the first truly American university because of its founders’ revolutionarily egalitarian and practical vision of higher education, and is dedicated to its land-grant mission of outreach and public service. Watch now as the band forms the Dark Lord’s ship and pays homage to these ideals by playing a song that you already know.
+The motto of Cornell is, “I would found an institution where any person can find instruction in any study.” Cornell is the federal land-grant institution of New York State, a private endowed university, a member of the Ivy League/Ancient Eight, and a partner of the State University of New York. It has been described as the first truly American university because of its founders’ revolutionarily egalitarian and practical vision of higher education, and is dedicated to its land-grant mission of outreach and public service. Watch now as the band forms the Dark Lord’s ship and pays homage to these ideals by playing a song that you already know.
 
 :sd[Band forms tie fighter, plays “Imperial March.”]
 

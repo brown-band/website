@@ -12,7 +12,7 @@ date: 2017-10-21
 
 ## Pregame
 
-Ladies and gentlemen, friends and alumni, presenting an organization that loves reading from the banned book list, it’s the Brown University "I do not like green eggs and ham" BANNNDDDDDDDDDDD!
+Ladies and gentlemen, friends and alumni, presenting an organization that loves reading from the banned book list, it’s the Brown University “I do not like green eggs and ham” BANNNDDDDDDDDDDD!
 
 We’re always disappointed to hear that we play Cornell University in football, instead of Cornell College. If we traveled to the beautiful city of Mount Vernon, Iowa, we’d be more likely to encounter a sunny day -- it has an average 193 sunny days per year as compared to Ithaca’s measly 155. We’d also prefer to travel to a school with talent - the College has won TWO national wrestling team titles, while you have ZERO. At least we can visit Olin Library and pretend we’re in Iowa. Watch now as the Band salutes the Hawkeye State and plays Iowa Touch Myself.
 
@@ -26,7 +26,7 @@ See you at halftime where we will continue to say only good things about Cornell
 
 ## Halftime
 
-Ladies and gentlemen, friends and alumni, presenting an organization that is gorges, it’s the Brown University "I’d rather be fjords" BANNNDDDDDDDDDDD!
+Ladies and gentlemen, friends and alumni, presenting an organization that is gorges, it’s the Brown University “I’d rather be fjords” BANNNDDDDDDDDDDD!
 
 Wow all of this running around has made us famished. Time to whip out our trusty recipe for Cornell Chicken. What, never heard of it? Shameful! We’ll give you some tips straight from the Washington Post.
 

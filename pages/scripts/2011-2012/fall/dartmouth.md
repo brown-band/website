@@ -16,7 +16,7 @@ Ladies and Gentlemen, friends and alumni, presenting an organization that just d
 
 Watch now as the band forms a champagne flute and toasts its seniors, limerick-style.
 
-:sd[Band forms a champagne glass with senior bubbles and plays "Bits & Pieces" after each senior Limerick.]
+:sd[Band forms a champagne glass with senior bubbles and plays “Bits & Pieces” after each senior Limerick.]
 
 _Justin Ardini, CS Major\
 Pretty good at bari sax, we’d wager.\
@@ -99,15 +99,15 @@ And now for something completely different, a list of Dartmouth’s famous alumn
 
 :::
 
-Watch now as the band forms the entire Streep family and plays "Imperial March" to get you in the right mindset for the next paragraph of our script!
+Watch now as the band forms the entire Streep family and plays “Imperial March” to get you in the right mindset for the next paragraph of our script!
 
-:sd[Band forms an Interrobang and plays "Imperial March".]
+:sd[Band forms an Interrobang and plays “Imperial March”.]
 
 A long time ago, in a 2006 far away, the Battle for Dartmouth raged on in Hanover, New Hampshire. The Bro Guys, led by Keggy Wan Kenobi and his expert command of the Farce, were hot on the trail of Darth Moose and his Death Keystone. The school’s administration favored Darth Moose, not solely because of how similar to Dartmouth his name sounds, but Keggy Wan Kenobi’s campaign of Liberty and Beirut for All was much more appealing to the students. The battle ended in a stalemate, and thus The Big Green was born. But we’re still wondering… what exactly is the Big Green? Tune in next time for Dart Mouths Episode VII, A New Color.
 
-Watch now as the band forms a B for Brown Not Dartmouth and plays "Brown, Not Dartmouth, Man Born".
+Watch now as the band forms a B for Brown Not Dartmouth and plays “Brown, Not Dartmouth, Man Born”.
 
-:sd[Band forms a B and plays “Brown Man Born".]
+:sd[Band forms a B and plays “Brown Man Born”.]
 
 This is actually our last home game of the season, seeing as next week we’re travelling to Columbia. Yeah, we don’t know where that is either. In light of this fact, we’d like to thank the fans here at home and the Brown University administration—especially you, President Simmons!—for their continued support. Seniors, we love you!! Band, out.
 

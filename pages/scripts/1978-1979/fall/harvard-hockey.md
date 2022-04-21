@@ -28,4 +28,4 @@ Following the BDH policy of revealing all, journalistic responsibility dictates 
 
 Be back in 8 weeks when the Brown Band once again scoops the Herald.
 
-:sd[Block up and counterskate to "Ever True".]
+:sd[Block up and counterskate to “Ever True’.]

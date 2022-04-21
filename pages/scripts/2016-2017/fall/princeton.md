@@ -12,7 +12,7 @@ date: 2016-10-15
 
 ## Pregame
 
-Ladies and gentlemen, friends and alumni, presenting an organization with a message that’s been two years in the making, it’s the Brown University "Dana says hi back" BANNNDDDDDDDDDDD!
+Ladies and gentlemen, friends and alumni, presenting an organization with a message that’s been two years in the making, it’s the Brown University “Dana says hi back” BANNNDDDDDDDDDDD!
 
 It’s good to be back on our favorite Halloween-themed campus. We’re glad that we’re always here in October, because any other time of year it would be kind of weird. Here are some of the highlights from our past trips:
 
@@ -43,7 +43,7 @@ Well, we’ve got research to do. Nobel Peace prize out.
 
 Princeton: Taking advantage of the opportunity to hash it out with our Brownies...it’s the Princeton University Band.
 
-**Brown: Oh. You’re here. Ladies and gentlemen, friends and alumni, presenting an organization that thought the Princeton band was on vacation with a younger and "better" band, it’s the Brown University "still bitter" Band!**
+**Brown: Oh. You’re here. Ladies and gentlemen, friends and alumni, presenting an organization that thought the Princeton band was on vacation with a younger and “better” band, it’s the Brown University “still bitter” Band!**
 
 :sd[Princeton Band and Brown Band charge each other. Frolicking ensues.]
 
@@ -57,15 +57,15 @@ Princeton: Well you’re one to point the finger. You certainly spend your fair 
 
 Princeton: But you never gave in, never acknowledged my needs and my desires. It was always about you having it any way you want it.
 
-:sd[Bands form finger pointing at brown and play "Anyway You Want It."]
+:sd[Bands form finger pointing at brown and play “Anyway You Want It.”]
 
 **Brown: Well, it’s not like you’ve been such a piece of cake yourself. Don’t think I don’t know you’ve been hanging out and playing in your fountain with those other bands! And everyone’s been talking about what happened in Hanover! You may not remember, but we made promises and those promises mean something. I guess for you, they did mean something, but then you went and broke our heart. My mother always warned me that a Tiger would cheat, but I wanted to believe she was wrong. And even before that, it was like you weren’t even here anymore. I got a brand new blazer and you didn’t even notice! You were someone I trusted, but then you became a stranger. Now you’re just an unrecognizable brown-eyed tiger to me.**
 
-:sd[Bands form angry face where Brown is the features while Brown plays "Brown-Eyed Girl"]
+:sd[Bands form angry face where Brown is the features while Brown plays “Brown-Eyed Girl”]
 
 Princeton: This long distance is just really impossible. I barely even remember what your voice sounds like since all you ever do is write me letters instead of picking up the phone. This is no way to live out a marriage. I mean look at us. We see each other what? Twice? Maybe 3 times a year? We’re hardly even corpses of the people we used to be. You don’t even make an effort to come over anymore. And when you do, you’re always the same beige drabby dull person. Where is the vivacious vibrance you used to be consumed with? Everything to do with you begins and ends with the same sour note. This is not living, and definitely not loving. How did our relationship devolve to such an awfully bad romance?
 
-:sd[Bands form 2 sides of a heart which then breaks while Princeton plays "Bad Romance"]
+:sd[Bands form 2 sides of a heart which then breaks while Princeton plays “Bad Romance”]
 
 **Brown: I guess we both have our problems. Where did we even go wrong?**
 
@@ -83,7 +83,7 @@ Princeton: Johnny is a good part of our lives, and seeing him so little has made
 
 Princeton: Everything was so much simpler back then, when all we had to go on was first impressions.
 
-:sd[Bands form band-aid and play "Impression"]
+:sd[Bands form band-aid and play “Impression”]
 
 **Brown: You always made me feel so safe in your arms, you tiger.**
 
@@ -99,7 +99,7 @@ Princeton: You complete me. You will always be the Winnie the Pooh to my Tigger.
 
 **Brown: Let’s just warp time and try to comprise our future out of all the best times from our past.**
 
-:sd[Bands form two sides of a heart which come together and play "Time warp"]
+:sd[Bands form two sides of a heart which come together and play “Time warp”]
 
 Princeton: How about we go find a nice fountain to mess around in? No love lost? No hard feelings?
 

@@ -24,7 +24,7 @@ In spite of stiff competition, The Band would like to reassure you that your son
 
 :sd[The Band forms a full house—three jacks and two sevens—and plays “25 or 6 tc 4.”]
 
-But not all is amiss at Camp Bruno. We must thank the people who were kind enough to erect their tombstones all over campus so we could put posters on them. The South African Solidarity Coalition is still trying to keep South Africa solid. And in spite of the fact that the male-female ration has reached 50-50, the Band is sure that Brown men can still hold their own against Pembrokers. But we know there are also many things at Brown that work as often as the computers in the Ratty: the students, the pianos, the UCS, the organ in the French house, and those lethargic lifts, the Sci-Li elevators. The Band salutes the philosophy that one cut of three ain’t bad, as we go down in the single working Sci-Li elevator and play "Shaft."
+But not all is amiss at Camp Bruno. We must thank the people who were kind enough to erect their tombstones all over campus so we could put posters on them. The South African Solidarity Coalition is still trying to keep South Africa solid. And in spite of the fact that the male-female ration has reached 50-50, the Band is sure that Brown men can still hold their own against Pembrokers. But we know there are also many things at Brown that work as often as the computers in the Ratty: the students, the pianos, the UCS, the organ in the French house, and those lethargic lifts, the Sci-Li elevators. The Band salutes the philosophy that one cut of three ain’t bad, as we go down in the single working Sci-Li elevator and play “Shaft.”
 
 :sd[The Band forms an elevator which goes up in the middle of the song.]
 

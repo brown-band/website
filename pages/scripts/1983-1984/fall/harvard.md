@@ -18,7 +18,7 @@ Thank you. My, we have quite an extravaganza here for you today, so let’s get 
 
 The giant doorknob—it’s just plain big! And if that’s not enough, and gosh, don’t you think it ought to be, it’s time once again for a trip to the Museum of the Hard to Believe. My, it feels almost like a shrine in here. Our first exhibit is a Brown student who has actually sampled the Ratty’s shepherd’s pie and lived to tell about it. Here’s a fellow who went to Yale merely because he likes New Haven. Hard to believe. And here we have a Dartmouth student who doesn’t salivate when he hears a bell, and, finally, a Cornell undergrad who was actually accepted elsewhere. Simply amazing! And now, you’d better wake the kids and call the neighbors—let’s see if the Brown Band <u>can can</u> play the next song in less than one minute.
 
-:sd[Band forms two cans and plays "Can Can"]
+:sd[Band forms two cans and plays “Can Can”]
 
 Well, that was certainly more fun than any three people should be allowed to have. Speaking of which, let’s bring out my next guest, a person who has appeared many times before on this very show, Dr. Ruth Westheimer.
 

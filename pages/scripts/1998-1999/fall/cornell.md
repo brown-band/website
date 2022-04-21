@@ -12,7 +12,7 @@ date: 1998-10-31
 
 ## Pregame
 
-Ladies and Gentlemen, friends and alumni, presenting an organization that prefers doubling your pleasure with the crisp freshness of Doublemint gum over Big Red, it’s the Brown University "Brown University" Band!
+Ladies and Gentlemen, friends and alumni, presenting an organization that prefers doubling your pleasure with the crisp freshness of Doublemint gum over Big Red, it’s the Brown University “Brown University” Band!
 
 :sd[Band storms field.]
 
@@ -22,9 +22,9 @@ While you’re waiting for us to play some music, chew on this: did you know tha
 
 ## Halftime
 
-Ladies and Gentlemen, friends and alumni, presenting an organization that just invaded the Earth, it’s the Brown University "Elrod, phone home" Band!
+Ladies and Gentlemen, friends and alumni, presenting an organization that just invaded the Earth, it’s the Brown University “Elrod, phone home” Band!
 
-The Brown Band recently joined forces with visiting aliens to take over the planet, just in time for Halloween. The aliens and the Band formed a small army, calling themselves the "Brownjackets."
+The Brown Band recently joined forces with visiting aliens to take over the planet, just in time for Halloween. The aliens and the Band formed a small army, calling themselves the “Brownjackets.”
 
 :sd[Band marches onto field, blocked up in lines, looking like an actual marching band…until the lines start veering off, people trip, etc. Then the Band scatters.]
 
@@ -38,9 +38,9 @@ Ladies and Gentlemen, we now interrupt this show for a commercial break.
 
 :sd[Pause.]
 
-Do you like getting lost in a crowd? Are you extraordinarily fond of the colors red and white? Then take a real close look at this dazzling new line of clothing, Where’s Waldo WaldoWear! As you can see on our model, this stunning red and white striped…wait a minute…where _is_ our model? Can YOU find him? Watch now as the band forms a question mark and plays "In a Gadda da Valdo."
+Do you like getting lost in a crowd? Are you extraordinarily fond of the colors red and white? Then take a real close look at this dazzling new line of clothing, Where’s Waldo WaldoWear! As you can see on our model, this stunning red and white striped…wait a minute…where _is_ our model? Can YOU find him? Watch now as the band forms a question mark and plays “In a Gadda da Valdo.”
 
-:sd[Band forms question mark, plays "In a Gadda da Vida." There is, perhaps, a Waldo-clad bandie running around for this segment.]
+:sd[Band forms question mark, plays “In a Gadda da Vida.” There is, perhaps, a Waldo-clad bandie running around for this segment.]
 
 And, for those of you who speak Spanish!
 
@@ -59,7 +59,7 @@ The aliens and the Band decided next to take over all print media – starting w
 
 :::
 
-Watch now as the aliens use this knowledge to seduce a Cornell student and spawn a Cornell bandie by forming a centerfold and playing "Don’t You Want Me, Baby."
+Watch now as the aliens use this knowledge to seduce a Cornell student and spawn a Cornell bandie by forming a centerfold and playing “Don’t You Want Me, Baby.”
 
 :sd[Band does this.]
 

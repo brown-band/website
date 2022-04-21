@@ -12,15 +12,15 @@ date: 2015-11-14
 
 ## Pregame
 
-Ladies and gentlemen, friends and alumni, presenting an organization that can’t see the forest for the tree stumps, it’s the Brown University "we’re soOoOo poplar-lar" BANNNDDDDDDDDDDD!
+Ladies and gentlemen, friends and alumni, presenting an organization that can’t see the forest for the tree stumps, it’s the Brown University “we’re soOoOo poplar-lar” BANNNDDDDDDDDDDD!
 
-We discovered recently that Dartmouth has a "Woodsmen’s Team." What is this noble sport, you ask? We don’t really know, but their website describes "the thrilling ring and crunch of the keen axes as they bite into the peeled and glistening wood... You stand on top of an 8-inch-thick block of poplar thinking you will never break through. Then your axe severs the last fibers and you collapse, surrounded by a whooping and hooting circle of friends." Now that you mention it, this doesn’t sound half bad.
+We discovered recently that Dartmouth has a “Woodsmen’s Team.” What is this noble sport, you ask? We don’t really know, but their website describes “the thrilling ring and crunch of the keen axes as they bite into the peeled and glistening wood... You stand on top of an 8-inch-thick block of poplar thinking you will never break through. Then your axe severs the last fibers and you collapse, surrounded by a whooping and hooting circle of friends.” Now that you mention it, this doesn’t sound half bad.
 
-Watch now as the band forms a lumberjack’s trusty axe and plays "I Chop Some Wood."
+Watch now as the band forms a lumberjack’s trusty axe and plays “I Chop Some Wood.”
 
-:sd[Band forms an axe and plays "I Touch Myself."]
+:sd[Band forms an axe and plays “I Touch Myself.”]
 
-Speaking of wood, we heard that a dead tree stump on campus, the "Lone Pine," is having a surge in poplarity as a Dartmouth mascot. We feel bad that the best mascot options you have are a 100-year-old tree stump, an anthropomorphized keg, and Pantone color 349, so we racked our brains and came up with a few suggestions for what your new official mascot should be.
+Speaking of wood, we heard that a dead tree stump on campus, the “Lone Pine,” is having a surge in poplarity as a Dartmouth mascot. We feel bad that the best mascot options you have are a 100-year-old tree stump, an anthropomorphized keg, and Pantone color 349, so we racked our brains and came up with a few suggestions for what your new official mascot should be.
 
 :::script-list
 
@@ -33,25 +33,25 @@ Speaking of wood, we heard that a dead tree stump on campus, the "Lone Pine," is
 
 :::
 
-Watch now as the band forms two tree stumps and plays "Brown Bear." :sd[The Voice of One Brown Bear Crying Out in the Wilderness]
+Watch now as the band forms two tree stumps and plays “Brown Bear.” :sd[The Voice of One Brown Bear Crying Out in the Wilderness]
 
-:sd[Band forms a B and plays "Brown Bear."]
+:sd[Band forms a B and plays “Brown Bear.”]
 
 Stay tuned for some celebrations and some tears at halftime as we honor our graduating seniors!
 
 ## Halftime
 
-Ladies and gentlemen, friends and alumni, presenting an organization that wants to give rhyming a try, it’s the Brown University "this will surely make us cry, :sd[pause] omg did you see what we did there?" BAANNNNNNDD!!!!!!!!!!
+Ladies and gentlemen, friends and alumni, presenting an organization that wants to give rhyming a try, it’s the Brown University “this will surely make us cry, :sd[pause] omg did you see what we did there?” BAANNNNNNDD!!!!!!!!!!
 
 If you didn’t know, today is our senior game! We have so many feelings about our graduating seniors (please FOUR MORE YEARS) and we want to tell them to you in the only way we know how. While we thank you, remember to show your love for us next year... with your wallets, of course, when you make generous donations to the Brown University Band. Watch now as the band honors its seniors by forming their favorite drink, which they can now legally consume, and drops some sick rhymes.
 
-:sd[Band forms a champagne glass with senior bubbles and plays "Bits & Pieces" after each senior Limerick.]
+:sd[Band forms a champagne glass with senior bubbles and plays “Bits & Pieces” after each senior Limerick.]
 
 _Amy’s exit will leave us distressed,\
 Her scripts were truly the best\
 She has Delaware Pride,\
 and would take it in stride\
-When we asked "Are we there yet?" in jest._
+When we asked “Are we there yet?” in jest._
 
 _Of Our Money Godfather Cooper-Troendle,\
 Cheering with him sure was pretty fun-dle,\
@@ -62,7 +62,7 @@ We surely will miss him a bundle!_
 _Fair Brooke is our CorSec from Penn,\
 Upon her we always depend\
 On the sax she does honk\
-Followed by a good "WONK"\
+Followed by a good “WONK”\
 Our hearts swell with love for our friend._
 
 _Our wonderful Prez Sidney Karesh\

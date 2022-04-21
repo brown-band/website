@@ -33,7 +33,7 @@ By the way, we do have some suggestions for spending the money. We could:
 
 :::
 
-We now form a large, well-endowed treasure chest and play "Big Spender."
+We now form a large, well-endowed treasure chest and play “Big Spender.”
 
 WHAT?? The check bounced? Heh, heh, heh. Don’t worry, Brown University. We can still raise 133 million. Band members will now pass through the crowd selling little boxes of chocolate covered mints.
 
@@ -41,9 +41,9 @@ The alumni can also help our cause.
 
 Those of you who are recent graduates and can’t get a job can, for $1.85, endow a shaved steak sandwich at the Ratty.
 
-There are also you alums who make plenty of money but spend it all sending your kids to Brown. Please, don’t make us pay more, you cry. Recognizing you plight, the Band plays "Mercy, Mercy, Mercy."
+There are also you alums who make plenty of money but spend it all sending your kids to Brown. Please, don’t make us pay more, you cry. Recognizing you plight, the Band plays “Mercy, Mercy, Mercy.”
 
-:sd[While completely on its knees, the band forms a Mercedes symbol and changes to a Volkswagen symbol, all while playing "Mercy, Mercy, Mercy"].
+:sd[While completely on its knees, the band forms a Mercedes symbol and changes to a Volkswagen symbol, all while playing “Mercy, Mercy, Mercy”].
 
 Turning from yields to make Brown well-endowed to fields that are always well-plowed, we look at Cornell :sd[Band turns toward Cornell], and quickly look away. :sd[Band turns quickly back toward Brown].
 
@@ -67,12 +67,12 @@ And the Cornell story is told in some of our popular TV shows. There’s:
 
 Watch as the Band forms the star of all these shows, Cornell’s homecoming queen, and plays Gorgy Girl.
 
-:sd[The band forms a cow and plays "Georgy Girl"].
+:sd[The band forms a cow and plays “Georgy Girl”].
 
 :sd[In a nerd-like voice] No we feel it’s time to apologize for some of our previous shows that might have been slightly off-color. Will all those offended by our last home show please raise your hand? You see, actually it’s that awful announcer who we recently got rid of. We’d just play the music and he’d say all those terrible things. :sd[Nervously] B-B-But he’s not _with us_ anymore. We don’t have to worry about him. :sd[Incredibly loud, tremendous, hideous, drawn-out, evil laugh is heard].
 
-:sd[The band plays the "Alfred Hitchcock Theme" and forms a question mark].
+:sd[The band plays the “Alfred Hitchcock Theme” and forms a question mark].
 
 Be back in two weeks... :sd[same laugh is heard again except it is even longer, louder, more tremendous, more hideous, more drawn out, and more evil than the first].
 
-:sd[The Band marches out on yard lines to "Ever True"]
+:sd[The Band marches out on yard lines to “Ever True”]

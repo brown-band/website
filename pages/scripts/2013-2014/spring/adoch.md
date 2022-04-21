@@ -2,7 +2,7 @@
 date: 2014-04-23
 ---
 
-Ladies and gentlemen, friends and alumni, presenting an organization that wants to pinch your cheeks, it’s the Brown University "look how grown up you’ve gotten!" BAAAAAND!!!!
+Ladies and gentlemen, friends and alumni, presenting an organization that wants to pinch your cheeks, it’s the Brown University “look how grown up you’ve gotten!” BAAAAAND!!!!
 
 Congrats on being accepted to Brown. We know that deciding where to go to college can be a little stressful, so we have some tried-and-true tips to make the process a little easier on you. Try to pick a school whose colors will look good on you. Incidentally, as an earth tone, brown is universally flattering. Or use a Oujia board - if it goes to any letter between A and Y, that means Brown. Z is wild. Hope this helps! Watch now as the Band forms half the McDonald’s logo and blows you away with our smooth jazz.
 

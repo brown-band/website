@@ -18,7 +18,7 @@ The Brown Band takes a look at one of the biggest fallacies in the Ivy League—
 
 Speaking of rhythm, we are reminded of those offbeats, the Harvard Band. What other band plays the field with such disgrace notes, malformatas, fatal accidentals, dim innuendos, and radclefs? We advise the Harvard Band to clean up their act with Brown’s answer to Janitor in a Drum, it’s the world’s smallest playable drum majorette east of the Mississippi! (Michele Ferdinis, short trumpet player, jumps out of drum, rides unicycle). Our majorette is here to demonstrate that the Brown Band is still on top. But we advise that the Harvard Band can still save face, as we form a bomb, and play “Mass Suicide is Painless.”
 
-:sd[Play "Suicide is Painless," the theme from M\*A\*S\*H.]
+:sd[Play “Suicide is Painless,” the theme from M\*A\*S\*H.]
 
 But worry not, Harvard, some records were meant to be broken. First, Harvard’s reign as the best school in the nation was broken when William and Mary was founded. Then Harvard’s reign as the best school in Cambridge was ended when Leslie College was founded. And this year, Harvard has bested itself by switching fom an insipid to an outmoded curriculum. Among the courses in Harvard’s new rigid core are : Screenwriting 1—Harvard as a movie set; Expository Dressing; Inhumanities, or Harvard Law and You: Rising and Condescending in High Society; and Stenography. The Band cuts through Harvard’s new rigid requirements as we wield “Mack the Knife.”
 

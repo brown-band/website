@@ -26,7 +26,7 @@ Ladies and Gentlemen, Friends and Alumni, and all you freshman mothers and fathe
 - 11\. Engine 9
 - 12\. Health Services
 - 13\. Zoo-Keeney Quad, and
-- 14\. The Brown University "Young Doctors and Younger Nurses" Band
+- 14\. The Brown University “Young Doctors and Younger Nurses” Band
 
 :::
 
@@ -36,10 +36,10 @@ Parents, we know you are concerned with your little darling’s health here in s
 
 :sd[Band plays Mercy Mercy Mercy]
 
-One of the most important functions of Health Services is the furthering of sex education on campus. No freshman would miss the orientation week meeting where they talk about the birds and the bees. The band salutes the least expensive method of birth control, forms a time signature on the field, and plays "I got Rhythm".
+One of the most important functions of Health Services is the furthering of sex education on campus. No freshman would miss the orientation week meeting where they talk about the birds and the bees. The band salutes the least expensive method of birth control, forms a time signature on the field, and plays “I got Rhythm”.
 
-:sd[Band forms a signature and plays "I got Rhythm"]
+:sd[Band forms a signature and plays “I got Rhythm”]
 
-Turning from Health Services to other questionable contributions to student life, the band looks at the UCS. Two weeks ago, the UCS voted to withdraw their money from Hospital Trust Bank in support of striking Brown and Sharpe workers. Unfortunately, when Treasurer Romeo Matteo tried to take out the money, he was informed that the account had been overdrawn for two months. It seems that $40,000 had been allocated to the Fungus Culinary Group - otherwise known as the Brown Mushroom Tasting Society - who were last seen September 27th weaving down 1-95 on a field trip to Miami. The band forms a Psychedelic Shroom and plays "Get it on".
+Turning from Health Services to other questionable contributions to student life, the band looks at the UCS. Two weeks ago, the UCS voted to withdraw their money from Hospital Trust Bank in support of striking Brown and Sharpe workers. Unfortunately, when Treasurer Romeo Matteo tried to take out the money, he was informed that the account had been overdrawn for two months. It seems that $40,000 had been allocated to the Fungus Culinary Group - otherwise known as the Brown Mushroom Tasting Society - who were last seen September 27th weaving down 1-95 on a field trip to Miami. The band forms a Psychedelic Shroom and plays “Get it on”.
 
 We now interrupt this show for the conclusion of the football game.

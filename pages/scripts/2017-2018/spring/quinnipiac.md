@@ -11,7 +11,7 @@ teams:
 date: 2018-02-10
 ---
 
-Ladies and gentlemen, friends and alumni, presenting an organization that just has a lot of feelings, it’s the Brown University "she doesn’t even go here anymore" BANNNDDDDDDDDDDD!
+Ladies and gentlemen, friends and alumni, presenting an organization that just has a lot of feelings, it’s the Brown University “she doesn’t even go here anymore” BANNNDDDDDDDDDDD!
 
 Why hello there everyone. We’re back from our undersea adventure and ready to take to the ice again with the elderly... I mean our alumni. There are a few things we need to catch them up on so they can be hip with the youths. For one, our favorite early morning friend, Brown Morning Mail, has gone to the great listserv in the sky. Instead, we have Today@Brown, a nearly identical daily news digest, but now with prettier formatting! Yay technology! For another, inflation has brought the value of a meal credit up to a whopping $7.90. What’s next, EIGHT DOLLARS?? Preposterous.
 

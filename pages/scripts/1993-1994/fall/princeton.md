@@ -23,11 +23,11 @@ Ladies and Gentlemen, friends and alumni, presenting an organization that prefer
 
 :sd[Band runs clear across field to nearest Porta-Potty.]
 
-As many of you know, Brown was the proud host of First Lady Hillary Clinton this week. A hot issue around campus was the restricted admission. Only certain invited groups were allowed to attend. The College Republicans were not originally on the "in" list, but fortunately extra seats were found in the back for both of them. After the televised discussion ended, Mrs. Clinton visited Andrews House, home of Brown’s own Health Services. After waiting in line for an hour an half, Hillary was given some hot chicken soup by a nurse and told to go home.
+As many of you know, Brown was the proud host of First Lady Hillary Clinton this week. A hot issue around campus was the restricted admission. Only certain invited groups were allowed to attend. The College Republicans were not originally on the “in” list, but fortunately extra seats were found in the back for both of them. After the televised discussion ended, Mrs. Clinton visited Andrews House, home of Brown’s own Health Services. After waiting in line for an hour an half, Hillary was given some hot chicken soup by a nurse and told to go home.
 
-Watch now as the Band forms a bowl of soup and plays "Take Two and Call Me."
+Watch now as the Band forms a bowl of soup and plays “Take Two and Call Me.”
 
-:sd[Band forms a bowl of soup and plays "Rubber Duckie"]
+:sd[Band forms a bowl of soup and plays “Rubber Duckie”]
 
 In honor of today’s Homecoming Game, we’d like to present a comparison/contrast of Brown thirty years ago and Brown today:
 
@@ -37,9 +37,9 @@ Then, the Princeton Band sported stylish, new orange and plaid uniforms. Now, th
 
 Then, students wrote papers by hand with pen and correction fluid. Now, students type papers in the CIT with spell-checker and automatic thesaurus.
 
-Watch now as the Band forms an amorphous blob and plays "White Out."
+Watch now as the Band forms an amorphous blob and plays “White Out.”
 
-:sd[Bands forms an amorphous blob and plays "Wipe Out"]
+:sd[Bands forms an amorphous blob and plays “Wipe Out”]
 
 We’d like to welcome all the alumni who returned to Brown for today’s Homecoming Game. Be careful about visiting your old dorms however, as there is a chance you may be caught in a false alarm and forced to pay a $10 fine. Many of you may have noticed some changes around campus, such as the repairs to Stuart Theater or the moving of the Bear to the Main Green. And as long as you keep those Capital Campaign donations coming, we guarantee that we’ll have some new construction for you to admire each year!
 

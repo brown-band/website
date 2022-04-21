@@ -25,7 +25,7 @@ The game itself wasn’t too terribly interesting. It was cold. It was wet. We c
 Alumni, Ladies, gentlemen and friends\
 Today to prick your fancy we present\
 The only group on campus with the guts\
-To say out loud "We gotcher Spam© right HERE!"
+To say out loud “We gotcher Spam© right HERE!”
 
 THE BROWN UNIVERSITY BAND!
 
@@ -56,7 +56,7 @@ Now and forever is P. L. M. E.
 And new this year: James Todd, our figurehead.\
 He joined the band to brandish his big stick.\
 Not just drum major, think of him instead\
-‘Sthe fellow seeing that one "Kathy" chyk.\
+‘Sthe fellow seeing that one “Kathy” chyk.\
 In four years was he loath to graduate\
 So stayed a fifth just for the steady date.
 
@@ -117,7 +117,7 @@ THE BROWN UNIVERSITY BAND!
 Comparisons are odious, ‘tis true,\
 But after seeing that last band in blue\
 Suspect do I that you will think this way:\
-"Zounds! Odious new meaning found today."
+“Zounds! Odious new meaning found today.”
 
 And so our mission stands now to compare\
 The Rotten Apple with out own towne fair.
@@ -141,9 +141,9 @@ THAT’S why the lion looks more like a Smurf!}
 So now the Band salutes a waterway,\
 Which unlike the New York Times is still quite grey,\
 By forming fast a water molecule\
-And playing "Smells Like Diesel Engine Fuel."
+And playing “Smells Like Diesel Engine Fuel.”
 
-:sd[BAND forms dihydrogen oxide, plays "Smells Like Teen Spirit"]
+:sd[BAND forms dihydrogen oxide, plays “Smells Like Teen Spirit”]
 
 Now to us it would come as no surprise\
 If that C-U-M-B did dis’ our burg.\
@@ -174,7 +174,7 @@ We hate those ugly yellow tire clams.\
 Which is to say we all do knock the boots,\
 And so this is the subject for our band.
 
-:sd[BAND forms a boot and momentarily ponders playing "I Hear You Knocking But You Can’t Come In" before launching into "All Day & All of the Night"]
+:sd[BAND forms a boot and momentarily ponders playing “I Hear You Knocking But You Can’t Come In” before launching into “All Day & All of the Night”]
 
 The sponsor for the Brown Band’s halftime show,\
 Is Shakespeare Beer, the beer that shakes your Globe.

@@ -12,7 +12,7 @@ date: 2016-11-12
 
 ## Pregame
 
-Ladies and gentlemen, friends and alumni, presenting an organization that is here to reconnect you to civilization, it’s the Brown University "myspace isn’t a thing anymore" BANNNDDDDDDDDDDD!
+Ladies and gentlemen, friends and alumni, presenting an organization that is here to reconnect you to civilization, it’s the Brown University “myspace isn’t a thing anymore” BANNNDDDDDDDDDDD!
 
 We think it’s great that you’ve isolated yourselves from civilization in order to do some much needed reflection in the solitude of New Hampshire. The lack of electricity, the endless forests, and the five year delay in news between Hanover and the rest of the world must really help you find inner peace. Just in case you were wondering, twenty-two candidates have entered the race for president! We’ll tell you who won when we come back in two years. Alternatively, you can wait for the pack mule with news from the outside world to arrive. Watch now as the Band imagines it’s at Dartmouth and does a time warp back through the past few years.
 
@@ -26,7 +26,7 @@ OUTRO!
 
 ## Halftime
 
-Ladies and gentlemen, friends and alumni, presenting an organization that is ready to introduce ourselves, it’s the Brown University "here it comes!" BANNNDDDDDDDDDDD!
+Ladies and gentlemen, friends and alumni, presenting an organization that is ready to introduce ourselves, it’s the Brown University “here it comes!” BANNNDDDDDDDDDDD!
 
 My dearest, Keggy,\
 From the first moment we laid eyes on your gleaming silver face, we knew it was meant to be. You’re everything we’ve ever wanted: rock solid abs and a steady supply of beer just for me. Hopefully we’re the most appealing thing you saw in the tall grass.\

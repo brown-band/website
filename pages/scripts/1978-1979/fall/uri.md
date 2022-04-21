@@ -20,7 +20,7 @@ Turning from Sports to forts, the Band takes you to a famous Greek council of wa
 
 :sd[Band forms a horse head and plays “The Great Gate of Kiev.”]
 
-Speaking of Greece, the Band slips into the Ratte. The Band psis as we witness food fight where we hardly eta thing. The culinary holocaust includes: Melon of Troy, Lambda chops, Alpha bits, popsicles, and of course, pie. Escaping from one classic disaster into anther, the Band forms a volcano, erupts on the field, and plays "Pompei and Circumstance."
+Speaking of Greece, the Band slips into the Ratte. The Band psis as we witness food fight where we hardly eta thing. The culinary holocaust includes: Melon of Troy, Lambda chops, Alpha bits, popsicles, and of course, pie. Escaping from one classic disaster into anther, the Band forms a volcano, erupts on the field, and plays “Pompei and Circumstance.”
 
 :sd[Band erupts while playing “Pomp and Circumstance.”]
 

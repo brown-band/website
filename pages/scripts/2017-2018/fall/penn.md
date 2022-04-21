@@ -12,7 +12,7 @@ date: 2017-10-28
 
 ## Pregame
 
-Ladies and gentlemen, friends and alumni, presenting an organization that knows what’s scarier than Halloween, it’s the Brown University "So what are your plans after graduation?" BANNNDDDDDDDDDDD!
+Ladies and gentlemen, friends and alumni, presenting an organization that knows what’s scarier than Halloween, it’s the Brown University “So what are your plans after graduation?” BANNNDDDDDDDDDDD!
 
 Instead of donning our usual red polos, brown blazers, and Old Navy khakis, the Brown Band has dressed up to celebrate one of the spookiest events of the year: the Penn football game. The University of Pennsylvania is the embodiment of all the scariest things in this world. For example, just look at their alumni list. Donald Trump, Donald Trump Jr., Ivanka Trump, Tiffany Trump. Wait, I think I’m starting to see a pattern. This year we’re taking inspiration from Penn and carving the most terrifying Jack-o’-Lanterns. They include the White House, Twitter, and the Phillies record this past season. Watch now as the Band forms the spookiest number and plays the spookiest song.
 
@@ -39,17 +39,17 @@ Join us at Halftime as we salute our seniors and bid them good riddance...uhhh, 
 
 ## Halftime
 
-Ladies and gentlemen, friends and alumni, presenting an organization that’s using \*NYSNC songs to cope with our feelings, it’s the Brown University "bye bye bye (bye bye!)" BANNNDDDDDDDDDDD!
+Ladies and gentlemen, friends and alumni, presenting an organization that’s using \*NYSNC songs to cope with our feelings, it’s the Brown University “bye bye bye (bye bye!)” BANNNDDDDDDDDDDD!
 
 We know we’ve already talked about plenty of spooky things today, but here’s one last Halloweekend fright for you, Brown sports fan: It’s our last game this season at Brown Stadium, and the last game our seniors will play here! Watch now as the Band raises a glass to our beloved seniors. COMMENCE WITH THE LIMERICKING.
 
-:sd[Band forms a champagne glass with senior bubbles and plays "Bits & Pieces" after each senior Limerick.]
+:sd[Band forms a champagne glass with senior bubbles and plays “Bits & Pieces” after each senior Limerick.]
 
 _Iuliu’s toughened from the frozen wasteland\
 Though Romania he calls his homeland\
 A musical lover\
 Great shows he’s helped us discover\
-"Lift with jerking motion" he advises the Band_
+“Lift with jerking motion” he advises the Band_
 
 _We’ll miss our historian, Greer\
 Plays piccolo -- it’s easy to hear!\
@@ -101,18 +101,18 @@ Leads the drums in Ooh ahh, Jamamie_
 
 _Alex, our favorite redhead.\
 Plays jazz, golf, Elon, and has said,\
-"My Chem knowledge is fleeting,\
+“My Chem knowledge is fleeting,\
 My hairline’s receding,\
-Why should I even get out of bed?"_
+Why should I even get out of bed?”_
 
 _At bandquet Max wears a disco suit\
 He often takes detours en route\
 When the quarterback throws\
-He screams "Let’s \[bleep]ing GOOOOOOO"\
+He screams “Let’s \[bleep]ing GOOOOOOO”\
 And on alto sax he does toot._
 
 _Sir Duke soloist Shannon Ward\
-The "section leader" we adored\
+The “section leader” we adored\
 Cucumber forgotten,\
 Avocado was bought then,\
 Now low brass cries no no no no torture!_

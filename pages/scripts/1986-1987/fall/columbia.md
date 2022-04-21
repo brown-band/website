@@ -58,7 +58,7 @@ Their deft maneuvers are no good\
 To count the tournaments they’ve fought\
  And won, we form a great big nought.
 
-:sd[Band forms a circle on the field and plays "I’ve Got Plenty of Nuttin’"]
+:sd[Band forms a circle on the field and plays “I’ve Got Plenty of Nuttin’”]
 
 New Amsterdam’s a jolly town\
  Where muggers, crack, and sluts abound.
@@ -75,7 +75,7 @@ A fragrant blossom it is not\
 With this in mind we bite our thumb\
  And play a song that’s really dumb.
 
-:sd[Band forms a thumb on the field and plays "I Hear You Knocking..."]
+:sd[Band forms a thumb on the field and plays “I Hear You Knocking...”]
 
 But ’sblood and ’splooge—you’ve no reknown,\
  Let’s sing the praises of old Brown.
@@ -107,9 +107,9 @@ But as recourse may suggest\
 Upon this lush and verdant lawn\
  We form for you a lowly pawn.
 
-:sd[Band forms a pawn on the field and plays "Wide World of Sports"]
+:sd[Band forms a pawn on the field and plays “Wide World of Sports”]
 
 We’ll see you next November time\
  You shall not hear our stupid rhyme.
 
-:sd[Band marches off to "Ever True..."]
+:sd[Band marches off to “Ever True...”]

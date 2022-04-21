@@ -13,7 +13,7 @@ date: 2016-02-13
 
 :sd[The first script used following a women’s hockey game in the history of the Brown Band]
 
-Ladies and gentlemen, friends and alumni, presenting an organization that loves you, it’s the Brown University "I know" BANDDDDDDDDD!!!!!!!!!!!!!!!
+Ladies and gentlemen, friends and alumni, presenting an organization that loves you, it’s the Brown University “I know” BANDDDDDDDDD!!!!!!!!!!!!!!!
 
 A long time ago in a band room far far away... BAND WARS! The Band’s rhythm has vanished. In its absence, the sinister COLGATE HOCKEY TEAM has risen from the ashes of the ECAC and will not rest until the Brown Band, the last bastion of hope, has been destroyed. With the support of the other IVY BANDS, General Elrod Snidley leads a brave RESISTANCE. He is desperate to reinvigorate the Band’s rhythm and use it to restore bold music and groove to the galaxy. Elrod has sent the entire Band on a secret mission into Meehan, where with their skates and instruments, they’ve discovered a way to recover their rhythm...
 
@@ -38,7 +38,7 @@ In our travels around the universe, we’ve done some pretty fun stuff in our ow
 
 What a time to be alive. Watch now as the Band forms a flux capacitor and reaches our show’s climax.
 
-:sd[Band forms two lines and counterskates to "In the Fray"]
+:sd[Band forms two lines and counterskates to “In the Fray”]
 
 Time for us to climb back into the Millennium Falcon and go blow up the Death Star or whatever. Catch us next Friday at the men’s hockey game vs. Clarkson. Live long and prosper. Brown Band out. May the force be with you. Brown Band out again. To infinity and beyond! Okay, we’re really out this time. Bye-fi. Game over, man.
 

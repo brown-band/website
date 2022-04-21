@@ -22,13 +22,13 @@ Ladies and gentlemen, friends and alumni, and all you mental munchkins, it’s t
 
 :sd[In Glinda’s voice] Well, I’m afraid I can’t help you. But maybe the Wizard of Veritas, in the Crimson city can. To find him, just follow the yellow brick road and try not to think that it’s only a paper towel.
 
-:sd[Band plays "It’s Only a Paper Moon" as Dorothy walks with Toto through spiral.]
+:sd[Band plays “It’s Only a Paper Moon” as Dorothy walks with Toto through spiral.]
 
 :sd[Band then forms the rest of the road with the ScarecroW, the Tin Woodsman, and the Lion at appropriate intervals. Dorothy meets each one in turn skipping ala Wizard of 02 as she goes, until they all arrive at the end of the road.]
 
 And so Dorothy went on her way to the wizard. First she met the Scarecrow, who had no brain and was going to Harvard because, of course, some people do go both ways. Next she met the Tin Woodsman, who was a Premed at Harvard and of course had no heart. He wanted to see the Wizard because he couldn’t get his axe up. She also met the Lion, who was going to Columbia and of course needed lots of courage.
 
-:sd[As Dorothy and company reach the end of the road, they meet up with the Wicked Witch of the west, who is played by the former witch and who is guarded by the magnificent SAX section, who are dressed like Secret Service men and chanting their ever popular tune. As they meet, the band plays "Peter Gunn" and Dorothy finally kills the witch by dowsing her with water.]
+:sd[As Dorothy and company reach the end of the road, they meet up with the Wicked Witch of the west, who is played by the former witch and who is guarded by the magnificent SAX section, who are dressed like Secret Service men and chanting their ever popular tune. As they meet, the band plays “Peter Gunn” and Dorothy finally kills the witch by dowsing her with water.]
 
 But Dorothy finally killed the Wicked Witch of the West, with water from the Charles — that stuff would kill anybody — and returned to the wizard, who gave the Scarecrow a brain so he could go to Brown, gave the Tinman a heart, which then fell in love with the Wizard, and gave the Lion some courage, but not enough to go to Columbia. Then Dorothy clicked her heels together and said: “There’s no place like Brown. There’s no place like Brown.”
 

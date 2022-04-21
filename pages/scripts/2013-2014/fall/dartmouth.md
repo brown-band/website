@@ -12,11 +12,11 @@ date: 2013-11-16
 
 ## Pregame
 
-Ladies and Gentlemen, friends and alumni, presenting an organization that’s brought to you by the Class of 2014, it’s the Brown University "We’re Graduating!" BAAANNNNNDDDD!
+Ladies and Gentlemen, friends and alumni, presenting an organization that’s brought to you by the Class of 2014, it’s the Brown University “We’re Graduating!” BAAANNNNNDDDD!
 
-Welcome, fans, to the Dartmouth Game, a time of year when anything goes. I don’t think you heard me correctly—anything goes. Prepare yourselves. It’s about to get hoya ri-tick-ulous up in here. Bet you weren’t expecting that! We heard through the grapevine that Dartmouth is dating Columbia, which makes our last two football games of the season really awkward; unlike Tupper the Bulldog, we don’t like breaking up relationships. Guess we’ll just have to beat both teams in a display of football mastery the likes of which the world has never seen. Watch now as the Band forms Beats by Dre™ and plays "Forget Dartmouth."
+Welcome, fans, to the Dartmouth Game, a time of year when anything goes. I don’t think you heard me correctly—anything goes. Prepare yourselves. It’s about to get hoya ri-tick-ulous up in here. Bet you weren’t expecting that! We heard through the grapevine that Dartmouth is dating Columbia, which makes our last two football games of the season really awkward; unlike Tupper the Bulldog, we don’t like breaking up relationships. Guess we’ll just have to beat both teams in a display of football mastery the likes of which the world has never seen. Watch now as the Band forms Beats by Dre™ and plays “Forget Dartmouth.”
 
-:sd[Band forms a lowercase b and plays "F\*\*k You."]
+:sd[Band forms a lowercase b and plays “F\*\*k You.”]
 
 Speaking of breaking up relationships, here’s a list of famous Dartmouth alumni:
 
@@ -31,17 +31,17 @@ Speaking of breaking up relationships, here’s a list of famous Dartmouth alumn
 
 :::
 
-A little more about those breadsticks—apparently, Dartmouth College was raining $30,000 in singles a year on breadsticks for all frat parties on campus. We think that’s pretty cockamamie of Dartmouth; don’t they have anything better to be spending their money on? If not, can we have all those breads-ticks? Whatever. At least we don’t live in a frozen wasteland. Watch now as the Band forms a B for breadsticks and plays "For Breadsticks and For Brown."
+A little more about those breadsticks—apparently, Dartmouth College was raining $30,000 in singles a year on breadsticks for all frat parties on campus. We think that’s pretty cockamamie of Dartmouth; don’t they have anything better to be spending their money on? If not, can we have all those breads-ticks? Whatever. At least we don’t live in a frozen wasteland. Watch now as the Band forms a B for breadsticks and plays “For Breadsticks and For Brown.”
 
-:sd[Band forms a B and plays "For Bruno and For Brown."]
+:sd[Band forms a B and plays “For Bruno and For Brown.”]
 
 ## Halftime
 
-Ladies and Gentlemen, friends and alumni, presenting an organization that has a lot of feelings, it’s the Brown University "Four more years!" BAAANNNNDDDD!
+Ladies and Gentlemen, friends and alumni, presenting an organization that has a lot of feelings, it’s the Brown University “Four more years!” BAAANNNNDDDD!
 
 In case you didn’t know, today is the last home game of the year, and therefore it’s our senior game! Watch now as the Band honors its seniors for their dedication to and love for the Band.
 
-:sd[Band forms a champagne glass with senior bubbles and plays "Bits & Pieces" after each senior Limerick.]
+:sd[Band forms a champagne glass with senior bubbles and plays “Bits & Pieces” after each senior Limerick.]
 
 _Our Lena is such a great friend\
 On her we could always depend\
@@ -122,7 +122,7 @@ Our eyes will be dewy\
 His notes can be heard above all_
 
 _Our dear friend Taran Raghuram\
-Who makes us go "Om nom nom nom"\
+Who makes us go “Om nom nom nom”\
 He led the drum line\
 And kept us in time\
 We’ll miss him so much when he’s gone_

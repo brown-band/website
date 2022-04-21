@@ -14,7 +14,7 @@ date: 2004-09-25
 
 Due to the sacred nature of this day, the band is unwilling to spell the full name of G-d on the field. In fact, out of respect, the entire first half will be played without the use of the letter O, which should make for an interesting game of ftball. Though some of the band is off fasting like an Olsen twin, the rest of us will try to win one for the Kippur by leaving the pigskin intact and playing “NFL on Fox.”
 
-:sd[Band forms a football, plays "NFL on Fox"]
+:sd[Band forms a football, plays “NFL on Fox”]
 
 Brown’s campaign to victory over Harvard today is slightly marred by the arrival of the Boston Duck Boat Veterans for Truth who have traveled over land and water to insist that last week’s triumph over Albany wasn’t as heroic as it seems. However, we know these boys from Beantown are just blowing gas. The band will form a B for “Beans, beans, the musical fruit” and toot out “Brown Cheering Song.”
 

@@ -34,10 +34,10 @@ I like the way you do that. We’re going to do something very special today. We
 
 I knew you could. You know music is very special because it’s the universal language, sc I want you all to close your eyes and play something that reminds you of me. :sd[Band plays Mickey Mouse Theme.]
 
-The band presents “Bucknell in the Twenty-Fifth century.” Our story so far: The year is 2435. A team of Bucknell students, after years of intensive research against almost insurmountable technical and theoretical problems, has discovered fire. As we join our heroes, we find them applying for a grant to continue their research for a way to put it out. The band bursts into flames, suggests a solution, and plays "Light My Fire."
+The band presents “Bucknell in the Twenty-Fifth century.” Our story so far: The year is 2435. A team of Bucknell students, after years of intensive research against almost insurmountable technical and theoretical problems, has discovered fire. As we join our heroes, we find them applying for a grant to continue their research for a way to put it out. The band bursts into flames, suggests a solution, and plays “Light My Fire.”
 
 :sd[The band forms a flame, which grows as the song is played. The people at the top of the flame wave red, orange, and yellow towels. As the flame reaches its maximum height, the drum major pours water on the top, causing the flame to diminish.]
 
 Be back in two weeks when we play Penn, Brown’s second non-conference game,
 
-:sd[Band marches off on yardlines to "Ever True."]
+:sd[Band marches off on yardlines to “Ever True.”]

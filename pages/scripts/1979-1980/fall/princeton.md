@@ -24,9 +24,9 @@ Once upon a time, in a land far, far away, there was a fair young maiden who liv
 
 Once upon a time, there was a handsome young prince who was in love with a young maiden who lived in a castle across the way. Her father, the evil wizard, had surrounded the castle with an enchanted briar patch. The young prince whipped out his sword in order to penetrate the bush. Wait a minute! Who wrote this?
 
-This time we’ll tell something we know is clean. Little Red Riding Hood was skipping through the woods with her basket full for goodies for Grandma. When she got there, the wolf was disguised in the old lady’s clothes. "My what big teeth you have, Grandma!" Little Red exclaimed innocently. "The better to eat you with." :sd[Pause] Oh well, maybe next week. :sd[While each story is being read, the Band skips in and out of the word "SMUT"].
+This time we’ll tell something we know is clean. Little Red Riding Hood was skipping through the woods with her basket full for goodies for Grandma. When she got there, the wolf was disguised in the old lady’s clothes. “My what big teeth you have, Grandma!” Little Red exclaimed innocently. “The better to eat you with.” :sd[Pause] Oh well, maybe next week. :sd[While each story is being read, the Band skips in and out of the word “SMUT”].
 
-The Band tries to clean up its act, forms a bar of Ivory Soap, 99 44/100 % puerile, and plays "Mission Impossible."
+The Band tries to clean up its act, forms a bar of Ivory Soap, 99 44/100 % puerile, and plays “Mission Impossible.”
 
 :sd[The Band forms a rectangle with 99 in the middle changing to a 69, in spirit with the show].
 
@@ -39,13 +39,13 @@ having crabs - taking invertebrate biology instead\
 bong - the sounds of the bell in Carrie tower\
 and prophylactics - what you wear on your feet when it rains
 
-The Band makes jive on the field and plays "Colloquial Gas."
+The Band makes jive on the field and plays “Colloquial Gas.”
 
-:sd[The Band wanders aimlessly in a blob while playing "Classical Gas"]
+:sd[The Band wanders aimlessly in a blob while playing “Classical Gas”]
 
-Turning from phrases to deoxyribonuclases, the Band looks at the new genes being designed in Wilson Lab. Last we heard they were cloning a mutant bacterial strain often known to sport ugly black and orange plaid jackets and funny looking styrofoam hats. Oh my God, they’ve escaped! We’ve got to neutralize them! Quick, splice their genes, unzip their DNA, denature their base pairs, and give them a dose of their own medicine. Watch now as the Band forms the famous Brown University Double Rotating "B" and plays "Penicillin from Heaven."
+Turning from phrases to deoxyribonuclases, the Band looks at the new genes being designed in Wilson Lab. Last we heard they were cloning a mutant bacterial strain often known to sport ugly black and orange plaid jackets and funny looking styrofoam hats. Oh my God, they’ve escaped! We’ve got to neutralize them! Quick, splice their genes, unzip their DNA, denature their base pairs, and give them a dose of their own medicine. Watch now as the Band forms the famous Brown University Double Rotating “B” and plays “Penicillin from Heaven.”
 
-:sd[The band forms a double "B" and each member rotates on his/her own axis.]
+:sd[The band forms a double “B” and each member rotates on his/her own axis.]
 
 There once was a group that was bland,\
 From New Jersey, a bleak, barren land.\
@@ -53,4 +53,4 @@ From New Jersey, a bleak, barren land.\
 :script-tab And had little poise\
 It was F. _the Princeton Band._
 
-:sd[March off on yard lines to the tune of "Ever True"]
+:sd[March off on yard lines to the tune of “Ever True”]

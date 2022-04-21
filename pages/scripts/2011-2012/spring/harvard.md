@@ -10,7 +10,7 @@ teams:
 date: 2012-02-17
 ---
 
-Ladies and Gentlemen, friends and alumni, presenting an organization that’s never gonna give you up, it’s the Brown University "Rick Astley Was Cool Once!" BAAAANNNNNNNNDDDDDDDDD!
+Ladies and Gentlemen, friends and alumni, presenting an organization that’s never gonna give you up, it’s the Brown University “Rick Astley Was Cool Once!” BAAAANNNNNNNNDDDDDDDDD!
 
 Welcome, one and all, to the greatest show on heaven, hell, or earth. Why is it so great? Because we don’t just have the Beautiful, Bodacious, Blindingly Brilliant Brown Band skating on the ice today, we also have our Awesome Alumni! Who doesn’t love it when our alumni skate around? We’d just like to point out to our audience that, unlike the Harvard Band, exactly zero percent of our alumni have turned out to become the Unabomber. No pressure, guys!
 

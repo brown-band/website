@@ -12,7 +12,7 @@ date: 2016-11-05
 
 ## Pregame
 
-Ladies and gentlemen, friends and alumni, presenting an organization that is a pro at this whole Internet thing, it’s the Brown University "never Google New Haven" BANNNDDDDDDDDDDD!
+Ladies and gentlemen, friends and alumni, presenting an organization that is a pro at this whole Internet thing, it’s the Brown University “never Google New Haven” BANNNDDDDDDDDDDD!
 
 We hadn’t heard of Yale University before today, so we decided to Google the school. Here are some of our favorite reviews:
 
@@ -22,7 +22,7 @@ We hadn’t heard of Yale University before today, so we decided to Google the s
 - B.This is a school for dum-dums. Hehe
 - C. This college is one of the worst. When I went to this school I got kicked out cause I said I liked trains randomly
 - D. It was very blurry,
-- E. I ordered one via phone and was assured that returns are "no problem," and
+- E. I ordered one via phone and was assured that returns are “no problem,” and
 - F. The Princeton Band
 
 :::
@@ -39,7 +39,7 @@ We can’t handle this anymore, even having our mind in New Haven is awful, Bye!
 
 ## Halftime
 
-Ladies and gentlemen, friends and alumni, presenting an organization that is dreading Tuesday, it’s the Brown University "our own elections will be better" BANNNDDDDDDDDDDD!
+Ladies and gentlemen, friends and alumni, presenting an organization that is dreading Tuesday, it’s the Brown University “our own elections will be better” BANNNDDDDDDDDDDD!
 
 Should Hillary win the election Tuesday, she’ll return the White House into the hands of Yale alumni - thank heavens! After eight years of the evil Crimson empire reigning over Pennsylvania Avenue, America is ready for more Yale Blue in the Oval Office, which it had previously been since 1988! Something other than our democracy is at stake this election cycle - it is possible, however unlikely, that the evil University of Pennsylvania takes back Washington D.C. for the first time since 1841. We must not allow this to happen! Watch now as the band protects the oval office from the sole man running.
 

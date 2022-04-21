@@ -12,13 +12,13 @@ date: 1997-10-18
 
 ## Pregame
 
-Ladies and Gentlemen, Friends and Alumni, presenting an organization that secretly funded Ralph Nader’s election campaign, it’s the Brown University "soft money, hard luck" BAND!
+Ladies and Gentlemen, Friends and Alumni, presenting an organization that secretly funded Ralph Nader’s election campaign, it’s the Brown University “soft money, hard luck” BAND!
 
 :sd[Band charges field from sidelines]
 
-:sd[Band forms Marv Albert’s left kidney and plays (What else?) "Championship"]
+:sd[Band forms Marv Albert’s left kidney and plays (What else?) “Championship”]
 
-:sd[Band forms a "B" and plays "Brown Cheering Song"]
+:sd[Band forms a “B” and plays “Brown Cheering Song”]
 
 :sd[Band chills out for a bit while the teams are introduced and the coin gets flipped]
 
@@ -34,7 +34,7 @@ Ladies and Gentlemen, Friends and Alumni, presenting an organization [beat] and 
 
 Sit back and enjoy their Dueling Band Shows.
 
-:sd[Brown Band plays "Dueling Banjos" intro and runs to 15 yard line]
+:sd[Brown Band plays “Dueling Banjos” intro and runs to 15 yard line]
 
 :sd[URI Band responds and runs to 15 yard line]
 
@@ -56,7 +56,7 @@ You know, guns don’t kill people. It’s those darn bullets.
 
 We might not be done, but we sure are finished.
 
-:sd[Bands form a big huge banjo on the field, play "tutti" section]
+:sd[Bands form a big huge banjo on the field, play “tutti” section]
 
 Wait, that sounded a little off, you might want to tune your G string.
 
@@ -66,15 +66,15 @@ That’s much better. We should have that banjo tuned by mid-February.
 
 :sd[URI Band marches upfield, Brown Band scatters]
 
-OK, A priest a rabbi and an President-elect Gee. . . oh never mind, you’ve probably heard that one before. Watch now as the Brown University Band, lead by our Student Conductor Kate Brucher, plays "For Bruno and For Brown."
+OK, A priest a rabbi and an President-elect Gee. . . oh never mind, you’ve probably heard that one before. Watch now as the Brown University Band, lead by our Student Conductor Kate Brucher, plays “For Bruno and For Brown.”
 
-:sd[Band forms a "B" and plays "For Bruno and For Brown"]
+:sd[Band forms a “B” and plays “For Bruno and For Brown”]
 
-:sd[Brown Band scatters off field, URI Band performs "Tuesday Afternoon." They have their own script.]
+:sd[Brown Band scatters off field, URI Band performs “Tuesday Afternoon.” They have their own script.]
 
 :sd[URI Band ends in concert arch facing Brown stands, Brown Band joins formation]
 
-And now, ladies and gentlemen, friends and alumni, their feud settled, the bands join forces to battle the audience. Watch now as the combined might of the Brown University and University of Rhode Island Bands pummel you with "Johnny’s Mambo" conducted by Brown University Director of Bands Matt McGarrell, with trumpet solo by URI Band Director Don Smith.
+And now, ladies and gentlemen, friends and alumni, their feud settled, the bands join forces to battle the audience. Watch now as the combined might of the Brown University and University of Rhode Island Bands pummel you with “Johnny’s Mambo” conducted by Brown University Director of Bands Matt McGarrell, with trumpet solo by URI Band Director Don Smith.
 
 :sd[Bands do just that]
 

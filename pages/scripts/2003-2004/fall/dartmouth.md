@@ -80,7 +80,7 @@ Terry, we’ll miss you on trips.
 
 Ladies and Gentlemen, Friends and Alumni, presenting the organization formerly known as the Brown University “So THIS is what it sounds like when doves cry!” Band, it’s the Brown University... um... \*bleargh\*!
 
-Today’s time period highlights the greatest identity changes in human history: The "USSR" became "New South Wales," Prince became \*bleargh\*, and Dartmouth changed its mascot from Sheila the Sheep to the Big Green. Still, some Dartmouth students are longing to rally behind a tangible icon, and have proposed to replace the Green with "Keggy the Keg." May we also suggest:
+Today’s time period highlights the greatest identity changes in human history: The “USSR” became “New South Wales,” Prince became \*bleargh\*, and Dartmouth changed its mascot from Sheila the Sheep to the Big Green. Still, some Dartmouth students are longing to rally behind a tangible icon, and have proposed to replace the Green with “Keggy the Keg.” May we also suggest:
 
 :::script-list
 
@@ -93,16 +93,16 @@ Today’s time period highlights the greatest identity changes in human history:
 
 :::
 
-The band will make its choice with the letter formerly known as \*bleargh\* and play "Sheep"
+The band will make its choice with the letter formerly known as \*bleargh\* and play “Sheep”
 
-:sd[Band forms a prince symbolish thing, plays "Smooth"]
+:sd[Band forms a prince symbolish thing, plays “Smooth”]
 
-Why change your identity, though, when you can just split it? You don’t have to choose between business and party, when the former can be in the front, and the latter in the back. The band maintains that success is a 10/90 ratio. A Kentucky Waterfall, if you will. A Lincoln Top Hat. A Yep or Nope. Perhaps, a Missouri Compromise. The band will secure its hipster status by waving its mud flaps as it forms the glorious mullet and plays "Cut It."
+Why change your identity, though, when you can just split it? You don’t have to choose between business and party, when the former can be in the front, and the latter in the back. The band maintains that success is a 10/90 ratio. A Kentucky Waterfall, if you will. A Lincoln Top Hat. A Yep or Nope. Perhaps, a Missouri Compromise. The band will secure its hipster status by waving its mud flaps as it forms the glorious mullet and plays “Cut It.”
 
-:sd[Band forms a mullet, plays "Beat It"]
+:sd[Band forms a mullet, plays “Beat It”]
 
 Michael Jackson reminds us that crises of identity are never black or white issues, but they’re nothing that can’t be solved by a little bit of dancing. We’d like to conclude this season’s historical retrospective with a nod to the greatest cultural achievement of the last 125 years: Dirty Dancing. The band will form Patrick Swayze’s biceps to assert that nobody puts Brown Bear in the corner.
 
-:sd[Band forms a B, plays "Brown Bear"]
+:sd[Band forms a B, plays “Brown Bear”]
 
-Next week we’ll be at Columbia :sd[Band: "Where?"] it’s in New York, band :sd["Oh."] for the last game of the season. Weather will be cloudy, with an 85% chance of Jazz Hands.
+Next week we’ll be at Columbia :sd[Band: “Where?”] it’s in New York, band :sd[“Oh.”] for the last game of the season. Weather will be cloudy, with an 85% chance of Jazz Hands.

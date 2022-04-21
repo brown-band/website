@@ -37,7 +37,7 @@ Voice of the Band, Michael David “Do you live here, or are you just passing th
 
 Beth “Would you like to meet hockey players? I sure...” Wood.
 
-Mark “You may think that we’ve forgotten about “Dimwit,’ but we haven’t” Dinman.
+Mark “You may think that we’ve forgotten about ‘Dimwit,’ but we haven’t” Dinman.
 
 Mike “Well, should I grow a bear this week?” Lippitz.
 

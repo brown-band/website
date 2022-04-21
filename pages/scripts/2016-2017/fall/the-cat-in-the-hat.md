@@ -2,7 +2,7 @@
 date: 2016-10-26
 ---
 
-Ladies and gentlemen, friends and alumni, presenting an organization that loves a good challenge, it’s the Brown University "now defend these candidates!" BANNNDDDDDDDDDDD!
+Ladies and gentlemen, friends and alumni, presenting an organization that loves a good challenge, it’s the Brown University “now defend these candidates!” BANNNDDDDDDDDDDD!
 
 Well, looks like we’ve got an election this year between Thing One and Thing Two. Or, as we like to call them, Red Fish and Blue Fish. We do actually think that this election is right out of Doctor Seuss - one candidate is the Lorax, warning us about the impending apocalypse, and the other, and again we’re not naming names, is doing his best to mimic Yertle the Turtle. In the end, both characters disappear from prominence, so what does that say about this election? Watch now as the band turns your frown about this election upside down and plays Imperial March.
 
