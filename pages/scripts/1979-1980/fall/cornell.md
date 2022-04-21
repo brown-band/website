@@ -12,13 +12,13 @@ date: 1979-10-20
 
 ## Halftime
 
-Ladies and Gentlemen, Friends and Alumni, and all you milk duds, it's the Brown University If You Don't, We'll Find Someone Who Will Fund Raising Band.
+Ladies and Gentlemen, Friends and Alumni, and all you milk duds, it’s the Brown University If You Don’t, We’ll Find Someone Who Will Fund Raising Band.
 
-:sd[The band runs out and forms 80's on the field]
+:sd[The band runs out and forms 80’s on the field]
 
-As you all know, the trustees have recently kicked off the Campaign for Brown. Personally, we don't think old Jerry has a chance. But seriously, the campaign for Brown seeks a goal of 158 million dollars, 22 million of which has already been pledged by the trustees. We hope that all of you here today will give generously and help lead Brown into the 1980's.
+As you all know, the trustees have recently kicked off the Campaign for Brown. Personally, we don’t think old Jerry has a chance. But seriously, the campaign for Brown seeks a goal of 158 million dollars, 22 million of which has already been pledged by the trustees. We hope that all of you here today will give generously and help lead Brown into the 1980’s.
 
-Wait a minute, we've just been handed a message from Band President Bruce Yannett, who is extremely ugly. :sd[20th Century Fox Fanfare is played]. THE BROWN BAND HAS JUST PLEDGED THE REMAINING 133 MILLION DOLLARS TO BROWN UNIVERSITY! How about a big round of applause for the band.
+Wait a minute, we’ve just been handed a message from Band President Bruce Yannett, who is extremely ugly. :sd[20th Century Fox Fanfare is played]. THE BROWN BAND HAS JUST PLEDGED THE REMAINING 133 MILLION DOLLARS TO BROWN UNIVERSITY! How about a big round of applause for the band.
 
 By the way, we do have some suggestions for spending the money. We could:
 
@@ -35,13 +35,13 @@ By the way, we do have some suggestions for spending the money. We could:
 
 We now form a large, well-endowed treasure chest and play "Big Spender."
 
-WHAT?? The check bounced? Heh, heh, heh. Don't worry, Brown University. We can still raise 133 million. Band members will now pass through the crowd selling little boxes of chocolate covered mints.
+WHAT?? The check bounced? Heh, heh, heh. Don’t worry, Brown University. We can still raise 133 million. Band members will now pass through the crowd selling little boxes of chocolate covered mints.
 
 The alumni can also help our cause.
 
-Those of you who are recent graduates and can't get a job can, for $1.85, endow a shaved steak sandwich at the Ratty.
+Those of you who are recent graduates and can’t get a job can, for $1.85, endow a shaved steak sandwich at the Ratty.
 
-There are also you alums who make plenty of money but spend it all sending your kids to Brown. Please, don't make us pay more, you cry. Recognizing you plight, the Band plays "Mercy, Mercy, Mercy."
+There are also you alums who make plenty of money but spend it all sending your kids to Brown. Please, don’t make us pay more, you cry. Recognizing you plight, the Band plays "Mercy, Mercy, Mercy."
 
 :sd[While completely on its knees, the band forms a Mercedes symbol and changes to a Volkswagen symbol, all while playing "Mercy, Mercy, Mercy"].
 
@@ -59,17 +59,17 @@ Age old classics such as:
 - Bless the Beasts and the Children, and
 - Curious George
 
-And the Cornell story is told in some of our popular TV shows. There's:
+And the Cornell story is told in some of our popular TV shows. There’s:
 
 - My Mother the Cow
 - CHiPs, and your favorite and mine,
 - Fodder Knows Bess
 
-Watch as the Band forms the star of all these shows, Cornell's homecoming queen, and plays Gorgy Girl.
+Watch as the Band forms the star of all these shows, Cornell’s homecoming queen, and plays Gorgy Girl.
 
 :sd[The band forms a cow and plays "Georgy Girl"].
 
-:sd[In a nerd-like voice] No we feel it's time to apologize for some of our previous shows that might have been slightly off-color. Will all those offended by our last home show please raise your hand? You see, actually it's that awful announcer who we recently got rid of. We'd just play the music and he'd say all those terrible things. :sd[Nervously] B-B-But he's not _with us_ anymore. We don't have to worry about him. :sd[Incredibly loud, tremendous, hideous, drawn-out, evil laugh is heard].
+:sd[In a nerd-like voice] No we feel it’s time to apologize for some of our previous shows that might have been slightly off-color. Will all those offended by our last home show please raise your hand? You see, actually it’s that awful announcer who we recently got rid of. We’d just play the music and he’d say all those terrible things. :sd[Nervously] B-B-But he’s not _with us_ anymore. We don’t have to worry about him. :sd[Incredibly loud, tremendous, hideous, drawn-out, evil laugh is heard].
 
 :sd[The band plays the "Alfred Hitchcock Theme" and forms a question mark].
 

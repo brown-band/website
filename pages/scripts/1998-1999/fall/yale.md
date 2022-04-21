@@ -24,13 +24,13 @@ So, ladies and gentlemen, we’ve learned that President Clinton recently visite
 
 ## Halftime
 
-Ladies and gentlemen, presenting an organization that is under the care of the Federal Witness Protection program, it's the Yale "Under Lock and Key" Precision Marching Band!
+Ladies and gentlemen, presenting an organization that is under the care of the Federal Witness Protection program, it’s the Yale "Under Lock and Key" Precision Marching Band!
 
 :sd[Band skulks onto field.]
 
 With all of the terrorist bombings of late, the organization formerly known as the Brown Band, which formed an exploding BMW in one of its previous shows, decided it would be wise to go undercover by taking on an alternate identity...
 
-To do this, we had to send a member of the Band on a secret mission to New Haven. :sd[007 voice.] Her name was Band. :sd[Pause.] Jane Band. :sd[Mock-dramatic, mystery novel narration.] To prepare for the infiltration, she donned a navy blazer, dumped some extra starch into her underwear, and kissed her lover goodbye - because after all, she was going to New Haven and was not sure if she'd ever return.
+To do this, we had to send a member of the Band on a secret mission to New Haven. :sd[007 voice.] Her name was Band. :sd[Pause.] Jane Band. :sd[Mock-dramatic, mystery novel narration.] To prepare for the infiltration, she donned a navy blazer, dumped some extra starch into her underwear, and kissed her lover goodbye - because after all, she was going to New Haven and was not sure if she’d ever return.
 
 Being the well-funded bandie she was, she stowed herself away in the UHaul of a returning Yale student. Deciding to start her research into the life of a real Yalie, she started to rummage through the suspicious-looking paraphernalia in search of band contraband. However, among the wardrobe of varying shades of dark navy blue blazers (all embroidered with the insignias of various secret societies), she found only one thing that might distinguish this person as a Yale bandie: an LP which contained nothing but bad 70s music. Watch now as the "Yale" Band forms a record and plays "Bulldog Inferno."
 
@@ -44,7 +44,7 @@ The KGB, however, used something a bit more devious then a U-Haul to send her on
 
 :sd[Band forms ICBM, plays #4]
 
-We thank Jane for joining us today -- she just landed in time to inform us of the secrets of the Yale Band's Intelligence Division. It didn't take long. Her debriefing was brief, and the chafing finally ceased. Therefore, the Band just underwent training on how to act like the Yale "Precision" Marching Band.
+We thank Jane for joining us today -- she just landed in time to inform us of the secrets of the Yale Band’s Intelligence Division. It didn’t take long. Her debriefing was brief, and the chafing finally ceased. Therefore, the Band just underwent training on how to act like the Yale "Precision" Marching Band.
 
 There were a few other things that we had to learn before we could come out here and successfully act like the Yale Band (because Killer Gumbys don’t just walk funny).
 

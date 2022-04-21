@@ -32,7 +32,7 @@ Ladies and gentlemen, our National Anthem
 :sd[Play natl. antm.]\
 :sd[Form GAS]
 
-It has been said that Princeton's team ahs a tiger in its tank. The Band suggests that the Brown football team throw out the tiger and give them plenty of hi-test gas.
+It has been said that Princeton’s team ahs a tiger in its tank. The Band suggests that the Brown football team throw out the tiger and give them plenty of hi-test gas.
 
 ## Halftime
 

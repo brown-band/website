@@ -12,21 +12,21 @@ date: 2000-10-14
 
 ## Pregame
 
-Ladies and gentlemen, friends and alumni, presenting an organization that seems to always visit Princeton right after President Clinton, it's the Brown University - why, yes, Mr. President - Band!
+Ladies and gentlemen, friends and alumni, presenting an organization that seems to always visit Princeton right after President Clinton, it’s the Brown University - why, yes, Mr. President - Band!
 
 :sd[Band perambulates about the field]
 
-The timing of Clinton's visit might suggest that he is under consideration for the post that President Shapiro will be giving up. Of course, Clinton was discarded early on as a candidate for the Brown Presidency. Some of the reasons: we already have waffles every morning in the dining halls, the women of Brown just weren't interested in his internship opportunities, and we're running out of jokes about him.
+The timing of Clinton’s visit might suggest that he is under consideration for the post that President Shapiro will be giving up. Of course, Clinton was discarded early on as a candidate for the Brown Presidency. Some of the reasons: we already have waffles every morning in the dining halls, the women of Brown just weren’t interested in his internship opportunities, and we’re running out of jokes about him.
 
 :sd[Band plays "Championship"]
 
-But a Clinton presidency wouldn't be all bad. He would no doubt bring many improvements to the Princton campus: a resurgence in pole dancing - I mean, wrestling; he could give saxophone lessons to the Princeton band; and 6 to 10 more years of guaranteed bad jokes from the Brown Band. Watch now as the band ponders a second Clinton Presidency, and plays [some Brown song].
+But a Clinton presidency wouldn’t be all bad. He would no doubt bring many improvements to the Princton campus: a resurgence in pole dancing - I mean, wrestling; he could give saxophone lessons to the Princeton band; and 6 to 10 more years of guaranteed bad jokes from the Brown Band. Watch now as the band ponders a second Clinton Presidency, and plays [some Brown song].
 
 :sd[Band does this]
 
 ## Halftime
 
-Ladies and gentlemen, friends and alumni, presenting the only organization on the Princeton campus capable of chewing its own food, it's the Brown University - I tawt i taw a puddy tat - Band!
+Ladies and gentlemen, friends and alumni, presenting the only organization on the Princeton campus capable of chewing its own food, it’s the Brown University - I tawt i taw a puddy tat - Band!
 
 :sd[Band runs on, does its thing]
 
@@ -44,4 +44,4 @@ Left without other options, Elrod met with Janina Montero and persuaded her to j
 
 Join us next week in Provindence, when the Bears take on the Big Red :sd[Band shouts "Big red What?"] of Cornell, and the the Band faces off against people who are willing to waste a credit to dress up in silly uniforms and pretend to be in a chewing gum commercial.
 
-:sd[Band marches off Daddy's field to #1]
+:sd[Band marches off Daddy’s field to #1]

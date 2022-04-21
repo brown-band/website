@@ -12,7 +12,7 @@ date: 1984-10-20
 
 ## Halftime
 
-Ladies and Gentlemen, friends and alumni, I'm Alistair Cooke, the host of this afternoon's salute to Public Television, and welcome to episode 497 of Masterpiece Football with the Brown University Band.
+Ladies and Gentlemen, friends and alumni, I’m Alistair Cooke, the host of this afternoon’s salute to Public Television, and welcome to episode 497 of Masterpiece Football with the Brown University Band.
 
 :sd[band walks out playing the first few strains of "Masterpiece Theatre," then runs onto field and forms a Rubber Duckie. The Cookie Monster runs onto the field when his name is mentioned]
 
@@ -22,17 +22,17 @@ Aside from the Cornell students here, we realize that there may be a few of you 
 
 And now for a review of that last formation, here are critics Gene Siskell of the Chicago Tribune and Roger Ebert of the Chicago Sun-Times.
 
-"Gene, I liked that last formation. It showed style. I'll give it a thumbs up."
+"Gene, I liked that last formation. It showed style. I’ll give it a thumbs up."
 
-"You suck, Roger, and I hate you! That formation was definitely in bad taste. Why don't you just stick with 'Valley of the Dolls?' I give it a thumbs down."
+"You suck, Roger, and I hate you! That formation was definitely in bad taste. Why don’t you just stick with ‘Valley of the Dolls?’ I give it a thumbs down."
 
-"O.K., Roger, so we disagree. But you know what? We couldn't do these shows without your support, so pick up those phones and call us...our operators are standing by! We have several special gift incentives just for Cornell students who contribute over fifty dollars, including an engraved bronzed udder, a parachute, and t-shirt that reads, "I go to Cornell, and my best friends are bovine." And, of course, for _any_ donation, you will receive a Cornell diploma. Just call those numbers listed on the bottom of your field: 1-020-3040. Fill up that thermometer on the field...call _now!_
+"O.K., Roger, so we disagree. But you know what? We couldn’t do these shows without your support, so pick up those phones and call us...our operators are standing by! We have several special gift incentives just for Cornell students who contribute over fifty dollars, including an engraved bronzed udder, a parachute, and t-shirt that reads, "I go to Cornell, and my best friends are bovine." And, of course, for _any_ donation, you will receive a Cornell diploma. Just call those numbers listed on the bottom of your field: 1-020-3040. Fill up that thermometer on the field...call _now!_
 
-:sd[band plays "Big Spender," and of course, the thermometer overflows. We then form a TV set. Cardboard words appear on the screen as they're read]
+:sd[band plays "Big Spender," and of course, the thermometer overflows. We then form a TV set. Cardboard words appear on the screen as they’re read]
 
-Please watch the T.V. on the field as the Electric Company helps you to ruminate on some much needed remedial reading. C---UD....CUD! M---ILK....MILK! M---OO....MOOOOOOOOOO! No, no, no! No need to get excited---it's only a paper moo!
+Please watch the T.V. on the field as the Electric Company helps you to ruminate on some much needed remedial reading. C---UD....CUD! M---ILK....MILK! M---OO....MOOOOOOOOOO! No, no, no! No need to get excited---it’s only a paper moo!
 
-:sd[band plays "It's Only a Paper Moon"]
+:sd[band plays "It’s Only a Paper Moon"]
 
 Stay in your seats as the Cornell Band proves that silence can be golden.
 

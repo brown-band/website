@@ -8,12 +8,12 @@ teams:
 date: 1979-12-08
 ---
 
-Ladies and gentlemen, friends and alumni, and all you pseudo (that's sway-doe) intellectuals, presenting... Now!! For the first time every, in glorious 3-D, The Band From the Brown Lagoon. Yes, that's right folks. The spectacular technology of our age brings you 3-Dimensional Stereo Vision!
+Ladies and gentlemen, friends and alumni, and all you pseudo (that’s sway-doe) intellectuals, presenting... Now!! For the first time every, in glorious 3-D, The Band From the Brown Lagoon. Yes, that’s right folks. The spectacular technology of our age brings you 3-Dimensional Stereo Vision!
 
 - See Ratty food virtually jump out at you.
 - See John Edelman look almost alive.
-- Yes! See not one but two - count 'em - two Jim Main's.
-- Yes! Not 20 but 40 deans who don't have appointments 'til June.
+- Yes! See not one but two - count ‘em - two Jim Main’s.
+- Yes! Not 20 but 40 deans who don’t have appointments ’til June.
 - And best of all, see professor Josiah S. Carberry as he appears in real life.
 
 The band rears its behemoth head, rises out of the dark, moist, murky swamp, forms the Empire State Building and plays "King Kong, We have no Bananas."
@@ -28,7 +28,7 @@ The is here! The fungus is amongus! Ladies and gentlemen, run for your dear live
 
 But first listen and watch as we entertain you with the wonnaful "June Taylor Skaters."
 
-:sd[The band plays "Everything's Coming Up Roses." Two concentric circles are formed. The inside circle skates clockwise and backwards. The outside circle skates normally counterclockwise. In the middle are 12 band members on their back with their heads in towards the middle. As the song is played, these band members open and close their legs in perfect rhythm.]
+:sd[The band plays "Everything’s Coming Up Roses." Two concentric circles are formed. The inside circle skates clockwise and backwards. The outside circle skates normally counterclockwise. In the middle are 12 band members on their back with their heads in towards the middle. As the song is played, these band members open and close their legs in perfect rhythm.]
 
 Jackie Gleason, eat your heart out. Be back in 1980 when the band takes a look at the sociological impact of Pin Sol on middle-aged America.
 

@@ -32,7 +32,7 @@ Ladies and Gentlemen, Friends and Alumni, and all you freshman mothers and fathe
 
 :sd[Band runs onto field into a thermometer]
 
-Parents, we know you are concerned with your little darling's health here in sunny Providence - where the flu season only lasts nine months. Please rest assured that Health Services has a cure for every remedy. It's really a very simple system - you either have a broken ankle or gastro-enteritis. Our success rate is fantastic - everything clears up within a year or so. Watch as the band forms an overheated thermometer on the field, and plays: Mercury, Mercury, Mercury.
+Parents, we know you are concerned with your little darling’s health here in sunny Providence - where the flu season only lasts nine months. Please rest assured that Health Services has a cure for every remedy. It’s really a very simple system - you either have a broken ankle or gastro-enteritis. Our success rate is fantastic - everything clears up within a year or so. Watch as the band forms an overheated thermometer on the field, and plays: Mercury, Mercury, Mercury.
 
 :sd[Band plays Mercy Mercy Mercy]
 

@@ -16,7 +16,7 @@ Ladies and gentlemen, friends and alumni, and all you freshman mothers and fathe
 
 Today’s show is brought to you by General Mills, the makers of Wheaties, the breakfast of Brown men.
 
-Okay band, how would you like to win this fabulous prize—tell ’em about it Johnny.
+Okay band, how would you like to win this fabulous prize—tell ‘em about it Johnny.
 
 :sd[Announcer’s voice]: That’s right Bob. It’s a beautiful Holy Cross pen, and it’s initialed by God himself.
 

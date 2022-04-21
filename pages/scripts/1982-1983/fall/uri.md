@@ -18,11 +18,11 @@ Today we present a salute to the great American March. We begin the extravaganza
 
 :sd[Band plays Nat. Emblem and MARCHES onto field. Things begin to go wrong by the time the groups meet each other]
 
-Alright band, forget this! No matter how hard you try, you just can't be like 'That Ram Band'. It's back to the bush for you.
+Alright band, forget this! No matter how hard you try, you just can’t be like ‘That Ram Band’. It’s back to the bush for you.
 
 :sd[Band runs into the bushes]
 
-Ladies and Gentlemen, Friends and Alumni, and all you clothes minded people, it's the Brown University 'You can dress 'em up, but you can't take 'em anywhere' Band.
+Ladies and Gentlemen, Friends and Alumni, and all you clothes minded people, it’s the Brown University ‘You can dress ‘em up, but you can’t take ‘em anywhere’ Band.
 
 :sd[Band runs out of bushes into fashion runway]
 
@@ -36,7 +36,7 @@ We also offer a provocative new line of darling little underthings for when a ba
 :sd[Flutes take off sweaters to reveal matching jerseys]\
 :sd[Band plays second part of Pennies from Heaven]
 
-This ensemble comes complete with virgin white pants, hickey-hider sweater, new jerseys, and flashy parkas and can be yours for only $11,600. But wait! Because you're watching this special halftime show, you can take advantage of a very special offer. If you color in the Bear's nose on page 33 of your program, we'll throw in an Ivy League education. Send check or money order payable to The Brown Band, PO box 1145, Brown Station, Providence. Hurry please, this offer expires at midnight. Void in New Jersey.
+This ensemble comes complete with virgin white pants, hickey-hider sweater, new jerseys, and flashy parkas and can be yours for only $11,600. But wait! Because you’re watching this special halftime show, you can take advantage of a very special offer. If you color in the Bear’s nose on page 33 of your program, we’ll throw in an Ivy League education. Send check or money order payable to The Brown Band, PO box 1145, Brown Station, Providence. Hurry please, this offer expires at midnight. Void in New Jersey.
 
 The new Band uniforms that you see are the product of much hard work from members of the Brown community. We’d like to take a few minutes to thank some of those people who were especially helpful to us. The band extends its thanks to Robert Reichley and Joan Fradley of the University Relations office, Jan Teolis in the Purchasing Department, Ted Low and the entire honorary uniform committee, Robert Seiple of the Brown Fund, and Richard Ramsden and Larry Robinson in University Hall. In addition, a most important thank you to all the friends of the band who so generously supported us in our campaign. The Brown Bear would also like to thank the alumni who donated the new bear costume. In recognition of all the wonderful people who made our new look possible, the band forms a number one on the field and plays a new Brown song entitled "Brown has Arrived, Hear! Hear!", written by music graduate Micah Rubenstein, from the Class of ’81.
 

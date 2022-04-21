@@ -12,15 +12,15 @@ date: 1997-11-08
 
 :::script-note
 
-I collaborated on this script with Erminio Pinque (I still don't know if that's spelled right), the Big Nazo director, who had the idea of trying to do a War of the Worlds thing... hence if the entire script reads something like a radio drama this is on purpose (and has the dual role of serving as a backup in case the on-field mike didn't work, which fortunately didn't happen). The lines as set down here are really more of a guideline... the on-field portions were mainly ad-libbed.
+I collaborated on this script with Erminio Pinque (I still don’t know if that’s spelled right), the Big Nazo director, who had the idea of trying to do a War of the Worlds thing... hence if the entire script reads something like a radio drama this is on purpose (and has the dual role of serving as a backup in case the on-field mike didn’t work, which fortunately didn’t happen). The lines as set down here are really more of a guideline... the on-field portions were mainly ad-libbed.
 
-Also, the final "stage direction" is not entirely accurate... the band actually chased the puppets off the field, not vice versa. **- CB '98**
+Also, the final "stage direction" is not entirely accurate... the band actually chased the puppets off the field, not vice versa. **- CB ’98**
 
 :::
 
 ## Pregame
 
-Ladies and gentlemen, friends and alumni, and all you wacky Gates University kids, presenting an organization that's being fined a million dollars a day, it's the Brown University with built-in Java-incompatible Internet Explorer BAND 97!!!
+Ladies and gentlemen, friends and alumni, and all you wacky Gates University kids, presenting an organization that’s being fined a million dollars a day, it’s the Brown University with built-in Java-incompatible Internet Explorer BAND 97!!!
 
 :sd[Band monopolizes field]
 
@@ -36,7 +36,7 @@ Not content to control the software business, Microsoft has expanded in a direct
 
 ## Halftime
 
-**Announcer:** Ladies and gentlemen, friends and alumni, and all you Gates University kids, presenting an organization that can't tell its cerebellum from its medulla, it's the brainiest band in the world (or at least this stadium) THE BROWN UNIVERSITY SPLIT-BRAIN BAND!
+**Announcer:** Ladies and gentlemen, friends and alumni, and all you Gates University kids, presenting an organization that can’t tell its cerebellum from its medulla, it’s the brainiest band in the world (or at least this stadium) THE BROWN UNIVERSITY SPLIT-BRAIN BAND!
 
 :sd[Band lobotomizes field]
 
@@ -46,9 +46,9 @@ Not content to control the software business, Microsoft has expanded in a direct
 
 **Announcer:** Look at this ladies and gentlemen, the Brown Bear and his trainer Mr. Moto are approaching center field to make a special announcement.
 
-**Quasi Moto:** Hello Ladies and Gentlemen and welcome to the half-time show. My name is Mr. Moto and I'll make this short since my head has been mistaken for a football in past games. I'm the trainer of the Brown Bear. I tamed him from a raging wild beast and taught him the poise and charm he exhibits today. This afternoon, in an effort to coerce the rain gods into giving us some sunshine, I'm going to light the Brown Bear on fire as he performs triple flips across the field.
+**Quasi Moto:** Hello Ladies and Gentlemen and welcome to the half-time show. My name is Mr. Moto and I’ll make this short since my head has been mistaken for a football in past games. I’m the trainer of the Brown Bear. I tamed him from a raging wild beast and taught him the poise and charm he exhibits today. This afternoon, in an effort to coerce the rain gods into giving us some sunshine, I’m going to light the Brown Bear on fire as he performs triple flips across the field.
 
-**Announcer:** It seems as if we're in for a real treat today: the Brown Bear performing triple flips across the soggy field as the Brown Band bursts into song! But wait-- something appears to be holding things up-- no matches! Uh oh-- and now unauthorized persons are rushing across the field--
+**Announcer:** It seems as if we’re in for a real treat today: the Brown Bear performing triple flips across the soggy field as the Brown Band bursts into song! But wait-- something appears to be holding things up-- no matches! Uh oh-- and now unauthorized persons are rushing across the field--
 
 :sd[Leslie Putzbuckle, Smego, and the "Scarlet Bear" run across field to Microphone]
 
@@ -56,11 +56,11 @@ Not content to control the software business, Microsoft has expanded in a direct
 
 **Quasi Moto:** Who the heck are you?
 
-**Leslie:** I'm Leslie Putzbuckle. I'm the Captain of Harvard's alternative cheerleading squad. I'm a twirler, a mud wrestler, a baton swallower and an Animal trainer! As a matter of fact, I'd like to introduce Harvard's new Mascot, ‘the Scarlet Bear!'
+**Leslie:** I’m Leslie Putzbuckle. I’m the Captain of Harvard’s alternative cheerleading squad. I’m a twirler, a mud wrestler, a baton swallower and an Animal trainer! As a matter of fact, I’d like to introduce Harvard’s new Mascot, ‘the Scarlet Bear!’
 
-**Announcer:** This is highly unusual-- the Harvard cheerleading captain has interrupted the Brown Band's half-time show to introduce Harvard's new bear-mascot!
+**Announcer:** This is highly unusual-- the Harvard cheerleading captain has interrupted the Brown Band’s half-time show to introduce Harvard’s new bear-mascot!
 
-**Leslie:** C'mon boy, don't be shy Scarlet Bear. Ha! You call that mangely brown mascot-thing of yours a bear? He looks more like a rabid hamster. I think there's only room for one bear at this game. Sick ‘em boy!
+**Leslie:** C’mon boy, don’t be shy Scarlet Bear. Ha! You call that mangely brown mascot-thing of yours a bear? He looks more like a rabid hamster. I think there’s only room for one bear at this game. Sick ‘em boy!
 
 :sd[Bears fight]
 
@@ -76,12 +76,12 @@ Not content to control the software business, Microsoft has expanded in a direct
 
 :sd[Harvard Assistant Coach Joseph Baloney charges across the field]
 
-**Announcer:** Wait-- what's this? It's the Harvard Assistant Coach Joseph Baloney! He's running across the field to make an announcement.
+**Announcer:** Wait-- what’s this? It’s the Harvard Assistant Coach Joseph Baloney! He’s running across the field to make an announcement.
 
-**Coach:** Stop this, stop everything, time out, foul! You people can't do this to our head cheerleader and mascot! Look, it's raining, these bears smell bad, I think we should stop here and everybody go home. Harvard wins by default. Something bad is going down here and I don't want to be around when it does!
+**Coach:** Stop this, stop everything, time out, foul! You people can’t do this to our head cheerleader and mascot! Look, it’s raining, these bears smell bad, I think we should stop here and everybody go home. Harvard wins by default. Something bad is going down here and I don’t want to be around when it does!
 
 :sd[Coach gets pantsed, Brown Band plays "Fire," mass mayhem recommences]
 
-**Announcer:** And there you have it folks, another half-time fiasco! Special thanks to the Big Nazo puppet troupe! Join us next week when the band heads to Hanover to meet the meese, or the mooses, or the whatever the heck they're calling themselves at Dartmouth these days. Byeeeeeeeeee!
+**Announcer:** And there you have it folks, another half-time fiasco! Special thanks to the Big Nazo puppet troupe! Join us next week when the band heads to Hanover to meet the meese, or the mooses, or the whatever the heck they’re calling themselves at Dartmouth these days. Byeeeeeeeeee!
 
 :sd[Band runs off field chased by aliens]

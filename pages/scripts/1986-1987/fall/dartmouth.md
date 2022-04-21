@@ -12,11 +12,11 @@ date: 1986-11-15
 
 ## Pregame
 
-Ladies and Gentlemen, Friends and Alumni, and all you pillars of prehistoric promiscuity: It's the Brown University Band that Time Forgot!!!
+Ladies and Gentlemen, Friends and Alumni, and all you pillars of prehistoric promiscuity: It’s the Brown University Band that Time Forgot!!!
 
 :sd[Band runs out and forms primordial soup]
 
-In the beginning, before there were suicide pills, hot colleges and shanties on the green, there was :sd[dramatic pause] The Brown Band. And it was good. Then, out of the primordial soup crawled the Class of 1987. :sd[lightly] And they were good too. To survive the hostile environment of ONLIWONs, citizens' arrests and turkey tetrazini the class of '87 discovered they needed lots of "Hot Stuff."
+In the beginning, before there were suicide pills, hot colleges and shanties on the green, there was :sd[dramatic pause] The Brown Band. And it was good. Then, out of the primordial soup crawled the Class of 1987. :sd[lightly] And they were good too. To survive the hostile environment of ONLIWONs, citizens’ arrests and turkey tetrazini the class of ’87 discovered they needed lots of "Hot Stuff."
 
 :sd[Band plays "Hot Stuff".]
 
@@ -24,7 +24,7 @@ In the beginning, before there were suicide pills, hot colleges and shanties on 
 
 We now take you back to the bygone days when pterodactyls roosted in the eaves of Rogers, when Raquel Welch and Ringo Starr foraged in the Airport lounge and when Whitehall stood tall among the Sleestaks.
 
-As we sift through the rubble and hit bedrock, we strike upon the highlights of a Brown Band senior's evolution:
+As we sift through the rubble and hit bedrock, we strike upon the highlights of a Brown Band senior’s evolution:
 
 :::script-list
 
@@ -37,31 +37,31 @@ As we sift through the rubble and hit bedrock, we strike upon the highlights of 
 
 :::
 
-Now let's salute this year's seniors as they are spewed forth from the Brown volcano into the real world...or grad schools.
+Now let’s salute this year’s seniors as they are spewed forth from the Brown volcano into the real world...or grad schools.
 
 :sd[Band plays Bits and Pieces as seniors one by one spew from the volcano as their lines are read]
 
-Show Writer Don "I still think we should say 'movers and Quakers'" Apy
+Show Writer Don "I still think we should say ‘movers and Quakers’" Apy
 
 Melissa "I collected a lot of smut for the BDH" Birch
 
 Student conductor Denise "Oh, I found my G-spot" Biscoe
 
-Eric "If you've got the beer, I've got plenty of time" Bloch
+Eric "If you’ve got the beer, I’ve got plenty of time" Bloch
 
-Former student conductor and current Vice President John "Rise and shine, girls, and give me s'mores" Bratton
+Former student conductor and current Vice President John "Rise and shine, girls, and give me s’mores" Bratton
 
-Meredith "This hole's too stretched out. Why don't you try another one?" Brown
+Meredith "This hole’s too stretched out. Why don’t you try another one?" Brown
 
 Trinita "The more you get, the more you want" Brown
 
 Barbara "I turn red" Calhoun
 
-Former corresponding secretary Lisa "I want to have Bob Wells's babies" Cohen
+Former corresponding secretary Lisa "I want to have Bob Wells’s babies" Cohen
 
 Aldon "I hang upside down and beat my drum" Collier
 
-Former recording secretary Ann "Welcome to Bloom Airlines. I'm Cindy-Lu and I'll be your hostess on this flight" De Weer
+Former recording secretary Ann "Welcome to Bloom Airlines. I’m Cindy-Lu and I’ll be your hostess on this flight" De Weer
 
 The Bear John "Anyone care to climb a goalpost?" Ehrenkrantz
 
@@ -75,11 +75,11 @@ Former special events chairperson Nick "For me, being in a bar is like a kid bei
 
 Wes "All over Georgetown" Jones
 
-Juliann "I'm looking for four able-bodied men to hold me, while a fifth beats me with a flute lyre" Kiraly
+Juliann "I’m looking for four able-bodied men to hold me, while a fifth beats me with a flute lyre" Kiraly
 
-Former Voice of the Band Marty "I'm too drunk to copulate, so I'll nominate Scott Johnston" Lester
+Former Voice of the Band Marty "I’m too drunk to copulate, so I’ll nominate Scott Johnston" Lester
 
-Katie "Let's get on the party line" Livingston
+Katie "Let’s get on the party line" Livingston
 
 Drum major Liz "In the Wonderland, under the sink" McCabe
 
@@ -89,11 +89,11 @@ Voice of the Band Rick "How about a souvenir snapshot of you guys hanging out wi
 
 Viyada "Just give me Mel or Harrison" Sarabanchong
 
-Chris "Amazons think I'm gorgeous" Stille
+Chris "Amazons think I’m gorgeous" Stille
 
 Jim "Stop using Vanna Hwite as a weapon FIGHT" Stoddard
 
-Elizabeth "The scary thing is, I've read most of these" Wilen
+Elizabeth "The scary thing is, I’ve read most of these" Wilen
 
 Former HEAD librarian, VICE president, and current President Kirsten "
 
@@ -112,13 +112,13 @@ Former HEAD librarian, VICE president, and current President Kirsten "
 
 ## Halftime
 
-Ladies and Gentlemen, Friends and Alumni, and all you Dartmouth animal lovers; it's the Brown University "Unidentified Flying" Band.
+Ladies and Gentlemen, Friends and Alumni, and all you Dartmouth animal lovers; it’s the Brown University "Unidentified Flying" Band.
 
-Welcome to this week's episode of :sd[low vibrating voice] Band in Space. These are the voyages of the Brown Band; on a four year mission to seek out and find new and unexplored worlds, like the inside of a UCS election booth, the Faunce House Men's Room, and Wil Robinson. To hurtle through space at incredible speeds just for the hell of it. To discover the answer to the eternal mystery of where Brown students take their dates and why? :sd[final dramatic statement] To go where no woman has gone before...like Dartmouth. The Brown Band forms its aimlessly wandering rocket on the field and plays "Star Blazers."
+Welcome to this week’s episode of :sd[low vibrating voice] Band in Space. These are the voyages of the Brown Band; on a four year mission to seek out and find new and unexplored worlds, like the inside of a UCS election booth, the Faunce House Men’s Room, and Wil Robinson. To hurtle through space at incredible speeds just for the hell of it. To discover the answer to the eternal mystery of where Brown students take their dates and why? :sd[final dramatic statement] To go where no woman has gone before...like Dartmouth. The Brown Band forms its aimlessly wandering rocket on the field and plays "Star Blazers."
 
 :sd[the Band forms a rocket on the field and plays "Star Blazers"]
 
-When last we left, Daveth "Vader" McCloughlin, the sheepish leader of the small colony Darmonia on the planet Hanovery, was defending his city from the attempted overthrow by the exiled Dartmonian coed, Gonad the Ovarian. Last seen, Gonad was descending upon the fortified walls of the city, only to be repelled after falling to secure a safe hold. To illustrate these aborted attacks, the Band forms the city gates and plays "I Hear You Knocking, But You Can't Come In."
+When last we left, Daveth "Vader" McCloughlin, the sheepish leader of the small colony Darmonia on the planet Hanovery, was defending his city from the attempted overthrow by the exiled Dartmonian coed, Gonad the Ovarian. Last seen, Gonad was descending upon the fortified walls of the city, only to be repelled after falling to secure a safe hold. To illustrate these aborted attacks, the Band forms the city gates and plays "I Hear You Knocking, But You Can’t Come In."
 
 :sd[the Band takes the form of the closed city gates and plays "I Hear You Knocking..."]
 

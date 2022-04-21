@@ -12,23 +12,23 @@ date: 1999-10-09
 
 ## Pregame
 
-Ladies and Gentlemen, Friends and Alumni, presenting an organization that likes to spend its nights in the Sun Lab, on its knees, learning Accessor Methods from the consultant, it's the Brown University -- our objects are public; how 'bout yours? -- BAND!
+Ladies and Gentlemen, Friends and Alumni, presenting an organization that likes to spend its nights in the Sun Lab, on its knees, learning Accessor Methods from the consultant, it’s the Brown University -- our objects are public; how ‘bout yours? -- BAND!
 
 As a public service for those poor souls taking CS 15, the band would now like to present the complete source code for Tetris, as written by our illustrious president, Kyle. "_please,_ PLEASE let me pass this class..."
 
 :sd[Band calls constructor method for football, plays "Championship"]
 
-Hoping to provide you with the _actual_ code, the band turned to our splendiferous vice president, Julia. (Quietly:) "Huh? what's that? ... oh." Um, it seems that Julia just dropped the class, so you're all just out of luck.
+Hoping to provide you with the _actual_ code, the band turned to our splendiferous vice president, Julia. (Quietly:) "Huh? what’s that? ... oh." Um, it seems that Julia just dropped the class, so you’re all just out of luck.
 
 :sd[Band plays #4]
 
 ## Halftime
 
-Ladies and Gentlemen, Friends and Alumni, Presenting an organization that tripled Brown's endowment with one night's panhandling on Thayer Street, it's the Brown University "Richer than a Meeting Street Cafe mousse cake" Band!
+Ladies and Gentlemen, Friends and Alumni, Presenting an organization that tripled Brown’s endowment with one night’s panhandling on Thayer Street, it’s the Brown University "Richer than a Meeting Street Cafe mousse cake" Band!
 
 :sd[Band onto field]
 
-The Princeton Band, which is better endowed than Cornell, could afford to travel to today's game in the solid-gold train powered by pure funk that daddy bought them. But for this week anyway, Brown is the funkiest band in the Ivy League. After all, P-funk is playing in Providence tomorrow. Watch now as the band takes last week's "Sweet Home Chicago" and tears its roof off.
+The Princeton Band, which is better endowed than Cornell, could afford to travel to today’s game in the solid-gold train powered by pure funk that daddy bought them. But for this week anyway, Brown is the funkiest band in the Ivy League. After all, P-funk is playing in Providence tomorrow. Watch now as the band takes last week’s "Sweet Home Chicago" and tears its roof off.
 
 :sd[Band forms the house again, plays Funk Funkety Funk, and tears the roof of at some opportune moment]
 

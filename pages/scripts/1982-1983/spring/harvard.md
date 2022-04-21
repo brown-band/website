@@ -8,7 +8,7 @@ teams:
 date: 1983-02-25
 ---
 
-Ladies and Gentlemen, Friends and Alumni, and both of you loyal Brunonians who voted in the USC elections last week, it's the Brown University "maybe Jacob Neusner was right after all" Band!
+Ladies and Gentlemen, Friends and Alumni, and both of you loyal Brunonians who voted in the USC elections last week, it’s the Brown University "maybe Jacob Neusner was right after all" Band!
 
 How many times will we be forced to vote for the UCS? Are we talking multiple elections here or what?
 

@@ -12,7 +12,7 @@ date: 1997-11-01
 
 ## Pregame
 
-Ladies and gentlemen, friends and alumni, freshman mothers and fathers (and their parents), presenting an organization that now has a corner on the world beef jerky market, it's the Brown University "Please pass the parbroiled percussionist" BAND!
+Ladies and gentlemen, friends and alumni, freshman mothers and fathers (and their parents), presenting an organization that now has a corner on the world beef jerky market, it’s the Brown University "Please pass the parbroiled percussionist" BAND!
 
 :sd[Band runs onto field, forms an oblong kidney stone and plays (take a wild guess...) "Championship"]
 
@@ -24,11 +24,11 @@ The band has been considering a change in its dietary habits-- cannibalism. Acco
 
 ## Halftime
 
-Ladies and gentlemen, friends and alumni, freshman mothers and fathers (and their parents), presenting an organization that dressed as El Niï¿½o for Hallowe'en, it's the Brown University "All I got was a rock" BAND!
+Ladies and gentlemen, friends and alumni, freshman mothers and fathers (and their parents), presenting an organization that dressed as El Niï¿½o for Hallowe’en, it’s the Brown University "All I got was a rock" BAND!
 
 :sd[Band spooks field]
 
-And as long as we're on the subject of rocks (bear with me, this does get back to rocks), boy are we glad the Cornell game is at home this year. It would've been a real pain to hitch a ride on the Pathfinder to get to ol' Big Red. What I want to know is, is NASA jockeying for sponsors in the automotive industry or something? Pathfinder? Explorer? Yeah, and I bet you thought all those Ford commercials were shot in Australia!
+And as long as we’re on the subject of rocks (bear with me, this does get back to rocks), boy are we glad the Cornell game is at home this year. It would’ve been a real pain to hitch a ride on the Pathfinder to get to ol’ Big Red. What I want to know is, is NASA jockeying for sponsors in the automotive industry or something? Pathfinder? Explorer? Yeah, and I bet you thought all those Ford commercials were shot in Australia!
 
 Our resident hacker recently broke into the NASA computer and unearthed secret photographs from the Mars mission revealing :sd[beat] what else? MORE ROCKS! Top Secret Classified rocks which we now reveal to you at great personal risk:
 
@@ -46,7 +46,7 @@ And now, Ladies and Gentlemen, Friends and Alumni, the Brown University Band is 
 
 :sd[Band forms a concert arch, Lusitana Band marches in from visitor-side sideline playing "Oragar"]
 
-The Lusitana Band hails from the Lusitana Youth Club in sunny Cumberland, Rhode Island, which, at 75 years of age, is one of the oldest Portuguese-American social clubs in New England. Watch now as the two bands, conducted by the Lusitana Band's Maestro Joao Soares [Zhao Suarez] plays "Vinho do Porto" [Veenyu du Portu].
+The Lusitana Band hails from the Lusitana Youth Club in sunny Cumberland, Rhode Island, which, at 75 years of age, is one of the oldest Portuguese-American social clubs in New England. Watch now as the two bands, conducted by the Lusitana Band’s Maestro Joao Soares [Zhao Suarez] plays "Vinho do Porto" [Veenyu du Portu].
 
 :sd[Both bands form bottle, play "Vinho do Porto"]
 

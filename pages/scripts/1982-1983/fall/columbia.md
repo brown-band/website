@@ -11,7 +11,7 @@ teams:
 date: 1982-11-20
 ---
 
-Ladies and Gentlemen, Friends and Alumni, and dearly beloved, it's the Brown University Night of the Living Band
+Ladies and Gentlemen, Friends and Alumni, and dearly beloved, it’s the Brown University Night of the Living Band
 
 :sd[Band stumbles on to field as zombies into a coffin]
 
@@ -25,7 +25,7 @@ We are gathered here today to salute things which have recently passed away.
 - Leonid Brezhnev
 - Ernie Bushmiller
 - New York City
-- Ed Koch's Political Ambitions
+- Ed Koch’s Political Ambitions
 - The dead baby
 - And the Brown Band
 
@@ -33,7 +33,7 @@ We are gathered here today to salute things which have recently passed away.
 
 :sd[Band falls down on field]
 
-Just Kidding. Today we add to the list a dear friend - Baker Field. Paying tribute to this famous coliseum, where many hard fought battles were fought hard, the Band forms a coffin and plays "Chopin's Funeral March".
+Just Kidding. Today we add to the list a dear friend - Baker Field. Paying tribute to this famous coliseum, where many hard fought battles were fought hard, the Band forms a coffin and plays "Chopin’s Funeral March".
 
 :sd[Form a coffin and play Funeral March]
 
@@ -54,11 +54,11 @@ We wish the Columbia Football team good luck at their new home in the Meadowland
 
 :sd[Form it and play it - at end of song Flag is thrown]
 
-Alright Band, that's it! You've been penalized five yards for obscene formation.
+Alright Band, that’s it! You’ve been penalized five yards for obscene formation.
 
 :sd[Formation shrinks five yards]
 
-This is our last show of the year and we're going to tell all the stupid jokes that weren't intelligent enough for any other school.
+This is our last show of the year and we’re going to tell all the stupid jokes that weren’t intelligent enough for any other school.
 
 What do you get when you mix Milk of Magnesia and Vodka?\
 A Phillips Screwdriver.\
@@ -73,6 +73,6 @@ In memory of these dead jokes, the band forms a chicken on the field, salutes th
 
 :sd[Band forms a Chicken and plays "The Mag 7"] :sd[After song band members raise hands]
 
-What is it band? Oh - it's down the hall, second door on the left.
+What is it band? Oh - it’s down the hall, second door on the left.
 
 :sd[Band marches off to Ever True]

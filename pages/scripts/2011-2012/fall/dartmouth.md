@@ -78,7 +78,7 @@ The best president of the Band\
 In the entire land,\
 She keeps closed the Band’s Pandora’s Box._
 
-Seniors, we love you! But the fun's not over just yet - stay tuned for more cool jokes and hilarious tunes at halftime!
+Seniors, we love you! But the fun’s not over just yet - stay tuned for more cool jokes and hilarious tunes at halftime!
 
 ## Halftime
 

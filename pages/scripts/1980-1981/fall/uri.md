@@ -11,9 +11,9 @@ teams:
 date: 1980-11-27
 ---
 
-Ladies and gentlemen, friends and alumni, and that entire RAM band, presenting the only turkey band in Rhode Island, the Brown University “Do you think we'll make Macy's by 12?” Band.
+Ladies and gentlemen, friends and alumni, and that entire RAM band, presenting the only turkey band in Rhode Island, the Brown University “Do you think we’ll make Macy’s by 12?” Band.
 
-The band takes you back to those glorious days of 1620, when Howard Swearer was president of Pilgrim State. That was about the time that the old curriculum was introduced (and the new curriculum was just a twinkle in Dean Sheridan's eye).
+The band takes you back to those glorious days of 1620, when Howard Swearer was president of Pilgrim State. That was about the time that the old curriculum was introduced (and the new curriculum was just a twinkle in Dean Sheridan’s eye).
 
 Remember those old courses:
 
@@ -32,7 +32,7 @@ Watch now as the Band eats that first Thanksgiving dinner at Plymouth and plays 
 
 :sd[The band forms a line on the 50 yard line and plays "Rock Around the Clock."]
 
-Turning from turkeys to turkeys, we look at the URI band. Oh!!! They're not there. We hadn't noticed. We wonder where they might be. Could it be that Little Bo Peep has lost her sheep. Or has she lost something else? We form a shepherd's transistor staff and play “Where, oh Where has my Little Ram Gone?”
+Turning from turkeys to turkeys, we look at the URI band. Oh!!! They’re not there. We hadn’t noticed. We wonder where they might be. Could it be that Little Bo Peep has lost her sheep. Or has she lost something else? We form a shepherd’s transistor staff and play “Where, oh Where has my Little Ram Gone?”
 
 :sd[The band runs around and forms another line on the 50 yard line. They then play “The Horse.”]
 

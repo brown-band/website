@@ -12,7 +12,7 @@ date: 1996-09-21
 
 ## Pregame
 
-Ladies and gentlemen, friends and alumnae, presenting an organization that can dance the Macarena better than Al Gore, it's the Brown University "hey watch it, that was my foot!" Band!
+Ladies and gentlemen, friends and alumnae, presenting an organization that can dance the Macarena better than Al Gore, it’s the Brown University "hey watch it, that was my foot!" Band!
 
 :sd[Band (light on its feet) enters from sideline, forms football]
 
@@ -30,11 +30,11 @@ Welcome to another exciting year of Brown football!
 
 ## Halftime
 
-Ladies and gentlemen, friends and alumnae, presenting the only organization that quotes Kierkegaard more often than President Gregorian, it's the Brown University "sound of one hand clapping" Band!
+Ladies and gentlemen, friends and alumnae, presenting the only organization that quotes Kierkegaard more often than President Gregorian, it’s the Brown University "sound of one hand clapping" Band!
 
 :sd[Band philosophically strides onto field]
 
-Recently the band has been pondering the meaning of life. We are sure we are not alone in this however, as the Yale Band probably wonders whether their lives have any meaning every day. Nonetheless we have set out on a search for the answers to life's imponderables, like:
+Recently the band has been pondering the meaning of life. We are sure we are not alone in this however, as the Yale Band probably wonders whether their lives have any meaning every day. Nonetheless we have set out on a search for the answers to life’s imponderables, like:
 
 - Why are we here?
 - What is the nature of reality?
@@ -42,23 +42,23 @@ Recently the band has been pondering the meaning of life. We are sure we are not
   and
 - What is the Ratty cheese sauce really made of?
 
-First we sought for answers at the traveling Smithsonian exhibit which has stopped in Providence. Unfortunately, there is a long list of things we didn't find there. Here are some of them:
+First we sought for answers at the traveling Smithsonian exhibit which has stopped in Providence. Unfortunately, there is a long list of things we didn’t find there. Here are some of them:
 
 - Lounge space in First-year dorms
-- Bob Dole's chances of getting elected
-- Providence Mayor "Buddy" Cianci's ashtray
-- Ross Perot's chances of being noticed
+- Bob Dole’s chances of getting elected
+- Providence Mayor "Buddy" Cianci’s ashtray
+- Ross Perot’s chances of being noticed
 - The meaning of life\
   and
 - Yale mascot Handsome Dan XIV
 
-Watch now as the band forms the dialectic play of thesis and antithesis and plays "Hegel's Mambo."
+Watch now as the band forms the dialectic play of thesis and antithesis and plays "Hegel’s Mambo."
 
-:sd[Band forms diagram of Hegel's dialectic and plays "Johnny's Mambo"]
+:sd[Band forms diagram of Hegel’s dialectic and plays "Johnny’s Mambo"]
 
-Next we tried to find meaning in so-called extreme sports. Unfortunately we learned that next year's Extreme Games will be taking place in New Haven. While the Extreme Games in Providence included such events as street luge and synchronized bungee-jumping, the New Haven Extreme Games will have bullet dodging, getting food at a dining hall, the mugger slalom, and having a grad student grade your term paper.
+Next we tried to find meaning in so-called extreme sports. Unfortunately we learned that next year’s Extreme Games will be taking place in New Haven. While the Extreme Games in Providence included such events as street luge and synchronized bungee-jumping, the New Haven Extreme Games will have bullet dodging, getting food at a dining hall, the mugger slalom, and having a grad student grade your term paper.
 
-Another philosophical question that has plagued us recently is the epistemological problem of Yale's existence. [pause] While there seems to be plenty of evidence to support it we believe there is ample room for doubt. True, our last two presidents claim to be Yale graduates, but their respective performances in office suggest a complete lack of education. This does not prove that Yale doesn't exist, however, because it is consistent with the level of academic rigor supposedly found there. Watch now as the band forms John Rawls' veil of ignorance and plays "Subjective Man Born."
+Another philosophical question that has plagued us recently is the epistemological problem of Yale’s existence. [pause] While there seems to be plenty of evidence to support it we believe there is ample room for doubt. True, our last two presidents claim to be Yale graduates, but their respective performances in office suggest a complete lack of education. This does not prove that Yale doesn’t exist, however, because it is consistent with the level of academic rigor supposedly found there. Watch now as the band forms John Rawls’ veil of ignorance and plays "Subjective Man Born."
 
 :sd[Band forms veil and plays "Brown Man Born"]
 

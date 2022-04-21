@@ -22,9 +22,9 @@ The band recently heard about the travesty that is the Harvard Beer Company. It�
 
 ## Halftime
 
-Ladies and gentlemen, friends and alumni, presenting an organization that just got vaccinated, it's the Brown University "bring on your crimson disease" Band!
+Ladies and gentlemen, friends and alumni, presenting an organization that just got vaccinated, it’s the Brown University "bring on your crimson disease" Band!
 
-We're happy to be here in germ-infested Cambridge. In fact, the band is looking into enhancing their sound much the same way the Harvard band has with their whooping cough section. Well, at least I’m up here, not subject to all of that… [break into coughing fit]. Ugh! It’s everywhere! With this recent outbreak of disease in Harvard, at least those Harvard students don't have to worry about STDs. Watch now as the band blows its nose and plays **_Bring the Kleenex_**.
+We’re happy to be here in germ-infested Cambridge. In fact, the band is looking into enhancing their sound much the same way the Harvard band has with their whooping cough section. Well, at least I’m up here, not subject to all of that… [break into coughing fit]. Ugh! It’s everywhere! With this recent outbreak of disease in Harvard, at least those Harvard students don’t have to worry about STDs. Watch now as the band blows its nose and plays **_Bring the Kleenex_**.
 
 :sd[Band forms nose, plays Bring the Victory, and Flutes sneeze out of nose]
 

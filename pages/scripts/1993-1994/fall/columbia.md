@@ -12,7 +12,7 @@ date: 1993-11-20
 
 ## Halftime
 
-Ladies and gentlemen, friends and alumni, presenting an organization that enjoys singing in the rain, it's the Brown University - "Somewhere over the rainbow" - BAND!!!
+Ladies and gentlemen, friends and alumni, presenting an organization that enjoys singing in the rain, it’s the Brown University - "Somewhere over the rainbow" - BAND!!!
 
 :sd[Band follows the yellow brick road to the field.]
 
@@ -33,7 +33,7 @@ Like death and taxes, we bring the victory to Brown.
 
 They yell and they curse and they scream and they fuss,\
 But eventually Columbia goes home on their bus.\
-Go home to Harlem - you've lost yet again,\
+Go home to Harlem - you’ve lost yet again,\
 But hey - at least your school is still better than Penn!!
 
 Watch now as the Band salutes our team and plays "Ivy Heaven."
@@ -53,14 +53,14 @@ Brown Student Agencies, an independent student-run organization loosely affiliat
 
 :::
 
-Watch now as the Band forms the Film Bulletin and plays "Don't Hold Your Breath."
+Watch now as the Band forms the Film Bulletin and plays "Don’t Hold Your Breath."
 
 :sd[Band forms Film Bulletin and plays Locomotive Breath.]
 
-Much has occurred here at Brown since our last home game two weeks ago. Before reviewing these events, we'd like to apologize for the fire in the Stuart Theatre. We told the guy over and over again "The Ratty, The Ratty," but apparently he misunderstood. Video games and a jukebox were recently added to Josiah's. Future UFS plans call for a hot tub in The Gate and bumper cars in the Ivy Room. All proceeds go toward improving the selection of the vegan bar at the Ratty. Popular alternative band Belly recently cancelled their BCA-Alumnae Hall show in favor of a WBRU-FM sponsored concert. Apparently impressed with general manager Jason Bordoff's ability to outrage and anger the Brown community, the Film Bulletin has offered Bordoff an honorary columnist position.
+Much has occurred here at Brown since our last home game two weeks ago. Before reviewing these events, we’d like to apologize for the fire in the Stuart Theatre. We told the guy over and over again "The Ratty, The Ratty," but apparently he misunderstood. Video games and a jukebox were recently added to Josiah’s. Future UFS plans call for a hot tub in The Gate and bumper cars in the Ivy Room. All proceeds go toward improving the selection of the vegan bar at the Ratty. Popular alternative band Belly recently cancelled their BCA-Alumnae Hall show in favor of a WBRU-FM sponsored concert. Apparently impressed with general manager Jason Bordoff’s ability to outrage and anger the Brown community, the Film Bulletin has offered Bordoff an honorary columnist position.
 
 Watch now as the Band salutes the cutting edge of rock and plays "For Us, not for Brown."
 
 :sd[Band forms a hand showing number 1 and plays For Bruno and For Brown.]
 
-Well that wraps up this year's football season, but be sure to catch us this winter at Meehan Auditorium as the nation's best and only skating Band!!!
+Well that wraps up this year’s football season, but be sure to catch us this winter at Meehan Auditorium as the nation’s best and only skating Band!!!

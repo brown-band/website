@@ -3,7 +3,7 @@ title: Skating Party Show
 date: 1985-02-23
 ---
 
-Ladies and Gentlemen, friends and Alumni, Presenting the only non-nuclear power ever to be banned from the People's Republic of China because of its Offensive Capability, It's the Brown University "You can read about us in the Book of Revelations" Band.
+Ladies and Gentlemen, friends and Alumni, Presenting the only non-nuclear power ever to be banned from the People’s Republic of China because of its Offensive Capability, It’s the Brown University "You can read about us in the Book of Revelations" Band.
 
 :sd[Skate out while above is read. Play "In The Fray" from the chorus, no repeat. Skate into Monolith]
 
@@ -16,10 +16,10 @@ Turning from Cro-Magnon to Magnum P.I., the Band goes for a spin in a time machi
 
 :::script-list
 
-- A) Konstantin Chernenko's surprising appearance at President Bush's second wedding, in 1986
-- B) Andy Van Dam's change of BRUNET into a blonde, in 1987
+- A) Konstantin Chernenko’s surprising appearance at President Bush’s second wedding, in 1986
+- B) Andy Van Dam’s change of BRUNET into a blonde, in 1987
 - C) The presence of Pembroke 68 organizers on the Board of Directors of General Dynamics, in 1988
-- and D) The Pentagon's use of the Space Shuttle to launch a protective device into space to prevent the penetration of Soviet Missiles, in 1989
+- and D) The Pentagon’s use of the Space Shuttle to launch a protective device into space to prevent the penetration of Soviet Missiles, in 1989
 
 :::
 
@@ -27,7 +27,7 @@ Watch now as the Brown Band salutes this latest example of military counter-inte
 
 :sd[Play "Star Wars"]
 
-Now how much would you pay? But wait! Don't answer yet because you also get:
+Now how much would you pay? But wait! Don’t answer yet because you also get:
 
 :sd[Counterskate playing Number Four, no stop time. Skate into "B" Play Number Two, no singing.]
 

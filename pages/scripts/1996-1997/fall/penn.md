@@ -48,6 +48,6 @@ Join us next week in Meehan Auditorium for the Men’s Hockey season opener agai
 
 :sd[Highlanders march off playing #1... Band follows them off also playing #1]
 
-Join us next week when the Bears pummel Penn and the band welcomes the Rhode Island Highlanders. There'll be bagpipes aplenty!
+Join us next week when the Bears pummel Penn and the band welcomes the Rhode Island Highlanders. There’ll be bagpipes aplenty!
 
 :sd[Band plays #1, marches off field]

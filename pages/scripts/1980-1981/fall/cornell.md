@@ -19,7 +19,7 @@ The Brown Band and the Cornell Band would like to announce their somewhat hasty 
 > It’s the story of the band of Bruno,\
 > Who was bringing up a half a pint of scotch\
 > All of them had pants of white, just like virgins,\
-> But they really weren't.
+> But they really weren’t.
 
 The Band now offers a musical description of their premarital bliss.
 

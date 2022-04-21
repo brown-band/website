@@ -10,7 +10,7 @@ date: 1984-02-18
 
 :sd[Band skates out onto ice. In front, one person is holding up a fish, olympic torch style. In back of them, the trombones play their Olympic Theme cheer. Band forms a fish on the ice.]
 
-Ahh! Love them bass notes! You know, we have haddocks from herring people carp about how the Brown Band flounders out here on the ice. Well, our sole response is that we do not do it on porpoise. Heck, all that we really want to do is to make lox and lox of bad puns. If our sound is a little out of perch tonight, it's merely because we have not tuna'd up. Even so, don't you like the way we whale our scales? Watch now as the Band salutes our fine finned friends, nets a fish on the ice, and beats it.
+Ahh! Love them bass notes! You know, we have haddocks from herring people carp about how the Brown Band flounders out here on the ice. Well, our sole response is that we do not do it on porpoise. Heck, all that we really want to do is to make lox and lox of bad puns. If our sound is a little out of perch tonight, it’s merely because we have not tuna’d up. Even so, don’t you like the way we whale our scales? Watch now as the Band salutes our fine finned friends, nets a fish on the ice, and beats it.
 
 :sd[Band plays "Beat It." Most of the people in the fish head towards the net and stop when they reach it. One person plays hockey with a fish. At the end, the Band forms a pair of Mickey Mouse ears.]
 

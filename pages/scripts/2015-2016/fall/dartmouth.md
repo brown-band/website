@@ -12,11 +12,11 @@ date: 2015-11-14
 
 ## Pregame
 
-Ladies and gentlemen, friends and alumni, presenting an organization that can't see the forest for the tree stumps, it's the Brown University "we're soOoOo poplar-lar" BANNNDDDDDDDDDDD!
+Ladies and gentlemen, friends and alumni, presenting an organization that can’t see the forest for the tree stumps, it’s the Brown University "we’re soOoOo poplar-lar" BANNNDDDDDDDDDDD!
 
-We discovered recently that Dartmouth has a "Woodsmen's Team." What is this noble sport, you ask? We don't really know, but their website describes "the thrilling ring and crunch of the keen axes as they bite into the peeled and glistening wood... You stand on top of an 8-inch-thick block of poplar thinking you will never break through. Then your axe severs the last fibers and you collapse, surrounded by a whooping and hooting circle of friends." Now that you mention it, this doesn't sound half bad.
+We discovered recently that Dartmouth has a "Woodsmen’s Team." What is this noble sport, you ask? We don’t really know, but their website describes "the thrilling ring and crunch of the keen axes as they bite into the peeled and glistening wood... You stand on top of an 8-inch-thick block of poplar thinking you will never break through. Then your axe severs the last fibers and you collapse, surrounded by a whooping and hooting circle of friends." Now that you mention it, this doesn’t sound half bad.
 
-Watch now as the band forms a lumberjack's trusty axe and plays "I Chop Some Wood."
+Watch now as the band forms a lumberjack’s trusty axe and plays "I Chop Some Wood."
 
 :sd[Band forms an axe and plays "I Touch Myself."]
 
@@ -27,7 +27,7 @@ Speaking of wood, we heard that a dead tree stump on campus, the "Lone Pine," is
 - A. A lone yob starting fires in the wilderness
 - B. Treebeard and his happy tree friends
 - C. Your ~favorite~ sheep
-- D. Hard alcohol, since that's the only way to get it on campus
+- D. Hard alcohol, since that’s the only way to get it on campus
 - E. A living tree. Literally any living tree, and
 - F. THE PRINCETON BAND!
 
@@ -41,13 +41,13 @@ Stay tuned for some celebrations and some tears at halftime as we honor our grad
 
 ## Halftime
 
-Ladies and gentlemen, friends and alumni, presenting an organization that wants to give rhyming a try, it's the Brown University "this will surely make us cry, :sd[pause] omg did you see what we did there?" BAANNNNNNDD!!!!!!!!!!
+Ladies and gentlemen, friends and alumni, presenting an organization that wants to give rhyming a try, it’s the Brown University "this will surely make us cry, :sd[pause] omg did you see what we did there?" BAANNNNNNDD!!!!!!!!!!
 
-If you didn't know, today is our senior game! We have so many feelings about our graduating seniors (please FOUR MORE YEARS) and we want to tell them to you in the only way we know how. While we thank you, remember to show your love for us next year... with your wallets, of course, when you make generous donations to the Brown University Band. Watch now as the band honors its seniors by forming their favorite drink, which they can now legally consume, and drops some sick rhymes.
+If you didn’t know, today is our senior game! We have so many feelings about our graduating seniors (please FOUR MORE YEARS) and we want to tell them to you in the only way we know how. While we thank you, remember to show your love for us next year... with your wallets, of course, when you make generous donations to the Brown University Band. Watch now as the band honors its seniors by forming their favorite drink, which they can now legally consume, and drops some sick rhymes.
 
 :sd[Band forms a champagne glass with senior bubbles and plays "Bits & Pieces" after each senior Limerick.]
 
-_Amy's exit will leave us distressed,\
+_Amy’s exit will leave us distressed,\
 Her scripts were truly the best\
 She has Delaware Pride,\
 and would take it in stride\
@@ -71,26 +71,26 @@ Your costumes are sleek\
 with particular chic\
 Our love for you will never perish._
 
-_Here's to Jesus, our cool pal\
+_Here’s to Jesus, our cool pal\
 We love his sick moves during Al.\
 A master of kazoo,\
 and piccolo, too,\
 And miss him dearly, we shall._
 
-_Oh, how we'll miss Kenneth Lin\
-The saxophone section he's in.\
+_Oh, how we’ll miss Kenneth Lin\
+The saxophone section he’s in.\
 A music maestro he is,\
 On the piano, what a whiz\
-When we're with him, the band always wins._
+When we’re with him, the band always wins._
 
 _Carlos Lopez is an awesome DJ,\
 The guitar, trumpet, and snare he did play\
-We'll miss him a lot,\
-We'd rather have him than not,\
-Oh please please please don't go away._
+We’ll miss him a lot,\
+We’d rather have him than not,\
+Oh please please please don’t go away._
 
 _As one of the Three Musketeers,\
-Armani's smile filled us with cheers,\
+Armani’s smile filled us with cheers,\
 To NYC he did lead us,\
 On t-bone he did please us,\
 When he leaves we will be filled with tears._
@@ -103,11 +103,11 @@ while juggling his mallets with glamour._
 
 _Goodbye to our gangly friend Charlie\
 whose conducting skills were quite gnarly\
-he'd get up on the stands\
+he’d get up on the stands\
 and wave those perfect hands\
-We'd even watch sometimes, bizarrely._
+We’d even watch sometimes, bizarrely._
 
-_Here's to our scriptwriter Abby,\
+_Here’s to our scriptwriter Abby,\
 Whose prose was nothing too shabby,\
 That skill with a sax\
 And spirit to the max\
@@ -117,7 +117,7 @@ _Anaisa is queen with her crown\
 Her spirit radiates throughout Brown\
 She rocks on that mello\
 Our hearts turn to jello\
-When she leaves we'll collectively frown._
+When she leaves we’ll collectively frown._
 
 _Our dear old friend Chris the VP,\
 Could sure harmonize to a T,\
@@ -128,9 +128,9 @@ Without you how sad we will be!_
 _We will miss our dear Grandma named Ben\
 Who is always 11 out of 10\
 His hats will amuse\
-on any instrument he's muse\
-His caliber won't be matched again._
+on any instrument he’s muse\
+His caliber won’t be matched again._
 
-We guess this is goodbye, beloved seniors! Thank you for four incredible years, but thankfully we've still got the football game at Columbia Columbia next Friday and all of hockey season to show our love for you. Brown Band out!
+We guess this is goodbye, beloved seniors! Thank you for four incredible years, but thankfully we’ve still got the football game at Columbia Columbia next Friday and all of hockey season to show our love for you. Brown Band out!
 
 :sd[#1 off the field.]

@@ -12,11 +12,11 @@ date: 1986-10-04
 
 ## Halftime
 
-Ladies and Gentlemen, Friends and Alumni, and all you concupiscent Cantabridgians, it's the Brown University "What! You're having a party and didn't invite us?" Band!
+Ladies and Gentlemen, Friends and Alumni, and all you concupiscent Cantabridgians, it’s the Brown University "What! You’re having a party and didn’t invite us?" Band!
 
 :sd[Band runs out onto field]
 
-Whenever the Band comes here to Cambridge it is always amazed about the amount of construction that is... Woah! Wait a minute Band! :sd[Band stops running] Band, are you sober enough to know where we are? :sd[Band puts hands up in the air and shouts, "NO!"] Judging from the profusion of tacky orange and black clothing, I think we're in :sd[short dramatic pause] Princeton! :sd[Band scatters, continues to run around screaming in apparent panic] Oh, I'm sorry, folks, but I guess we sort of, well, got you confused with Harvard. I'm sure you'll all agree, it's a very easy mistake. But I guess we should have known better; after all, Harvard does have some sort of reputation. The Band has calmed itself down on the field by forming its favorite pacifier, a bottle of Jack Daniels, and playing "Band Bus Blues."
+Whenever the Band comes here to Cambridge it is always amazed about the amount of construction that is... Woah! Wait a minute Band! :sd[Band stops running] Band, are you sober enough to know where we are? :sd[Band puts hands up in the air and shouts, "NO!"] Judging from the profusion of tacky orange and black clothing, I think we’re in :sd[short dramatic pause] Princeton! :sd[Band scatters, continues to run around screaming in apparent panic] Oh, I’m sorry, folks, but I guess we sort of, well, got you confused with Harvard. I’m sure you’ll all agree, it’s a very easy mistake. But I guess we should have known better; after all, Harvard does have some sort of reputation. The Band has calmed itself down on the field by forming its favorite pacifier, a bottle of Jack Daniels, and playing "Band Bus Blues."
 
 :sd[the Band forms a bottle on the field and plays "Basin Street Blues"]
 

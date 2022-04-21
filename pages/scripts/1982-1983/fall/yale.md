@@ -10,7 +10,7 @@ teams:
 date: 1982-09-18
 ---
 
-Ladies and Gentlemen, Friends and Alumni, and all you future supporters of the band, it's the Brown University, "Don't we need new uniforms?" Band.
+Ladies and Gentlemen, Friends and Alumni, and all you future supporters of the band, it’s the Brown University, "Don’t we need new uniforms?" Band.
 
 :sd[Band runs onto field and forms a question mark "?"]
 
@@ -36,11 +36,11 @@ What has caused this rash of changes at an otherwise peaceful university? Has Mr
 
 :sd[Band forms E.T.]
 
-No, not ET. These beings are far stranger. They make awful sounding noises and seem to on1y be able to understand the most primitive signals. Yes, it's the dread Yalians!
+No, not ET. These beings are far stranger. They make awful sounding noises and seem to on1y be able to understand the most primitive signals. Yes, it’s the dread Yalians!
 
 :sd[E.T. becomes M.T.]
 
-Turning from ET to MT, the cranial content of a typical Yalie, and turning from MT to MTV, the summer's cable television craze, the band is proud to present our newest and most realistic video tape ever.
+Turning from ET to MT, the cranial content of a typical Yalie, and turning from MT to MTV, the summer’s cable television craze, the band is proud to present our newest and most realistic video tape ever.
 
 :sd[M.T. becomes M.T.V.]
 
@@ -48,4 +48,4 @@ Watch now as we show our own rendering of "Does anybody really know what time it
 
 :sd[Band Plays "Does Anybody Really Know What Time it is?" and forms a digital clock with the numbers 9:69.]
 
-Be back next week when we'll take off our sweaters and more!
+Be back next week when we’ll take off our sweaters and more!

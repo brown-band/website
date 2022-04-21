@@ -12,21 +12,21 @@ date: 2010-10-16
 
 ## Pregame
 
-Ladies and Gentlemen, friends and alumni, presenting an organization that doesn't restrict where its members can scrounge up a meal, it's the Brown University "Please Sir, Can I Have Some More?" BAANNNNNNDDDD!
+Ladies and Gentlemen, friends and alumni, presenting an organization that doesn’t restrict where its members can scrounge up a meal, it’s the Brown University "Please Sir, Can I Have Some More?" BAANNNNNNDDDD!
 
-Sorry, we know that dining club jokes aren't terribly original. But, when your school has something like a Dining Club Taskforce, you're asking for it! We know that you're the "Hungry Hungry Tigers" of the Ivy League, but do you have dining clubs that accommodate the richly diverse student body of your fine university? Oh, wait... what diversity? Watch as the band celebrates Brown's freedom of dinner choice and diversity!
+Sorry, we know that dining club jokes aren’t terribly original. But, when your school has something like a Dining Club Taskforce, you’re asking for it! We know that you’re the "Hungry Hungry Tigers" of the Ivy League, but do you have dining clubs that accommodate the richly diverse student body of your fine university? Oh, wait... what diversity? Watch as the band celebrates Brown’s freedom of dinner choice and diversity!
 
 :sd[Band forms Number Muncher and plays "Any Way You Want It."]
 
-Unfortunately, while our students do have more dining opportunities, we have to pay an arm and a leg to attend the University. Not all of us have Mommy and Daddy's loving support (and trust funds) at our full command! We know that not all Princeton students do either, which is why they should go searching for some tigers FAST! Did you know that 10 tiger phalluses—used in rare Eastern healing techniques—can pay for one year at Princeton? Time to get hunting! Watch as the band is relieved that its university's mascot isn't such a hot commodity.
+Unfortunately, while our students do have more dining opportunities, we have to pay an arm and a leg to attend the University. Not all of us have Mommy and Daddy’s loving support (and trust funds) at our full command! We know that not all Princeton students do either, which is why they should go searching for some tigers FAST! Did you know that 10 tiger phalluses—used in rare Eastern healing techniques—can pay for one year at Princeton? Time to get hunting! Watch as the band is relieved that its university’s mascot isn’t such a hot commodity.
 
 :sd[Band forms a B and plays #3.]
 
 ## Halftime
 
-Ladies and Gentlemen, friends and alumni, presenting an organization that just recently got out of a messy divorce, it's the Brown University "Single and Ready to Mingle" BAANNNNNDDDDD!
+Ladies and Gentlemen, friends and alumni, presenting an organization that just recently got out of a messy divorce, it’s the Brown University "Single and Ready to Mingle" BAANNNNNDDDDD!
 
-Hello and welcome to the dating game, where our three mystery contestants will try to win the hearts of the band members. Contestant Number One, describe your dream date for the band. :sd[In a guido voice:] "Well, after gettin' MY NEW HAIRCUT, I tink that we won't even have ta go on a date. But, in case we do have to do somethin', I guess we can hit up the gym and the band can watch me get my sweat on before DOIN' SOME SERIOUS JAGERBOMBS!" :sd[In regular announcer voice:] Well, thanks but no thanks, contestant number one. Or should I say PRINCETON? The Brown Band has more "thrilling" things to do on Saturday nights!
+Hello and welcome to the dating game, where our three mystery contestants will try to win the hearts of the band members. Contestant Number One, describe your dream date for the band. :sd[In a guido voice:] "Well, after gettin’ MY NEW HAIRCUT, I tink that we won’t even have ta go on a date. But, in case we do have to do somethin’, I guess we can hit up the gym and the band can watch me get my sweat on before DOIN’ SOME SERIOUS JAGERBOMBS!" :sd[In regular announcer voice:] Well, thanks but no thanks, contestant number one. Or should I say PRINCETON? The Brown Band has more "thrilling" things to do on Saturday nights!
 
 :sd[Band forms a Jagerbomb and plays "Thriller."]
 
@@ -34,7 +34,7 @@ Now, Contestant Number Two, the Brown Band is rather politically-minded, so some
 
 :sd[Band forms the average Penn GPA (D+) and plays "Vehicle."]
 
-And, finally, contestant number three, it's all down to you. Why should we pick you? :sd[In voice that exudes awesomeness:]
+And, finally, contestant number three, it’s all down to you. Why should we pick you? :sd[In voice that exudes awesomeness:]
 
 :::script-list
 

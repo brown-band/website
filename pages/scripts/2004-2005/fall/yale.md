@@ -26,7 +26,7 @@ Next, the Band would like to perform a track off of its new album. It’s a medl
 
 Ladies and Gentlemen, Friends and Alumni, presenting an organization that’s no longer part of a reality-based community, it’s the Brown University “Blitzer? I hardly know ‘er!” BAND!
 
-Unfortunately, we had to write today’s halftime show before any official election results could be released, but we know it will be a sad week for Yale University. No matter the outcome, a Yalie will have lost the presidential race for only the second time since 1876's hotly-contested race between Samuel Tilden (Yale class of 1837) and Rutherford B. Hayes (Uncle Wheatly's House of Beards, class of 1841). In any case, the band will turn our show – like the country – completely bass ackwards and play “Bring the Victory.”
+Unfortunately, we had to write today’s halftime show before any official election results could be released, but we know it will be a sad week for Yale University. No matter the outcome, a Yalie will have lost the presidential race for only the second time since 1876’s hotly-contested race between Samuel Tilden (Yale class of 1837) and Rutherford B. Hayes (Uncle Wheatly’s House of Beards, class of 1841). In any case, the band will turn our show – like the country – completely bass ackwards and play “Bring the Victory.”
 
 :sd[Band forms B, plays “Bring the Victory”]
 
