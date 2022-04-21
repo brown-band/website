@@ -34,7 +34,7 @@ Hey you! Yeah you! Stop making fun of us. Quit it. Stop. Don’t laugh at our wo
 
 Throw off your skates, take all your classes S/NC, and watch now as the band plays Tricked into PLME.
 
-:sd[Band forms X and plays Hooked on a Feeling.]
+:sd[Band forms a sad face and plays Hooked on a Feeling.]
 
 As a final act of protest against the harsh realities of skating band life, the scriptwriters are going on strike. Please enjoy the following abstract section while we take a bagel break:\
 :sd[Script reader makes series of bird calls for about 20 seconds.]
