@@ -1,6 +1,6 @@
 ---
 sport: hockey
-iceShowTheme: Alumni
+iceShowTheme: Water Sport
 teams:
   home:
     name: Brown
