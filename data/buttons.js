@@ -22,7 +22,6 @@ module.exports = async () => {
   const { AssetCache } = require("@11ty/eleventy-fetch");
   const slugify = require("@sindresorhus/slugify");
   const d3 = await import("d3-array"); // not "d3" because that takes ~300ms to load; see https://github.com/d3/d3/issues/3550
-  const { default: fetch } = await import("node-fetch");
   const { load: loadYaml } = require("js-yaml");
 
   const readYaml = (name) =>
