@@ -24,8 +24,6 @@ module.exports = (eleventyConfig) => {
    * Assets
    */
   eleventyConfig.addPassthroughCopy({ "assets/root": "/" });
-  eleventyConfig.addPassthroughCopy("buttons/*/*.jpg");
-  eleventyConfig.addWatchTarget("buttons");
 
   // disable printing each page as it is converted (since there are a lot of them)
   eleventyConfig.setQuietMode(!process.env.CI);
