@@ -30,7 +30,7 @@ exports.default = ({ book, collections, schoolColors }) => (
     </header>
 
     <nav class="book-toc">
-      <h2 style="margin-top: 0; margin-bottom: 0.5in">Table of Contents</h2>
+      <h2 style="margin-top: 0in; margin-bottom: 0.5in">Table of Contents</h2>
       <ol>
         {book.semesters.map((semester) => (
           <li>
@@ -41,7 +41,7 @@ exports.default = ({ book, collections, schoolColors }) => (
               {collections[semester.collection].map((page) => (
                 <li>
                   <a href={`#${semester.collection}_${page.fileSlug}`}>
-                    {page.data.title}
+                    <span class="snap-width">{page.data.title}</span>
                   </a>
                 </li>
               ))}
@@ -89,5 +89,21 @@ exports.default = ({ book, collections, schoolColors }) => (
         </section>
       );
     })}
+
+    <span
+      style="display: inline-block; position: absolute; opacity: 0;"
+      class="dot-test"
+    >
+      .&nbsp;
+    </span>
+    <script>
+      {`
+        const snapWidth = document.querySelector(".dot-test").getBoundingClientRect().width;
+        console.log(snapWidth)
+        for (const toSnap of document.querySelectorAll(".snap-width")) {
+          toSnap.style.width = (Math.ceil((toSnap.offsetWidth + snapWidth) / snapWidth) * snapWidth - snapWidth) + "px";
+        }
+      `}
+    </script>
   </>
 );

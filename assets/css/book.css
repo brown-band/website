@@ -12,7 +12,8 @@ h3,
 h4,
 h5,
 h6,
-.book-toc {
+.book-toc,
+.pagedjs_margin-content {
   font-family: Fira Sans;
 }
 
@@ -73,7 +74,11 @@ nav {
   color: inherit;
   text-decoration: none;
   background: white;
-  padding-right: 0.45ch;
+}
+
+.snap-width {
+  box-sizing: border-box;
+  display: inline-block;
 }
 .book-toc > ol > li {
   page-break-inside: avoid;
@@ -82,7 +87,7 @@ nav {
   content: target-counter(attr(href url), page, decimal-leading-zero);
   float: right;
   background: white;
-  padding-left: 0.65ch;
+  padding-left: 0.5ch;
   /* width: 2.75ch; */
   text-align: right;
   font-variant-numeric: tabular-nums;
@@ -99,7 +104,6 @@ nav {
 .book-toc li li a::after {
   content: ". . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ";
   white-space: nowrap;
-  text-align: right;
   position: absolute;
   width: 100%;
   left: 0;
