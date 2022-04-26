@@ -16,7 +16,10 @@ exports.default = ({ book, collections, schoolColors }) => (
     <script src="/assets/vendor/paged.polyfill.js" />
 
     <header>
-      <h1 class="title" style="border-width: 0.7mm; font-size: 1.85em;">
+      <h1
+        class="title"
+        style="border-width: 0.7mm; font-size: 2.35em; background: #eee; font-family: Meta Serif Pro;"
+      >
         The Brown University Band
         <br />
         Football and Hockey Show Scripts
@@ -53,7 +56,9 @@ exports.default = ({ book, collections, schoolColors }) => (
       const { writers } = scripts[0].data;
       return (
         <section>
-          <header>
+          <header class="d-flex flex-column">
+            <p class="opacity-0">https://brownband.org/{semester.permalink}</p>
+            <div style="flex: 1" />
             <h1
               class="title text-decoration-underline"
               id={semester.collection}
@@ -66,6 +71,10 @@ exports.default = ({ book, collections, schoolColors }) => (
                 {listify(writers.map((s) => s.replaceAll(" ", "\xA0")))}
               </p>
             )}
+            <div style="flex: 1" />
+            <p class="semester-url">
+              https://brownband.org/{semester.permalink}
+            </p>
           </header>
 
           {scripts.map((script) => (

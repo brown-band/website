@@ -1,34 +1,68 @@
 body {
   font-size: 11pt;
   line-height: 1.25;
-  font-family: Century Schoolbook;
+  font-family: Meta Serif Pro;
+  --bs-body-font-weight: normal;
+}
+
+header,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.book-toc {
+  font-family: Fira Sans;
 }
 
 /* Page / margin styles */
 @page {
-  margin: 0.5in 0.25in;
+  margin: 1in 0.75in;
   widows: 3;
-  width: 8.5in;
-  height: 11in;
+  size: 8.5in 11in;
+  /* size: 6.5in 8.5in; */
 }
 
 @page script:left {
   @top-left {
     content: counter(page);
+    vertical-align: bottom;
+    margin-bottom: 1em;
   }
   @bottom-left {
     content: string(semester);
     width: 150px;
+    vertical-align: top;
+    margin-top: 1em;
   }
 }
 @page script:right {
   @top-right {
     content: counter(page);
+    vertical-align: bottom;
+    margin-bottom: 1em;
   }
   @bottom-right {
     content: string(semester);
     width: 150px;
+    vertical-align: top;
+    margin-top: 1em;
   }
+}
+
+@page semester-title {
+  @bottom-center {
+    content: element(url);
+  }
+}
+
+.semester-url {
+  position: running(url);
+}
+
+@bottom-center {
+  content: attr(data-url);
 }
 
 /* Table of Contents */
@@ -39,25 +73,32 @@ nav {
   color: inherit;
   text-decoration: none;
   background: white;
-  padding-right: 0.5ch;
+  padding-right: 0.45ch;
 }
-.book-toc a::after {
-  content: target-counter(attr(href url), page);
+.book-toc > ol > li {
+  page-break-inside: avoid;
+}
+.book-toc a::before {
+  content: target-counter(attr(href url), page, decimal-leading-zero);
   float: right;
   background: white;
-  width: 2.75ch;
+  padding-left: 0.65ch;
+  /* width: 2.75ch; */
   text-align: right;
+  font-variant-numeric: tabular-nums;
 }
 .book-toc li {
   list-style: none inside;
   position: relative;
+  overflow: hidden;
 }
 .book-toc ol ol {
   margin-bottom: 0.1in;
   padding-left: 0.25in;
 }
-.book-toc li li::before {
-  content: ".........................................................................................................................................................................";
+.book-toc li li a::after {
+  content: ". . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ";
+  white-space: nowrap;
   text-align: right;
   position: absolute;
   width: 100%;
@@ -72,12 +113,15 @@ header {
 }
 
 .title {
-  border: 0 solid black;
+  /* border: 0 solid black; */
   border-radius: 1em;
   display: inline-block;
   text-align: center;
-  padding: 0.25in;
+  padding: 0.35in 0.5in;
   margin-top: 2.5in;
+  font-weight: normal;
+  font-size: 3em;
+  line-height: 1.75;
 }
 
 /* Semester Chapters */
@@ -86,6 +130,7 @@ section:first-of-type {
 }
 
 section > header {
+  page: semester-title;
   break-before: right;
 }
 
@@ -101,6 +146,14 @@ article {
 
 h2 {
   text-align: center;
+}
+
+article header {
+  margin-bottom: 3em;
+}
+
+article h2 {
+  page-break-after: avoid;
 }
 
 article h2:not(:first-of-type) {
@@ -120,6 +173,6 @@ a:not([href^="#"]) {
   color: inherit;
   text-decoration: none;
 }
-a:not([href^="#"])::after {
+/* a:not([href^="#"])::after {
   content: " (" attr(href) ")";
-}
+} */
