@@ -1,7 +1,3 @@
-- about: Bucknell?
-  imageName: 4
-  label: THE BUCK STOPS HERE
-
 - about: "???"
   imageName: 17
   label: MASS ACHERS
@@ -21,14 +17,6 @@
 - about: Brown, ???
   imageName: 101
   label: "{B} HOCKEY"
-
-- about: Bucknell?
-  imageName: 119
-  label: BUCK KNEEL
-
-- about: Bucknell?
-  imageName: 149
-  label: THE BUCK STOPS HERE [but different colors]
 
 - about: Hockey
   imageName: 351
