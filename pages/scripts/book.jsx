@@ -84,6 +84,7 @@ exports.default = ({ book, collections, schoolColors }) => (
               semester={semester}
               schoolColors={schoolColors}
               idPrefix={semester.collection + "_"}
+              inBook
             />
           ))}
         </section>

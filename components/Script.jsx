@@ -25,6 +25,7 @@ exports.default = ({
   id = fileSlug,
   idPrefix = "",
   children,
+  inBook = false,
 }) => (
   <article>
     <header style="text-align: center">
@@ -36,7 +37,11 @@ exports.default = ({
           semester={semester}
         />
       )}
-      <h1 class="display-5 fw-normal" id={idPrefix + id}>
+      <h1
+        class={"display-5 " + (inBook ? "" : "fw-normal")}
+        style={inBook ? "font-weight: 500" : ""}
+        id={idPrefix + id}
+      >
         <ScriptTitle
           script={data}
           fileSlug={fileSlug}

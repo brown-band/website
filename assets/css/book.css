@@ -153,7 +153,11 @@ h2 {
 }
 
 article header {
-  margin-bottom: 3em;
+  margin-bottom: 2em;
+}
+
+article h3 {
+  font-weight: normal;
 }
 
 article h2 {
