@@ -29,6 +29,22 @@ module.exports = (eleventyConfig) => {
       "assets/vendor/paged.polyfill.js",
   });
 
+  eleventyConfig.setServerOptions({
+    module: "@11ty/eleventy-server-browsersync",
+    snippet: false,
+    callbacks: {
+      async ready(err, bs) {
+        port = bs.server.address().port;
+        await (
+          await renderPDF
+        )(port);
+        if (process.env.BAND_BOOK_ONESHOT) {
+          process.exit(0);
+        }
+      },
+    },
+  });
+
   let port;
 
   eleventyConfig.on("eleventy.after", async () => {
