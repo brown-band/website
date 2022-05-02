@@ -24,6 +24,8 @@ We were in a hurry to get our dental degrees before a disgruntled customer repor
 
 Catch us at halftime, by which point you’ll have forgotten all about our brush with dentistry.
 
+::page-break
+
 ## Halftime
 
 Ladies and gentlemen, friends and alumni, presenting an organization that by the end of the night will be thoroughly defeated, tied, and scored upon, but was at least invited, it’s the Brown University “I’m not talking about football” BANNNDDDDDDDDDDD!

@@ -76,6 +76,12 @@ function directivesPlugin() {
           data: h("blockquote", "_69-note"),
         });
       }
+      if (node.type === "leafDirective" && node.name === "page-break") {
+        return Object.assign(parent, {
+          ...node,
+          data: h("blockquote", "_69-page-break"),
+        });
+      }
       if (node.type === "containerDirective" && node.name === "script-note") {
         return Object.assign(node, { data: h("blockquote", "_69-note") });
       }

@@ -25,6 +25,8 @@ Hi, Yale. Are you there? It’s me, Satan. I’m here to tell you that it’s ac
 
 Catch us at halftime when we navigate logistical issues like we’ve been doing it for almost a century, because, oh wait, we have—right, alumni?
 
+::page-break
+
 ## Halftime
 
 Ladies and gentlemen, friends and alumni, presenting an organization that is pleased to welcome its alumni back to campus with the utmost regard, honor, and respect, it’s the Brown University “yo what’s up, moldy oldies” BANNNDDDDDDDDDDD!

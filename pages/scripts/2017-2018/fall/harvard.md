@@ -24,6 +24,8 @@ Football. Is this what you came for? Of course not, you came here for Rihanna! S
 
 Catch us at halftime, when we will honor some of Harvard’s great alumni.
 
+::page-break
+
 ## Halftime
 
 Ladies and gentlemen, friends and alumni, presenting an organization that didn’t buy its way into the Ivy League, it’s the Brown University “please meme responsibly” BANNNDDDDDDDDDDD!

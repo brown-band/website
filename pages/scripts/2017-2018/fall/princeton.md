@@ -38,6 +38,8 @@ We’d love for all of you to stay the night, but unfortunately we already made 
 
 See you at halftime.
 
+::page-break
+
 ## Halftime
 
 Ladies and gentlemen, friends and alumni, presenting an organization that eats Tony the Tiger for breakfast, it’s the Brown University “football is GRRRREAT” BANNNDDDDDDDDDDD!

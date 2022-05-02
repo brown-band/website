@@ -39,6 +39,8 @@ Watch now as the band forms an eye mask for that 17 hour flight and plays Don’
 
 Catch us at halftime as the haunting of Brown Stadium continues.
 
+::page-break
+
 ## Halftime
 
 Ladies and gentlemen, friends and alumni, presenting an organization that just wants to let any vampires in the audience know that at this point in the semester not having to eat or sleep sounds pretty good, it’s the Brown University “hewwo?” BANNNDDDDDDDDDDD!

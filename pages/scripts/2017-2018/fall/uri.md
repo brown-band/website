@@ -24,6 +24,8 @@ If you take a closer look at the Band today, you might notice some older faces. 
 
 Catch us at halftime when we’ll contemplate why Rhode Island is nor a road or an island.
 
+::page-break
+
 ## Halftime
 
 Ladies and gentlemen, friends and alumni, presenting an organization that dropped out of URI because of the egg sandwiches, it’s the Brown University “there was a lack of egg and bread” BANNNDDDDDDDDDDD!

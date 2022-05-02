@@ -39,6 +39,8 @@ Watch now as the band shuffles into place and plays Aging Forevermore.
 
 Catch us at halftime as the band recovers from its colonoscopy and heads to The Butt.
 
+::page-break
+
 ## Halftime
 
 Ladies and gentlemen, friends and alumni, presenting an organization that also doesn’t sit with a lot of people at lunch, it’s the Brown University “maybe if we didn’t lose 3 games in a row people would like us” BANNNDDDDDDDDDDD!

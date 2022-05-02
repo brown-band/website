@@ -26,6 +26,8 @@ Watch now as the band depicts their interpretation of the face of John Harvard a
 
 Catch us at halftime when the Band stands, as John Harvard did, like blushing pilgrims.
 
+::page-break
+
 ## Halftime
 
 Ladies and gentlemen, friends and alumni, presenting an organization that only kills goats for ritualistic purposes, it’s the Brown University “not a cult” BANNNDDDDDDDDDDD!

@@ -31,6 +31,8 @@ Put up a giant foam finger of your choice, enjoy being on top while it lasts, an
 
 Catch us at halftime when the band speaks out against the oppressive regime of industrialized agriculture.
 
+::page-break
+
 ## Halftime
 
 Ladies and gentlemen, friends and alumni, presenting an organization that loves a good conspiracy, it’s the Brown University “Aww, it’s so cute that you still believe in the moon,” BAND!

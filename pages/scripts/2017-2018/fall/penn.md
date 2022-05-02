@@ -37,6 +37,8 @@ We recently learned that Penn students who take Microecon 001 gather at midnight
 
 Join us at Halftime as we salute our seniors and bid them good riddance...uhhh, we mean thank them for their dedication to the Band.
 
+::page-break
+
 ## Halftime
 
 Ladies and gentlemen, friends and alumni, presenting an organization that’s using \*NYSNC songs to cope with our feelings, it’s the Brown University “bye bye bye (bye bye!)” BANNNDDDDDDDDDDD!

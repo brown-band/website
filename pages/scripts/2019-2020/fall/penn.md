@@ -26,6 +26,8 @@ Call your proud Penn alumni parents, borrow your dad’s credit card, and watch 
 
 Catch us at halftime when the band gets its economics degree and graduates magna cum LOUD.
 
+::page-break
+
 ## Halftime
 
 Ladies and gentlemen, friends and alumni, presenting an organization that is mentally salivating at the idea of having access to past exams for all their classes, it’s the Brown University “the answer is always C” BANNNDDDDDDDDDDD!

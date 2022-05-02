@@ -53,6 +53,8 @@ And now the Band will play :sd[play glitchy screeching noise into mic]
 
 Catch us at halftime when we stick a hard candy into our Dart Orifice and recall our favorite memories of our senior class.
 
+::page-break
+
 ## Halftime
 
 Ladies and gentlemen, friends and alumni, presenting an organization that has plenty of engineers but a dearth of humanities concentrators, it’s the Brown University “you can drive a train, but can you write a poem?” BANNNDDDDDDDDDDD!

@@ -26,6 +26,8 @@ In order to ensure our script maintains its relevance to the athletic contest at
 
 Catch us at halftime when the band toes the yardline, marches to a drumbeat distinctly not its own, and delivers a mostly inoffensive performance!
 
+::page-break
+
 ## Halftime
 
 Ladies and gentlemen, friends and alumni, presenting an organization that has been properly chastised and is currently genuflecting at the feet of Big Athletics, it’s the Brown University “repent, reflect, recycle” BANNNDDDDDDDDDDD!

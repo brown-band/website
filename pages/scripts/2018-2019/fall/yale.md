@@ -26,6 +26,8 @@ Watch now as the band rocks ourselves to sleep and plays Yale Babies Born.
 
 Catch us at halftime once we learn to walk and talk.
 
+::page-break
+
 ## Halftime
 
 Ladies and gentlemen, friends and alumni, presenting an organization that’s already dreaming of hockey season, it’s the Brown University “Blades of Glory” BANNNDDDDDDDDDDD!

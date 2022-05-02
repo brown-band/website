@@ -24,6 +24,8 @@ But alas, here we remain in Ithaca, New York. Once known, according to Wikipedia
 
 See you at halftime where we will continue to say only good things about Cornell, its alumni, and the beautiful city of Ithaca.
 
+::page-break
+
 ## Halftime
 
 Ladies and gentlemen, friends and alumni, presenting an organization that is gorges, it’s the Brown University “I’d rather be fjords” BANNNDDDDDDDDDDD!

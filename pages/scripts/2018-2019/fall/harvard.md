@@ -39,6 +39,8 @@ Wow, we can’t wait to have the Princeton Band right down the street! Watch now
 
 We have to go get ready for Princeton to arrive. Catch you at halftime!
 
+::page-break
+
 ## Halftime
 
 Ladies and gentlemen, friends and alumni, presenting an organization that goes to a small liberal arts school outside of Boston, it’s the Brown University “we would have been here earlier, but we were running on Harvard Time” BANNNDDDDDDDDDDD!

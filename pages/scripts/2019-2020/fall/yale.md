@@ -26,6 +26,8 @@ Watch now as the band steps out of a shower of cold hard cash and plays Brown Be
 
 Catch us at halftime when the band makes an omelette by cracking a few nest eggs.
 
+::page-break
+
 ## Halftime
 
 Ladies and gentlemen, friends and alumni, presenting an organization that finally figured out what Yale really is, it’s the Brown University “K-mart of Harvard” BANNNDDDDDDDDDDD!

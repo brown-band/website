@@ -25,6 +25,8 @@ We were just checking the weather to figure out if we had to bring our raincoats
 
 Catch us at halftime when we Venture Forward to put our values into action and move from the present to the possible by begging for your money!
 
+::page-break
+
 ## Halftime
 
 Ladies and gentlemen, friends and alumni, presenting an organization that definitely didn’t rifle through your archives in the Prince, it’s the Brown University “It’s Not Cyberstalking I Just Regularly Read Newspapers From 1958 About Your School Specifically” BANNNDDDDDDDDDDD!

@@ -30,6 +30,8 @@ Watch now as the band takes notes at the dinner table and plays Snitching Foreve
 
 Catch us at halftime when the heat gets even hotter.
 
+::page-break
+
 ## Halftime
 
 Ladies and gentlemen, friends and alumni, presenting an organization that’s not sure if it’s hot in here or if it’s just us, it’s the Brown University ”stop drop and roll” BANNNDDDDDDDDDDD!

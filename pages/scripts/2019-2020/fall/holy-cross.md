@@ -34,6 +34,8 @@ So, watch now as the band reminds everyone that **Johnny** wasn’t **average**,
 
 Screw it.
 
+::page-break
+
 ## Halftime
 
 Ladies and gentlemen, friends and alumni, presenting an organization that’d like to give Holy Cross’s new dining hall robots a call, it’s the Brown University “patron of salad **making**” BANNNDDDDDDDDDDD!

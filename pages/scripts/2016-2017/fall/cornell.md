@@ -24,6 +24,8 @@ For some reason, ever since our parents got here, we’ve spent all of our time 
 
 Looks like our parents have something important to tell us, and it doesn’t look good. See you on the other side.
 
+::page-break
+
 ## Halftime
 
 Ladies and gentlemen, friends and alumni, presenting an organization that’s hoping to cultivate a few good jokes, it’s the Brown University “anyone who doesn’t laugh will be pun-ished” BANNNDDDDDDDDDDD!

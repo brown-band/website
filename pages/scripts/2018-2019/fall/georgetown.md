@@ -37,6 +37,8 @@ A few things have changed since our alums last showed up on the Hill. For one th
 
 Catch us at halftime after the alumni take their mid-day naps. Brown Band Out.
 
+::page-break
+
 ## Halftime
 
 Ladies and gentlemen, friends and alumni, presenting an organization that hasn’t been to church in a while, it’s the Brown University “and also with you” BANNNDDDDDDDDDDD!

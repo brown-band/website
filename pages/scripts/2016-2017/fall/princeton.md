@@ -37,6 +37,8 @@ While we’re here, we’d like to celebrate that Professors from Brown and Prin
 
 Well, we’ve got research to do. Nobel Peace prize out.
 
+::page-break
+
 ## Halftime
 
 :sd[Princeton and Brown Bands perform a joint halftime show. The two script readers are distinguished by their school name as well as bold font for the Brown Script Reader.]

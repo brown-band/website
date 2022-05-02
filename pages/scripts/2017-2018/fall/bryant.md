@@ -22,6 +22,8 @@ We have a serious problem here, Class of 2021. The vast majority of you were bor
 
 :sd[Band forms a B and plays Brown Cheering Song.]
 
+::page-break
+
 ## Halftime
 
 Ladies and gentlemen, friends and alumni, presenting an organization that spent too much money on avocado toast this summer, it’s the Brown University “Guess we’re not buying a house anytime soon” BANNNDDDDDDDDDDD!

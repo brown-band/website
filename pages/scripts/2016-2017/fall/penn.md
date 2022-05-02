@@ -24,6 +24,8 @@ We would like to take this opportunity to congratulate you on your recent victor
 
 We’re sure that halftime we’ll feature the spookiest things you’ve heard this election cycle. Boo!
 
+::page-break
+
 ## Halftime
 
 Ladies and gentlemen, friends and alumni, presenting an organization that’s the best band in the Ivy League, it’s the Brown University “believe us, everyone says so, watch how bigly we get” BANNNDDDDDDDDDDD!

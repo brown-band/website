@@ -37,6 +37,8 @@ We recently learned that Columbia University suspended its football program in 1
 
 Join us at halftime as the band’s fightin’ seniors take on Graduation - wait until you see what’s under our caps and gowns... wink.
 
+::page-break
+
 ## Halftime
 
 Ladies and gentlemen, friends and alumni, presenting an organization that’s losing a lot of seniors, it’s the Brown University “But we’ll gain a lot of freshmen” BAANNNNNNDD!!!!!!!!!!

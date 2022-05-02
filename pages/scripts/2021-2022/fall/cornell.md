@@ -22,6 +22,8 @@ The band will now play For Bruno and For Brown.\
 
 Welcome to the football game. The Brown Band will now exit the field.
 
+::page-break
+
 ## Halftime (planned)
 
 Band.

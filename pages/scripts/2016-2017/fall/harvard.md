@@ -24,6 +24,8 @@ Now that we’re back surrounded by our amazing friends in Providence, we’re l
 
 That’s all for now! See you at halftime! Smell ya later, alligators.
 
+::page-break
+
 ## Halftime
 
 Ladies and gentlemen, friends and alumni, presenting an organization that’s too cool for Malia, it’s the Brown University “thanks, Obama” BANNNDDDDDDDDDDD!

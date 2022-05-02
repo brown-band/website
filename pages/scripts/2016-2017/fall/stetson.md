@@ -24,6 +24,8 @@ We’d also like to take this opportunity to welcome Stetson to the great state 
 
 Keep watching for the ultimate battle of the states, Rhode Island versus Florida. Normally we’d have to pay for this kind of entertainment! See you at halftime!
 
+::page-break
+
 ## Halftime
 
 Ladies and gentlemen, friends and alumni, presenting an organization that knows about real humidity, it’s the Brown University “our ideal temperature is sexy” BANNNDDDDDDDDDDD!

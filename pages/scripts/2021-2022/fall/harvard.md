@@ -26,6 +26,8 @@ Keep it in your pants, no, seriously, come on, guys, that’s like, legit kinda 
 
 Catch us at halftime when the band misses its exit and ends up in the great state of confusion.
 
+::page-break
+
 ## Halftime
 
 Ladies and gentlemen, friends and alumni, presenting an organization that forgot to file its WD-40s, it’s the Brown University “Lubricating, Penetrating, and Moisture Displacing” BANNNDDDDDDDDDDD!

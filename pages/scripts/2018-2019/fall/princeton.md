@@ -37,6 +37,8 @@ Watch now as the Band demonstrates convergent evolution with the Princeton Band 
 
 Catch us at halftime to have your core beliefs shaken and the truth revealed to you. Brown Band out.
 
+::page-break
+
 ## Halftime
 
 Ladies and gentlemen, friends and alumni, presenting an organization trying to prime your implicit memory, it’s the Brown University :sd[whispered] “Moon landing in Hollywood, Bigfoot yes, Ted Cruz = Zodiac Killer ” BANNNDDDDDDDDDDD!

@@ -28,6 +28,8 @@ Watch now as the band celebrates finally being done with this dumb bit and plays
 
 Catch us at halftime when the band continues to show off our advanced math skills. Brown Band out.
 
+::page-break
+
 ## Halftime
 
 Ladies and gentlemen, friends and alumni, presenting an organization that cited all its sources, it’s the Brown University “Chicago or APA?” BANNNDDDDDDDDDDD!

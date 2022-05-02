@@ -184,3 +184,7 @@ a:not([href^="#"]) {
 /* a:not([href^="#"])::after {
   content: " (" attr(href) ")";
 } */
+
+._69-page-break {
+  page-break-before: always;
+}

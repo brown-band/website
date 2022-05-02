@@ -30,6 +30,8 @@ So, watch now as the band reminds everyone that Jesus wasn’t white, and plays 
 
 Catch us at halftime when we eat the buddy of Chris (his name’s Larry) and wash it down with a sip of the Holy Sprite.
 
+::page-break
+
 ## Halftime
 
 Ladies and gentlemen, friends and alumni, presenting an organization that’d like to give Holy Cross’s new dining hall robots a call, it’s the Brown University “patron saint of salad tossing” BANNNDDDDDDDDDDD!

@@ -37,6 +37,8 @@ Recently, after the Connecticut state legislature considered taxing Yale’s end
 
 We can’t handle this anymore, even having our mind in New Haven is awful, Bye!
 
+::page-break
+
 ## Halftime
 
 Ladies and gentlemen, friends and alumni, presenting an organization that is dreading Tuesday, it’s the Brown University “our own elections will be better” BANNNDDDDDDDDDDD!

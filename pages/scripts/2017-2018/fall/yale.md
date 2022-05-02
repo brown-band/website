@@ -24,6 +24,8 @@ Speaking of Pauli Murray, we happened to read a column in the Yale Daily News wr
 
 We’ll see you at halftime if we ever get out of Connecticut traffic.
 
+::page-break
+
 ## Halftime
 
 Ladies and gentlemen, friends and alumni, presenting an organization that enjoys cardplaying, tavern-going, and acts of disobedience to college authorities, it’s the Brown University “we’ll never live up to Nathan Hale” BANNNDDDDDDDDDDD!

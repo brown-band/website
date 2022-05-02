@@ -24,6 +24,8 @@ Making a script is hard. Rewriting a script is even harder. How is a script born
 
 See you at halftime after we finish writing this script under the watchful eye of the Ministry of Truth.
 
+::page-break
+
 ## Halftime
 
 Ladies and gentlemen, friends and alumni, presenting an organization that is gorges, it’s the Brown University “I’d rather be fjords” BANNNDDDDDDDDDDD!

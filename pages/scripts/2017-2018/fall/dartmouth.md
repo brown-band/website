@@ -27,6 +27,8 @@ We’re sure is glad not to be in Hanover right now, where we’d certainly be f
 
 Catch us at halftime when we will throw the ceremonial first pitch.
 
+::page-break
+
 ## Halftime
 
 Ladies and gentlemen, friends and alumni, presenting an organization that’s ready to play ball, it’s the Brown University “take me out to the ball game” BANNNDDDDDDDDDDD!
