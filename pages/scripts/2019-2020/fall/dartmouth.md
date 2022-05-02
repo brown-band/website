@@ -93,7 +93,7 @@ But she knows so stop being a hater
 Accepted as a PLME admit\
 Fan of the interpretive twerk it\
 Jared’s the tip of the band\
-Follow @c0mic_sans (pronounce @ as “at”)\
+Follow @c0mic_sans :sd[pronounce @ as “at”]\
 “If you didn’t grow it, don’t smoke it”
 
 Some of his kinks...they really be whack\
