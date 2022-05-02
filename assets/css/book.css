@@ -163,6 +163,7 @@ article h3 {
 
 article h2 {
   page-break-after: avoid;
+  letter-spacing: -0.5px;
 }
 
 article h2:not(:first-of-type) {
