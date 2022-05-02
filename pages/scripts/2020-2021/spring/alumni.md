@@ -1,6 +1,6 @@
 ---
 title: Alumni Ice Show
-subtitle: Not performed due to COVID-19
+subtitle: Performed digitally due to COVID-19
 date: 2021-04-09
 ---
 
