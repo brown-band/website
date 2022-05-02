@@ -55,7 +55,7 @@ exports.default = ({
         </h2>
       )}
       {data.subtitle && (
-        <h2>
+        <h2 class="fw-normal">
           <em>
             <Raw html={data.subtitle} />
           </em>

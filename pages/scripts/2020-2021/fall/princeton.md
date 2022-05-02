@@ -13,7 +13,7 @@ You can at least offer us the courtesy of hearing a first reading of a love haik
 
 Napkin dispenser\
 Went missing to clean up my\
-Broken heart -- uh oh
+Broken heart — uh oh
 
 </center>
 
