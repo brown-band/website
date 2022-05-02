@@ -35,7 +35,7 @@ Here’s a list of other places Atlantis has been found:
 - B. At the bottom of the lake next to Hogwarts, guarded by the giant squid,
 - C. Norway... obviously
 - D. At the Kennedy Space Center in Florida
-- E. Under the ice of Meehan Auditorium!!!!!!!!!!!!! (_the entire band stamps on the ice to try to break through_), and
+- E. Under the ice of Meehan Auditorium!!!!!!!!!!!!! :sd[the entire band stamps on the ice to try to break through], and
 - F. The Princeton Band
 
 :::
