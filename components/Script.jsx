@@ -64,8 +64,8 @@ exports.default = ({
       {data.iceShowTheme && <h4>{data.iceShowTheme} Ice Show</h4>}
       <h3>{formatDate(date, "UTC", "EEEE, MMMM do, y")}</h3>
       {fileSlug.endsWith("-censored") && (
-        <h4>
-          <span class="script-censored">CENSORED</span>
+        <h4 class="script-censored">
+          <span>CENSORED</span>
         </h4>
       )}
       {children}

@@ -18,7 +18,7 @@ exports.default = ({ book, collections, schoolColors }) => (
     <header>
       <h1
         class="title"
-        style="border-width: 0.7mm; font-size: 2.35em; background: #eee; font-family: Meta Serif Pro;"
+        style="border-width: 0.7mm; font-size: 2.3em; background: #eee"
       >
         The Brown University Band
         <br />
@@ -59,16 +59,16 @@ exports.default = ({ book, collections, schoolColors }) => (
           <header class="d-flex flex-column">
             <p class="opacity-0">https://brownband.org/{semester.permalink}</p>
             <div style="flex: 1" />
-            <h1
-              class="title text-decoration-underline"
-              id={semester.collection}
-            >
+            <h1 class="title fw-bold" id={semester.collection}>
               {semester.title}
             </h1>
             {writers?.length > 0 && (
-              <p class="h5 fst-italic fw-normal">
+              <p class="h5 fw-normal">
                 Scriptwriter{writers.length !== 1 && "s"}:{" "}
-                {listify(writers.map((s) => s.replaceAll(" ", "\xA0")))}
+                {listify(writers.map((s) => s.replaceAll(" ", "\xA0"))).replace(
+                  "and ",
+                  "and\xA0"
+                )}
               </p>
             )}
             <div style="flex: 1" />

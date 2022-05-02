@@ -37,6 +37,9 @@
 }
 
 .script-censored {
+  margin-bottom: 0;
+}
+.script-censored span {
   background: var(--bs-body-color);
   color: var(--bs-body-bg);
   padding: 0.2em 0.4em;
@@ -77,4 +80,7 @@
 
 article h2 {
   font-size: 1.65rem;
+}
+article h3 {
+  font-variant-numeric: oldstyle-nums tabular-nums;
 }
