@@ -19,7 +19,7 @@ h6,
 
 /* Page / margin styles */
 @page {
-  margin: 1in 0.75in;
+  margin: 1in;
   widows: 3;
   size: 8.5in 11in;
   /* size: 6.5in 8.5in; */
