@@ -20,7 +20,7 @@ Watch now as the band justifies another Holy War and plays Make Everyone A Belie
 
 :sd[Band forms an eye and plays I’m A Believer.]
 
-Now that we have your land - I mean attention, we’d like to recite a, shall we say, colorful story. Today’s reading? Daniel, Chapter 10, verses 5-6.\
+Now that we have your land - I mean attention, we’d like to recite a, shall we say, colorful story. Today’s reading? Daniel, Chapter 10, verses 5-6.
 
 > Then I lifted up mine eyes and looked, and behold, a certain man clothed in linen, whose loins were girded with fine gold of Uphaz. His body also was like beryl, and his face as the appearance of lightning, and his eyes as lamps of fire, and his arms and his feet like the color of polished brass, and the voice of his words like the voice of a multitude.
 
