@@ -158,6 +158,7 @@ article header {
 
 article h3 {
   font-weight: normal;
+  font-size: 1.5em;
 }
 
 article h2 {
@@ -187,4 +188,8 @@ a:not([href^="#"]) {
 
 ._69-page-break {
   page-break-before: always;
+}
+
+p {
+  page-break-inside: avoid;
 }
