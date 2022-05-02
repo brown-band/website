@@ -83,7 +83,7 @@ nav {
 .book-toc > ol > li {
   page-break-inside: avoid;
 }
-.book-toc a::before {
+.book-toc li li a::before {
   content: target-counter(attr(href url), page, decimal-leading-zero);
   float: right;
   background: white;
