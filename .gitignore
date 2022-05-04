@@ -7,3 +7,4 @@ book-html
 .env
 .cache
 .netlify
+*.log
