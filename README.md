@@ -34,6 +34,8 @@ Optionally, check out the external documentation for packages this project uses 
 - [PurgeCSS](https://purgecss.com/configuration.html)
 - [YAML](https://yaml.org/) (YAML is terrifying, but don’t let that intimidate you)
 
+If you’re a webmaster, make sure you have access to the Webmaster Folder on Google Drive, which has lots of interesting/useful stuff.
+
 ## File organization
 
 This is intended as an overview; check out the individual files themselves as well as the other documentation sections below for more details.
@@ -238,7 +240,7 @@ There are a few extensions to Markdown that this project uses to make it easier 
 2. Run `pnpm build:book`, then open `book/book.pdf` in your favorite PDF viewer. Expect it to be around 100 pages.
 3. Make sure there are no typos and everything is laid out decently
    - If you have to make changes, run `pnpm start:book` and open http://localhost:8080 in your browser to get a live preview of what the book will look like. Note that you will have to manually refresh to get CSS changes to apply, due to the way the library that slices the HTML into pages works.
-4. [TODO: fill out this step once I figure out how to print it out]
+4. View remaining steps in the Webmaster Reference Document, under the “Making script books” section
 
 ### Adding/removing pages
 
