@@ -1,7 +1,7 @@
 lockfileVersion: 5.4
 
 specifiers:
-  '@11ty/eleventy': 2.0.0-canary.8
+  '@11ty/eleventy': 2.0.0-canary.9
   '@11ty/eleventy-fetch': ^3.0.0
   '@11ty/eleventy-server-browsersync': ^1.0.2
   '@fontsource/niconne': ^4.5.5
@@ -50,7 +50,7 @@ dependencies:
   subset-font: 1.4.0
 
 devDependencies:
-  '@11ty/eleventy': 2.0.0-canary.8
+  '@11ty/eleventy': 2.0.0-canary.9
   '@11ty/eleventy-fetch': 3.0.0
   '@11ty/eleventy-server-browsersync': 1.0.2
   '@sindresorhus/slugify': 1.1.2
@@ -142,9 +142,9 @@ packages:
       normalize-path: 3.0.0
     dev: true
 
-  /@11ty/eleventy/2.0.0-canary.8:
-    resolution: {integrity: sha512-ASCpwRD5QywfvNtvKi6HGVyJrNjyoSWC80+gOyY6UVaDH6q9fXc5t10xKsGSBDkSerbFRaknLQpKWUw6WEu32A==}
-    engines: {node: '>=12'}
+  /@11ty/eleventy/2.0.0-canary.9:
+    resolution: {integrity: sha512-5ojDWI1n59BP/McBjOtBBt3McRDKS5vUxcxivFJ66eKY4E7+xCgzipkbzRInUr6IoO2I41sEu3xLnMRJ9MCVzA==}
+    engines: {node: '>=14'}
     hasBin: true
     dependencies:
       '@11ty/dependency-tree': 2.0.1
@@ -167,7 +167,7 @@ packages:
       liquidjs: 9.37.0
       lodash: 4.17.21
       luxon: 2.3.2
-      markdown-it: 12.3.2
+      markdown-it: 13.0.1
       minimist: 1.2.6
       moo: 0.5.1
       multimatch: 5.0.0
@@ -1577,12 +1577,13 @@ packages:
       - utf-8-validate
     dev: true
 
-  /entities/2.1.0:
-    resolution: {integrity: sha512-hCx1oky9PFrJ611mf0ifBLBRW8lUUVRlFolb5gWRfIELabBlbp9xZvrqZLZAs+NxFnbfQoeGd8wDkygjg7U85w==}
-    dev: true
-
   /entities/2.2.0:
     resolution: {integrity: sha512-p92if5Nz619I0w+akJrLZH0MX0Pb5DX39XOwQTtXSdQQOaYH03S1uIQp4mhOZtAXrxq4ViO67YTiLBo2638o9A==}
+    dev: true
+
+  /entities/3.0.1:
+    resolution: {integrity: sha512-WiyBqoomrwMdFG1e0kqvASYfnlb0lp8M5o5Fw2OFq1hNZxxcNk8Ik0Xm7LxzBhuidnZB/UtBqVCgUz3kBOP51Q==}
+    engines: {node: '>=0.12'}
     dev: true
 
   /errno/0.1.8:
@@ -2546,8 +2547,8 @@ packages:
     resolution: {integrity: sha512-FWWMIEOxz3GwUI4Ts/IvgVy6LPvoMPgjMdQ185nN6psJyBJ4yOpzqm695/h5umdLJg2vW3GR5iG11MAkR2AzJA==}
     dev: true
 
-  /linkify-it/3.0.3:
-    resolution: {integrity: sha512-ynTsyrFSdE5oZ/O9GEf00kPngmOfVwazR5GKDq6EYfhlpFug3J2zybX56a2PRRpc9P+FuSoGNAwjlbDs9jJBPQ==}
+  /linkify-it/4.0.1:
+    resolution: {integrity: sha512-C7bfi1UZmoj8+PQx22XyeXCuBlokoyWQL5pWSP+EI6nzRylyThouddufc2c1NDIcP9k5agmN9fLpA7VNJfIiqw==}
     dependencies:
       uc.micro: 1.0.6
     dev: true
@@ -2643,13 +2644,13 @@ packages:
       semver: 6.3.0
     dev: true
 
-  /markdown-it/12.3.2:
-    resolution: {integrity: sha512-TchMembfxfNVpHkbtriWltGWc+m3xszaRD0CZup7GFFhzIgQqxIfn3eGj1yZpfuflzPvfkt611B2Q/Bsk1YnGg==}
+  /markdown-it/13.0.1:
+    resolution: {integrity: sha512-lTlxriVoy2criHP0JKRhO2VDG9c2ypWCsT237eDiLqi09rmbKoUetyGHq2uOIRoRS//kfoJckS0eUzzkDR+k2Q==}
     hasBin: true
     dependencies:
       argparse: 2.0.1
-      entities: 2.1.0
-      linkify-it: 3.0.3
+      entities: 3.0.1
+      linkify-it: 4.0.1
       mdurl: 1.0.1
       uc.micro: 1.0.6
     dev: true
