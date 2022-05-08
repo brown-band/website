@@ -19,10 +19,6 @@ h3 { margin-top: 2rem }
   <td style="width: 100px">12:30pm</td>
   <td>Fulton: Music Stuffing</td>
 </tr>
-<tr>
-  <td>5:30pm</td>
-  <td>Dave and Busters</td>
-</tr>
 </table>
 
 ### Wednesday, May 25<sup>th</sup> {#wednesday}
@@ -36,6 +32,10 @@ h3 { margin-top: 2rem }
   <td>7:00pm–8:30pm</td>
   <td>Fulton: Student Rehearsal (Mandatory for Students staying for commencement week)</td>
 </tr>
+<tr>
+  <td>8:30pm</td>
+  <td>Dave and Busters</td>
+</tr>
 </table>
 
 ### Thursday, May 26<sup>th</sup> {#thursday}
@@ -45,7 +45,7 @@ h3 { margin-top: 2rem }
   <td style="width: 100px">10:00am–5:15pm</td>
   <td>
 
-    Flugenflagel at Lincoln Woods State Park: Picnic and Retreat (meet at Fulton)
+    Flugenflagel: Picnic and Retreat (meet at Fulton)
 
     Bring games, frisbees, etc. and don't forget sunscreen. There will be a barbecue and Band T-shirts.
 
