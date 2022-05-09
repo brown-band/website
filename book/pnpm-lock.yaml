@@ -1,14 +1,14 @@
-lockfileVersion: 5.3
+lockfileVersion: 5.4
 
 specifiers:
-  pagedjs: ^0.2.0
+  pagedjs: ^0.3.1
   pretty-ms: ^7.0.1
-  puppeteer-core: ^13.6.0
+  puppeteer-core: ^14.0.0
 
 dependencies:
-  pagedjs: 0.2.0
+  pagedjs: 0.3.1
   pretty-ms: 7.0.1
-  puppeteer-core: 13.6.0
+  puppeteer-core: 14.0.0
 
 packages:
 
@@ -27,8 +27,8 @@ packages:
       regenerator-runtime: 0.13.9
     dev: false
 
-  /@types/node/17.0.25:
-    resolution: {integrity: sha512-wANk6fBrUwdpY4isjWrKTufkrXdu1D2YHCot2fD/DfWxF5sMrVSA+KN7ydckvaTCh0HiqX9IVl0L5/ZoXg5M7w==}
+  /@types/node/17.0.31:
+    resolution: {integrity: sha512-AR0x5HbXGqkEx9CadRH3EBYx/VkiUgZIhP4wvPn/+5KIsgpNoyFaRlVe0Zlx9gRtg8fA06a9tskE2MSN7TcG4Q==}
     dev: false
     optional: true
 
@@ -36,7 +36,7 @@ packages:
     resolution: {integrity: sha512-Cn6WYCm0tXv8p6k+A8PvbDG763EDpBoTzHdA+Q/MF6H3sapGjCm9NzoaJncJS9tUKSuCoDs9XHxYYsQDgxR6kw==}
     requiresBuild: true
     dependencies:
-      '@types/node': 17.0.25
+      '@types/node': 17.0.31
     dev: false
     optional: true
 
@@ -136,8 +136,8 @@ packages:
       ms: 2.1.2
     dev: false
 
-  /devtools-protocol/0.0.981744:
-    resolution: {integrity: sha512-0cuGS8+jhR67Fy7qG3i3Pc7Aw494sb9yG9QgpG97SFVWwolgYjlhJg7n+UaHxOQT30d1TYu/EYe9k01ivLErIg==}
+  /devtools-protocol/0.0.982423:
+    resolution: {integrity: sha512-FnVW2nDbjGNw1uD/JRC+9U5768W7e1TfUwqbDTcSsAu1jXFjITSX8w3rkW5FEpHRMPPGpvNSmO1pOpqByiWscA==}
     dev: false
 
   /end-of-stream/1.4.4:
@@ -238,8 +238,8 @@ packages:
       path-is-absolute: 1.0.1
     dev: false
 
-  /https-proxy-agent/5.0.0:
-    resolution: {integrity: sha512-EkYm5BcKUGiduxzSt3Eppko+PiNWNEpa4ySk9vTC6wDsQJW9rHSa+UhGNJoRYp7bz6Ht1eaRIa6QaJqO5rCFbA==}
+  /https-proxy-agent/5.0.1:
+    resolution: {integrity: sha512-dFcAjpTQFgoLMzC2VwU+C/CbS7uRL0lWmxDITmqm7C+7F0Odmj6s9l6alZc6AELXhrnggM2CeWSXHGOdX2YtwA==}
     engines: {node: '>= 6'}
     dependencies:
       agent-base: 6.0.2
@@ -329,8 +329,8 @@ packages:
     engines: {node: '>=6'}
     dev: false
 
-  /pagedjs/0.2.0:
-    resolution: {integrity: sha512-1vR3vI6kqKomYGeKruhtseJIgmKAmPDYMNWMYqOmQBaQynvCqz7ETi68/nhMOcwTO47jtVlBiDWww9GzjAsqAQ==}
+  /pagedjs/0.3.1:
+    resolution: {integrity: sha512-NW3sTtbCn8IrAu0Aa/ZrrD628sxmLvl5ZNciAV/8ioWbHQhNCF3NMkK60N4bK7l6Y6lK6QnfPQmJRG6brdRXMw==}
     dependencies:
       '@babel/polyfill': 7.12.1
       '@babel/runtime': 7.17.9
@@ -388,22 +388,22 @@ packages:
       once: 1.4.0
     dev: false
 
-  /puppeteer-core/13.6.0:
-    resolution: {integrity: sha512-n692xT9uOTxbFKcCRkfOT2Go5LL0YBCHrSpBdbNsjLhcxO5yuhj2/4jgAIK9bT1blY17Pb4I35eBSuDzJ54ERw==}
-    engines: {node: '>=10.18.1'}
+  /puppeteer-core/14.0.0:
+    resolution: {integrity: sha512-uBs0gfB7ZTbslH1ujKpb2Updk5XYcFgV07/C8wGmUAWiwK0aklPEJrVV3rdrDiPlNhaP4Qc53+GUN2kpEE8MHQ==}
+    engines: {node: '>=14.1.0'}
     dependencies:
       cross-fetch: 3.1.5
       debug: 4.3.4
-      devtools-protocol: 0.0.981744
+      devtools-protocol: 0.0.982423
       extract-zip: 2.0.1
-      https-proxy-agent: 5.0.0
+      https-proxy-agent: 5.0.1
       pkg-dir: 4.2.0
       progress: 2.0.3
       proxy-from-env: 1.1.0
       rimraf: 3.0.2
       tar-fs: 2.1.1
       unbzip2-stream: 1.4.3
-      ws: 8.5.0
+      ws: 8.6.0
     transitivePeerDependencies:
       - bufferutil
       - encoding
@@ -508,8 +508,8 @@ packages:
     resolution: {integrity: sha1-tSQ9jz7BqjXxNkYFvA0QNuMKtp8=}
     dev: false
 
-  /ws/8.5.0:
-    resolution: {integrity: sha512-BWX0SWVgLPzYwF8lTzEy1egjhS4S4OEAHfsO8o65WOVsrnSRGaSiUaa9e0ggGlkMTtBlmOpEXiie9RUcBO86qg==}
+  /ws/8.6.0:
+    resolution: {integrity: sha512-AzmM3aH3gk0aX7/rZLYvjdvZooofDu3fFOzGqcSnQ1tOcTWwhM/o+q++E8mAyVVIyUdajrkzWUGftaVSDLn1bw==}
     engines: {node: '>=10.0.0'}
     peerDependencies:
       bufferutil: ^4.0.1
