@@ -1,2 +1,3 @@
 User-Agent: *
 Disallow: /scripts
+Sitemap: https://brownband.org/sitemap.xml

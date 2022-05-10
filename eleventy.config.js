@@ -11,6 +11,12 @@ process.on("unhandledRejection", (err) => {
 module.exports = (eleventyConfig) => {
   eleventyConfig.addPlugin(require("./config"));
 
+  eleventyConfig.addPlugin(require("@quasibit/eleventy-plugin-sitemap"), {
+    sitemap: {
+      hostname: "https://brownband.org",
+    },
+  });
+
   // ignore the book page
   eleventyConfig.ignores.add("pages/scripts/book.jsx");
 
