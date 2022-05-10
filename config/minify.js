@@ -37,7 +37,7 @@ module.exports = (eleventyConfig) => {
     eleventyConfig.dir.output
   );
   eleventyConfig.addTransform("clean-html", function (value) {
-    if (this.outputPath) {
+    if (this.outputPath && this.outputPath.endsWith(".html")) {
       return rehypeTransformHTML
         .then((rehype) =>
           rehype.process({
