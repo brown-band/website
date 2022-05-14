@@ -19,28 +19,12 @@
   label: "{B} HOCKEY"
 
 - about: Hockey
-  imageName: 351
-  label: BRUNO PUCKED YOUR MOM LAST NIGHT
-
-- about: Hockey
   imageName: 353
   label: RUBBER PUCKS AND LIQUOR!
 
 - about: Hockey
   imageName: 357
   label: Watch Out! The Ice is Slippery!
-
-- about: Hockey
-  imageName: 358
-  label: Puck 'er? I hardly know 'er!
-
-- about: "???"
-  imageName: 363
-  label: Got Crabs?
-
-- about: "???"
-  imageName: 370
-  label: BONESAW!
 
 - about: "???"
   imageName: 373

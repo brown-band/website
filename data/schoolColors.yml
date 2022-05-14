@@ -69,6 +69,8 @@ maine:
   color: "#003263" # Navy
 marshall:
   color: "#00ac3e" # “Primary Green”
+pembroke:
+  color: "var(--brown-brand)" # I couldn't find a color so I just went with Brown brown
 penn-state:
   color: "#001e44" # Blue
 providence-college:
@@ -89,6 +91,8 @@ stetson:
   color: "#0e5540" # Stetson Green
 stony-brook:
   color: "#ff2400" # Scarlet
+towson:
+  color: "#000000" # Black [the gold is too bright]
 ualbany:
   color: "#46166b" # Purple
 uconn:
