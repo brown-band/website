@@ -88,5 +88,6 @@ module.exports = (eleventyConfig) => {
   // in dev mode, rebuild the site when these files change
   // (pages and data files automatically trigger a rebuild)
   eleventyConfig.addWatchTarget("assets");
+  eleventyConfig.addWatchTarget("buttons");
   eleventyConfig.addWatchTarget("components");
 };
