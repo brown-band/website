@@ -70,7 +70,7 @@ maine:
 marshall:
   color: "#00ac3e" # “Primary Green”
 pembroke:
-  color: "var(--brown-brand)" # I couldn't find a color so I just went with Brown brown
+  color: "var(--brown-brand)" # I couldn’t find a color so I just went with Brown brown
 penn-state:
   color: "#001e44" # Blue
 providence-college:

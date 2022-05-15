@@ -42,7 +42,7 @@ We love ‘em, but the uniforms keep triggering epileptic fits.
 
 [<img alt="Visit the Penn Band website" src="/assets/images/other-bands/Penn.jpg" width="200" />](http://pennband.net)
 
-The real question about the Penn band is, with a name like that, do you think they're trying to compensate for something?
+The real question about the Penn band is, with a name like that, do you think they’re trying to compensate for something?
 
 ---
 
@@ -50,6 +50,6 @@ The real question about the Penn band is, with a name like that, do you think th
 
 [<img alt="Visit the Yale Band website" src="/assets/images/other-bands/Yale.jpg" width="200" />](https://bands.yalecollege.yale.edu/bands/yale-precision-marching-band)
 
-Just like that old lightbulb joke about New Haven, Yale's band looks better in the dark.
+Just like that old lightbulb joke about New Haven, Yale’s band looks better in the dark.
 
 </section>

@@ -2,7 +2,7 @@ const Icon = require("../components/Icon");
 
 exports.data = {
   summary: `
-    It just wouldn't be complete if we cheered on the Bears without paying our
+    It just wouldn’t be complete if we cheered on the Bears without paying our
     due respects to the opposition. Hence, we have the infamous buttons, a
     different set for each football game (plus a special one for homecoming)
     churned out every year. The Band proudly wears them, and we pass them out
@@ -46,8 +46,8 @@ exports.default = ({ buttons, specialButtons, site: { urls } }) => (
   <>
     <h2 id="current">{buttons.currentYear} Season</h2>
     <p>
-      The current season's buttons are displayed below. They are only released
-      the Tuesday before the football game! Don't forget to get your hands on
+      The current season’s buttons are displayed below. They are only released
+      the Tuesday before the football game! Don’t forget to get your hands on
       one before they are all gone.
     </p>
     <table class="table table-sm">

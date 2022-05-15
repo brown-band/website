@@ -47,7 +47,7 @@ h3 { margin-top: 2rem }
 
     Flugenflagel: Picnic and Retreat (meet at Fulton)
 
-    Bring games, frisbees, etc. and don't forget sunscreen. There will be a barbecue and Band T-shirts.
+    Bring games, frisbees, etc. and don’t forget sunscreen. There will be a barbecue and Band T-shirts.
 
     (This is open to current students and seniors only.)
 
