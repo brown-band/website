@@ -32,7 +32,7 @@ exports.default = ({ buttons, site: { urls }, schoolColors }) => (
     {Object.entries(buttons.byYear).map(([year, buttons]) => (
       <>
         <h2 class="h3">
-          {year} [{buttons.length}]
+          {year} ({buttons.length})
         </h2>
         <table class="table table-sm">
           <tbody>

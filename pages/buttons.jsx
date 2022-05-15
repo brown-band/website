@@ -149,6 +149,10 @@ exports.default = ({ buttons, specialButtons, site: { urls } }) => (
       </tbody>
     </table>
 
+    <p class="fst-italic">
+      See also the <a href="/buttons/by-year/">year-by-year archive</a>.
+    </p>
+
     <div
       // pe-auto is a workaround for a bug caused by using 2 diff Bootstrap versions
       class="modal fade zoom pe-auto"
