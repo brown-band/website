@@ -25,7 +25,7 @@ exports.data = {
     title: ({ category }) => `All Scripts: ${category.title}`,
     pageHeader: ({ category }) => (
       <>
-        <a href="/scripts/" class="link-secondary">
+        <a href="/scripts/#categories" class="link-secondary">
           Scripts
         </a>{" "}
         &rsaquo; {category.title}
@@ -40,13 +40,7 @@ exports.data = {
   },
 };
 
-exports.default = ({
-  site: { urls },
-  pagination,
-  category,
-  schoolColors,
-  buttons,
-}) => (
+exports.default = ({ site: { urls }, category, schoolColors, buttons }) => (
   <>
     <link rel="stylesheet" href="/assets/css/script.css" />
     {category.scripts.map((script, i) => (
