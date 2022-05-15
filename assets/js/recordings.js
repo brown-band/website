@@ -136,11 +136,12 @@ const getTemplate = (
  * @param {Track} track
  * @param {boolean} includeArranger
  */
-const renderTrack = (track, includeArranger) => {
+const renderTrack = (track, includeArranger, i) => {
   if ("header" in track) {
     return getTemplate("trackList-header", (row) => {
       const title = row.querySelector("th");
       title.colSpan = includeArranger ? 3 : 2;
+      if (i === 0) title.classList.remove("pt-5");
       title.textContent = track.header;
     });
   } else {
@@ -167,13 +168,14 @@ const renderAlbum = (/** @type {Album} */ album) =>
     const includeArranger = album.tracks.some((t) => "arranger" in t);
     if (!includeArranger) {
       sec.querySelector(".arranger-title").remove();
+      sec.querySelector("thead").remove();
     }
 
-    for (const track of album.tracks) {
+    album.tracks.forEach((track, i) => {
       sec
         .querySelector("tbody")
-        .appendChild(renderTrack(track, includeArranger));
-    }
+        .appendChild(renderTrack(track, includeArranger, i));
+    });
   });
 
 document.addEventListener("password:decrypt", async () => {

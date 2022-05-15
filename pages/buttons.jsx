@@ -51,18 +51,10 @@ exports.default = ({ buttons, specialButtons, site: { urls } }) => (
       one before they are all gone.
     </p>
     <table class="table table-sm">
-      <thead>
-        <tr>
-          <th class="pe-3" style="text-align: right">
-            School
-          </th>
-          <th>Button</th>
-        </tr>
-      </thead>
       <tbody>
         {buttons.currentYearButtons.map((button) => (
           <tr>
-            <td class="align-middle pe-3" style="text-align: right">
+            <td class="align-middle pe-3" style="text-align: right; width: 50%">
               <a
                 href={`#${button.schoolId}`}
                 style={`font-size: 1.25em; font-weight: bold; color: ${
@@ -82,7 +74,7 @@ exports.default = ({ buttons, specialButtons, site: { urls } }) => (
                   src={`${urls.buttons}/${button.image}`}
                   width="100"
                   height="100"
-                  style="border-radius: 50%"
+                  class="rounded-circle my-3"
                 />
               </a>
             </td>
@@ -115,7 +107,7 @@ exports.default = ({ buttons, specialButtons, site: { urls } }) => (
           <th>Button</th>
         </tr>
       </thead>
-      <tbody>
+      <tbody class="table-group-divider">
         {specialButtons.map((button) => (
           <tr>
             <td>{button.year}</td>
@@ -139,7 +131,7 @@ exports.default = ({ buttons, specialButtons, site: { urls } }) => (
           <th>Button</th>
         </tr>
       </thead>
-      <tbody>
+      <tbody class="table-group-divider">
         {buttons.unknown.map((button) => (
           <tr>
             <td>{button.about}</td>

@@ -5,12 +5,12 @@ module.exports = () => (
       below to proceed. If you have any questions, please email
       band_web@brown.edu.
     </p>
-    <form class="mt-3" onsubmit="decrypt(); return false">
+    <form onsubmit="decrypt(); return false">
       <label for="passwordInput" class="form-label">
         Enter the password here, please.
       </label>
-      <div class="row">
-        <div class="col-md-8">
+      <div class="d-flex flex-column flex-md-row gap-3">
+        <div class="flex-grow-1">
           <input
             type="password"
             class="form-control"
@@ -22,7 +22,7 @@ module.exports = () => (
             Incorrect Password. Try again or email band_web@brown.edu!
           </div>
         </div>
-        <div class="col-md-4" style="display: flex; align-items: flex-start">
+        <div style="display: flex; align-items: flex-start">
           <button class="btn btn-primary decrypt-button" type="submit" disabled>
             Press This Button!
           </button>

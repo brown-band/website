@@ -47,11 +47,16 @@ exports.default = ({ site: { urls } }) => (
         <h2 />
         <p />
         <table class="table">
+          <colgroup>
+            <col />
+            <col class="arranger-title" />
+            <col style="width: 60px" />
+          </colgroup>
           <thead>
             <tr>
-              <th>Title</th>
-              <th class="arranger-title">Arranger</th>
-              <th style="width: 60px" />
+              <th class="ps-0">Title</th>
+              <th>Arranger</th>
+              <th />
             </tr>
           </thead>
           <tbody />
@@ -61,13 +66,13 @@ exports.default = ({ site: { urls } }) => (
 
     <template id="trackList-header">
       <tr>
-        <th class="text-center" />
+        <th class="text-center pt-5" />
       </tr>
     </template>
 
     <template id="trackList-track">
-      <tr>
-        <td class="track-title" />
+      <tr class="border-top">
+        <td class="track-title ps-0" />
         <td class="track-arranger" />
         <td>
           <button class="btn btn-secondary btn-sm">Play!</button>
