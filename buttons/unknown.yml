@@ -26,6 +26,9 @@
   imageName: 357
   label: Watch Out! The Ice is Slippery!
 
+- about: Hockey
+  label: Stick it in, Bruno!
+
 - about: "???"
   imageName: 373
   label: My Child Joined THE BROWN BAND and All I Got Was This Lousy Button
@@ -41,3 +44,6 @@
 
 - about: Penn, 2007 (replaced)
   label: Sorry! We forgot about you
+
+- about: Cornell/Harvard/Penn, pre-1992
+  label: George Bush's Worst Nightmare
