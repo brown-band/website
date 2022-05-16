@@ -237,10 +237,14 @@ There are a few extensions to Markdown that this project uses to make it easier 
 ### Compiling senior script books
 
 1. In `eleventy-book.config.js`, update `graduationYear` (to the desired graduation year, with a .5 if the book is for a .5er) and `extraYear` (to `true` if you’re making it for someone who took an extra year, `false` otherwise)
-2. Run `pnpm build:book`, then open `book/book.pdf` in your favorite PDF viewer. Expect it to be around 100 pages.
-3. Make sure there are no typos and everything is laid out decently
+2. Install the required fonts:
+   - Meta Serif Pro (from [Adobe Fonts](https://fonts.adobe.com/fonts/ff-meta-serif))
+   - Fira Sans (from [Adobe Fonts](https://fonts.adobe.com/fonts/fira-sans) or [Font Squirrel](https://www.fontsquirrel.com/fonts/fira-sans))
+   - Brown has [instructions](https://ithelp.brown.edu/kb/articles/install-adobe-creative-cloud-desktop-application) to set up a free Creative Cloud account to access Adobe Fonts
+4. Run `pnpm build:book`, then open `book/book.pdf` in your favorite PDF viewer. Expect it to be around 100 pages.
+5. Make sure there are no typos and everything is laid out decently
    - If you have to make changes, run `pnpm start:book` and open http://localhost:8080 in your browser to get a live preview of what the book will look like. Note that you will have to manually refresh to get CSS changes to apply, due to the way the library that slices the HTML into pages works.
-4. View remaining steps in the Webmaster Reference Document, under the “Making script books” section
+6. View remaining steps in the Webmaster Reference Document, under the “Making script books” section
 
 ### Adding/removing pages
 
