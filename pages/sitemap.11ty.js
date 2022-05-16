@@ -5,5 +5,9 @@ exports.data = {
 };
 
 exports.render = function (data) {
-  return this.sitemap(data.collections.all);
+  return this.sitemap(
+    data.collections.all.filter(
+      (d) => !(d.url && d.url.startsWith("/scripts")) || d.url == "/404.html"
+    )
+  );
 };
