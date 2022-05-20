@@ -24,11 +24,11 @@ jobs:
       - name: Cache Dependencies
         uses: actions/cache@v2
         with:
-          path: ~/.pnpm-store/
-          key: pnpm-${{ hashFiles('pnpm-lock.yaml') }}
+          path: ~/.local/share/pnpm/store
+          key: pnpm7-${{ hashFiles('pnpm-lock.yaml') }}
           restore-keys: |
-            pnpm-${{ hashFiles('pnpm-lock.yaml') }}
-            pnpm-
+            pnpm7-${{ hashFiles('pnpm-lock.yaml') }}
+            pnpm7-
 
       - name: Setup PNPM
         uses: pnpm/action-setup@v2.0.1
