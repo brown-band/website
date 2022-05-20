@@ -82,7 +82,7 @@ h3 { margin-top: 2rem }
 
 <table class="table">
 <tr>
-  <td style="width: 100px">8:30am</td>
+  <td style="width: 100px">8:15am</td>
   <td>Breakfast/Fulton Call Time</td>
 </tr>
 <tr>
