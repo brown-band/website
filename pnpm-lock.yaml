@@ -37,11 +37,13 @@ specifiers:
   remark-heading-id: ^1.0.0
   remark-parse: ^10.0.1
   remark-rehype: ^10.1.0
+  semver: ^7.3.7
   subset-font: ^1.4.0
   title: ^3.4.4
   unified: ^10.1.2
   unist-util-map: ^3.1.1
   vfile: ^5.3.2
+  yaml: ^2.1.0
 
 dependencies:
   '@fontsource/niconne': 4.5.5
@@ -83,10 +85,12 @@ devDependencies:
   remark-heading-id: 1.0.0
   remark-parse: 10.0.1
   remark-rehype: 10.1.0
+  semver: 7.3.7
   title: 3.4.4
   unified: 10.1.2
   unist-util-map: 3.1.1
   vfile: 5.3.2
+  yaml: 2.1.0
 
 packages:
 
@@ -5075,6 +5079,11 @@ packages:
 
   /yallist/4.0.0:
     resolution: {integrity: sha512-3wdGidZyq5PB084XLES5TpOSRA3wjXAlIWMhum2kRcv/41Sn2emQ0dycQW4uZXLejwKvg6EsvbdlVL+FYEct7A==}
+    dev: true
+
+  /yaml/2.1.0:
+    resolution: {integrity: sha512-OuAINfTsoJrY5H7CBWnKZhX6nZciXBydrMtTHr1dC4nP40X5jyTIVlogZHxSlVZM8zSgXRfgZGsaHF4+pV+JRw==}
+    engines: {node: '>= 14'}
     dev: true
 
   /yargs-parser/20.2.9:
