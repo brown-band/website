@@ -118,9 +118,10 @@ module.exports = async ({ site, quote, nav, all, currentURL }) => (
             <li class="nav-item mx-sm-3 mx-md-1">
               <a
                 href="/contact/"
-                class={`nav-link ${
-                  findPage("contact", all).url === currentURL
-                }`}
+                class={
+                  "nav-link" +
+                  (findPage("contact", all).url === currentURL ? " active" : "")
+                }
               >
                 Contact
               </a>
