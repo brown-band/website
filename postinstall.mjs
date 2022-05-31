@@ -44,11 +44,11 @@ if (pnpmVersion !== requestedVersion) {
       ? `upgraded`
       : `${yellow}downgraded${reset}${green}`;
     console.log(
-      `${green}Successfully ${action} pnpm to v${requestedVersion} in .github/workflows/deploy.yml${reset}`
+      `${green}Successfully ${action} pnpm to v${pnpmVersion} in .github/workflows/deploy.yml${reset}`
     );
   } else {
     console.error(
-      `${red}Expected pnpm version ${pnpmVersion} but found v${requestedVersion} in .github/workflows/deploy.yml${reset}`
+      `${red}Expected pnpm v${pnpmVersion} but found v${requestedVersion} in .github/workflows/deploy.yml${reset}`
     );
     if (semver.lt(pnpmVersion, requestedVersion)) {
       console.log(
