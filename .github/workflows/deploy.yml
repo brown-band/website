@@ -21,6 +21,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
 
+      # speeds up pnpm install, theoretically
       - name: Cache Dependencies
         uses: actions/cache@v2
         with:
@@ -50,6 +51,8 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           DEBUG: Eleventy:Benchmark
 
+      # These last 3 steps are subject to change as GitHub adds official support
+      # for deploying to Pages from Actions
       - name: Create Archive
         run: tar -vv --create --directory public --file gh-pages-${{ github.sha }}.tar .
 
