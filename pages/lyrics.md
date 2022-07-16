@@ -1,6 +1,6 @@
 ## Ever True to Brown (#1) {#evertrue}
 
-<cite>Donald Jackson ’09</cite>
+<cite>Donald Jackson 1909</cite>
 
 **_This is Brown’s official fight song and can be heard after a touchdown or when the team takes the field or the ice. There are two versions: one traditional, and one that’s more... shall we say, suitable for the band._**
 
@@ -45,7 +45,7 @@ And a B-O-U-R-B-O-N.
 
 ## Brown Cheering Song (#2) {#cheering-song}
 
-<cite>R.B. Jones ’07 and H.S. Young ’08</cite>
+<cite>R.B. Jones 1907 and H.S. Young 1908</cite>
 
 When Brunonia’s Big Brown Team is in the game,  
 And the whole line is fighting to guard her name,  
@@ -61,7 +61,7 @@ So rise, rise and cheer, boys, till the last white line is crossed.
 
 ## Brown Forevermore (#3) {#forevermore}
 
-<cite>Fred A. Otis ’03</cite>
+<cite>Fred A. Otis 1903</cite>
 
 Our boys are out there fighting,  
 Like they’ve never fought before.  
@@ -81,7 +81,7 @@ Because it’s fight, fight for Brown boys, and for Brown forevermore.
 
 ## For Bruno and For Brown (#4) {#four}
 
-<cite>John R. Bair ’13 and Donald Jackson ’09</cite>
+<cite>John R. Bair 1913 and Donald Jackson 1909</cite>
 
 The name of Brown, boys, shall never fall,  
 ’Midst the great or small, she is the best of all,  
@@ -122,7 +122,7 @@ Rah, rah, Bruno-nonia, Brown Brown Brown.
 
 ## In the Fray {#in-the-fray}
 
-<cite>A.G. Chaffee ’02</cite>
+<cite>A.G. Chaffee 1902</cite>
 
 When our men get in the fray,  
 We’ll watch them play, and shout Hooray!  
@@ -181,7 +181,7 @@ To cheer once more as before for dear old Brown!
 
 ## Bring the Victory to Brown {#bring-the-victory}
 
-<cite>Donald Jackson ’09</cite>
+<cite>Donald Jackson 1909</cite>
 
 Keep a-cheering for Brunonia!  
 And her mighty team today;  
