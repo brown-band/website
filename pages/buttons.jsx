@@ -154,8 +154,7 @@ exports.default = ({ buttons, specialButtons, site: { urls } }) => (
     </p>
 
     <div
-      // pe-auto is a workaround for a bug caused by using 2 diff Bootstrap versions
-      class="modal fade zoom pe-auto"
+      class="modal fade zoom"
       id="buttonLightbox"
       tabindex="-1"
       aria-labelledby="buttonLightboxImage"
@@ -168,8 +167,6 @@ exports.default = ({ buttons, specialButtons, site: { urls } }) => (
             class="btn-close position-absolute top-0 end-0 p-3"
             data-bs-dismiss="modal"
             aria-label="Close"
-            // fix for dark mode
-            style="filter: none"
           />
           <img
             src=""

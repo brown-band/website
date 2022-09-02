@@ -14,7 +14,7 @@ exports.default = async ({ site, quote, nav, collections, page, content }) => (
     <script>{`
       const media = matchMedia("(prefers-color-scheme: dark)");
       const update = () => {
-        document.documentElement.dataset.theme = media.matches ? "dark" : "light";
+        document.documentElement.dataset.bsTheme = media.matches ? "dark" : "light";
       };
       update();
 

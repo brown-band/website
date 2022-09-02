@@ -83,7 +83,7 @@ module.exports = (eleventyConfig) => {
         // not sure why this isn’t picked up
         variables: ["--bs-font-monospace", "--bs-body-font-weight"],
       },
-      dynamicAttributes: ["data-theme"],
+      dynamicAttributes: ["data-bs-theme"],
       rejected: process.env.NODE_ENV !== "production",
     });
     if (process.env.NODE_ENV === "production") {

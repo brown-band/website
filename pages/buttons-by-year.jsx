@@ -24,7 +24,7 @@ exports.default = ({ buttons, site: { urls }, schoolColors }) => (
             )
             .join(", ")}; */
         }
-        [data-theme="dark"] .school-name {
+        [data-bs-theme="dark"] .school-name {
           color: white !important;
         }
       `}
@@ -67,8 +67,7 @@ exports.default = ({ buttons, site: { urls }, schoolColors }) => (
 
     {/* todo: use this from the main buttons page */}
     <div
-      // pe-auto is a workaround for a bug caused by using 2 diff Bootstrap versions
-      class="modal fade zoom pe-auto"
+      class="modal fade zoom"
       id="buttonLightbox"
       tabindex="-1"
       aria-labelledby="buttonLightboxImage"
@@ -81,8 +80,6 @@ exports.default = ({ buttons, site: { urls }, schoolColors }) => (
             class="btn-close position-absolute top-0 end-0 p-3"
             data-bs-dismiss="modal"
             aria-label="Close"
-            // fix for dark mode
-            style="filter: none"
           />
           <img
             src=""

@@ -55,7 +55,7 @@
 }
 
 @media (max-width: 576px) {
-  [data-theme="dark"] .player-wrapper {
+  [data-bs-theme="dark"] .player-wrapper {
     box-shadow: 0 2.5rem 2rem 3rem rgba(0, 0, 0, 0.4) !important;
   }
 }

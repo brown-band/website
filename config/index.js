@@ -41,15 +41,12 @@ module.exports = (eleventyConfig) => {
    * Copy assets to the assets/ folder
    */
   eleventyConfig.addPassthroughCopy("assets");
-  eleventyConfig.addPassthroughCopy(
-    Object.fromEntries(
-      [
-        "node_modules/bootstrap/dist/js/" +
-          (env === "development" ? "bootstrap.js" : "bootstrap.min.js"),
-        "node_modules/base64-arraybuffer/dist/base64-arraybuffer.umd.js",
-      ].map((k) => [k, "assets/vendor/" + path.basename(k)])
-    )
-  );
+  eleventyConfig.addPassthroughCopy({
+    ["node_modules/bootstrap/dist/js/bootstrap.bundle" +
+    (env === "development" ? ".js" : ".min.js")]: "assets/vendor/bootstrap.js",
+    "node_modules/base64-arraybuffer/dist/base64-arraybuffer.umd.js":
+      "assets/vendor/base64-arraybuffer.js",
+  });
   eleventyConfig.addPassthroughCopy({
     "node_modules/@fontsource/quicksand/files/*variable*":
       "assets/fonts/quicksand/files/",

@@ -23,7 +23,7 @@
 }
 
 @media (min-width: 768px) {
-  [data-theme="dark"] .dropdown-menu-brown {
+  [data-bs-theme="dark"] .dropdown-menu-brown {
     background: var(--brown-3);
   }
 }
