@@ -20,7 +20,7 @@ For we love our college dear,
 And wherever we may go,  
 We are ready with a cheer,  
 And the people always say,  
-That you can’t outshine Brown men,  
+That you can’t outshine Brown Bears,  
 With their Rah! Rah! Rah! and their Ki! Yi! Yi!  
 And their B-R-O-W-N.
 
