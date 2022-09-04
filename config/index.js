@@ -40,10 +40,11 @@ module.exports = (eleventyConfig) => {
   /**
    * Copy assets to the assets/ folder
    */
+  const min = env === "development" ? "" : ".min";
   eleventyConfig.addPassthroughCopy("assets");
   eleventyConfig.addPassthroughCopy({
-    ["node_modules/bootstrap/dist/js/bootstrap.bundle" +
-    (env === "development" ? ".js" : ".min.js")]: "assets/vendor/bootstrap.js",
+    ["node_modules/bootstrap/dist/js/bootstrap.bundle" + min + ".js"]:
+      "assets/vendor/bootstrap" + min + ".js",
     "node_modules/base64-arraybuffer/dist/base64-arraybuffer.umd.js":
       "assets/vendor/base64-arraybuffer.js",
   });
