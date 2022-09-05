@@ -24,6 +24,7 @@ module.exports = (eleventyConfig) => {
    */
   eleventyConfig.setLibrary("md", {
     set: () => {},
+    disable: () => {},
     render: (str) => import("./markdown.mjs").then(({ render }) => render(str)),
   });
 

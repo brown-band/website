@@ -16,7 +16,7 @@
     "subset-font": "^1.4.0"
   },
   "devDependencies": {
-    "@11ty/eleventy": "2.0.0-canary.9",
+    "@11ty/eleventy": "2.0.0-canary.15",
     "@11ty/eleventy-fetch": "^3.0.0",
     "@11ty/eleventy-server-browsersync": "^1.0.2",
     "@quasibit/eleventy-plugin-sitemap": "^2.1.5",
