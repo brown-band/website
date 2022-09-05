@@ -1,15 +1,22 @@
+const slugify = require("@sindresorhus/slugify");
+
 exports.data = {
   title: "The Bandstand",
 };
 
 exports.default = async ({ bandstands }) => {
   const { groups, reverse } = await import("d3-array");
-  const href = (type, { volume, issue }) =>
-    `https://students.brown.edu/band/the-bandstand/${type}/${volume}-${issue}.pdf`;
+  const href = (type, { volume, issue, date }) => {
+    if (issue) {
+      return `https://students.brown.edu/band/the-bandstand/${type}/${volume}-${issue}.pdf`;
+    }
+    return `https://students.brown.edu/band/the-bandstand/${type}/${slugify(
+      date
+    )}.pdf`;
+  };
   const Link = ({ type, to: issue }) => (
     <a href={href(type, issue)}>
-      {issue.issue}
-      {" • "}
+      {issue.issue ? `${issue.issue} • ` : ""}
       {issue.date}
     </a>
   );
@@ -42,7 +49,7 @@ exports.default = async ({ bandstands }) => {
         {reverse(groups(bandstands.new, (d) => d.volume)).map(
           ([volume, issues]) => (
             <div>
-              <dt>Volume {volume}</dt>
+              <dt>{issues[0].issue ? `Volume ${volume}` : volume}</dt>
               {issues.map((issue) => (
                 <dd>
                   <Link type="new" to={issue} />
