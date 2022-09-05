@@ -22,10 +22,13 @@ module.exports = (eleventyConfig) => {
   /**
    * Markdown: use Remark with some customizations as the parser
    */
-  eleventyConfig.setLibrary("md", {
-    set: () => {},
-    disable: () => {},
-    render: (str) => import("./markdown.mjs").then(({ render }) => render(str)),
+  eleventyConfig.addExtension("md", {
+    async compile(inputContent, inputPath) {
+      let result = import("./markdown.mjs").then(({ render }) =>
+        render(inputContent)
+      );
+      return () => result;
+    },
   });
 
   /**
