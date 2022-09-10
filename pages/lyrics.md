@@ -4,7 +4,7 @@
 
 **_This is Brown’s official fight song and can be heard after a touchdown or when the team takes the field or the ice. There are two versions: one traditional, and one that’s more... shall we say, suitable for the band._**
 
-<table class="table table-borderless">
+<table class="table table-borderless d-none d-md-table">
 <thead class="text-center">
 <tr>
     <th scope="col" style="border-right: 1.5px solid var(--bs-border-color)">Traditional version</th>
@@ -40,6 +40,30 @@ And a B-O-U-R-B-O-N.
 </tr>
 </tbody>
 </table>
+
+<div style="d-md-none">
+
+<strong>Traditional version</strong>  
+We are ever true to Brown,  
+For we love our college dear,  
+And wherever we may go,  
+We are ready with a cheer,  
+And the people always say,  
+That you can’t outshine Brown Bears,  
+With their Rah! Rah! Rah! and their Ki! Yi! Yi!  
+And their B-R-O-W-N.
+
+<strong>“Modern” version</strong>  
+We are ever true to Brown,  
+For we love our college dear,  
+And wherever we may go (where are we going?)  
+We are ready with a beer.  
+And the people always say (what do they say?)  
+That you can’t out drink the band (one, two!)  
+With a scotch and rye and a whiskey dry,  
+And a B-O-U-R-B-O-N.
+
+</div>
 
 ---
 
