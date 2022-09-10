@@ -41,7 +41,7 @@ And a B-O-U-R-B-O-N.
 </tbody>
 </table>
 
-<div style="d-md-none">
+<div class="d-md-none">
 
 <strong>Traditional version</strong>  
 We are ever true to Brown,  
