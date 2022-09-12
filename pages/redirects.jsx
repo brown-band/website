@@ -7,18 +7,6 @@ exports.data = {
   title: "Redirecting…",
   permalink: ({ key }) => key + "/",
   showHeader: false,
-  eleventyComputed: {
-    headContent: ({ key, redirects }) => {
-      const dest = redirects[key];
-      return (
-        <>
-          <link rel="canonical" href={dest} />
-          <meta name="robots" content="noindex" />
-          <meta http-equiv="refresh" content={`0; url=${dest}`} />
-        </>
-      );
-    },
-  },
 };
 
 exports.default = ({ key, redirects }) => {
@@ -26,6 +14,11 @@ exports.default = ({ key, redirects }) => {
   return (
     <p>
       Redirecting to <a href={dest}>{dest}</a>&hellip;
+      <head>
+        <link rel="canonical" href={dest} />
+        <meta name="robots" content="noindex" />
+        <meta http-equiv="refresh" content={`0; url=${dest}`} />
+      </head>
     </p>
   );
 };

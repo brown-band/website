@@ -52,6 +52,7 @@
     "title": "^3.4.4",
     "unified": "^10.1.2",
     "unist-util-map": "^3.1.1",
+    "unist-util-visit": "^4.1.1",
     "vfile": "^5.3.2",
     "yaml": "^2.1.0"
   },

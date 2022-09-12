@@ -10,10 +10,12 @@ exports.data = {
 
 exports.default = ({ book, collections, schoolColors }) => (
   <>
-    <link rel="stylesheet" href="/assets/css/book.css" />
-    <link rel="stylesheet" href="/assets/css/script.css" />
-    <link rel="stylesheet" href="/assets/vendor/pagedjs-interface.css" />
-    <script src="/assets/vendor/paged.polyfill.js" />
+    <head>
+      <link rel="stylesheet" href="/assets/css/book.css" />
+      <link rel="stylesheet" href="/assets/css/script.css" />
+      <link rel="stylesheet" href="/assets/vendor/pagedjs-interface.css" />
+      <script src="/assets/vendor/paged.polyfill.js" />
+    </head>
 
     <header>
       <h1

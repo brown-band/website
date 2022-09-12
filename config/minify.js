@@ -4,31 +4,6 @@ const CleanCSS = require("clean-css");
 const extractFromHTML = require("purgecss-from-html");
 const { writeFile, readFile, mkdir } = require("node:fs/promises");
 
-const rehypeTransformHTML = (async () => {
-  const { rehype } = await import("rehype");
-  const { default: minify } = await import("rehype-preset-minify");
-  const { default: format } = await import("rehype-format");
-  const { default: cssToTop } = await import("rehype-css-to-top");
-  return (
-    rehype()
-      .use(process.env.NODE_ENV === "production" ? minify : format)
-      .use({
-        // disable the most egregiously invalid HTML output
-        settings: {
-          entities: {
-            omitOptionalSemicolons: false,
-            useShortestReferences: true,
-          },
-          tightDoctype: false,
-          upperDoctype: true,
-        },
-      })
-      // move CSS from the <body> (where templates stick it)
-      // to the top
-      .use(cssToTop)
-  );
-})();
-
 /** @type {(eleventyConfig: import("@11ty/eleventy/src/UserConfig")) => void} */
 module.exports = (eleventyConfig) => {
   // HTML
@@ -38,8 +13,8 @@ module.exports = (eleventyConfig) => {
   );
   eleventyConfig.addTransform("clean-html", function (value) {
     if (this.outputPath && this.outputPath.endsWith(".html")) {
-      return rehypeTransformHTML
-        .then((rehype) =>
+      return import("./html.mjs")
+        .then(({ default: rehype }) =>
           rehype.process({
             value,
             cwd: outDir,

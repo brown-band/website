@@ -42,6 +42,7 @@ specifiers:
   title: ^3.4.4
   unified: ^10.1.2
   unist-util-map: ^3.1.1
+  unist-util-visit: ^4.1.1
   vfile: ^5.3.2
   yaml: ^2.1.0
 
@@ -89,6 +90,7 @@ devDependencies:
   title: 3.4.4
   unified: 10.1.2
   unist-util-map: 3.1.1
+  unist-util-visit: 4.1.1
   vfile: 5.3.2
   yaml: 2.1.0
 
@@ -571,7 +573,7 @@ packages:
       estree-util-value-to-estree: 1.3.0
       hast-util-heading-rank: 2.1.0
       hast-util-to-string: 2.0.0
-      unist-util-visit: 4.1.0
+      unist-util-visit: 4.1.1
     dev: true
 
   /@szmarczak/http-timer/1.1.2:
@@ -2212,7 +2214,7 @@ packages:
       nth-check: 2.0.1
       property-information: 6.1.1
       space-separated-tokens: 2.0.1
-      unist-util-visit: 4.1.0
+      unist-util-visit: 4.1.1
       zwitch: 2.0.2
     dev: true
 
@@ -2917,7 +2919,7 @@ packages:
       unist-builder: 3.0.0
       unist-util-generated: 2.0.0
       unist-util-position: 4.0.3
-      unist-util-visit: 4.1.0
+      unist-util-visit: 4.1.1
     dev: true
 
   /mdast-util-to-markdown/1.3.0:
@@ -2928,7 +2930,7 @@ packages:
       longest-streak: 3.0.1
       mdast-util-to-string: 3.1.0
       micromark-util-decode-string: 1.0.2
-      unist-util-visit: 4.1.0
+      unist-util-visit: 4.1.1
       zwitch: 2.0.2
     dev: true
 
@@ -3914,7 +3916,7 @@ packages:
       '@types/hast': 2.3.4
       hast-util-is-css-link: 2.0.0
       unified: 10.1.2
-      unist-util-visit: 4.1.0
+      unist-util-visit: 4.1.1
     dev: true
 
   /rehype-format/4.0.1:
@@ -3939,7 +3941,7 @@ packages:
       hast-util-is-element: 2.1.2
       hast-util-is-event-handler: 2.0.0
       unified: 10.1.2
-      unist-util-visit: 4.1.0
+      unist-util-visit: 4.1.1
     dev: true
 
   /rehype-minify-css-style/3.0.0:
@@ -3951,7 +3953,7 @@ packages:
       hast-util-is-css-style: 2.0.0
       hast-util-to-string: 2.0.0
       unified: 10.1.2
-      unist-util-visit: 4.1.0
+      unist-util-visit: 4.1.1
     dev: true
 
   /rehype-minify-enumerated-attribute/4.1.0:
@@ -3964,7 +3966,7 @@ packages:
       property-information: 6.1.1
       space-separated-tokens: 2.0.1
       unified: 10.1.2
-      unist-util-visit: 4.1.0
+      unist-util-visit: 4.1.1
     dev: true
 
   /rehype-minify-event-handler/3.0.0:
@@ -3975,7 +3977,7 @@ packages:
       hast-util-is-event-handler: 2.0.0
       uglify-js: 3.15.4
       unified: 10.1.2
-      unist-util-visit: 4.1.0
+      unist-util-visit: 4.1.1
     dev: true
 
   /rehype-minify-javascript-script/4.0.0:
@@ -3988,7 +3990,7 @@ packages:
       hast-util-to-string: 2.0.0
       uglify-js: 3.15.4
       unified: 10.1.2
-      unist-util-visit: 4.1.0
+      unist-util-visit: 4.1.1
     dev: true
 
   /rehype-minify-javascript-url/4.0.0:
@@ -4000,7 +4002,7 @@ packages:
       html-url-attributes: 2.0.0
       uglify-js: 3.15.4
       unified: 10.1.2
-      unist-util-visit: 4.1.0
+      unist-util-visit: 4.1.1
     dev: true
 
   /rehype-minify-json-script/3.0.0:
@@ -4011,7 +4013,7 @@ packages:
       hast-util-is-element: 2.1.2
       hast-util-to-string: 2.0.0
       unified: 10.1.2
-      unist-util-visit: 4.1.0
+      unist-util-visit: 4.1.1
     dev: true
 
   /rehype-minify-language/2.0.0:
@@ -4021,7 +4023,7 @@ packages:
       bcp-47-normalize: 2.1.0
       hast-util-has-property: 2.0.0
       unified: 10.1.2
-      unist-util-visit: 4.1.0
+      unist-util-visit: 4.1.1
     dev: true
 
   /rehype-minify-media-attribute/3.0.0:
@@ -4031,7 +4033,7 @@ packages:
       clean-css: 5.3.0
       hast-util-is-element: 2.1.2
       unified: 10.1.2
-      unist-util-visit: 4.1.0
+      unist-util-visit: 4.1.1
     dev: true
 
   /rehype-minify-meta-color/3.0.0:
@@ -4042,7 +4044,7 @@ packages:
       hast-util-has-property: 2.0.0
       hast-util-is-element: 2.1.2
       unified: 10.1.2
-      unist-util-visit: 4.1.0
+      unist-util-visit: 4.1.1
     dev: true
 
   /rehype-minify-meta-content/3.0.0:
@@ -4053,7 +4055,7 @@ packages:
       hast-util-has-property: 2.0.0
       hast-util-is-element: 2.1.2
       unified: 10.1.2
-      unist-util-visit: 4.1.0
+      unist-util-visit: 4.1.1
     dev: true
 
   /rehype-minify-style-attribute/3.0.0:
@@ -4063,7 +4065,7 @@ packages:
       clean-css: 5.3.0
       hast-util-has-property: 2.0.0
       unified: 10.1.2
-      unist-util-visit: 4.1.0
+      unist-util-visit: 4.1.1
     dev: true
 
   /rehype-minify-whitespace/5.0.1:
@@ -4084,7 +4086,7 @@ packages:
       hast-util-has-property: 2.0.0
       hast-util-is-element: 2.1.2
       unified: 10.1.2
-      unist-util-visit: 4.1.0
+      unist-util-visit: 4.1.1
     dev: true
 
   /rehype-parse/8.0.4:
@@ -4139,7 +4141,7 @@ packages:
       '@types/hast': 2.3.4
       hast-util-is-element: 2.1.2
       unified: 10.1.2
-      unist-util-visit: 4.1.0
+      unist-util-visit: 4.1.1
     dev: true
 
   /rehype-remove-empty-attribute/3.0.0:
@@ -4149,7 +4151,7 @@ packages:
       hast-util-is-element: 2.1.2
       hast-util-is-event-handler: 2.0.0
       unified: 10.1.2
-      unist-util-visit: 4.1.0
+      unist-util-visit: 4.1.1
     dev: true
 
   /rehype-remove-external-script-content/3.0.0:
@@ -4159,7 +4161,7 @@ packages:
       hast-util-has-property: 2.0.0
       hast-util-is-javascript: 2.0.0
       unified: 10.1.2
-      unist-util-visit: 4.1.0
+      unist-util-visit: 4.1.1
     dev: true
 
   /rehype-remove-meta-http-equiv/3.0.0:
@@ -4168,7 +4170,7 @@ packages:
       hast-util-has-property: 2.0.0
       space-separated-tokens: 2.0.1
       unified: 10.1.2
-      unist-util-visit: 4.1.0
+      unist-util-visit: 4.1.1
     dev: true
 
   /rehype-remove-script-type-javascript/3.0.0:
@@ -4177,7 +4179,7 @@ packages:
       '@types/hast': 2.3.4
       hast-util-is-javascript: 2.0.0
       unified: 10.1.2
-      unist-util-visit: 4.1.0
+      unist-util-visit: 4.1.1
     dev: true
 
   /rehype-remove-style-type-css/3.0.0:
@@ -4187,7 +4189,7 @@ packages:
       hast-util-is-css-link: 2.0.0
       hast-util-is-css-style: 2.0.0
       unified: 10.1.2
-      unist-util-visit: 4.1.0
+      unist-util-visit: 4.1.1
     dev: true
 
   /rehype-sort-attribute-values/4.0.0:
@@ -4196,7 +4198,7 @@ packages:
       '@types/hast': 2.3.4
       hast-util-is-element: 2.1.2
       unified: 10.1.2
-      unist-util-visit: 4.1.0
+      unist-util-visit: 4.1.1
     dev: true
 
   /rehype-sort-attributes/4.0.0:
@@ -4204,7 +4206,7 @@ packages:
     dependencies:
       '@types/hast': 2.3.4
       unified: 10.1.2
-      unist-util-visit: 4.1.0
+      unist-util-visit: 4.1.1
     dev: true
 
   /rehype-stringify/9.0.3:
@@ -4855,7 +4857,7 @@ packages:
     dependencies:
       '@types/unist': 2.0.6
       unist-util-is: 5.1.1
-      unist-util-visit-parents: 5.1.0
+      unist-util-visit-parents: 5.1.1
     dev: true
 
   /unist-util-generated/2.0.0:
@@ -4908,6 +4910,13 @@ packages:
       unist-util-is: 5.1.1
     dev: true
 
+  /unist-util-visit-parents/5.1.1:
+    resolution: {integrity: sha512-gks4baapT/kNRaWxuGkl5BIhoanZo7sC/cUT/JToSRNL1dYoXRFl75d++NkjYk4TAu2uv2Px+l8guMajogeuiw==}
+    dependencies:
+      '@types/unist': 2.0.6
+      unist-util-is: 5.1.1
+    dev: true
+
   /unist-util-visit/1.4.1:
     resolution: {integrity: sha512-AvGNk7Bb//EmJZyhtRUnNMEpId/AZ5Ph/KUpTI09WHQuDZHKovQ1oEv3mfmKpWKtoMzyMC4GLBm1Zy5k12fjIw==}
     dependencies:
@@ -4922,12 +4931,12 @@ packages:
       unist-util-visit-parents: 4.1.1
     dev: true
 
-  /unist-util-visit/4.1.0:
-    resolution: {integrity: sha512-n7lyhFKJfVZ9MnKtqbsqkQEk5P1KShj0+//V7mAcoI6bpbUjh3C/OG8HVD+pBihfh6Ovl01m8dkcv9HNqYajmQ==}
+  /unist-util-visit/4.1.1:
+    resolution: {integrity: sha512-n9KN3WV9k4h1DxYR1LoajgN93wpEi/7ZplVe02IoB4gH5ctI1AaF2670BLHQYbwj+pY83gFtyeySFiyMHJklrg==}
     dependencies:
       '@types/unist': 2.0.6
       unist-util-is: 5.1.1
-      unist-util-visit-parents: 5.1.0
+      unist-util-visit-parents: 5.1.1
     dev: true
 
   /universalify/0.1.2:

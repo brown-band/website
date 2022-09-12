@@ -13,8 +13,10 @@ const findPage = (id, all) => all.find((p) => p.filePathStem === "/" + id);
  */
 module.exports = async ({ site, quote, nav, all, currentURL }) => (
   <>
-    <link rel="stylesheet" href="/assets/css/navbar-colors.css" />
-    <link rel="stylesheet" href="/assets/css/nav.css" />
+    <head>
+      <link rel="stylesheet" href="/assets/css/navbar-colors.css" />
+      <link rel="stylesheet" href="/assets/css/nav.css" />
+    </head>
 
     <nav class="navbar navbar-expand-md navbar-dark bg-brown2">
       <div class="container-lg">

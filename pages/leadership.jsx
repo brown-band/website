@@ -10,7 +10,9 @@ const Heading = ({ title, id, section }) => (
 exports.default = async ({ people }) => {
   return (
     <>
-      <link rel="stylesheet" href="/assets/css/people.css" />
+      <head>
+        <link rel="stylesheet" href="/assets/css/people.css" />
+      </head>
 
       {await (
         <Markdown

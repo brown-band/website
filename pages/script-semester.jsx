@@ -48,7 +48,9 @@ exports.default = ({
   const { writers } = collection[0].data;
   return (
     <>
-      <link rel="stylesheet" href="/assets/css/script.css" />
+      <head>
+        <link rel="stylesheet" href="/assets/css/script.css" />
+      </head>
 
       <p class="d-flex">
         {pagination.page.previous && (

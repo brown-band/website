@@ -10,7 +10,9 @@ exports.data = {
 
 exports.default = ({ site: { urls } }) => (
   <>
-    <link rel="stylesheet" href="/assets/css/recordings.css" />
+    <head>
+      <link rel="stylesheet" href="/assets/css/recordings.css" />
+    </head>
 
     <div id="root">
       <CryptoWall />

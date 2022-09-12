@@ -10,7 +10,9 @@
  */
 module.exports = ({ toc }) => (
   <>
-    <link rel="stylesheet" href="/assets/css/toc.css" />
+    <head>
+      <link rel="stylesheet" href="/assets/css/toc.css" />
+    </head>
 
     <section class="toc">
       <div>
