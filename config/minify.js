@@ -2,7 +2,7 @@ const path = require("node:path");
 const { PurgeCSS } = require("purgecss");
 const CleanCSS = require("clean-css");
 const extractFromHTML = require("purgecss-from-html");
-const { writeFile, readFile } = require("node:fs/promises");
+const { writeFile, readFile, mkdir } = require("node:fs/promises");
 
 const rehypeTransformHTML = (async () => {
   const { rehype } = await import("rehype");
@@ -63,7 +63,7 @@ module.exports = (eleventyConfig) => {
     console.time("Bootstrap CSS");
     const result = await purger.purge({
       content: [`${outDir}/**/*.html`, `${outDir}/*.html`],
-      css: [`${outDir}/assets/css/*.css`, `assets/vendor/bootstrap.css`],
+      css: [`assets/css/*.css`, `assets/vendor/bootstrap.css`],
       extractors: [{ extractor: extractFromHTML, extensions: ["html"] }],
       variables: true,
       keyframes: true,
@@ -86,6 +86,7 @@ module.exports = (eleventyConfig) => {
       dynamicAttributes: ["data-bs-theme"],
       rejected: process.env.NODE_ENV !== "production",
     });
+    await mkdir(path.join(outDir, "assets", "vendor"), { recursive: true });
     if (process.env.NODE_ENV === "production") {
       const minified = await minifier.minify(result[result.length - 1].css);
       await writeFile(
