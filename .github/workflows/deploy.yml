@@ -64,5 +64,4 @@ jobs:
 
       - name: Deploy to GitHub Pages
         id: deployment
-        # uses a SHA because at this time, the latest version is not yet released.
-        uses: actions/deploy-pages@148e2ea9ddd97b325a53a4cd2f35018a2cad2a65
+        uses: actions/deploy-pages@v1
