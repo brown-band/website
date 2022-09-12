@@ -1,6 +1,14 @@
 const { Raw, DOCTYPE } = require("eleventy-hast-jsx");
 
-exports.default = ({ title, site, bodyAttrs, content, NODE_ENV, eleventy }) => (
+exports.default = ({
+  title,
+  site,
+  bodyAttrs,
+  content,
+  NODE_ENV,
+  eleventy,
+  headContent,
+}) => (
   <>
     <DOCTYPE />
     <html lang="en" class="h-100 smooth-scroll">
@@ -54,6 +62,7 @@ exports.default = ({ title, site, bodyAttrs, content, NODE_ENV, eleventy }) => (
 
         <link href="/assets/fonts/niconne/index.css" rel="stylesheet" />
         <link href="/assets/fonts/quicksand/variable.css" rel="stylesheet" />
+        {headContent}
       </head>
       <body {...bodyAttrs}>
         <Raw html={content} />
