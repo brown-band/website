@@ -7,7 +7,7 @@ teams:
     score: 1
   away:
     name: St. Lawrence
-    score: 2 [overtime]
+    score: 2
 date: 2022-02-05
 ---
 
