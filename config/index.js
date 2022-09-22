@@ -8,8 +8,6 @@ require("dotenv").config();
 /** @type {(eleventyConfig: import("@11ty/eleventy/src/UserConfig")) => void} */
 module.exports = (eleventyConfig) => {
   const env = process.env.NODE_ENV || "development";
-  // creates per-semester collections of scripts
-  eleventyConfig.addPlugin(require("./scripts"));
   // defines all the Handlebars helpers
   eleventyConfig.addPlugin(require("./templates"));
   // minify and/or format HTML, purge unused CSS in production

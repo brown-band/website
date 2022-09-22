@@ -38,7 +38,7 @@ exports.default = ({ book, collections, schoolColors }) => (
               {semester.title}
             </a>
             <ol>
-              {collections[semester.collection].map((page) => (
+              {semester.scripts(collections.script).map((page) => (
                 <li>
                   <a href={`#${semester.collection}_${page.fileSlug}`}>
                     <span class="snap-width">{page.data.title}</span>
@@ -52,7 +52,7 @@ exports.default = ({ book, collections, schoolColors }) => (
     </nav>
 
     {book.semesters.map((semester) => {
-      const scripts = collections[semester.collection];
+      const scripts = semester.scripts(collections.script);
       const { writers } = scripts[0].data;
       return (
         <section>

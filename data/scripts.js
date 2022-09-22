@@ -1,12 +1,10 @@
-// @ts-check
-
 const fs = require("node:fs");
 const path = require("node:path");
 
 const scriptsDir = path.join(path.dirname(__dirname), "pages", "scripts");
 
-/** @type {(eleventyConfig: import("@11ty/eleventy/src/UserConfig")) => void} */
-module.exports = (eleventyConfig) => {
+// this is kinda terrible but there's not really a better way at this time :(
+module.exports = () => {
   const yearCollections = [];
   const semesterCollections = [];
   for (const years of fs
@@ -18,11 +16,6 @@ module.exports = (eleventyConfig) => {
       .filter((n) => !n.endsWith(".yml"))) {
       const year = years.split("-")[Number(semester === "spring")];
       const semesterName = `scripts_${semester}_${year}`;
-      eleventyConfig.addCollection(semesterName, (collectionApi) => {
-        return collectionApi
-          .getFilteredByTag("script")
-          .filter((page) => page.filePathStem.includes(years + "/" + semester));
-      });
 
       const permalink = `scripts/${semester}-${year}/`;
       yearMap[semester] = permalink;
@@ -33,13 +26,19 @@ module.exports = (eleventyConfig) => {
         years,
         permalink,
         title: `${semester[0].toUpperCase()}${semester.slice(1)} ${year}`,
+        // has to be a function because we don’t have access
+        // to `collections` yet when this data is computed
+        scripts: (allScripts) =>
+          allScripts.filter((page) =>
+            page.filePathStem.includes(years + "/" + semester)
+          ),
       });
     }
     yearCollections.push(yearMap);
   }
 
-  eleventyConfig.addGlobalData("scripts", {
+  return {
     years: yearCollections,
     semesters: semesterCollections,
-  });
+  };
 };

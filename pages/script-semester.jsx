@@ -18,9 +18,8 @@ exports.data = {
         &rsaquo; {semester.title}
       </>
     ),
-    toc: ({ semester, collections, schoolColors }) => {
-      const collection = collections[semester.collection];
-      return collection.map((script) => ({
+    toc: ({ semester, schoolColors, collections }) => {
+      return semester.scripts(collections.script).map((script) => ({
         id: script.fileSlug,
         value: (
           <ScriptTitle
@@ -44,8 +43,8 @@ exports.default = ({
   schoolColors,
   buttons,
 }) => {
-  const collection = collections[semester.collection];
-  const { writers } = collection[0].data;
+  const scripts = semester.scripts(collections.script);
+  const { writers } = scripts[0].data;
   return (
     <>
       <link rel="stylesheet" href="/assets/css/script.css" />
@@ -70,7 +69,7 @@ exports.default = ({
         </p>
       )}
 
-      {collection.map((script, i) => (
+      {scripts.map((script, i) => (
         <>
           {i === 0 || <hr style="margin-bottom: 5em" />}
           <Script
