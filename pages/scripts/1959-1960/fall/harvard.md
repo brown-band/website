@@ -27,7 +27,9 @@ A traditional part op homecoming weekend is the and presentation of the queen. T
 
 Ladies and Gentlemen, the Brown University Marching Band
 
-M. John Pischer — Director M. Chapin Weston — President P. Bentley Fleming — Drum Major
+M. John Pischer — Director\
+M. Chapin Weston — President\
+P. Bentley Fleming — Drum Major
 
 :sd[Band forms block and marches to mid-field on “Bill board”]
 

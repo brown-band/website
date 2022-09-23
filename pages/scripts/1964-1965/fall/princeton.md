@@ -14,7 +14,7 @@ date: 1964-10-31
 
 :sd[Ever True to End Zone]
 
-Presenting the Brown University Marching Band and its Alumni, 150 strong! Martin Fischer, Director; Gordon Tomas, President; Jay Ambrosini, Drum Major, and Irving Harris, Foiunder of the Band, Drum Major Emeritus.
+Presenting the Brown University Marching Band and its Alumni, 150 strong! Martin Fischer, Director; Gordon Tomas, President; Jay Ambrosini, Drum Major, and Irving Harris, Founder of the Band, Drum Major Emeritus.
 
 :sd[form Cannon]
 

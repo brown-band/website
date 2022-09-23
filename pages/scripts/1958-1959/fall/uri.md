@@ -12,7 +12,7 @@ date: 1958-10-25
 
 :sd[Band forms in block in end zone.]
 
-Ladies and Gentlemen, presenting the Brown Univerity Marching Band.
+Ladies and Gentlemen, presenting the Brown University Marching Band.
 
 :sd[Band steps off on “Salutation” and moves to mid-field where it stops in block.]
 

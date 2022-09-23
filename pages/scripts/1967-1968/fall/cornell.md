@@ -10,7 +10,7 @@ teams:
 date: 1967-11-11
 ---
 
-Ladies and Gentlemen. Farmers and Alumni, presenting the infamous Brown University Marching Band. Don Kent, President; Frank Marinaccio, Director; Don Herron and Ken Pasternak, Grange Representatives; And Your Voice of the Band, Paui Payton.
+Ladies and Gentlemen. Farmers and Alumni, presenting the infamous Brown University Marching Band. Don Kent, President; Frank Marinaccio, Director; Don Herron and Ken Pasternak, Grange Representatives; And Your Voice of the Band, Paul Payton.
 
 :sd[The Band forms an ear on the field.]
 

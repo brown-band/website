@@ -24,7 +24,7 @@ The first animal in the Band’s spotlight is the pure white lamb symbolizing th
 
 :sd[Play <u>Whiffenpoof Song</u>] then :sd[Jump into Maze]
 
-The next animal is the pig, the guinea pig, who is often seen running the maze between the Psych and Blology Buildings.
+The next animal is the pig, the guinea pig, who is often seen running the maze between the Psych and Biology Buildings.
 
 :sd[Play <u>Getting to Know You</u>]
 

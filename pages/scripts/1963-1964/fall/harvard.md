@@ -17,14 +17,14 @@ Presenting the Brown Univ. Marching Band:\
 
 :sd[Band marches to center of field, forms Univ. Hall.]
 
-The band now salutes University Hall. Yast year the National Historical Society declared Univ. Hall a National Landmark. In a letter to all students, Univ. Hall was declared a national <u>BANK</u>.
+The band now salutes University Hall. Last year the National Historical Society declared Univ. Hall a National Landmark. In a letter to all students, Univ. Hall was declared a national <u>BANK</u>.
 
 :sd[Band plays:]\
 :sd[Band forms picket line.]
 
 The Band has now formed a picket line in front of Univ. Hall. The band calls upon the administration to demonstrate their sympathy by serving coffee and donuts to the picketters.
 
-:sd[Band plavs:]\
+:sd[Band plays:]\
 :sd[Band forms H R]
 
 The band now salutes Harvard Univ., who, though it will be far less expensive than Brown next year, is still able to provide such benefits as the Radcliffe Field House. The Band salutes Harvard’s “benefits” by playing “The Best Things in Life are Free”.

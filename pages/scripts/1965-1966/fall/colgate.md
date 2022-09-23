@@ -19,7 +19,7 @@ In honor of Colgate the band has formed an invisible shield… in this formation
 
 :sd[Band runs out into $]
 
-with a <u>Gleem</u> in its eye, the A & E committee of the university saluted parents webkind by guaranteeing—that in one area at least—Brown will be first in the ivy league. The Band voices the cry of all parents: “Help”
+with a <u>Gleem</u> in its eye, the A & E committee of the university saluted parents weekend by guaranteeing—that in one area at least—Brown will be first in the ivy league. The Band voices the cry of all parents: “Help”.
 
 :sd[Band plays “help”.]\
 :sd[Band forms horizontal line; prepares to remove hats.]

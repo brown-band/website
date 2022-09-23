@@ -12,7 +12,7 @@ date: 1964-11-21
 
 :sd[Band forms Horseshoe]
 
-After witnessing devastating attacks by the backs of opposing football teams, the Brown Bandhas discovered—through extensive recruiting efforts—an athlete who will undoubtedly become the Brown back of the century—Better than Columbia’s one-man team—able to leap tall lineman at a single bound: “Cosmo Iaca-Horsey”!!
+After witnessing devastating attacks by the backs of opposing football teams, the Brown Band has discovered—through extensive recruiting efforts—an athlete who will undoubtedly become the Brown back of the century—Better than Columbia’s one-man team—able to leap tall lineman at a single bound: “Cosmo Iaca-Horsey”!!
 
 :sd[Band plays “Mr. Touchdown”]\
 :sd[Band forms P U N]

@@ -20,7 +20,7 @@ The chief international event of the past summer was the World’s Fair in Bruss
 
 :sd[Band plays “Thunder Song.” 2 drum cadences take band Into American Pavilion.]
 
-Now let’s move on to this American pavilion. The exhibits contained in this building covered every aspect of American life, but the most popular attraction was the program of performing arts. America was represented last summer by symphony orchestras, opera, ballet and jazz groups. Brown University’s contribution to this field of jazz was it’s oun Brunotes, back from their European triumphs they appear here today, here they are — the Brunotes.
+Now let’s move on to this American pavilion. The exhibits contained in this building covered every aspect of American life, but the most popular attraction was the program of performing arts. America was represented last summer by symphony orchestras, opera, ballet and jazz groups. Brown University’s contribution to this field of jazz was it’s own Brunotes, back from their European triumphs they appear here today, here they are — the Brunotes.
 
 :sd[Band and Brunotes play “Washington and Lee Swing.” 2 drum cadences take band into crown.]
 

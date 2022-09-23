@@ -20,7 +20,7 @@ The band has formed a prominent symbol of homecoming—for both alumni and under
 :sd[Band plays “Here’s to Good Old Brown”. (16 m.)]\
 :sd[Band runs to upside down shot glass.]
 
-However, there is another symbol of homecoming that is not nearly so pleasant for the undergradutes involved. The Band has reversed the glass for all those who were “<u>shot down</u>” this weekend. We know we’ll find these gentlemen <u>Standing on the Corner</u>.
+However, there is another symbol of homecoming that is not nearly so pleasant for the undergraduates involved. The Band has reversed the glass for all those who were “<u>shot down</u>” this weekend. We know we’ll find these gentlemen <u>Standing on the Corner</u>.
 
 :sd[Band plays “Standing on the Corner”.]\
 :sd[Band forms on 50 yd line.]

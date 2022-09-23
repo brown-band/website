@@ -24,7 +24,7 @@ You’ve seen bands form stick figures? Let’s put a stop to this! The Band, af
 :sd[roll into trio of BBB and circulate for 25 seconds]\
 :sd[stops in block]
 
-Bands have formed locomotives and steamboats, charging horses and airplanes. But have they showed what makes these things tick? The Brown Band, through special permission from the Atomic Energy Commission, now pre sents the complete wiring diagram of the world’s first atomic submarine, the Nautilus.
+Bands have formed locomotives and steamboats, charging horses and airplanes. But have they showed what makes these things tick? The Brown Band, through special permission from the Atomic Energy Commission, now presents the complete wiring diagram of the world’s first atomic submarine, the Nautilus.
 
 :sd[Band rolls into For Bruno and wires for 25 seconds]\
 :sd[stops in block]
