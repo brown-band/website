@@ -20,6 +20,8 @@ module.exports = (eleventyConfig) => {
 
   // CHANGE THESE!
   eleventyConfig.addGlobalData("book", {
+    // uncomment to instead make a huge PDF of all scripts
+    // allTheScripts: true,
     extraYear: false,
     graduationYear: 2022,
   });

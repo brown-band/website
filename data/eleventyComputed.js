@@ -35,6 +35,13 @@ module.exports = {
 
   book({ book, scripts }) {
     if (!book) return undefined;
+    if (book.allTheScripts) {
+      return {
+        ...book,
+        semesters: scripts.semesters,
+      };
+    }
+
     const semesters = [];
     for (
       let year = Math.floor(book.graduationYear - (book.extraYear ? 5 : 4));
