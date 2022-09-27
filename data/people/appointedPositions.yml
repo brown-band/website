@@ -1,20 +1,17 @@
 - name: "[Librarians](/constitution#IIIC2)"
   people:
-    - name: Stacey Xiang
-      email: stacey_xiang@brown.edu
-      year: 22
     - name: Jillian Belluck
       email: jillian_belluck@brown.edu
       year: 25
 
 - name: "[Social Chairs](/constitution#IIIC8)"
   people:
+    - name: Jace Damon
+      email: jace_damon@brown.edu
+      year: 25
     - name: Richie Shen
       email: richard_shen@brown.edu
       year: 23
-    - name: Ánh McGrane
-      email: elizabeth_mcgrane@brown.edu
-      year: 22
 
 - name: "[PRR Chairs](/constitution#IIIC4)"
   people:
@@ -27,33 +24,27 @@
     - name: Béatrice Duchastel de Montrouge
       email: beatrice_duchastel_de_montrouge@brown.edu
       year: 23
-    - name: Devon Newman
-      email: devon_newman@brown.edu
-      year: 25
     - name: Jace Damon
       email: jace_damon@brown.edu
       year: 25
+    - name: Devon Newman
+      email: devon_newman@brown.edu
+      year: 25
+    - name: Janelle Barnett
+      email: janelle_barnett@brown.edu
+      year: 24
 
 - name: "[Scriptwriters](/constitution#IIIC6)"
   people:
-    - name: Charlie Gagnon
-      email: charles_gagnon@brown.edu
-      year: 22
-    - name: Shaw Miller
-      email: thomas_s_miller@brown.edu
-      year: 23.5
     - name: Victoria Rose
       email: victoria_rose@brown.edu
       year: 23
-    - name: Amber Fehrs
-      email: amber_fehrs@brown.edu
-      year: 22
-    - name: Hannah Joyce
-      email: hannah_joyce@brown.edu
-      year: 22
     - name: Jed Fox
       email: jedidiah_fox@brown.edu
       year: 23
+    - name: Shaw Miller
+      email: thomas_s_miller@brown.edu
+      year: 23.5
 
 - name: "[Historians](/constitution#IIIC3)"
   people:
@@ -72,12 +63,12 @@
 
 - name: "[Alumni Liaisons](/constitution#IIIC5)"
   people:
-    - name: Zahid Hasan
-      email: zahid_hasan@brown.edu
-      year: 22
-    - name: Stacey Xiang
-      email: stacey_xiang@brown.edu
-      year: 22
+    - name: Joshua Lobsenz
+      email: joshua_lobsenz@brown.edu
+      year: 24
+    - name: Tyler Gurth
+      email: tyler_gurth@brown.edu
+      year: 25
 
 - name: "[Webmasters](/constitution#IIIC7)"
   people:
