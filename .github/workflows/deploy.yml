@@ -51,17 +51,8 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           DEBUG: Eleventy:Benchmark
 
-      # These last 3 steps are subject to change as GitHub adds official support
-      # for deploying to Pages from Actions
-      - name: Create Archive
-        run: tar -vv --create --directory public --file gh-pages-${{ github.sha }}.tar .
-
-      - name: Upload Archive
-        uses: actions/upload-artifact@v3
-        with:
-          name: github-pages
-          path: gh-pages-${{ github.sha }}.tar
-
       - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v1
+        uses: actions/upload-pages-artifact@v1
+        with:
+          path: public/
+          retention-days: 90
