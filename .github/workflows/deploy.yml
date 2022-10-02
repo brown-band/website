@@ -51,8 +51,12 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           DEBUG: Eleventy:Benchmark
 
-      - name: Deploy to GitHub Pages
+      - name: Upload Built Site
         uses: actions/upload-pages-artifact@v1
         with:
           path: public/
           retention-days: 90
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v1
