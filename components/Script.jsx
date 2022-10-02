@@ -2,9 +2,11 @@ const { Raw } = require("eleventy-hast-jsx");
 
 const slugify = require("@sindresorhus/slugify");
 const formatDate = require("date-fns-tz/formatInTimeZone");
-const {
-  defaultMaxListeners,
-} = require("@11ty/eleventy/src/Util/AsyncEventEmitter");
+
+const defaultSports = {
+  fall: "football",
+  spring: "hockey",
+};
 
 /**
  * @param {Object} props
@@ -137,7 +139,9 @@ function ScriptTitle({
       ) : (
         title
       )}
-      {semester.semester === "fall" && sport === "hockey" && " (Hockey)"}
+      {sport && defaultSports[semester.semester] !== sport
+        ? ` (${sport[0].toUpperCase()}${sport.slice(1)})`
+        : ""}
       {inToc && fileSlug.endsWith("-censored") && <small> [censored]</small>}
     </>
   );
