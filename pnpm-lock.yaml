@@ -4,27 +4,27 @@ specifiers:
   '@11ty/eleventy': 2.0.0-canary.15
   '@11ty/eleventy-fetch': ^3.0.0
   '@11ty/eleventy-server-browsersync': ^1.0.2
-  '@fontsource/niconne': ^4.5.8
-  '@fontsource/quicksand': ^4.5.10
-  '@quasibit/eleventy-plugin-sitemap': ^2.1.5
+  '@fontsource/niconne': ^4.5.9
+  '@fontsource/quicksand': ^4.5.11
+  '@quasibit/eleventy-plugin-sitemap': ^2.2.0
   '@sindresorhus/slugify': ^1.1.2
   '@stefanprobst/rehype-extract-toc': ^2.2.0
   base64-arraybuffer: ^1.0.2
   bootstrap: ^5.2.1
   clean-css: ^5.3.1
   d3-array: ^3.2.0
-  date-fns: ^2.29.2
+  date-fns: ^2.29.3
   date-fns-tz: ^1.3.7
-  dotenv: ^16.0.2
+  dotenv: ^16.0.3
   eleventy-hast-jsx: ^0.3.1
   fast-glob: ^3.2.12
   hast-util-to-html: ^8.0.3
   js-yaml: ^4.1.0
   listify: ^1.0.3
-  nodemon: ^2.0.19
+  nodemon: ^2.0.20
   prettier: 2.6.2
-  purgecss: ^4.1.3
-  purgecss-from-html: ^4.1.1
+  purgecss: ^5.0.0
+  purgecss-from-html: ^5.0.0
   rehype: ^12.0.1
   rehype-css-to-top: ^3.0.0
   rehype-format: ^4.0.1
@@ -40,13 +40,13 @@ specifiers:
   subset-font: ^1.4.0
   title: ^3.4.4
   unified: ^10.1.2
-  unist-util-map: ^3.1.1
+  unist-util-map: ^3.1.2
   vfile: ^5.3.2
   yaml: ^2.1.0
 
 dependencies:
-  '@fontsource/niconne': 4.5.8
-  '@fontsource/quicksand': 4.5.10
+  '@fontsource/niconne': 4.5.9
+  '@fontsource/quicksand': 4.5.11
   base64-arraybuffer: 1.0.2
   bootstrap: 5.2.1
 
@@ -54,23 +54,23 @@ devDependencies:
   '@11ty/eleventy': 2.0.0-canary.15
   '@11ty/eleventy-fetch': 3.0.0
   '@11ty/eleventy-server-browsersync': 1.0.2
-  '@quasibit/eleventy-plugin-sitemap': 2.1.5_nejqxklmxgrtkbacgejuvzbmva
+  '@quasibit/eleventy-plugin-sitemap': 2.2.0
   '@sindresorhus/slugify': 1.1.2
   '@stefanprobst/rehype-extract-toc': 2.2.0
   clean-css: 5.3.1
   d3-array: 3.2.0
-  date-fns: 2.29.2
-  date-fns-tz: 1.3.7_date-fns@2.29.2
-  dotenv: 16.0.2
+  date-fns: 2.29.3
+  date-fns-tz: 1.3.7_date-fns@2.29.3
+  dotenv: 16.0.3
   eleventy-hast-jsx: 0.3.1
   fast-glob: 3.2.12
   hast-util-to-html: 8.0.3
   js-yaml: 4.1.0
   listify: 1.0.3
-  nodemon: 2.0.19
+  nodemon: 2.0.20
   prettier: 2.6.2
-  purgecss: 4.1.3
-  purgecss-from-html: 4.1.1
+  purgecss: 5.0.0
+  purgecss-from-html: 5.0.0
   rehype: 12.0.1
   rehype-css-to-top: 3.0.0
   rehype-format: 4.0.1
@@ -86,7 +86,7 @@ devDependencies:
   subset-font: 1.6.1
   title: 3.5.3
   unified: 10.1.2
-  unist-util-map: 3.1.1
+  unist-util-map: 3.1.2
   vfile: 5.3.5
   yaml: 2.1.1
 
@@ -449,12 +449,12 @@ packages:
       to-fast-properties: 2.0.0
     dev: true
 
-  /@fontsource/niconne/4.5.8:
-    resolution: {integrity: sha512-PK/+EfrmPexbCADR6DQLb0cwnnOmgxoiXDBtSNzPPLNbWNUb9iGqd2tr8j//9h15g0Wp3qIOmJl+reF+3EXlcA==}
+  /@fontsource/niconne/4.5.9:
+    resolution: {integrity: sha512-0qD6ysumgDH9acwnZiRDc2VJh6EmVGzVSsAoRjYSSXP8Ry48TowBnaNW/r29Ab8+TMMNEfZKLTVVuXdFGQXX8g==}
     dev: false
 
-  /@fontsource/quicksand/4.5.10:
-    resolution: {integrity: sha512-LnSpCIw6vyn7isDxSO6A2HEU3+v/0Af9o2n1fAf1T3yr/CsyFNeby28u3tEmzKCzserFlp3iKuWvTagu3FJj2Q==}
+  /@fontsource/quicksand/4.5.11:
+    resolution: {integrity: sha512-SdgbixomUPBMjv+QZH72XsyJMY/P/XzEEFl7KCop+lAuBfy1fiqX+RyMheHhdNfR6Uk8MJla0iyb1ngcJXD0gw==}
     dev: false
 
   /@iarna/toml/2.2.5:
@@ -520,13 +520,10 @@ packages:
       fastq: 1.13.0
     dev: true
 
-  /@quasibit/eleventy-plugin-sitemap/2.1.5_nejqxklmxgrtkbacgejuvzbmva:
-    resolution: {integrity: sha512-/mH9/APfkfQjbf/lkPepgUe4uWwd+opV/7S8RJAGBXZserIchOtoT3Lox3OZ4uHa89ywaTrIEMqm9HmWhLH//w==}
+  /@quasibit/eleventy-plugin-sitemap/2.2.0:
+    resolution: {integrity: sha512-7YoU4jjipLjifBhZwttLWbAAkImmBfeMQ0+1ST6mJO45z2mFLHZcgnfHwGF2joNk74wiYNsNOB1ennouzQFZIQ==}
     engines: {node: '>=10.0.0'}
-    peerDependencies:
-      '@11ty/eleventy': '>=0.11.0'
     dependencies:
-      '@11ty/eleventy': 2.0.0-canary.15
       array-flat-polyfill: 1.0.1
       sitemap: 6.4.0
     dev: true
@@ -1173,9 +1170,9 @@ packages:
     engines: {node: '>= 6'}
     dev: true
 
-  /commander/8.3.0:
-    resolution: {integrity: sha512-OkTL9umf+He2DZkUq8f8J9of7yL6RJKI24dVITBmNfZBmri9zYZQrKkuXiKhyfPSu8tUhnVBB1iKXevvnlR4Ww==}
-    engines: {node: '>= 12'}
+  /commander/9.4.1:
+    resolution: {integrity: sha512-5EEkTNyHNGFPD2H+c/dXXfQZYa/scCKasxWcXJaWnNJ99pnQN9Vnmqow+p+PlFPE63Q6mThaZws1T+HxfpgtPw==}
+    engines: {node: ^12.20.0 || >=14}
     dev: true
 
   /commondir/1.0.1:
@@ -1263,16 +1260,16 @@ packages:
       internmap: 2.0.3
     dev: true
 
-  /date-fns-tz/1.3.7_date-fns@2.29.2:
+  /date-fns-tz/1.3.7_date-fns@2.29.3:
     resolution: {integrity: sha512-1t1b8zyJo+UI8aR+g3iqr5fkUHWpd58VBx8J/ZSQ+w7YrGlw80Ag4sA86qkfCXRBLmMc4I2US+aPMd4uKvwj5g==}
     peerDependencies:
       date-fns: '>=2.0.0'
     dependencies:
-      date-fns: 2.29.2
+      date-fns: 2.29.3
     dev: true
 
-  /date-fns/2.29.2:
-    resolution: {integrity: sha512-0VNbwmWJDS/G3ySwFSJA3ayhbURMTJLtwM2DTxf9CWondCnh6DTNlO9JgRSq6ibf4eD0lfMJNBxUdEAHHix+bA==}
+  /date-fns/2.29.3:
+    resolution: {integrity: sha512-dDCnyH2WnnKusqvZZ6+jA1O51Ibt8ZMRNkDZdyAyK4YfbDwa/cEmuztzG5pk6hqlp9aSBPYcjOlktquahGwGeA==}
     engines: {node: '>=0.11'}
     dev: true
 
@@ -1404,8 +1401,8 @@ packages:
       domhandler: 4.3.1
     dev: true
 
-  /dotenv/16.0.2:
-    resolution: {integrity: sha512-JvpYKUmzQhYoIFgK2MOnF3bciIZoItIIoryihy0rIA+H4Jy0FmgyKYAHCTN98P5ybGSJcIFbh6QKeJdtZd1qhA==}
+  /dotenv/16.0.3:
+    resolution: {integrity: sha512-7GO6HghkA5fYG9TYnNxi14/7K9f5occMlp3zXAuSxn7CKCxt9xbNWG7yF8hTCSUchlfWSe3uLmlPfigevRItzQ==}
     engines: {node: '>=12'}
     dev: true
 
@@ -1777,6 +1774,17 @@ packages:
       path-is-absolute: 1.0.1
     dev: true
 
+  /glob/8.0.3:
+    resolution: {integrity: sha512-ull455NHSHI/Y1FqGaaYFaLGkNMMJbavMrEGFXG/PGrg6y7sutWHUHrz6gy6WEBH6akM1M414dWKCNs+IhKdiQ==}
+    engines: {node: '>=12'}
+    dependencies:
+      fs.realpath: 1.0.0
+      inflight: 1.0.6
+      inherits: 2.0.4
+      minimatch: 5.1.0
+      once: 1.4.0
+    dev: true
+
   /globals/11.12.0:
     resolution: {integrity: sha512-WOBp/EEGUiIsJSp7wcv/y6MO+lV9UoncWqxuFfm8eBwzWNgyfBd6Gz+IeKQ9jCmyhoH99g15M3T+QaVHFjizVA==}
     engines: {node: '>=4'}
@@ -1810,7 +1818,7 @@ packages:
       source-map: 0.6.1
       wordwrap: 1.0.0
     optionalDependencies:
-      uglify-js: 3.17.0
+      uglify-js: 3.17.2
     dev: true
 
   /harfbuzzjs/0.3.0:
@@ -3000,8 +3008,8 @@ packages:
     resolution: {integrity: sha512-PiVXnNuFm5+iYkLBNeq5211hvO38y63T0i2KKh2KnUs3RpzJ+JtODFjkD8yjLwnDkTYF1eKXheUwdssR+NRZdg==}
     dev: true
 
-  /nodemon/2.0.19:
-    resolution: {integrity: sha512-4pv1f2bMDj0Eeg/MhGqxrtveeQ5/G/UVe9iO6uTZzjnRluSA4PVWf8CW99LUPwGB3eNIA7zUFoP77YuI7hOc0A==}
+  /nodemon/2.0.20:
+    resolution: {integrity: sha512-Km2mWHKKY5GzRg6i1j5OxOHQtuvVsgskLfigG25yTtbyfRGn/GNvIbRyOf1PSCKJ2aT/58TiuUsuOU5UToVViw==}
     engines: {node: '>=8.10.0'}
     hasBin: true
     requiresBuild: true
@@ -3262,8 +3270,8 @@ packages:
       util-deprecate: 1.0.2
     dev: true
 
-  /postcss/8.4.16:
-    resolution: {integrity: sha512-ipHE1XBvKzm5xI7hiHCZJCSugxvsdq2mPnsq5+UF+VHCjiBvtDrlxJfMBToWaP9D5XlgNmcFGqoHmUn0EYEaRQ==}
+  /postcss/8.4.17:
+    resolution: {integrity: sha512-UNxNOLQydcOFi41yHNMcKRZ39NeXlr8AxGuZJsdub8vIb12fHzcq37DTU/QtbI6WLxNg2gF9Z+8qtRwTj1UI1Q==}
     engines: {node: ^10 || ^12 || >=14}
     dependencies:
       nanoid: 3.3.4
@@ -3434,20 +3442,20 @@ packages:
       pug-strip-comments: 2.0.0
     dev: true
 
-  /purgecss-from-html/4.1.1:
-    resolution: {integrity: sha512-eX8vT7jRdhTbLdZYOwm8lxJxsR5oDYiccNJzmlIpJPdDuTA8dCYS22CbAts3GGyQ+20nW76mzdDlBl7DSEIZTg==}
+  /purgecss-from-html/5.0.0:
+    resolution: {integrity: sha512-P1f3n4zvtvRLDlU2JzliZ81bVrOD7ZdE0H2Ks/BHASEQ82W/1YPW01KdGfP9Y8jBA0qzrtEMzsKIgk0QHjGZfQ==}
     dependencies:
       parse5: 6.0.1
       parse5-htmlparser2-tree-adapter: 6.0.1
     dev: true
 
-  /purgecss/4.1.3:
-    resolution: {integrity: sha512-99cKy4s+VZoXnPxaoM23e5ABcP851nC2y2GROkkjS8eJaJtlciGavd7iYAw2V84WeBqggZ12l8ef44G99HmTaw==}
+  /purgecss/5.0.0:
+    resolution: {integrity: sha512-RAnuxrGuVyLLTr8uMbKaxDRGWMgK5CCYDfRyUNNcaz5P3kGgD2b7ymQGYEyo2ST7Tl/ScwFgf5l3slKMxHSbrw==}
     hasBin: true
     dependencies:
-      commander: 8.3.0
-      glob: 7.2.3
-      postcss: 8.4.16
+      commander: 9.4.1
+      glob: 8.0.3
+      postcss: 8.4.17
       postcss-selector-parser: 6.0.10
     dev: true
 
@@ -4371,6 +4379,14 @@ packages:
     requiresBuild: true
     dev: true
 
+  /uglify-js/3.17.2:
+    resolution: {integrity: sha512-bbxglRjsGQMchfvXZNusUcYgiB9Hx2K4AHYXQy2DITZ9Rd+JzhX7+hoocE5Winr7z2oHvPsekkBwXtigvxevXg==}
+    engines: {node: '>=0.8.0'}
+    hasBin: true
+    requiresBuild: true
+    dev: true
+    optional: true
+
   /undefsafe/2.0.5:
     resolution: {integrity: sha512-WxONCrssBM8TSPRqN5EmsjVrsv4A8X12J4ArBiiayv3DyyG3ZlIg6yysuuSYdZsVz3TKcTg2fd//Ujd4CHV1iA==}
     dev: true
@@ -4413,8 +4429,8 @@ packages:
     resolution: {integrity: sha512-F5CZ68eYzuSvJjGhCLPL3cYx45IxkqXSetCcRgUXtbcm50X2L9oOWQlfUfDdAf+6Pd27YDblBfdtmsThXmwpbQ==}
     dev: true
 
-  /unist-util-map/3.1.1:
-    resolution: {integrity: sha512-n36sjBn4ibPtAzrFweyT4FOcCI/UdzboaEcsZvwoAyD/gVw5B3OLlMBySePMO6r+uzjxQEyRll2akfVaT4SHhw==}
+  /unist-util-map/3.1.2:
+    resolution: {integrity: sha512-WLA2R6x/UaopedG2poaWLShf5LCi+BNa6mMkACdjft23PHou4v85PvZItjbO2XgXvukMP365PlL/DrbuMgr3eg==}
     dependencies:
       '@types/unist': 2.0.6
     dev: true
