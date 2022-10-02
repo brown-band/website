@@ -1,0 +1,49 @@
+name: Run Prettier
+
+permissions:
+  contents: write
+
+on:
+  push:
+    branches: [main]
+
+jobs:
+  check:
+    runs-on: ubuntu-20.04
+    concurrency:
+      group: ${{ github.workflow }}-${{ github.ref }}
+      cancel-in-progress: true
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+
+      - name: Setup Node
+        uses: actions/setup-node@v2
+        with:
+          node-version-file: .node-version
+
+      - name: Install Prettier
+        run: |
+          PRETTIER_VERSION="$(node -p "require('./package.json').devDependencies.prettier")"
+          npm install --global "prettier@$PRETTIER_VERSION"
+
+      - name: Check Formatting
+        id: check
+        run: prettier --check .
+
+      - name: Reformat & Commit
+        if: ${{ failure() && steps.check.conclusion == 'failure' }}
+        run: |
+          prettier --list-different --write .
+          prettier --check .
+          if [[ $? -eq 0 ]]; then
+            echo "Looks good, pushing changes..."
+            git config --local user.email "github-actions[bot]@users.noreply.github.com"
+            git config --local user.name "GitHub Actions"
+            git add .
+            git commit -m "Reformat using Prettier"
+            git push
+          else
+            echo "Prettier failed to produce stable output, skipping!"
+            exit 1
+          fi
