@@ -28,11 +28,11 @@ Turning from Saturday afternoon comatose to Saturday Night Live...
 >
 > -Not that kind of student body. Oh Nooooooooooooooooo!
 >
-> -We’ll just put you in his ear. :sd[Mr. Bill runs in > the ear of the body and out of the other ear.] Oh, you came out the other ear just like everything else. How about going in the nose?
+> -We’ll just put you in his ear. :sd[Mr. Bill runs in the ear of the body and out of the other ear.] Oh, you came out the other ear just like everything else. How about going in the nose?
 >
 > -Oh Noooo! I can’t. It’s too high up in the air.
 >
-> -Okay, we’ll put you in his mouth. :sd[Mr. Bill enters > the body’s mouth and falls to the stomach area.]
+> -Okay, we’ll put you in his mouth. :sd[Mr. Bill enters the body’s mouth and falls to the stomach area.]
 >
 > -Oh :break[Nooooooooooooooooooooooooooooo]{hyphens}!
 >
