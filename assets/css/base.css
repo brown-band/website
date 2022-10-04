@@ -33,6 +33,9 @@
   --bs-btn-font-weight: var(--bs-body-font-weight);
   --bs-btn-active-border-color: transparent;
 }
+.nav-link.btn {
+  --bs-btn-active-color: var(--bs-nav-link-hover-color);
+}
 [data-bs-theme="dark"] .btn-close {
   filter: invert();
 }
