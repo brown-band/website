@@ -85,10 +85,14 @@ function SchoolName({ team: { name, score }, schoolColors, inToc }) {
     <>
       <span
         class="school-color"
-        style={`color: ${
+        style={`--color: ${
           inToc && name === "Brown"
             ? "inherit"
             : schoolColors[nameSlug]?.color ?? "salmon; " + nameSlug
+        }; ${
+          schoolColors[nameSlug]?.darkColor
+            ? `--dark-color: ${schoolColors[nameSlug].darkColor};`
+            : ""
         }`}
       >
         {name}

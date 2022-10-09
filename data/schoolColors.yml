@@ -38,6 +38,7 @@ penn:
   mascot: Quakers
 yale:
   color: "#0f4d92" # Yale Blue
+  darkColor: white
   ivy: true
   mascot: Bulldogs
 
@@ -48,15 +49,20 @@ bryant:
 bucknell:
   color: "#ef5b0c" # Orange
 cal-poly:
-  color: "#154734" # Poly Green
+  color: "#003831" # Forest green
+  darkColor: "#ffe395" # Vegas gold
 clarkson:
   color: "#03522B" # Green
+  darkColor: "#fdda24" # Gold
 colgate:
   color: "#800000" # Maroon
+  darkColor: white
 duquesne:
   color: "#041e42" # Navy
+  darkColor: "#BA0C2F" # Red
 fordham:
   color: "#700429" # Maroon
+  darkColor: white
 georgetown:
   color: "#808080" # Gray
 holy-cross:
@@ -65,18 +71,22 @@ lafayette:
   color: "#910029" # Maroon
 lehigh:
   color: "#653819" # Brown
+  darkColor: "#c1a875"
 maine:
-  color: "#003263" # Navy
+  color: "#003263" # Dark Blue
+  darkColor: "#b0d7ff" # Light Blue
 marshall:
   color: "#00ac3e" # “Primary Green”
 pembroke:
   color: "var(--brown-brand)" # I couldn’t find a color so I just went with Brown brown
 penn-state:
   color: "#001e44" # Blue
+  darkColor: white
 providence-college:
   color: "#8a8d8f" # Blue
 quinnipiac:
-  color: "#0000ff" # Blue
+  color: "#0000ff" # Navy
+  darkColor: "#ffb819" # Gold
 richmond:
   color: "#900" # Spider Red? idk
 rpi:
@@ -88,20 +98,26 @@ st-johns:
 st-lawrence:
   color: "#ff2400" # Scarlet
 stetson:
-  color: "#0e5540" # Stetson Green
+  color: "#0e5540" # Hunter green
+  darkColor: white
 stony-brook:
   color: "#ff2400" # Scarlet
 towson:
-  color: "#000000" # Black [the gold is too bright]
+  color: "#000000" # Black
+  darkColor: "#ffbb00" # Gold
 ualbany:
   color: "#46166b" # Purple
+  darkColor: "#eeb211" # Gold
 uconn:
   color: "#000e2f" # Navy Blue
+  darkColor: "#e4002b" # Red
 union:
   color: "#822433" # Union Garnet
+  darkColor: white
 uri:
   color: "#75b2dd" # Keaney Blue
 uvm:
   color: "#007155" # UVM Green
 william-and-mary:
-  color: "#115740" # W&M Gold (web version)
+  color: "#115740" # Green
+  darkColor: "#f0b323" # Gold

@@ -141,3 +141,12 @@ main {
   margin-left: 1rem;
   margin-bottom: 0;
 }
+
+.school-color {
+  color: var(--color);
+}
+@media (prefers-color-scheme: dark) {
+  .school-color {
+    color: var(--dark-color, var(--color));
+  }
+}
