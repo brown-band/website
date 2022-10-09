@@ -7,7 +7,7 @@ teams:
   away:
     name: Mount St. Mary’s
     score: 0
-date: 2022-10-08
+date: 2022-10-01
 ---
 
 Ladies and gentlemen, friends and alumni, presenting an organization of cuddly bunnies, it’s the Brown University “what are you doing with that glockenspiel?” BANNNDDDDDDDDDDD!
@@ -22,7 +22,12 @@ Well-versed in the rules of rugby after a quick trip to our favorite search engi
 
 :::script-list
 
-A. Rugby must be played on a rug B. Your mauls don’t have food courts  C. Instead of blocking, defending players may have an emotional breakdown D. You must only pass the ol’ pigskin backwards E. OH MY GOD IT’S A BEEEEEEEEEEEE and F. The Princeton band
+- A. Rugby must be played on a rug
+- B. Your mauls don’t have food courts
+- C. Instead of blocking, defending players may have an emotional breakdown
+- D. You must only pass the ol’ pigskin backwards
+- E. OH MY GOD IT’S A BEEEEEEEEEEEE and
+- F. The Princeton band
 
 :::
 
