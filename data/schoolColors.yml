@@ -72,6 +72,8 @@ lafayette:
 lehigh:
   color: "#653819" # Brown
   darkColor: "#c1a875"
+long-island:
+  color: "#69b3e7" # Blue
 maine:
   color: "#003263" # Dark Blue
   darkColor: "#b0d7ff" # Light Blue
