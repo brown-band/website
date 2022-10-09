@@ -75,6 +75,9 @@ lehigh:
 maine:
   color: "#003263" # Dark Blue
   darkColor: "#b0d7ff" # Light Blue
+mount-st-marys:
+  color: "#002855" # Pantone 295
+  darkColor: white
 marshall:
   color: "#00ac3e" # “Primary Green”
 pembroke:
