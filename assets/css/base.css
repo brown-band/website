@@ -126,8 +126,12 @@ main {
   position: relative;
 }
 
-li {
+article li {
   margin-block: 0.5em;
+}
+
+.toc li {
+  margin-block: 0;
 }
 
 .modal.zoom:not(.show) .modal-dialog {
