@@ -5,7 +5,7 @@ teams:
     name: Brown
     score: 56
   away:
-    name: Cornell
+    name: Columbia
     score: 40
 date: 2000-11-18
 ---
