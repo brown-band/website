@@ -126,6 +126,10 @@ main {
   position: relative;
 }
 
+li {
+  margin-block: 0.5em;
+}
+
 .modal.zoom:not(.show) .modal-dialog {
   transform: scale(0.8);
 }
