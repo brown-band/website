@@ -50,18 +50,17 @@ The Band salutes Mr. Bill and plays “By the Time I get to Pharynx.”
 
 Turning from misplaced parts to mislaid forms, the Brown Band Sex Counseling Center would like to ask the freshman class a few questions, and requests them to leave their answers posted in a prominent location.
 
-:::script-list
-
-- 1\. Have you ever crammed for a rabbit test?
-- 2\. At Princeton, I feel:
-- :script-tab a) Sexual;
-- :script-tab b) Steely;
-- :script-tab c) Mentally ill;
-- :script-tab d) Testy; or,
-- :script-tab f) The Princeton Band.
-- 3\. What is your sex? No fair peeking.
-
-:::
+<!-- prettier-ignore -->
+1. Have you ever crammed for a rabbit test?
+2. At Princeton, I feel:
+    :::script-list
+   - a) Sexual;
+   - b) Steely;
+   - c) Mentally ill;
+   - d) Testy; or,
+   - f) The Princeton Band.
+   :::
+3. What is your sex? No fair peeking.
 
 The band forms your response to the last question and plays “The Survey with the Fake on Top.”
 

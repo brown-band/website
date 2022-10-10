@@ -133,12 +133,12 @@ Choose five of the following six questions.
 
 :::script-list
 
-- 1. Create your own religion. Become its main prophet. Write page 243 of your holy book.
-- 2. Compare and contrast Captain Kirk with He-Man. If they had a battle, who would win? Cite historical and literary evidence.
+- 1\. Create your own religion. Become its main prophet. Write page 243 of your holy book.
+- 2\. Compare and contrast Captain Kirk with He-Man. If they had a battle, who would win? Cite historical and literary evidence.
 - 2.5. Who’s your favorite Spice Girl?
-- 3. Go directly to number 5. Do not pass Go. Do not collect $200.
-- 5. If God had a name, what would it be and would you call it to His face, if you were faced with Him in all His glory, what would you ask if you had just one question?
-- 6. Why ask why?
+- 3\. Go directly to number 5. Do not pass Go. Do not collect $200.
+- 5\. If God had a name, what would it be and would you call it to His face, if you were faced with Him in all His glory, what would you ask if you had just one question?
+- 6\. Why ask why?
 
 :::
 

@@ -127,7 +127,7 @@ main {
 }
 
 article li {
-  margin-block: 0.5em;
+  margin-block: 0.4em;
 }
 
 .toc li {
@@ -157,4 +157,26 @@ article li {
   .school-color {
     color: var(--dark-color, var(--color));
   }
+}
+
+._69-legacy-list {
+  list-style-type: none;
+  text-indent: -1.25em;
+}
+
+._69-list {
+  display: grid;
+  grid-template-columns: max-content 1fr;
+  column-gap: 0.5ex;
+  row-gap: 0.4em;
+  margin-left: 1em;
+}
+:not(li) > ._69-list {
+  margin-bottom: 1em;
+}
+li > ._69-list {
+  margin-top: 0.5em;
+}
+._69-list-marker {
+  justify-self: flex-end;
 }

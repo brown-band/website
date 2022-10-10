@@ -11,29 +11,16 @@ summary: |
 
 The Band is a fun-loving group of Brunonians who help to keep school spirit alive at Brown. Whether we are following the football team on the road, cheering on men’s and women’s basketball and hockey here in Providence, or playing for major school events, such as Convocation, we are Ever True to Brown. We interact with alumni, administrators and other students, sharing our love for Brown and leading our appreciative audiences in displaying our school spirit. And when the night falls, we party like there’s no tomorrow. Here are some other reasons to join:
 
-<ol type="A">
-<li>Free food. Everybody loves free things. Free food is something to love.
-<li>Away trips. Every semester we follow our sports teams all over the northeast,
-so you’ll get to bask in the splendor of New Haven, Philadelphia and various
-other dumps that will make you appreciate Providence so much more.
-<li>Music. Do
-you know the words to the Alma Mater? No? Well, now’s the time to join the Band
-and learn them. We play several traditional Brown Band songs - including “Ever
-True to Brown,” and the Alma Mater - as well as band arrangements of popular
-songs.
-<li>Band shows. Football season is your chance to get on the field, point
-your instruments up, and feel the rush of excitement as you play for the crowd.
-We are a scatter band, so we don’t care whether you know your left from your
-right - all you have to do is be willing to run out onto the field with energy
-and enthusiasm. During the spring semester, we become the world’s only
-ice-skating band, and take to the ice to perform shows at hockey games. If you
-don’t skate, we’ll teach you how.
-<li>Love. The Band loves you. It wants to bear
-your children. When you join the Band, you become an indispensable part of a
-circle of love and tree-hugging harmony that is the envy of any hippie commune.
-Peace.
-<li>The Princeton Band
-</ol>
+:::script-list
+
+- A. Free food. Everybody loves free things. Free food is something to love.
+- B. Away trips. Every semester we follow our sports teams all over the northeast, so you’ll get to bask in the splendor of New Haven, Philadelphia and various other dumps that will make you appreciate Providence so much more.
+- C. Music. Do you know the words to the Alma Mater? No? Well, now’s the time to join the Band and learn them. We play several traditional Brown Band songs - including “Ever True to Brown,” and the Alma Mater - as well as band arrangements of popular songs.
+- D. Band shows. Football season is your chance to get on the field, point your instruments up, and feel the rush of excitement as you play for the crowd. We are a scatter band, so we don’t care whether you know your left from your right - all you have to do is be willing to run out onto the field with energy and enthusiasm. During the spring semester, we become the world’s only ice-skating band, and take to the ice to perform shows at hockey games. If you don’t skate, we’ll teach you how.
+- E. Love. The Band loves you. It wants to bear your children. When you join the Band, you become an indispensable part of a circle of love and tree-hugging harmony that is the envy of any hippie commune. Peace.
+- F. The Princeton Band
+
+:::
 
 ## What is required to join the band?
 

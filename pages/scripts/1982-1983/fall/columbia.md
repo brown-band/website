@@ -17,19 +17,15 @@ Ladies and Gentlemen, Friends and Alumni, and dearly beloved, it’s the Brown U
 
 We are gathered here today to salute things which have recently passed away.
 
-:::script-list
-
-- The National Football League
-- Bowie Kuhn
-- The Columbia Band
-- Leonid Brezhnev
-- Ernie Bushmiller
-- New York City
-- Ed Koch’s Political Ambitions
-- The dead baby
-- And the Brown Band
-
-:::
+:script-tab The National Football League\
+:script-tab Bowie Kuhn\
+:script-tab The Columbia Band\
+:script-tab Leonid Brezhnev\
+:script-tab Ernie Bushmiller\
+:script-tab New York City\
+:script-tab Ed Koch’s Political Ambitions\
+:script-tab The dead baby\
+:script-tab And the Brown Band
 
 :sd[Band falls down on field]
 

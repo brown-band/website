@@ -44,12 +44,12 @@ Brown Student Agencies, an independent student-run organization loosely affiliat
 
 :::script-list
 
-- 5. Missing issues of Playboy from the John Hay library
-- 4. A radio that picks up WBRU-AM
-- 3. $50 million dollars from Capital Campaign labeled “Need-Blind Admissions.”
-- 2. A gay studies concentration
+- 5\. Missing issues of Playboy from the John Hay library
+- 4\. A radio that picks up WBRU-AM
+- 3\. $50 million dollars from Capital Campaign labeled “Need-Blind Admissions.”
+- 2\. A gay studies concentration
 - ...and the number 1 item found during the BSA audit:
-- 1. A humorous yet tasteful and informative Film Bulletin.
+- 1\. A humorous yet tasteful and informative Film Bulletin.
 
 :::
 

@@ -46,7 +46,7 @@ Bet you wonder what your kids are listening to now that it’s no longer your le
 
 - A. I am the rock, I am the sci li
 - B. “Spirit” infused Brown songs like bring the victory
-- C is for Cornell, that’s good enough for U
+- C. is for Cornell, that’s good enough for U
 - D. Who let the dogs out?
 - E. Language tapes of course! Pardon our French as we
 - F. The Princeton Band!

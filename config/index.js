@@ -23,7 +23,7 @@ module.exports = (eleventyConfig) => {
   eleventyConfig.addExtension("md", {
     async compile(inputContent, inputPath) {
       let result = import("./markdown.mjs").then(({ render }) =>
-        render(inputContent)
+        render(inputContent, inputPath)
       );
       return () => result;
     },
