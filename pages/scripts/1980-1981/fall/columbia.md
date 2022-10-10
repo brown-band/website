@@ -25,12 +25,12 @@ Speaking of Columbia, the band would like to offer some suggested uses for your 
 - a) A pooper scooper
 - b) Light reading on the subway
 - c) Referral
-- a) Paper snowflakes so you can have some white snow; or
+- d) Paper snowflakes so you can have some white snow; or
 - f) The Princeton Band.
 
 :::
 
-The band salutes the greatest university in New York, discusses the average Columbia students’ I.Q. and plays “25 cr 64.”
+The band salutes the greatest university in New York, discusses the average Columbia students’ I.Q. and plays “25 or 64.”
 
 :sd[The band forms the letters “C” and “U”. Two lines are above and below the letters. As “25 or 6 to 4” is played, the two lines form the letters “N” and “Y”. This is formed in order to spell “C.U.N.Y.”]
 
