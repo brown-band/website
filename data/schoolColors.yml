@@ -51,6 +51,9 @@ bucknell:
 cal-poly:
   color: "#003831" # Forest green
   darkColor: "#ffe395" # Vegas gold
+ccsu:
+  color: "#06519b" # Blue
+  darkColor: white
 clarkson:
   color: "#03522B" # Green
   darkColor: "#fdda24" # Gold
