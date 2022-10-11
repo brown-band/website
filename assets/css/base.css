@@ -169,14 +169,15 @@ article li {
   grid-template-columns: max-content 1fr;
   column-gap: 0.5ex;
   row-gap: 0.4em;
-  margin-left: 1em;
+  margin-left: 1rem;
 }
 :not(li) > ._69-list {
-  margin-bottom: 1em;
+  margin-bottom: 1rem;
 }
 li > ._69-list {
   margin-top: 0.5em;
 }
 ._69-list-marker {
   justify-self: flex-end;
+  align-self: flex-start;
 }
