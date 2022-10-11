@@ -33,7 +33,7 @@ module.exports = async () => {
     .filter((y) => y !== "unknown" && y !== ".DS_Store");
 
   const imagesAsset = new AssetCache("button-images");
-  if (!imagesAsset.isCacheValid("1h")) {
+  if (!imagesAsset.isCacheValid("15m")) {
     const result = await fetch("https://api.github.com/graphql", {
       method: "POST",
       headers: {
