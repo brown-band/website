@@ -67,11 +67,15 @@ exports.default = ({ buttons, specialButtons, site: { urls } }) => (
               </a>
             </td>
             <td>
-              <a class="button-link" href={`${urls.buttons}/${button.image}`}>
+              <a
+                class="button-link"
+                href={`${urls.buttons}/${button.image}`}
+                data-thumbnail={`${urls.buttons}/${button.thumbnail}`}
+              >
                 <img
                   alt={button.label}
                   title={button.label}
-                  src={`${urls.buttons}/${button.image}`}
+                  src={`${urls.buttons}/${button.thumbnail}`}
                   width="100"
                   height="100"
                   class="rounded-circle my-3"
@@ -113,7 +117,11 @@ exports.default = ({ buttons, specialButtons, site: { urls } }) => (
             <td>{button.year}</td>
             <td>{button.school}</td>
             <td>
-              <a class="button-link" href={`${urls.buttons}/${button.image}`}>
+              <a
+                class="button-link"
+                href={`${urls.buttons}/${button.image}`}
+                data-thumbnail={`${urls.buttons}/${button.thumbnail}`}
+              >
                 {button.label}
               </a>
             </td>
@@ -137,7 +145,11 @@ exports.default = ({ buttons, specialButtons, site: { urls } }) => (
             <td>{button.about}</td>
             <td>
               {button.image ? (
-                <a class="button-link" href={`${urls.buttons}/${button.image}`}>
+                <a
+                  class="button-link"
+                  href={`${urls.buttons}/${button.image}`}
+                  data-thumbnail={`${urls.buttons}/${button.thumbnail}`}
+                >
                   {button.label}
                 </a>
               ) : (
@@ -217,6 +229,7 @@ function ButtonTable({ school: { id, name, mascot, buttons, color }, urls }) {
                   <a
                     class="button-link"
                     href={`${urls.buttons}/${button.image}`}
+                    data-thumbnail={`${urls.buttons}/${button.thumbnail}`}
                   >
                     {button.label}
                   </a>

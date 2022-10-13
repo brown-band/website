@@ -48,7 +48,7 @@ module.exports = async () => {
     }
 
     const buttons = result.data.repository.defaultBranchRef.target.tree.entries
-      .filter(({ type }) => type === "tree")
+      .filter(({ name, type }) => type === "tree" && !name.startsWith("."))
       .map(({ name, object }) => [
         name,
         object.entries.map(({ name }) => name),
@@ -88,6 +88,9 @@ module.exports = async () => {
               label,
               image: buttonImages.get(year)?.includes(`${schoolId}.png`)
                 ? `${year}/${schoolId}.png`
+                : null,
+              thumbnail: buttonImages.get(year)?.includes(`${schoolId}.png`)
+                ? `${year}/${schoolId}.webp`
                 : null,
             };
           })
@@ -155,6 +158,7 @@ module.exports = async () => {
       ).map(({ imageName, ...button }) => ({
         ...button,
         image: imageName ? `unknown/${imageName}.png` : null,
+        thumbnail: imageName ? `unknown/${imageName}.webp` : null,
       })),
   };
 };
