@@ -89,8 +89,8 @@ exports.default = async ({ collections, scripts, buttons }) => {
       <h3 id="years">Scripts By Year</h3>
 
       <dl class="index-list">
-        {groups(reverse(scripts.years).slice(1), (d) => d.year.slice(0, 3)).map(
-          ([decade, years], i) => (
+        {groups(reverse(scripts.years), (d) => d.year.slice(0, 3)).map(
+          ([decade, years]) => (
             <div>
               <dt>{decade}0s</dt>
               {reverse(years).map((year) => (
@@ -105,6 +105,13 @@ exports.default = async ({ collections, scripts, buttons }) => {
           )
         )}
       </dl>
+
+      <p>
+        Do you have a script book or other record of a script that’s incomplete
+        or unavailable on the website?{" "}
+        <a href="/contact/">Send it to the webmasters</a>, and we’ll add it to
+        the site and love you forever and ever :)
+      </p>
 
       <h3 id="categories">Scripts By Opponent/Occasion</h3>
 
