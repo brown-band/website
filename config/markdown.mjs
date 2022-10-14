@@ -1,7 +1,11 @@
 // @ts-check
+import fs from "node:fs";
+import path from "node:path";
+
 import { map } from "unist-util-map";
 import { unified } from "unified";
 
+import rehypeParse from "rehype-parse";
 import remarkParse from "remark-parse";
 import remarkHeadingId from "remark-heading-id";
 import remarkDirective from "remark-directive";
@@ -41,6 +45,9 @@ const h = (hName, className, attrs = {}) => ({
   hName,
   hProperties: { className, ...attrs },
 });
+
+const svgParser = unified().use(rehypeParse, { fragment: true, space: "svg" });
+
 function directivesPlugin() {
   return (nodeTree, file) =>
     map(nodeTree, (/** @type {import("mdast").Content} */ node, _, parent) => {
@@ -87,6 +94,42 @@ function directivesPlugin() {
       }
       if (node.type === "containerDirective" && node.name === "script-note") {
         return Object.assign(node, { data: h("blockquote", "_69-note") });
+      }
+      if (node.type === "leafDirective" && node.name === "svg") {
+        if (node.children.length !== 1 && node.children[0].type !== "text") {
+          throw new Error(
+            `Expected a single text child inside svg directive containing alt text for image "${node.attributes.name}"`
+          );
+        }
+        const svg = svgParser.parse(
+          fs.readFileSync(
+            path.join(
+              path.dirname(file.path),
+              path.basename(file.path, ".md"),
+              node.attributes.name + ".svg"
+            ),
+            "utf-8"
+          )
+        ).children[0];
+
+        if (!svg || svg.type !== "element" || svg.tagName !== "svg") {
+          throw new Error(`Invalid SVG file "${node.attributes.name}.svg"`);
+        }
+        svg.children.unshift({
+          type: "element",
+          tagName: "title",
+          properties: {},
+          children: [{ type: "text", value: node.children[0].value }],
+        });
+        return Object.assign(node, {
+          data: {
+            hName: "figure",
+            hProperties: {
+              class: "_69-svg",
+            },
+            hChildren: [svg],
+          },
+        });
       }
       if (node.type === "containerDirective" && node.name === "script-list") {
         if (node.children.length !== 1) {
