@@ -112,7 +112,11 @@ function directivesPlugin() {
         ).children[0];
 
         if (!svg || svg.type !== "element" || svg.tagName !== "svg") {
-          throw new Error(`Invalid SVG file "${name}.svg"`);
+          throw new TypeError(
+            `Invalid SVG file "${name}.svg": expected first child to be a <svg> but it was a ${
+              svg.type === "element" ? `<${svg.tagName}>` : svg.type
+            }`
+          );
         }
         svg.properties.role = "img";
         svg.properties.ariaLabel = node.attributes.alt;
