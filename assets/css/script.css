@@ -37,6 +37,9 @@
   margin: auto;
   margin-bottom: 1em;
 }
+._69-svg svg {
+  max-height: 150px;
+}
 
 ._69-svg path {
   fill: currentColor;
