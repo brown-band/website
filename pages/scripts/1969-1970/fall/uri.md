@@ -11,7 +11,7 @@ date: 1969-09-27
 ---
 
 :sd[Read while the Band is in the bushes]\
-Ladies, Gentlemen, Friends, and Alumni, it's that All New Razzmatazz <u>Damn</u> Co-Ed Band.
+Ladies, Gentlemen, Friends, and Alumni, it’s that All New Razzmatazz <u>Damn</u> Co-Ed Band.
 
 :sd[Read as the Band forms on the field — action is continuous!]\
 Frank Marrinnaccio — Director\
