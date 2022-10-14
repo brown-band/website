@@ -96,7 +96,7 @@ function directivesPlugin() {
         return Object.assign(node, { data: h("blockquote", "_69-note") });
       }
       if (node.type === "leafDirective" && node.name === "svg") {
-        if (node.children.length !== 1 && node.children[0].type !== "text") {
+        if (node.children.length !== 1 || node.children[0].type !== "text") {
           throw new Error(
             `Expected a single text child inside svg directive containing alt text for image "${node.attributes.name}"`
           );
@@ -115,12 +115,8 @@ function directivesPlugin() {
         if (!svg || svg.type !== "element" || svg.tagName !== "svg") {
           throw new Error(`Invalid SVG file "${node.attributes.name}.svg"`);
         }
-        svg.children.unshift({
-          type: "element",
-          tagName: "title",
-          properties: {},
-          children: [{ type: "text", value: node.children[0].value }],
-        });
+        svg.properties.role = "img";
+        svg.properties.ariaLabel = node.children[0].value;
         return Object.assign(node, {
           data: {
             hName: "figure",
