@@ -97,31 +97,31 @@ function directivesPlugin() {
       }
       if (node.type === "leafDirective" && node.name === "svg") {
         if (node.children.length !== 1 || node.children[0].type !== "text") {
-          throw new Error(
-            `Expected a single text child inside svg directive containing alt text for image "${node.attributes.name}"`
-          );
+          throw new Error(`Expected a file name for the image`);
         }
+        const name = node.children[0].value;
         const svg = svgParser.parse(
           fs.readFileSync(
             path.join(
               path.dirname(file.path),
               path.basename(file.path, ".md"),
-              node.attributes.name + ".svg"
+              name + ".svg"
             ),
             "utf-8"
           )
         ).children[0];
 
         if (!svg || svg.type !== "element" || svg.tagName !== "svg") {
-          throw new Error(`Invalid SVG file "${node.attributes.name}.svg"`);
+          throw new Error(`Invalid SVG file "${name}.svg"`);
         }
         svg.properties.role = "img";
-        svg.properties.ariaLabel = node.children[0].value;
+        svg.properties.ariaLabel = node.attributes.alt;
         return Object.assign(node, {
           data: {
             hName: "figure",
             hProperties: {
               class: "_69-svg",
+              ariaHidden: node.attributes.alt ? undefined : "true",
             },
             hChildren: [svg],
           },
