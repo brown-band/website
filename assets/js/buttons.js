@@ -1,17 +1,21 @@
 const modal = new bootstrap.Modal(buttonLightbox);
 
 document.addEventListener("click", (event) => {
-  if (event.currentTarget.className == "button-link") {
+  if (
+    event.target.className == "button-link" ||
+    event.target.parentNode.className == "button-link"
+  ) {
+    const button =
+      event.target.className == "button-link"
+        ? event.target
+        : event.target.parentNode;
     event.preventDefault();
-    const link =
-      event.currentTarget.dataset.thumbnail || event.currentTarget.src;
     buttonLightboxImage.addEventListener("error", () => {
-      location.href = link;
+      location.href = button.href;
     });
-    buttonLightboxImage.src = link;
-    buttonLightboxLink.href = event.currentTarget.href;
-    buttonLightboxImage.alt =
-      event.currentTarget.textContent || event.target.alt;
+    buttonLightboxImage.src = button.dataset.thumbnail;
+    buttonLightboxLink.href = button.href;
+    buttonLightboxImage.alt = event.target.textContent || event.target.alt;
     modal.show();
   }
 });
