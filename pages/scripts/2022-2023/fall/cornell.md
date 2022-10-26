@@ -1,5 +1,5 @@
 ---
-sport: soccer
+sport: football
 teams:
   home:
     name: Brown
