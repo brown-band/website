@@ -12,12 +12,6 @@ date: 2004-11-13
 
 ## Pregame
 
-<br>
-
-<br>
-
-<br>
-
 Contrary to popular belief, some Dartmouth students have recently asserted that there are in fact no sheep in The Big Green, and vice versa. We believe, however, that they’ve just headed south and can probably be found in Daytona Beach participating in wet wool contests and shearing themselves for the camera. The band, with Snoop Dogg, will follow them there to judge the “Championship.”
 
 :sd[Band forms football, plays “Championship,” stops partway through]

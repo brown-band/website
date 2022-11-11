@@ -56,7 +56,9 @@ The band was reading the papers recently and we’re shocked, SHOCKED we tell yo
 
 READ ALL ABOUT IT!
 
-People eat turkey on Thanksgiving! <br> Sugar causes tooth decay! <br> Penn student body consists entirely of people wait-listed at Columbia!
+People eat turkey on Thanksgiving!\
+Sugar causes tooth decay!\
+Penn student body consists entirely of people wait-listed at Columbia!
 
 For the final word on college drinking we turn to no less than Ben Franklin himself who says:
 
