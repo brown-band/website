@@ -8,9 +8,9 @@ The purpose of the Brown University Band (hereafter, the “Band”) shall be to
 
 Membership in the Band is open to all undergraduate and graduate students of Brown University (hereafter, “Brown”) and the Rhode Island School of Design (hereafter, “RISD”). The Band does not discriminate on the basis of race, color, religion, sex, national or ethnic origin, age, disability, veteran status, sexual orientation, gender identity, or gender expression. Majority membership consists of full-time undergraduate Brown students. Membership is further subject to Article X.
 
-### Section B: Membership Dues {#IIB}
+### Section B: Membership {#IIB}
 
-Band members must pay membership dues in order to attend away trips or count towards a quorum in election procedures (see Article IX). Dues shall be paid to and recorded by the Business Manager. The President may decide to waive a member's dues for any reason, including the member's attendance record or extenuating personal circumstances. Band members whose dues have been waived are considered dues-paying members of the Band.
+Band members are students who have attended at least four band activities, defined as rehearsals, performances, and any other events as designated by the President. Membership entitles individuals the right to vote in all band proceedings.
 
 ### Section C: Anti-Discrimination Clause {#IIC}
 
@@ -122,7 +122,7 @@ Should an elected Band Board officer resign their position or otherwise leave th
 
 ## Article V: FINANCES {#V}
 
-The Band receives funds from the Undergraduate Finance Board for transportation, hotels, instrument purchases and maintenance, percussion coaching, and other miscellaneous expenses. The Band reserves the right to create accounts with the Student Activities Office into which monies may be deposited or transferred. All funds collected by the group from any source shall be deposited with the Student Activities Office. The Band agrees to follow all regulations regarding all financial transactions as set forth by the Student Activities Office. The Band Board also reserves the right to collect dues from the membership of the Band.
+The Band receives funds from the Undergraduate Finance Board for transportation, hotels, instrument purchases and maintenance, percussion coaching, and other miscellaneous expenses. The Band reserves the right to create accounts with the Student Activities Office into which monies may be deposited or transferred. All funds collected by the group from any source shall be deposited with the Student Activities Office (SAO), and all expenses of the group shall be spent through processes of the SAO. The Band agrees to follow all regulations regarding all financial transactions as set forth by the SAO. The Band Board also reserves the right to collect dues from the membership of the Band.
 
 ## Article VI: FACULTY ADVISOR {#VI}
 
@@ -130,15 +130,15 @@ The Faculty Advisor meets regularly with the Band Board to advise them in their 
 
 ## Article VII: AMENDMENT PROCEDURE {#VII}
 
-Amendments to this constitution may be proposed by any Band member. The amendment must first be brought up before members of the Band Board in writing and then be brought before the Band members for a vote at the next rehearsal and acted on according to Article IX of this constitution. Once an amendment has been accepted by the Brown University Band, it shall be given to the Vice President of the Undergraduate Council of Students (UCS) at least two full days before the next regularly scheduled full council meeting. A representative from the group shall attend this meeting to present this amendment for UCS approval. Upon receipt of a simple majority from UCS, this amendment shall be considered a formal part of the Brown University Band Constitution.
+Amendments to this constitution may be proposed by any Band member. The amendment must first be brought up before members of the Band Board in writing and then be brought before the Band members for a vote at the next rehearsal and acted on according to Article IX of this constitution.
 
 ## Article VIII: IMPEACHMENT {#VIII}
 
-Any officer may be impeached at any time. Any Band member may start impeachment proceedings. To impeach an officer, the motion must first be brought before the Band Board. If the motion of impeachment is brought before the Band Board, one member of the Band Board is obligated to bring the motion before the Band at the next gathering of the Band. If a Band Board member fails to do so, the person who brought the motion before the Band Board has the right to bring the motion before the Band members. To complete the impeachment proceedings, a two-thirds vote of the dues-paying Band membership must be secured to impeach the officer. Only one ballot shall be taken; it shall be done by secret ballot. This is the one and only ballot to be taken even in the case of a tie, since a tie means that the necessary two-thirds vote has not been secured.
+Any officer may be impeached at any time. Any Band member may start impeachment proceedings. To impeach an officer, the motion must first be brought before the Band Board. If the motion of impeachment is brought before the Band Board, one member of the Band Board is obligated to bring the motion before the Band at the next gathering of the Band. If a Band Board member fails to do so, the person who brought the motion before the Band Board has the right to bring the motion before the Band members. A quorum of band members must be present to conduct the impeachment vote and a two-thirds vote of this quorum is required to impeach the officer.. Only one ballot shall be taken; it shall be done by secret ballot. This is the one and only ballot to be taken even in the case of a tie, since a tie means that the necessary two-thirds vote has not been secured.
 
 ## Article IX: QUORUM {#IX}
 
-The presence of two-thirds of the dues-paying Band membership at a meeting shall constitute a quorum. A quorum must be present at all meetings at which voting will take place, excepting Section Leader elections, which are a special case. A plurality vote of the quorum must be secured to elect Band Board officers, and a two-thirds majority of the Band membership must be secured to amend this constitution. For all other decisions except impeachment (see Article VIII) and Section Leader elections (see Article IV, Section F), a majority vote shall be required.
+Quorum is constituted by a number of band members greater than or equal to two-thirds of the average number of band members present at home and away football games in the previous fall semester. The quorum number shall be rounded down to the nearest whole number. A quorum must be present at all meetings at which voting will take place, excepting Section Leader elections, which are a special case. A plurality vote of the quorum must be secured to elect Band Board officers, and a two-thirds majority of the Band membership must be secured to amend this constitution. For all other decisions except impeachment (see Article VIII) and Section Leader elections (see Article IV, Section F), a majority vote shall be required.
 
 ## Article X: GENERAL REGULATIONS {#X}
 
@@ -180,6 +180,6 @@ Each senior band member who attends the annual Bandquet shall be given a gift; t
 
 ## Article XII {#XII}
 
-This constitution, ratified on November 28, 2018, supersedes all former constitutions of the Brown University Band.
+This constitution, ratified on November 8, 2022, supersedes all former constitutions of the Brown University Band.
 
 We, the undersigned, attest to the validity of the above information and that we are members in good standing of the Brown University Band.
