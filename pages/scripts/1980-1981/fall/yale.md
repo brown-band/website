@@ -5,8 +5,8 @@ teams:
     name: Brown
     score: 17
   away:
-    name: URI
-    score: 46
+    name: Yale
+    score: 45
 date: 1980-09-20
 ---
 
