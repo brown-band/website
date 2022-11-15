@@ -1,12 +1,12 @@
 ## Article I: STATEMENT OF PURPOSE {#I}
 
-The purpose of the Brown University Band (hereafter, the "Band") shall be to play at appropriate Brown University functions and community events. Appearance of the Band at such functions shall be subject to the approval of the Brown University Band Board (hereafter, the "Band Board").
+The purpose of the Brown University Band (hereafter, the “Band”) shall be to play at appropriate Brown University functions and community events. Appearance of the Band at such functions shall be subject to the approval of the Brown University Band Board (hereafter, the “Band Board”).
 
 ## Article II: MEMBERSHIP {#II}
 
 ### Section A: Membership Statement {#IIA}
 
-Membership in the Band is open to all undergraduate and graduate students of Brown University (hereafter, "Brown") and the Rhode Island School of Design (hereafter, "RISD"). The Band does not discriminate on the basis of race, color, religion, sex, national or ethnic origin, age, disability, veteran status, sexual orientation, gender identity, or gender expression. Majority membership consists of full-time undergraduate Brown students. Membership is further subject to Article X.
+Membership in the Band is open to all undergraduate and graduate students of Brown University (hereafter, “Brown”) and the Rhode Island School of Design (hereafter, “RISD”). The Band does not discriminate on the basis of race, color, religion, sex, national or ethnic origin, age, disability, veteran status, sexual orientation, gender identity, or gender expression. Majority membership consists of full-time undergraduate Brown students. Membership is further subject to Article X.
 
 ### Section B: Membership Dues {#IIB}
 
@@ -14,7 +14,7 @@ Band members must pay membership dues in order to attend away trips or count tow
 
 ### Section C: Anti-Discrimination Clause {#IIC}
 
-The Band is committed to fostering an inclusive, anti-discriminatory environment in which all individuals are treated with respect and dignity, regardless of any identities they may hold. The Band prohibits harrassment and retaliation by its membership and leadership alike. The Band encourages its members to voice concerns and commits to engaging in effective and equitable conflict management.
+The Band is committed to fostering an inclusive, anti-discriminatory environment in which all individuals are treated with respect and dignity, regardless of any identities they may hold. The Band prohibits harassment and retaliation by its membership and leadership alike. The Band encourages its members to voice concerns and commits to engaging in effective and equitable conflict management.
 
 ## Article III: OFFICERS AND LEADERSHIP {#III}
 
@@ -40,9 +40,9 @@ An eligible candidate for Band Board must be a Band member and plan to be both e
 
 ### Section B: Section Leaders {#IIIB}
 
-Each semester, every section shall choose, by separate election, a Section Leader-or, if necessary, multiple Section Leaders to split the duties-in accordance with Article IV, Section B. Section Leaders will be expected to attend all Band functions. In the event they cannot attend, they shall appoint a replacement on a per-event basis.
+Each semester, every section shall choose, by separate election, a Section Leader—or, if necessary, multiple Section Leaders to split the duties—in accordance with Article IV, Section B. Section Leaders will be expected to attend all Band functions. In the event they cannot attend, they shall appoint a replacement on a per-event basis.
 
-At Band events, Section Leaders shall manage the section's music and instruments, reporting any necessary repairs to the General Manager. As mentioned in Article III, Section A2, Section Leaders will attend regular meetings to be run by the General Manager. They will ensure their section is together musically-including being prepared to play-and physically during marches and at events. Section Leaders are encouraged to lead cheers.
+At Band events, Section Leaders shall manage the section’s music and instruments, reporting any necessary repairs to the General Manager. As mentioned in Article III, Section A2, Section Leaders will attend regular meetings to be run by the General Manager. They will ensure their section is together musically—including being prepared to play—and physically during marches and at events. Section Leaders are encouraged to lead cheers.
 
 Section Leaders shall plan one or more social gatherings for their section each semester. Section Leaders will encourage member retention by sending emails of pertinent information to their section and encouraging a personal, friendly atmosphere among section members.
 
@@ -50,7 +50,7 @@ Section Leaders shall plan one or more social gatherings for their section each 
 
 #### C1: Student Conductor {#IIIC1}
 
-Student Conductors shall be chosen by majority vote of the Band Board to serve a term of indefinite length and shall consist of a Head Conductor and no more than three Assistant Conductors. The Band Board, in choosing the Student Conductors, shall take into consideration the opinion of the Faculty Advisor and the current Student Conductors. The Band Board shall review the qualifications of the Student Conductors annually, no later than one week after general elections have been held. If the Student Conductors are found to be unsatisfactory, the Band Board may remove them from office and immediately appoint a new Student Conductor. Otherwise, the Student Conductor shall serve as long as they like. However, a Student Conductor's term must end with the conclusion of their time as a student at Brown or RISD, if not earlier. When the Student Conductor resigns or otherwise leaves their post, the Band Board shall immediately choose another to take their place. The Head Conductor is responsible for training the Student Conductors so they are prepared to replace the Head Conductor. Student and Assistant Conductors shall also lead the Sectional rehearsals at their own discretion.
+Student Conductors shall be chosen by majority vote of the Band Board to serve a term of indefinite length and shall consist of a Head Conductor and no more than three Assistant Conductors. The Band Board, in choosing the Student Conductors, shall take into consideration the opinion of the Faculty Advisor and the current Student Conductors. The Band Board shall review the qualifications of the Student Conductors annually, no later than one week after general elections have been held. If the Student Conductors are found to be unsatisfactory, the Band Board may remove them from office and immediately appoint a new Student Conductor. Otherwise, the Student Conductor shall serve as long as they like. However, a Student Conductor’s term must end with the conclusion of their time as a student at Brown or RISD, if not earlier. When the Student Conductor resigns or otherwise leaves their post, the Band Board shall immediately choose another to take their place. The Head Conductor is responsible for training the Student Conductors so they are prepared to replace the Head Conductor. Student and Assistant Conductors shall also lead the Sectional rehearsals at their own discretion.
 
 #### C2: Librarian {#IIIC2}
 
@@ -74,7 +74,7 @@ The Scriptwriters are responsible for producing a script for each event that req
 
 #### C7: Webmaster {#IIIC7}
 
-The Webmaster is responsible for updating and maintaining the Band webpage, as well as posting Band-related information.
+The Webmaster is responsible for updating and maintaining the Band web page, as well as posting Band-related information.
 
 #### C8: Social Chair {#IIIC8}
 
@@ -94,11 +94,11 @@ Band members shall vote for officers in the following order: President, Vice Pre
 
 #### A3: Election Procedure {#IVA3}
 
-The outgoing President shall conduct elections. If the President is unable to preside, then the next highest-ranking officer as listed in Article III, Section A2 shall preside. The presiding officer will cast one vote to be kept secret and separate during the election of the office of the President, and it will not be noted or counted except in case of a tie. If a tie arises, the presiding officer's vote will be discretely added to the total in order to break the tie, otherwise their vote is destroyed. If a tie arises between candidates when they are not the only candidates, the presiding officer's vote will not be counted and there will be a runoff election between tied candidates.
+The outgoing President shall conduct elections. If the President is unable to preside, then the next highest-ranking officer as listed in Article III, Section A2 shall preside. The presiding officer will cast one vote to be kept secret and separate during the election of the office of the President, and it will not be noted or counted except in case of a tie. If a tie arises, the presiding officer’s vote will be discreetly added to the total in order to break the tie, otherwise their vote is destroyed. If a tie arises between candidates when they are not the only candidates, the presiding officer's vote will not be counted and there will be a runoff election between tied candidates.
 
-After a new President has been elected, the outgoing President will continue to run elections. The outgoing President can vote in the remaining elections; the newly elected President, however, will cast one vote to be kept secret and separate, and it will not be noted or counted except in the case of a tie. If a tie arises, the newly elected President's vote will be discretely added to the total in order to break the tie, otherwise their vote is destroyed. If a tie arises between candidates when they are not the only candidates, the newly elected President's vote will not be counted and there will be a runoff election between tied candidates. If the presiding officer wishes to run for the position of President, then the next presiding officer in Article III, Section A2 shall preside.
+After a new President has been elected, the outgoing President will continue to run elections. The outgoing President can vote in the remaining elections; the newly elected President, however, will cast one vote to be kept secret and separate, and it will not be noted or counted except in the case of a tie. If a tie arises, the newly elected President’s vote will be discreetly added to the total in order to break the tie, otherwise their vote is destroyed. If a tie arises between candidates when they are not the only candidates, the newly elected President's vote will not be counted and there will be a runoff election between tied candidates. If the presiding officer wishes to run for the position of President, then the next presiding officer in Article III, Section A2 shall preside.
 
-Two or more persons may not run together for the same office. Band members may nominate anyone, including themselves, for anyposition. The presiding officer shall ask for a second of the nomination and whether the nominee accepts the nomination. The presiding officer shall move to close nominations for each candidate.
+Two or more persons may not run together for the same office. Band members may nominate anyone, including themselves, for any position. The presiding officer shall ask for a second of the nomination and whether the nominee accepts the nomination. The presiding officer shall move to close nominations for each candidate.
 
 After nominations have been closed, each candidate has two and one-half minutes in which to state their position if they so desire. The candidates shall appear one at a time before the Band and describe their qualifications while other candidates are out of the room. Next, under the direction of the presiding officer, members shall ask questions of the candidates. After all presentations and questions have been completed, the Band members shall discuss the qualifications of the candidates.
 
@@ -108,7 +108,7 @@ In the event that there are six or more candidates running for a position, the p
 
 #### A5: Voting {#IVA5}
 
-All candidates shall remain outside the election room during any voting procedure, including run-off elections and the final ballot. Voting during the final ballot shall be by secret ballot. To be elected, a candidate must secure a plurality of the votes of the Band members present contingent on their ability to fulfill Article III, Section A. However, if a candidate's ability to perform the tasks of their position had been misrepresented during the course of an election, then the election is automatically null and void, and the election must be held again at the earliest possible convenience. By the same token, the Band Board itself does not have the power to impeach or force resignation from any of its officers.
+All candidates shall remain outside the election room during any voting procedure, including run-off elections and the final ballot. Voting during the final ballot shall be by secret ballot. To be elected, a candidate must secure a plurality of the votes of the Band members present contingent on their ability to fulfill Article III, Section A. However, if a candidate’s ability to perform the tasks of their position had been misrepresented during the course of an election, then the election is automatically null and void, and the election must be held again at the earliest possible convenience. By the same token, the Band Board itself does not have the power to impeach or force resignation from any of its officers.
 
 ### Section B: Section Leader Elections {#IVB}
 
