@@ -26,4 +26,4 @@ Play “Brown Man Born” and then “Star Spangled Banner” and off.
 
 ::script-note[Half-time see attached sheet same as Penn - except ending with the United Fund show]
 
-::script-note[No such sheet was attached, unfortunately - JF]
+::script-note[No such sheet was attached, unfortunately — JF]

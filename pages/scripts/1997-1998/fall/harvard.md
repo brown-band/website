@@ -14,7 +14,7 @@ date: 1997-11-08
 
 I collaborated on this script with Erminio Pinque (I still don’t know if that’s spelled right), the Big Nazo director, who had the idea of trying to do a War of the Worlds thing... hence if the entire script reads something like a radio drama this is on purpose (and has the dual role of serving as a backup in case the on-field mike didn’t work, which fortunately didn’t happen). The lines as set down here are really more of a guideline... the on-field portions were mainly ad-libbed.
 
-Also, the final “stage direction” is not entirely accurate... the band actually chased the puppets off the field, not vice versa. **- CB ’98**
+Also, the final “stage direction” is not entirely accurate... the band actually chased the puppets off the field, not vice versa. **— CB ’98**
 
 :::
 
@@ -70,7 +70,7 @@ Not content to control the software business, Microsoft has expanded in a direct
 
 :sd[Band Plays Deconstruct, Mass Mayhem]
 
-:sd[Mass mayhem consisted of: Quasi Moto singing opera, our picolo player being hit on the head with a giant hammer, police officers running onto the field to separate the bears, and the aforementioned brain-eating aliens appearing and trying to devour our sousaphone player, among other things -BC.]
+::script-note[Mass mayhem consisted of: Quasi Moto singing opera, our picolo player being hit on the head with a giant hammer, police officers running onto the field to separate the bears, and the aforementioned brain-eating aliens appearing and trying to devour our sousaphone player, among other things — BC.]
 
 **Announcer:** Unbelievable! Monsters, police, two bears! Who will win control of this half-time show!
 

@@ -16,7 +16,7 @@ Interesting weekend we just survived (and we did JUST survive)... The Dartmouth 
 
 The Dartmouth script, running counter to form, was actually witty (as written by our own Craig Wenzel’s older brother) but true to form included a lame top-ten list. I’d been considering including a “Top Ten Reasons We Don’t Do Top Ten Lists” (#1 being: We don’t want to be mistaken for the DCMB) in our show this year but didn’t because top ten lists are a crime against nature unless Letterman does them himself.
 
-Oh yeah, the game. Needless to say, the refs won’t have any trouble paying for their kids’ braces... Green is the color of payoffs! **- CB ’98**
+Oh yeah, the game. Needless to say, the refs won’t have any trouble paying for their kids’ braces... Green is the color of payoffs! **— CB ’98**
 
 :::
 

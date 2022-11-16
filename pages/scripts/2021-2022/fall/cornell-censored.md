@@ -10,7 +10,7 @@ teams:
 date: 2021-10-23
 ---
 
-::script-note[This script was almost entirely rejected. Direction from Cornell Athletics: “Your announcing script for your performance is not approved. Please refrain from any negative comments about Cornell, Ithaca, our athletics department, or our request for your script to be approved.” Later direction included the request to “Please remove F. The Princeton Band.” -AF]
+::script-note[This script was almost entirely rejected. Direction from Cornell Athletics: “Your announcing script for your performance is not approved. Please refrain from any negative comments about Cornell, Ithaca, our athletics department, or our request for your script to be approved.” Later direction included the request to “Please remove F. The Princeton Band.” — AF]
 
 ## Pregame
 

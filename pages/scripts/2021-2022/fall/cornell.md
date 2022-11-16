@@ -55,7 +55,7 @@ The Wii Theme.\
 :sd[The band forms a vulva.]\
 :sd[The band attempts to play The Wii Theme with rehearsed pauses.]
 
-::script-note[*most* of the band remembered that we put pauses in - JF]
+::script-note[*most* of the band remembered that we put pauses in — JF]
 
 The football teams will resume play on these premises shortly.
 

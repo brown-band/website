@@ -14,7 +14,7 @@ date: 1997-11-22
 
 The idea to write a show in verse was suggested to me at the 1996 Ivy Band Conference by the Columbia Band’s Chief Scribe, who had done it the year before. At the beginning of this year, I went to the Columbia Band’s webpage and read their verse script only to discover that, although it was all in rhymed couplets, it regularly switched meters. So, in order to make the idea my own I decided to use blank verse-- iambic pentameter of course. And, of course, it would have to be for the Columbia game.
 
-The game itself wasn’t too terribly interesting. It was cold. It was wet. We creamed ‘em. After our half-time show we had the transfer of power ceremony, meaning that I’m no longer president of the Brown Band. I’m also no longer Script Chair. I’ve decided to resign and let someone else take over for the few shows we do second semester. It’s been a good... three years!? have I really been writing these suckers that long? Well, here’s my swan song: **- CB ’98**.
+The game itself wasn’t too terribly interesting. It was cold. It was wet. We creamed ‘em. After our half-time show we had the transfer of power ceremony, meaning that I’m no longer president of the Brown Band. I’m also no longer Script Chair. I’ve decided to resign and let someone else take over for the few shows we do second semester. It’s been a good... three years!? have I really been writing these suckers that long? Well, here’s my swan song: **— CB ’98**.
 
 :::
 

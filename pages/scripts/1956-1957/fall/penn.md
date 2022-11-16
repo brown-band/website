@@ -20,4 +20,4 @@ Marched on from Brown's right.
 
 See attached sheet for script. Music used was “BBB” “Victory March”, “Hutchinson Field” to “$” and then thanks to the Penn Brown club with “The Best Things In Life Are Free” block to Brown side and “Alma Mater”.
 
-::script-note[No such sheet was attached, unfortunately - JF]
+::script-note[No such sheet was attached, unfortunately — JF]
