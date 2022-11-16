@@ -1,4 +1,5 @@
 ---
+sport: hockey
 teams:
   home:
     name: Brown

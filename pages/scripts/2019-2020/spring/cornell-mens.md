@@ -1,4 +1,5 @@
 ---
+sport: hockey
 iceShowTheme: Video Game
 teams:
   home:

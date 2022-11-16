@@ -1,4 +1,5 @@
 ---
+sport: hockey
 iceShowTheme: Alumni
 teams:
   home:
