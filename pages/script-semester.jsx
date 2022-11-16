@@ -6,7 +6,9 @@ exports.data = {
     data: "scripts.semesters",
     size: 1,
     alias: "semester",
+    addAllPagesToCollections: true,
   },
+  tags: ["script-semester"],
   permalink: ({ semester }) => semester.permalink,
   eleventyComputed: {
     title: ({ semester }) => `Scripts: ${semester.title}`,
@@ -42,9 +44,25 @@ exports.default = ({
   semester,
   schoolColors,
   buttons,
+  scripts: { records: getRecords },
 }) => {
   const scripts = semester.scripts(collections.script);
   const { writers } = scripts[0].data;
+  const records = getRecords(semester.scripts(collections.script));
+  const resultText = (
+    <>
+      {records.total.wins || records.total.losses || records.total.ties
+        ? `Overall semester record: ${records.total}`
+        : ""}
+      {records.bySport.map(([sport, record]) => (
+        <>
+          <br />
+          {sport[0].toUpperCase()}
+          {sport.slice(1)}: {record.toString()}
+        </>
+      ))}
+    </>
+  );
   return (
     <>
       <link rel="stylesheet" href="/assets/css/script.css" />
@@ -55,11 +73,15 @@ exports.default = ({
             ← {pagination.page.previous.title}
           </a>
         )}
-        <span class="flex-fill" />
+        <span class="flex-fill text-center">
+          <span class="d-none d-md-inline">{resultText}</span>
+        </span>
         {pagination.page.next && (
           <a href={pagination.href.next}>{pagination.page.next.title} →</a>
         )}
       </p>
+
+      <p class="d-md-none text-center">{resultText}</p>
 
       {writers?.length > 0 && (
         <p class="h4">

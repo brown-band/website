@@ -40,5 +40,53 @@ module.exports = () => {
   return {
     years: yearCollections,
     semesters: semesterCollections,
+    records: (scripts) => {
+      const template = {
+        wins: 0,
+        losses: 0,
+        ties: 0,
+        toString() {
+          return `${this.wins}-${this.losses}-${this.ties}`;
+        },
+      };
+      const records = { total: { ...template } };
+      for (const script of scripts) {
+        const { teams } = script.data;
+        if (!teams || script.fileSlug.endsWith("-censored")) continue;
+        records[script.data.sport] ||= { ...template };
+        let key;
+        if (teams.home.name === "Brown") {
+          if (teams.home.score > teams.away.score) {
+            key = "wins";
+          } else if (teams.home.score < teams.away.score) {
+            key = "losses";
+          } else {
+            key = "ties";
+          }
+        } else {
+          if (teams.home.score > teams.away.score) {
+            key = "losses";
+          } else if (teams.home.score < teams.away.score) {
+            key = "wins";
+          } else {
+            key = "ties";
+          }
+        }
+        records.total[key]++;
+        records[script.data.sport][key]++;
+      }
+
+      return {
+        total: records.total,
+        bySport: Object.entries(records).filter(
+          ([_, record]) =>
+            !(
+              record.wins === records.total.wins &&
+              record.losses === records.total.losses &&
+              record.ties === records.total.ties
+            )
+        ),
+      };
+    },
   };
 };
