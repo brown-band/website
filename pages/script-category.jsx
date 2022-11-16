@@ -32,7 +32,7 @@ exports.data = {
       </>
     ),
     toc: ({ category }) => {
-      return category.scripts.map(({ semester }) => ({
+      return [...category.scripts].reverse().map(({ semester }) => ({
         id: `${semester.semester}-${semester.year}`,
         value: semester.title,
       }));
@@ -43,7 +43,7 @@ exports.data = {
 exports.default = ({ site: { urls }, category, schoolColors, buttons }) => (
   <>
     <link rel="stylesheet" href="/assets/css/script.css" />
-    {category.scripts.map((script, i) => (
+    {[...category.scripts].reverse().map((script, i) => (
       <>
         {i === 0 || <hr style="margin-bottom: 5em" />}
         <Script
