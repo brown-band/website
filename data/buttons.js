@@ -81,17 +81,16 @@ module.exports = async () => {
             const schoolId = slugify(school, {
               customReplacements: [["UAlbany", "ualbany"]],
             }).toLowerCase();
+            const image = buttonImages
+              .get(year)
+              ?.find((f) => f.startsWith(schoolId));
             return {
               year: year.split("-")[0],
               school,
               schoolId,
               label,
-              image: buttonImages.get(year)?.includes(`${schoolId}.png`)
-                ? `${year}/${schoolId}.png`
-                : null,
-              thumbnail: buttonImages.get(year)?.includes(`${schoolId}.png`)
-                ? `${year}/${schoolId}.webp`
-                : null,
+              image: image ? `${year}/${image}` : null,
+              thumbnail: image ? `${year}/${image.split(".")[0]}.webp` : null,
             };
           })
         ),

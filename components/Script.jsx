@@ -152,15 +152,14 @@ function ScriptTitle({
 }
 
 function ButtonImage({ urls, buttons, name, semester }) {
-  const image = `${urls.buttons}/${semester.years}/${name}.png`;
-  const alt = buttons[semester.years]?.find((b) => b.schoolId === name)?.label;
+  const button = buttons[semester.years]?.find((b) => b.schoolId === name);
   return (
     semester.semester === "fall" &&
-    alt && (
-      <a href={image}>
+    button && (
+      <a href={button.image}>
         <img
-          src={image}
-          alt={`button: ${alt}`}
+          src={button.thumbnail}
+          alt={`button: ${button.alt}`}
           class="semester-button"
           onerror="this.parentNode.remove()"
         />
