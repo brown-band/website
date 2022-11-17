@@ -62,7 +62,8 @@ exports.default = ({
     <>
       <link rel="stylesheet" href="/assets/css/script.css" />
 
-      {records.total.wins || records.total.losses || records.total.ties ? (
+      {category.scripts.length > 1 &&
+      (records.total.wins || records.total.losses || records.total.ties) ? (
         <p class="text-center mb-0 mt-3">
           Overall record: {records.total.toString()}
           {records.bySport.length === 0
