@@ -51,6 +51,7 @@ exports.default = ({ buttons, site: { urls }, schoolColors }) => (
                     <a
                       class="button-link"
                       href={`${urls.buttons}/${button.image}`}
+                      data-thumbnail={`${urls.buttons}/${button.thumbnail}`}
                     >
                       {button.label}
                     </a>
