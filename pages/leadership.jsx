@@ -106,7 +106,11 @@ async function Person({ even, person }) {
 
       {await (<Markdown content={person.position.role} />)}
 
-      {await (<Markdown content={person.bio} />)}
+      {await (
+        <Markdown
+          content={person.bio || "[bio not available in your region]"}
+        />
+      )}
 
       <div style="clear: both; padding-bottom: 2rem" />
     </>

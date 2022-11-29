@@ -17,8 +17,7 @@
   email: jace_damon@brown.edu
   link: https://www.youtube.com/watch?v=dQw4w9WgXcQ
   year: 25
-  bio: |
-    [bio not available in your region]
+  bio: null
 
 - position:
     name: General Manager
