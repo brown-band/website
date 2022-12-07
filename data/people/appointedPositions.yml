@@ -3,36 +3,45 @@
     - name: Jillian Belluck
       email: jillian_belluck@brown.edu
       year: 25
+    - name: Adeline Hahn
+      email: adeline_hahn@brown.edu
+      year: 23
+    - name: Shaw Miller
+      email: thomas_s_miller@brown.edu
+      year: 23.5
 
 - name: "[Social Chairs](/constitution#IIIC8)"
   people:
     - name: Jace Damon
       email: jace_damon@brown.edu
       year: 25
-    - name: Richie Shen
-      email: richard_shen@brown.edu
+    - name: Noah Vaughan
+      email: noah_vaughan@brown.edu
       year: 23
+    - name: Shaw Miller
+      email: thomas_s_miller@brown.edu
+      year: 23.5
+    - name: Owen Landry
+      email: owen_landry@brown.edu
+      year: 26
 
 - name: "[PRR Chairs](/constitution#IIIC4)"
   people:
     - name: Victoria Rose
       email: victoria_rose@brown.edu
       year: 23
-    - name: Elena Song
-      email: elena_song@brown.edu
-      year: 23
     - name: Béatrice Duchastel de Montrouge
       email: beatrice_duchastel_de_montrouge@brown.edu
       year: 23
-    - name: Jace Damon
-      email: jace_damon@brown.edu
-      year: 25
     - name: Devon Newman
       email: devon_newman@brown.edu
       year: 25
     - name: Janelle Barnett
       email: janelle_barnett@brown.edu
       year: 24
+    - name: Noah Vaughan
+      email: noah_vaughan@brown.edu
+      year: 23
 
 - name: "[Scriptwriters](/constitution#IIIC6)"
   people:
@@ -42,9 +51,12 @@
     - name: Jed Fox
       email: jedidiah_fox@brown.edu
       year: 23
-    - name: Shaw Miller
-      email: thomas_s_miller@brown.edu
-      year: 23.5
+    - name: George Chudley
+      email: george_chudley@brown.edu
+      year: 26
+    - name: Eitan Frank
+      email: eitan_frank@brown.edu
+      year: 26
 
 - name: "[Historians](/constitution#IIIC3)"
   people:
@@ -60,6 +72,18 @@
     - name: Nick McCarthy-Belash
       email: nicholas_mccarthy-belash@brown.edu
       year: 25
+    - name: George Chudley
+      email: george_chudley@brown.edu
+      year: 26
+    - name: Eitan Frank
+      email: eitan_frank@brown.edu
+      year: 26
+    - name: Owen Landry
+      email: owen_landry@brown.edu
+      year: 26
+    - name: Jude Adelman
+      email: jude_adelman@brown.edu
+      year: 23
 
 - name: "[Alumni Liaisons](/constitution#IIIC5)"
   people:
@@ -69,12 +93,15 @@
     - name: Tyler Gurth
       email: tyler_gurth@brown.edu
       year: 25
+    - name: Adam Dieck
+      email: adam_dieck@brown.edu
+      year: 24
 
 - name: "[Webmasters](/constitution#IIIC7)"
   people:
     - name: Jed Fox
       email: jedidiah_fox@brown.edu
       year: 23
-    - name: James Lu
-      email: james_lu@brown.edu
-      year: 22
+    - name: Tyler Gurth
+      email: tyler_gurth@brown.edu
+      year: 25
