@@ -22,12 +22,12 @@ and Steve Rost on the Big Bass Drum.
 :sd[Read after the Band begins going into the flowers]\
 In the past twelve-month, Brown has changed more drastically than in any previous annum. Foremost, two and exotic wild flowers have recently spread their blooms amongst Brunonias aged grass. The Band salutes the new high-rise co-ed dorm with a bouquet of poppies in lieu of a pot of gold, and plays “Up, Up and Away.”
 
-::svg[poppies]{name="A drawing of the formation, consisting of three flowers with their stems joined at the bottom"}
+::svg[poppies]{alt="A drawing of the formation, consisting of three flowers with their stems joined at the bottom"}
 
 :sd[Read after the telescope is formed]\
 Many of these former Pembrokians have slipped into the infamous Wriston Quad, and have assumed permanent lodging. Coincidentally, Brown men have taken a distended interest in certain heavenly bodies, some have even entered into mail order extension courses and have mounted telescopes in their rooms to better determine the movements of the lofty celestial orbs. The Band focuses in on this new interest in astronomy and plays “Shine on Harvest Moon.”
 
-::svg[telescope]{name="A drawing of a telescope, with an arrow showing the right part of the telescope extending to the right"}
+::svg[telescope]{alt="A drawing of a telescope, with an arrow showing the right part of the telescope extending to the right"}
 
 :sd[Telescope extands as if focusing while the Band plays “Shine on Harvest Moon.”]
 
@@ -36,7 +36,7 @@ What strange bed-fellows will be lured into Brown’s all new liberalized housin
 
 :sd[Band immediately plays pepsodent theme]
 
-::svg[sheet]{name="A rectangle, wider than it is tall"}
+::svg[sheet]{alt="A rectangle, wider than it is tall"}
 
 :sd[Read immediately after the song] Good luck B. S. A.
 

@@ -38,7 +38,7 @@ Mets, you’ve Braved Atlanta, but can you whip the Baltimore Birds.
 
 Last, but by no means least, the band views the Yale co-ed, a group that we feel are truly underdogs. Due to this innovation Yale may found it necessary to raise the entrance requirements for the male members of the community. For Yale men a long dry spell has ended. The Band pregnantly awaits the fulfillment of Yale’s first co-ed year as we form this new breed of emancipated woman and play “Another Opening, Another Show.”
 
-::svg[skirt]
+::svg[skirt]{alt="A person wearing a skirt, with an arrow indicating the hemline rising"}
 
 :sd[Band forms co-ed and plays “Another Opening, Another Show.” As the band plays, the hem-line of the skirt raises slightly to convey the idea of emancipation.]
 
