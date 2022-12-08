@@ -41,6 +41,7 @@ export async function render(str, path) {
   return file.value.toString("utf8");
 }
 
+// helper to create hast properties for remark-rehype
 const h = (hName, className, attrs = {}) => ({
   hName,
   hProperties: { className, ...attrs },
@@ -50,10 +51,14 @@ const svgParser = unified().use(rehypeParse, { fragment: true, space: "svg" });
 
 function directivesPlugin() {
   return (nodeTree, file) =>
+    // see README.md § Adding Scripts for more info
     map(nodeTree, (/** @type {import("mdast").Content} */ node, _, parent) => {
+      // script-tab: insert some indentation/whitespace
       if (node.type === "textDirective" && node.name === "script-tab") {
         return { type: "element", data: h("span", "_69-tab") };
       }
+
+      // break: enable hyphenation or character wrapping
       if (node.type === "textDirective" && node.name === "break") {
         return {
           type: "element",
@@ -65,9 +70,13 @@ function directivesPlugin() {
           ),
         };
       }
+
+      // sd: script/stage directions
       if (node.type === "textDirective" && node.name === "sd") {
         return { ...node, data: h("span", "_69-direction") };
       }
+
+      // red text
       if (node.type === "textDirective" && node.name === "red") {
         return {
           ...node,
@@ -80,21 +89,29 @@ function directivesPlugin() {
           },
         };
       }
+
+      // script-note: insert an archivist’s note
       if (node.type === "leafDirective" && node.name === "script-note") {
         return Object.assign(parent, {
           ...node,
           data: h("blockquote", "_69-note"),
         });
       }
+      if (node.type === "containerDirective" && node.name === "script-note") {
+        return Object.assign(node, { data: h("blockquote", "_69-note") });
+      }
+
+      // page-break: insert a page break in the print version
       if (node.type === "leafDirective" && node.name === "page-break") {
         return Object.assign(parent, {
           ...node,
           data: h("blockquote", "_69-page-break"),
         });
       }
-      if (node.type === "containerDirective" && node.name === "script-note") {
-        return Object.assign(node, { data: h("blockquote", "_69-note") });
-      }
+
+      // svg: insert an SVG image from the current directory
+      // (used primarily for old scripts where the forms were illustrated rather than described)
+      // Add {alt="some text"} to set alt text (required unless the image is unnecessary due to context)
       if (node.type === "leafDirective" && node.name === "svg") {
         if (node.children.length !== 1 || node.children[0].type !== "text") {
           throw new Error(`Expected a file name for the image`);
@@ -131,6 +148,18 @@ function directivesPlugin() {
           },
         });
       }
+
+      // script-list: for our famous lists! Aligns the marker so the . lines up,
+      // and handles line wrapping
+      //
+      // expected usage:
+      // :::script-list
+      //
+      // - item 1
+      // - item 2
+      // - ...
+      //
+      // :::
       if (node.type === "containerDirective" && node.name === "script-list") {
         if (node.children.length !== 1) {
           throw new TypeError(
@@ -189,6 +218,8 @@ function directivesPlugin() {
           }
         }
 
+        // (if we get here, the script list was malformed, but we still want it to look ok)
+        // (yes this does happen and it doesn’t make sense to change it)
         // merge in the only child, getting rid of the script-list in the process
         return Object.assign(node, list, {
           data: { hProperties: { className: "_69-legacy-list" } },
@@ -200,13 +231,21 @@ function directivesPlugin() {
     });
 }
 
+// things used to separate A/B/C/D/E/F from the content of the list item over time
 const delimiters = [".", ")"];
 
 function parseScriptList(list, path) {
-  const prefixes = new Set();
+  // check that all script items use the same delimiter
+  const delimiters = new Set();
   const result = [];
   for (const item of list.children) {
     try {
+      // list items should just have one paragraph inside them, e.g.
+      // - A. content
+      // - B. **formatting** is *allowed*
+      // - C. this is not ok though:
+      //   - because it's a nested list
+      //   - and that's not allowed
       if (item.children.length !== 1) {
         throw new Error(
           `Unexpected number of children (${item.children.length}) in script list item`
@@ -225,18 +264,18 @@ function parseScriptList(list, path) {
           `Expected a prefix inside script list item, got ${paragraph.type}`
         );
       }
-      if (prefix.type) prefixes.add(prefix.type);
+      if (prefix.type) delimiters.add(prefix.type);
       result.push(prefix);
     } catch (error) {
       throw attachLocationToStack(error, path, item);
     }
   }
 
-  if (prefixes.size !== 1) {
+  if (delimiters.size !== 1) {
     throw attachLocationToStack(
       new Error(
         `Expected all script list items to have the same prefix, got ${JSON.stringify(
-          Array.from(prefixes)
+          Array.from(delimiters)
         )}`
       ),
       path,
@@ -247,11 +286,12 @@ function parseScriptList(list, path) {
   return result;
 }
 
+// modifies the stack trace to include the location of the current node
 function attachLocationToStack(error, file, node) {
   // +11 as an approximate offset for front matter
   const loc = [
     file,
-    node.position.start.line + 11,
+    "~" + (node.position.start.line + 11),
     node.position.start.column,
   ].join(":");
   error.stack = `${error.stack.split("\n")[0]}\n    at ${loc}\n${error.stack
@@ -264,6 +304,7 @@ function attachLocationToStack(error, file, node) {
 // expects to find the prefix in the first text span
 function findPrefix(paragraph) {
   const child = paragraph.children[0];
+  // list items are expected to start with a plain text marker
   if (child.type !== "text") {
     // throw new Error(
     //   `Expected list item to start with plain text, got ${child.type}`
@@ -275,9 +316,9 @@ function findPrefix(paragraph) {
     };
   }
 
+  // handle a list item that’s just 'A.' or 'A)' (with no content or trailing whitespace)
   if (paragraph.children.length === 1) {
     for (const delimiter of delimiters) {
-      // when an element is empty
       if (child.value.endsWith(delimiter) && child.value.length < 5) {
         return {
           type: delimiter,
@@ -288,20 +329,23 @@ function findPrefix(paragraph) {
     }
   }
 
+  // find the first delimiter
   const match = delimiters
     .map((d) => child.value.indexOf(d + " "))
     .filter((i) => i !== -1)
     .sort((a, b) => a - b)[0];
   if (match == null || match === 0) {
     throw new Error(
-      `Expected list item to start with a delimiter, got “${child.value}”`
+      `Expected list item to start with a maker followed by a delimiter, got “${child.value}”`
     );
-    return null;
   }
 
   return {
+    // e.g. '.' or ')'
     type: child.value[match],
+    // e.g. 'A.' or 'A)'
     prefix: child.value.slice(0, match + 1),
+    // everything after the marker+delimiter+space
     content: /** @type {import('mdast').Paragraph} */ ({
       type: "paragraph",
       children: [

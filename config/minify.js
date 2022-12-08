@@ -11,6 +11,10 @@ const rehypeTransformHTML = (async () => {
   const { default: cssToTop } = await import("rehype-css-to-top");
   return (
     rehype()
+      // in dev mode, format the HTML for debuggability
+      // in prod mode, minify it
+      // I still care about “view source” but you can still
+      // easily reformat the HTML in devtools or go to GitHub
       .use(process.env.NODE_ENV === "production" ? minify : format)
       .use({
         // disable the most egregiously invalid HTML output

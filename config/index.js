@@ -8,8 +8,8 @@ require("dotenv").config();
 /** @type {(eleventyConfig: import("@11ty/eleventy/src/UserConfig")) => void} */
 module.exports = (eleventyConfig) => {
   const env = process.env.NODE_ENV || "development";
-  // defines all the Handlebars helpers
-  eleventyConfig.addPlugin(require("./templates"));
+  // enables JSX-based templates and components
+  eleventyConfig.addPlugin(require("eleventy-hast-jsx").plugin);
   // minify and/or format HTML, purge unused CSS in production
   eleventyConfig.addPlugin(require("./minify"));
 
@@ -59,6 +59,7 @@ module.exports = (eleventyConfig) => {
       "assets/fonts/niconne/index.css",
   });
 
+  // Subset the logo font to only include the characters we use
   eleventyConfig.on("eleventy.after", async () => {
     const inputData = await fs.readFile(
       require.resolve(
