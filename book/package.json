@@ -2,8 +2,8 @@
   "private": true,
   "type": "module",
   "dependencies": {
-    "pagedjs": "^0.3.1",
-    "pretty-ms": "^7.0.1",
-    "puppeteer-core": "^14.0.0"
+    "pagedjs": "^0.4.0",
+    "pretty-ms": "^8.0.0",
+    "puppeteer-core": "^19.4.0"
   }
 }
