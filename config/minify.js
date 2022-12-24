@@ -67,7 +67,10 @@ module.exports = (eleventyConfig) => {
     console.time("Bootstrap CSS");
     const result = await purger.purge({
       content: [`${outDir}/**/*.html`, `${outDir}/*.html`],
-      css: [`assets/css/*.css`, `assets/vendor/bootstrap.css`],
+      css: [
+        `assets/css/*.css`,
+        `node_modules/bootstrap/dist/css/bootstrap.css`,
+      ],
       extractors: [{ extractor: extractFromHTML, extensions: ["html"] }],
       variables: true,
       keyframes: true,
@@ -101,7 +104,7 @@ module.exports = (eleventyConfig) => {
     } else {
       await writeFile(
         path.join(outDir, "assets", "vendor", "bootstrap.min.css"),
-        await readFile(`assets/vendor/bootstrap.css`)
+        await readFile(`node_modules/bootstrap/dist/css/bootstrap.css`)
       );
     }
     if (result[result.length - 1].rejected) {
