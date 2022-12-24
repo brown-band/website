@@ -8,11 +8,12 @@
  */
 
 /**
- * @param {string} path
- * @param {object} [opts]
- * @param {(status: { received: number, total: number }) => void} [opts.onProgress]
- * @param {AbortSignal | null} [opts.signal]
- * @param {ArrayBuffer} [opts.iv]
+ * Fetch and decrypt a file from the media host
+ * @param {string} path The path to fetch
+ * @param {object} opts
+ * @param {(status: { received: number, total: number }) => void} [opts.onProgress] Progress callback to show download progress
+ * @param {AbortSignal | null} [opts.signal] Allows you to cancel the request
+ * @param {ArrayBuffer} [opts.iv] A custom IV to use for decryption
  * @returns {Promise<ArrayBuffer>}
  */
 const fetchFile = (
@@ -20,11 +21,13 @@ const fetchFile = (
   {
     onProgress = () => {},
     signal = null,
+    // default IV is the hex hash in the path
     iv = new Uint8Array(path.match(/[\da-f]{2}/gi).map((d) => parseInt(d, 16)))
       .buffer,
   } = {}
 ) =>
   fetch(new URL("/" + path, globalThis.mediaHost).toString(), { signal })
+    // equivalent-ish to res => res.arrayBuffer() but with progress reporting
     .then(async (res) => {
       // https://javascript.info/fetch-progress
       const reader = res.body.getReader();
@@ -50,6 +53,7 @@ const fetchFile = (
       }
       return result;
     })
+    // use the decryption key to decrypt the downloaded data
     .then(async (data) =>
       crypto.subtle.decrypt(
         {
@@ -64,9 +68,15 @@ const fetchFile = (
 /** @type {HTMLAudioElement} */
 const audio = document.querySelector(".player-wrapper audio");
 
-/** @type {string | undefined} */
+/**
+ * Previously downloaded audio URL to delete when no longer needed
+ * @type {string | undefined}
+ */
 let urlToDispose;
-/** @type {AbortController | undefined} */
+/**
+ * Allows cancelling the previous file download when a new one is started
+ * @type {AbortController | undefined}
+ */
 let abortController;
 
 const playTrack = (/** @type {FileTrack} */ track) => {
@@ -118,10 +128,12 @@ const playTrack = (/** @type {FileTrack} */ track) => {
     });
 };
 
-const getTemplate = (
-  /** @type {string} */ id,
-  /** @type {(el: DocumentFragment) => void} */ modify = () => {}
-) => {
+/**
+ * Instantiates the content of a <template> element as a new node
+ * @param {string} id The ID of the template element
+ * @param {(el: DocumentFragment) => void} [modify] A function to modify the cloned content before returning it
+ */
+const getTemplate = (id, modify = () => {}) => {
   const template = /** @type {HTMLTemplateElement} */ (
     document.getElementById(id)
   );
@@ -133,6 +145,7 @@ const getTemplate = (
 };
 
 /**
+ * Render a single entry in the track list
  * @param {Track} track
  * @param {boolean} includeArranger
  */

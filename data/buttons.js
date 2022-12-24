@@ -27,11 +27,13 @@ module.exports = async () => {
   const readYaml = (name) =>
     fs.readFile(path.join(buttonsDir, name), "utf8").then(loadYaml);
 
+  // Find all the years for which we have buttons
   const buttonsDir = path.join(path.dirname(__dirname), "buttons");
   const years = (await fs.readdir(buttonsDir))
     .map((y) => y.replace(".yml", ""))
     .filter((y) => y !== "unknown" && y !== ".DS_Store");
 
+  // Fetch the list of button image files from GitHub
   const imagesAsset = new AssetCache("button-images");
   if (!imagesAsset.isCacheValid("15m")) {
     const result = await fetch("https://api.github.com/graphql", {
@@ -60,6 +62,7 @@ module.exports = async () => {
   /** @type {Map<string, string[]>} */
   const buttonImages = new Map(await imagesAsset.getCachedValue());
 
+  // read the button labels from the local file system
   const rawLabels = await Promise.all(
     years.map(
       async (year) =>
@@ -72,6 +75,7 @@ module.exports = async () => {
     )
   );
 
+  // Pull together the local and remote data to connect button labels with images
   const allButtonsByYear = await Promise.all(
     rawLabels.map(async ([year, labels]) => {
       return /** @type {const} */ ([
@@ -122,6 +126,7 @@ module.exports = async () => {
 
   const currentYear = years[years.length - 1];
   const currentYearLabels = rawLabels.find(([year]) => year === currentYear)[1];
+  // split non-ivy buttons into ones we’ve made in the last 4 years and ones we haven’t
   const { recent, other } = Object.fromEntries(
     d3.groups(
       // first sort by most recent year, then
@@ -167,6 +172,7 @@ module.exports = async () => {
 };
 
 // https://docs.github.com/en/graphql/overview/explorer
+// fetch all the button files which are arranged like `{year}/{schoolId}.{ext}`
 const buttonsQuery = /* GraphQL */ `
   query FetchButtons {
     repository(owner: "brown-band", name: "buttons") {

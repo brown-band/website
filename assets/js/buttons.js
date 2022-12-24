@@ -1,5 +1,6 @@
 const modal = new bootstrap.Modal(buttonLightbox);
 
+// when you click on a button image, show a lightbox with the thumbnail image
 document.addEventListener("click", (event) => {
   if (
     event.target.className == "button-link" ||

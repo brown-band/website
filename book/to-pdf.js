@@ -1,5 +1,7 @@
 // props to Jack Wrenn for creating the first version of this file :)
 
+// Uses Puppeteer to render a PDF from the book’s HTML
+
 import * as path from "node:path";
 import puppeteer from "puppeteer-core";
 import prettyMS from "pretty-ms";
@@ -19,6 +21,7 @@ const browser = await puppeteer.launch({
 export async function renderPDF(port) {
   const page = await browser.newPage();
   await page.goto("http://localhost:" + port);
+  // wait for Paged.js to finish working before saving the PDF
   const { pages, duration } = await new Promise(async (resolve) => {
     await page.exposeFunction("resolveRenderPromise", resolve);
     page.evaluate(async () => {

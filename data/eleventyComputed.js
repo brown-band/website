@@ -4,6 +4,7 @@ const title = require("title");
 
 // Heads up! this **overrides** data set anywhere else, including in the front matter of a page.
 module.exports = {
+  // figures out the opponent for a given game
   opponent({ teams, opponent }) {
     if (teams?.home) {
       if (teams.home.name === "Brown") {
@@ -16,9 +17,11 @@ module.exports = {
     }
   },
 
+  // Automatically generate a title for pages that don't have one
   title(data) {
     if (data.title) return data.title;
 
+    // If it's a game script, use the opponent and such
     if (data.opponent) {
       return (
         data.opponent +
@@ -28,11 +31,13 @@ module.exports = {
       );
     }
 
+    // otherwise use the filename
     return title(data.page.fileSlug.replaceAll("-", " "), {
       special: ["NBC", "ADOCH"],
     });
   },
 
+  // see `eleventy-book.config.js` for details.
   book({ book, scripts }) {
     if (!book) return undefined;
     if (book.allTheScripts) {

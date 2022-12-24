@@ -21,10 +21,10 @@ const getToc = async (toc, content) => {
     unified().use(parse).use(extractToc).freeze()
   );
 
-  const { VFile } = await import("vfile");
-
   // this is a hot path, so do a quick out if there are no headings
   if (!content.includes("<h") || !content.includes("id=")) return [];
+
+  const { VFile } = await import("vfile");
 
   const strip = (headers) =>
     headers

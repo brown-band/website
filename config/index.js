@@ -14,6 +14,7 @@ module.exports = (eleventyConfig) => {
   eleventyConfig.addPlugin(require("./minify"));
 
   eleventyConfig.setServerOptions({
+    // doesn’t work well with client-side JS
     domdiff: false,
   });
 

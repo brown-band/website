@@ -7,6 +7,7 @@ const allIcons = [
     "utf-8"
   )
     // parsing SVG with regex. shame on me.
+    // ...but shame on you if you break it ;)
     .matchAll(/<symbol[^>]+id="(?<name>[^"]+)"/g),
 ].map((i) => i.groups.name);
 

@@ -4,7 +4,9 @@ const fs = require("node:fs/promises");
 const glob = require("fast-glob");
 const path = require("node:path");
 
+// pull the quotes out of the first paragraph of scripts
 module.exports = async () => {
+  // some of the older ones get pretty cringe, so keep this fairly recent
   const allFiles = await glob("pages/scripts/20*/*/*.md", {
     cwd: path.dirname(__dirname),
   });

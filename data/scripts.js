@@ -7,6 +7,7 @@ const scriptsDir = path.join(path.dirname(__dirname), "pages", "scripts");
 module.exports = () => {
   const yearCollections = [];
   const semesterCollections = [];
+  // read all the years and semesters for which we have scripts
   for (const years of fs
     .readdirSync(scriptsDir)
     .filter((n) => !n.includes("."))) {
@@ -17,6 +18,7 @@ module.exports = () => {
       const year = years.split("-")[Number(semester === "spring")];
       const semesterName = `scripts_${semester}_${year}`;
 
+      // create a new collection for each semester
       const permalink = `scripts/${semester}-${year}/`;
       yearMap[semester] = permalink;
       semesterCollections.push({
@@ -40,6 +42,8 @@ module.exports = () => {
   return {
     years: yearCollections,
     semesters: semesterCollections,
+    // Given a list of scripts, figure out how many times Brown has won,
+    // lost, or tied both overall and per sport.
     records: (scripts) => {
       const template = {
         wins: 0,

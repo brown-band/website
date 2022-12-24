@@ -11,6 +11,7 @@ exports.data = {
 
 exports.default = async ({ site, quote, nav, collections, page, content }) => (
   <>
+    {/* Auto dark mode */}
     <script>{`
       const media = matchMedia("(prefers-color-scheme: dark)");
       const update = () => {
@@ -20,6 +21,7 @@ exports.default = async ({ site, quote, nav, collections, page, content }) => (
 
       media.addEventListener("change", update);
 
+      // disable distracting scroll animation when loading a page with a hash
       if (location.hash) {
         document.documentElement.classList.remove("smooth-scroll");
         window.addEventListener("load", () => {
