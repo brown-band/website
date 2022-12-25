@@ -3,8 +3,10 @@ sport = "hockey"
 date = 1979-12-08
 [teams.home]
 name = "Brown"
+score = 3
 [teams.away]
 name = "Harvard"
+score = 0
 ---
 
 Ladies and gentlemen, friends and alumni, and all you pseudo (that’s sway-doe) intellectuals, presenting... Now!! For the first time every, in glorious 3-D, The Band From the Brown Lagoon. Yes, that’s right folks. The spectacular technology of our age brings you 3-Dimensional Stereo Vision!

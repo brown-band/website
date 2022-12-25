@@ -3,8 +3,10 @@ sport = "hockey"
 date = 1984-02-18
 [teams.home]
 name = "Brown"
+score = 1
 [teams.away]
 name = "St. Lawrence"
+score = 6
 ---
 
 :sd[Band skates out onto ice. In front, one person is holding up a fish, olympic torch style. In back of them, the trombones play their Olympic Theme cheer. Band forms a fish on the ice.]
