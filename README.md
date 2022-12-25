@@ -32,7 +32,7 @@ Optionally, check out the external documentation for packages this project uses 
 - [CommonMark](https://commonmark.org/help/)
 - [unified](https://unifiedjs.com/learn/)
 - [PurgeCSS](https://purgecss.com/configuration.html)
-- [YAML](https://yaml.org/) (YAML is terrifying, but don’t let that intimidate you)
+- [TOML](https://toml.io/en/)
 
 If you’re a webmaster, make sure you have access to the Webmaster Folder on Google Drive, which has lots of interesting/useful stuff.
 
@@ -176,7 +176,7 @@ For band board and the conductors, provide the following properties:
 - `link`: apostrophe link provided by the person
 - `year` graduation year (2 digits, represented as a number)
   - If you’re seeing unexpected behavior because people are graduating on or after 2100, I’m sorry. (actually I’m probably dead and therefore not capable of being sorry)
-- `bio`: bio provided by the person. Uses a YAML [“literal block scalar”](https://web.archive.org/web/20211119210045/https://yaml-multiline.info) to preserve newlines. Make sure to keep the `|` after the `:`, and start the bio on the next line. Markdown is supported, so make sure to escape any special characters with a `\` (check by running `pnpm start` and then visiting http://localhost:8080/leadership/ to see if there’s anything that needs changing)
+- `bio`: bio provided by the person. Markdown is supported, so make sure to escape any special characters with a `\` (check by running `pnpm start` and then visiting http://localhost:8080/leadership/ to see if there’s anything that needs changing)
 
 For section leaders and appointed positions, provide the following properties:
 
@@ -195,8 +195,9 @@ First, save a lossless copy of the button image to the [`brown-band/buttons`](ht
 
 Next, back in this repo, create a new file inside the `buttons` folder with the current year and the `.yml` extension, i.e. `2031-2032.yml`:
 
-- Use the following format for each line: <code>_College Name (with proper spaces and capitalization)_: _Description on Button_</code>
-- For the description, include any text on the button. For graphic elements (such as images), enclose a brief description of the graphic in braces (`{}`). If the description starts with a brace or a quote, make sure you wrap it in double quotes so YAML handles it properly.
+- Use the following format for each line: <code>_College Name (with proper spaces and capitalization)_ = "_Description on Button_"</code>]
+- If the college name has spaces, enclose it in quotes (`""`).
+- For the description, include any text on the button. For graphic elements (such as images), enclose a brief description of the graphic in braces (`{}`).
 - Look at old buttons for examples of how to write the description!
 
 You might need to remove the `.cache` folder to tell Eleventy to re-download the list of buttons from the `buttons` repository.

@@ -1,0 +1,37 @@
+[[nav]]
+title = "People"
+content = [
+  "leadership",
+  "schedule",
+  "constitution",
+]
+
+[[nav]]
+title = "Media"
+content = [
+  "buttons",
+  "recordings",
+  "lyrics",
+  "scripts",
+  "bandstand",
+]
+
+[[nav]]
+title = "History"
+content = [
+  "about-us",
+  "elrod-snidley",
+  "sound-off",
+  "75-years-pictures",
+]
+
+[[nav]]
+title = "More Info"
+content = [
+  "giving",
+  "visiting-bands",
+  "ivy-bands",
+  "ivy-bands-agreement",
+  # "commencement",
+  "arranging",
+]

@@ -7,7 +7,11 @@ const Heading = ({ title, id, section }) => (
   </h2>
 );
 
-exports.default = async ({ people }) => {
+exports.default = async ({ people: rawPeople }) => {
+  // handle that TOML can’t have a top level array
+  const people = Object.fromEntries(
+    Object.keys(rawPeople).map((key) => [key, rawPeople[key][key]])
+  );
   return (
     <>
       <link rel="stylesheet" href="/assets/css/people.css" />

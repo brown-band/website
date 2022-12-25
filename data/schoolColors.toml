@@ -1,0 +1,177 @@
+[brown]
+# color = "#59260b" # Seal Brown
+color = "var(--brown-brand)" # Seal Brown
+ivy = true
+mascot = "Bears (Homecoming)"
+
+[caroling]
+color = "black"
+ivy = true
+
+[family-weekend]
+color = "black"
+ivy = true
+
+[hockey]
+color = "black"
+ivy = true
+
+[columbia]
+color = "#75b2dd" # Columbia Blue
+ivy = true
+mascot = "Lions"
+
+[cornell]
+color = "#b31b1b" # Carnelian
+ivy = true
+mascot = "Big Red"
+
+[dartmouth]
+color = "#00703c" # Dartmouth Green
+ivy = true
+mascot = "Big Green"
+
+[harvard]
+color = "#dc143c" # Crimson
+ivy = true
+mascot = "Crimson"
+
+[princeton]
+color = "#ff7f00" # Orange
+ivy = true
+mascot = "Tigers"
+
+[penn]
+color = "#0000ff" # Blue
+ivy = true
+mascot = "Quakers"
+
+[yale]
+color = "#0f4d92" # Yale Blue
+darkColor = "white"
+ivy = true
+mascot = "Bulldogs"
+
+# ------------------------------
+
+[army]
+color = "#BE9969" # Gold
+
+[bryant]
+color = "#bdb76b" # Dark Khaki
+
+[bucknell]
+color = "#ef5b0c" # Orange
+
+[cal-poly]
+color = "#003831" # Forest green
+darkColor = "#ffe395" # Vegas gold
+
+[ccsu]
+color = "#06519b" # Blue
+darkColor = "white"
+
+[clarkson]
+color = "#03522B" # Green
+darkColor = "#fdda24" # Gold
+
+[colgate]
+color = "#800000" # Maroon
+darkColor = "white"
+
+[duquesne]
+color = "#041e42" # Navy
+darkColor = "#BA0C2F" # Red
+
+[fordham]
+color = "#700429" # Maroon
+darkColor = "white"
+
+[georgetown]
+color = "#808080" # Gray
+
+[holy-cross]
+color = "#993366" # Purple
+
+[lafayette]
+color = "#910029" # Maroon
+
+[lehigh]
+color = "#653819" # Brown
+darkColor = "#c1a875"
+
+[long-island]
+color = "#69b3e7" # Blue
+
+[maine]
+color = "#003263" # Dark Blue
+darkColor = "#b0d7ff" # Light Blue
+
+[mount-st-marys]
+color = "#002855" # Pantone 295
+darkColor = "white"
+
+[marshall]
+color = "#00ac3e" # “Primary
+
+[pembroke]
+color = "var(--brown-brand)" # I couldn’t find a color so I just went with Brown brown
+
+[penn-state]
+color = "#001e44" # Blue
+darkColor = "white"
+
+[providence-college]
+color = "#8a8d8f" # Blue
+
+[quinnipiac]
+color = "#0000ff" # Navy
+darkColor = "#ffb819" # Gold
+
+[richmond]
+color = "#900" # Spider Red? idk
+
+[rpi]
+color = "#de3163" # Cherry
+
+[san-diego]
+color = "#c69214" # UC San Diego Gold
+
+[st-johns]
+color = "#cf102d" # St. John’s Red
+
+[st-lawrence]
+color = "#ff2400" # Scarlet
+
+[stetson]
+color = "#0e5540" # Hunter green
+darkColor = "white"
+
+[stony-brook]
+color = "#ff2400" # Scarlet
+
+[towson]
+color = "#000000" # Black
+darkColor = "#ffbb00" # Gold
+
+[ualbany]
+color = "#46166b" # Purple
+darkColor = "#eeb211" # Gold
+
+[uconn]
+color = "#000e2f" # Navy Blue
+darkColor = "#e4002b" # Red
+
+[union]
+color = "#822433" # Union Garnet
+darkColor = "white"
+
+[uri]
+color = "#75b2dd" # Keaney Blue
+
+[uvm]
+color = "#007155" # UVM Green
+
+[william-and-mary]
+color = "#115740" # Green
+darkColor = "#f0b323" # Gold

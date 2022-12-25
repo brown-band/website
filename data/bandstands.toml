@@ -1,0 +1,230 @@
+[[old]]
+volume = 1
+issue = 1
+date = "October 1977"
+
+[[old]]
+volume = 1
+issue = 2
+date = "December 1977"
+
+[[old]]
+volume = 1
+issue = 3
+date = "April 1978"
+
+[[old]]
+volume = 2
+issue = 1
+date = "November 1978"
+
+[[old]]
+volume = 2
+issue = 2
+date = "February 1979"
+
+[[old]]
+volume = 2
+issue = 3
+date = "March 1979"
+
+[[old]]
+volume = 2
+issue = 4
+date = "May 1979"
+
+[[old]]
+volume = 3
+issue = 1
+date = "October 1979"
+
+[[old]]
+volume = 3
+issue = 2
+date = "April 1980"
+
+[[old]]
+volume = 4
+issue = 1
+date = "February 1981"
+
+[[old]]
+volume = 4
+issue = 2
+date = "June 1981"
+
+[[old]]
+volume = 5
+issue = 1
+date = "January 1982"
+
+[[old]]
+volume = 6
+issue = 1
+date = "October 1982"
+
+[[old]]
+volume = 6
+issue = 2
+date = "January 1983"
+
+[[old]]
+volume = 7
+issue = 2
+date = "October 1983"
+
+[[old]]
+volume = 8
+issue = 3
+date = "November 1984"
+
+[[old]]
+volume = 9
+issue = 1
+date = "May 1985"
+
+[[old]]
+volume = 10
+issue = 1
+date = "October 1986"
+
+[[old]]
+volume = 10
+issue = 2
+date = "June 1987"
+
+[[old]]
+volume = 11
+issue = 1
+date = "December 1987"
+
+[[old]]
+volume = 11
+issue = 2
+date = "April 1988"
+
+[[old]]
+volume = 12
+issue = 2
+date = "May 1990"
+
+[[old]]
+volume = 13
+issue = 1
+date = "April 1991"
+
+# [interlude]
+
+[[new]]
+volume = 1
+issue = 1
+date = "Fall 2008"
+
+[[new]]
+volume = 1
+issue = 2
+date = "Spring 2009"
+
+[[new]]
+volume = 1
+issue = 3
+date = "Summer 2009"
+
+[[new]]
+volume = 2
+issue = 1
+date = "Fall 2009"
+
+[[new]]
+volume = 2
+issue = 2
+date = "Spring 2010"
+
+[[new]]
+volume = 3
+issue = 1
+date = "Fall 2010"
+
+[[new]]
+volume = 3
+issue = 2
+date = "Winter 2012"
+
+[[new]]
+volume = 4
+issue = 1
+date = "Fall 2012"
+
+[[new]]
+volume = 4
+issue = 2
+date = "Winter 2013"
+
+[[new]]
+volume = 5
+issue = 1
+date = "Fall 2013"
+
+[[new]]
+volume = 5
+issue = 2
+date = "Winter/Spring 2013-14"
+
+[[new]]
+volume = 6
+issue = 1
+date = "Fall 2014"
+
+[[new]]
+volume = 6
+issue = 2
+date = "Winter 2015"
+
+[[new]]
+volume = 7
+issue = 1
+date = "Summer/Fall 2015"
+
+[[new]]
+volume = 7
+issue = 2
+date = "Winter 2016"
+
+[[new]]
+volume = 8
+issue = 1
+date = "Summer/Fall 2016"
+
+[[new]]
+volume = 8
+issue = 2
+date = "Spring 2017"
+
+[[new]]
+volume = 9
+issue = 1
+date = "Winter/Spring 2018"
+
+[[new]]
+volume = 10
+issue = 1
+date = "Fall 2018"
+
+[[new]]
+volume = 10
+issue = 2
+date = "Winter 2019"
+
+[[new]]
+volume = 11
+issue = 1
+date = "Fall 2019"
+
+[[new]]
+volume = 11
+issue = 2
+date = "Winter/Spring 2020"
+
+[[new]]
+volume = "2021-2022"
+date = "Spring 2022"

@@ -14,7 +14,7 @@ module.exports = () => {
     const yearMap = { year: years };
     for (const semester of fs
       .readdirSync(path.join(scriptsDir, years))
-      .filter((n) => !n.endsWith(".yml"))) {
+      .filter((n) => !n.endsWith(".toml"))) {
       const year = years.split("-")[Number(semester === "spring")];
       const semesterName = `scripts_${semester}_${year}`;
 

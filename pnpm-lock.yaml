@@ -6,6 +6,7 @@ specifiers:
   '@11ty/eleventy-server-browsersync': ^1.0.2
   '@fontsource/niconne': ^4.5.9
   '@fontsource/quicksand': ^4.5.11
+  '@iarna/toml': ^2.2.5
   '@quasibit/eleventy-plugin-sitemap': ^2.2.0
   '@sindresorhus/slugify': ^1.1.2
   '@stefanprobst/rehype-extract-toc': ^2.2.0
@@ -19,7 +20,6 @@ specifiers:
   eleventy-hast-jsx: ^0.3.1
   fast-glob: ^3.2.12
   hast-util-to-html: ^8.0.3
-  js-yaml: ^4.1.0
   listify: ^1.0.3
   nodemon: ^2.0.20
   prettier: 2.7.1
@@ -54,6 +54,7 @@ devDependencies:
   '@11ty/eleventy': 2.0.0-canary.16
   '@11ty/eleventy-fetch': 3.0.0
   '@11ty/eleventy-server-browsersync': 1.0.2
+  '@iarna/toml': 2.2.5
   '@quasibit/eleventy-plugin-sitemap': 2.2.0
   '@sindresorhus/slugify': 1.1.2
   '@stefanprobst/rehype-extract-toc': 2.2.0
@@ -65,7 +66,6 @@ devDependencies:
   eleventy-hast-jsx: 0.3.1
   fast-glob: 3.2.12
   hast-util-to-html: 8.0.3
-  js-yaml: 4.1.0
   listify: 1.0.3
   nodemon: 2.0.20
   prettier: 2.7.1
@@ -2308,13 +2308,6 @@ packages:
     dependencies:
       argparse: 1.0.10
       esprima: 4.0.1
-    dev: true
-
-  /js-yaml/4.1.0:
-    resolution: {integrity: sha512-wpxZs9NoxZaJESJGIZTyDEaYpl0FKSA+FB9aJiyemKhMwkxQg63h4T1KJgUGHpTqPDNRcmmYLugrRjJlBtWvRA==}
-    hasBin: true
-    dependencies:
-      argparse: 2.0.1
     dev: true
 
   /jsesc/2.5.2:

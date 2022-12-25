@@ -33,9 +33,9 @@ module.exports = (eleventyConfig) => {
   /**
    * Data
    */
-  // parse YAML files
-  eleventyConfig.addDataExtension("yml", (contents) =>
-    require("js-yaml").load(contents)
+  // parse TOML files
+  eleventyConfig.addDataExtension("toml", (contents) =>
+    require("@iarna/toml").parse(contents)
   );
   // add NODE_ENV as a global value
   eleventyConfig.addGlobalData("NODE_ENV", env);

@@ -1,0 +1,52 @@
+[[sectionLeaders]]
+name = "Flutes"
+people = [
+  { name = "Joie Mills", email = "joie_mills@brown.edu", year = 22 },
+]
+
+[[sectionLeaders]]
+name = "Clarinets"
+people = [
+  { name = "Elena Song", email = "elena_song@brown.edu", year = 23 },
+  { name = "Meg Talikoff", email = "megan_talikoff@brown.edu", year = 25 },
+  { name = "Valentin Kirilenko", email = "valentin_kirilenko@brown.edu", year = 24 },
+]
+
+[[sectionLeaders]]
+name = "Trumpets"
+people = [
+  { name = "Susan Tang", email = "susan_tang1@brown.edu", year = 23 },
+  { name = "Ánh McGrane", email = "elizabeth_mcgrane@brown.edu", year = 22 },
+  { name = "Joshua Lobsenz", email = "joshua_lobsenz@brown.edu", year = 24 },
+]
+
+[[sectionLeaders]]
+name = "Saxophones & Mellophones"
+people = [
+  { name = "Jimmy Chen", email = "jimmy_chen@brown.edu", year = 25 },
+  { name = "Haley Damon", email = "haley_damo@brown.edu", year = 24 },
+  { name = "Lee Ding", email = "lee_ding@brown.edu", year = 22 },
+  { name = "Julia Granato", email = "julia_r_granato@brown.edu", year = 25 },
+  { name = "Tyler Gurth", email = "tyler_gurth@brown.edu", year = 25 },
+  { name = "Olivia Miller", email = "emily_o_miller@brown.edu", year = 25 },
+  { name = "Haoyi Wang", email = "haoyi_wang@brown.edu", year = "GS" },
+  { name = "Eliana Hornbuckle", email = "eliana_hornbuckle@brown.edu", year = 24 },
+  { name = "David Sánchez", email = "dsanchez@risd.edu", year = 23 },
+]
+
+[[sectionLeaders]]
+name = "Low Brass"
+people = [
+  { name = "Christopher Pawul", email = "christopher_pawul@brown.edu", year = 24 },
+  { name = "William Perry", email = "william_perry@brown.edu", year = 22 },
+]
+
+[[sectionLeaders]]
+name = "Percussion"
+people = [
+  { name = "Jude Adelman", email = "jude_adelman@brown.edu", year = 23 },
+  { name = "Janelle Barnett", email = "janelle_barnett@brown.edu", year = 24 },
+  { name = "Ryan Burnett", email = "ryan_burnett@brown.edu", year = 22 },
+  { name = "Jed Fox", email = "jedidiah_fox@brown.edu", year = 23 },
+  { name = "Jace Damon", email = "jace_damon@brown.edu", year = 25 },
+]

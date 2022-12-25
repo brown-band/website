@@ -22,15 +22,15 @@ module.exports = async () => {
   const { AssetCache } = require("@11ty/eleventy-fetch");
   const slugify = require("@sindresorhus/slugify");
   const d3 = await import("d3-array"); // not "d3" because that takes ~300ms to load; see https://github.com/d3/d3/issues/3550
-  const { load: loadYaml } = require("js-yaml");
+  const { parse: parseTOML } = require("@iarna/toml");
 
-  const readYaml = (name) =>
-    fs.readFile(path.join(buttonsDir, name), "utf8").then(loadYaml);
+  const readTOML = (name) =>
+    fs.readFile(path.join(buttonsDir, name), "utf8").then(parseTOML);
 
   // Find all the years for which we have buttons
   const buttonsDir = path.join(path.dirname(__dirname), "buttons");
   const years = (await fs.readdir(buttonsDir))
-    .map((y) => y.replace(".yml", ""))
+    .map((y) => y.replace(".toml", ""))
     .filter((y) => y !== "unknown" && y !== ".DS_Store");
 
   // Fetch the list of button image files from GitHub
@@ -69,7 +69,7 @@ module.exports = async () => {
         /** @type {const} */ ([
           year,
           /** @type {{ [key: string]: string }} */ (
-            await readYaml(year + ".yml")
+            await readTOML(year + ".toml")
           ),
         ])
     )
@@ -109,8 +109,8 @@ module.exports = async () => {
 
   /** @type {{ [key: string]: { color: string, ivy?: true, mascot?: string } }} */
   const schools = await fs
-    .readFile(path.join(__dirname, "schoolColors.yml"), "utf-8")
-    .then(/** @type {(_: string) => any} */ (loadYaml));
+    .readFile(path.join(__dirname, "schoolColors.toml"), "utf-8")
+    .then(/** @type {(_: string) => any} */ (parseTOML));
 
   const allBySchool = d3
     .groups(allButtons, (d) => d.school)
@@ -161,9 +161,9 @@ module.exports = async () => {
     byYear: Object.fromEntries(allButtonsByYear),
 
     unknown:
-      /** @type {{about: string, imageName?: number, label: string}[]} */ (
-        await readYaml("unknown.yml")
-      ).map(({ imageName, ...button }) => ({
+      /** @type {{ unknown: {about: string, imageName?: number, label: string}[] }} */ (
+        await readTOML("unknown.toml")
+      ).unknown.map(({ imageName, ...button }) => ({
         ...button,
         image: imageName ? `unknown/${imageName}.png` : null,
         thumbnail: imageName ? `unknown/${imageName}.webp` : null,

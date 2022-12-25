@@ -42,7 +42,11 @@ const toplink = (
   </a>
 );
 
-exports.default = ({ buttons, specialButtons, site: { urls } }) => (
+exports.default = ({
+  buttons,
+  specialButtons: { specialButtons },
+  site: { urls },
+}) => (
   <>
     <h2 id="current">{buttons.currentYear} Season</h2>
     <p>

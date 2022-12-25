@@ -7,11 +7,11 @@ const findPage = (id, all) => all.find((p) => p.filePathStem === "/" + id);
  * @param {Object} props
  * @param {{ title: string }} props.site from `data/site.yml`
  * @param {ReturnType<import('../data/quote')>} props.quote
- * @param {Array} props.nav from `data/nav.yml`
+ * @param {{ nav: Array }} props.nav from `data/nav.yml`
  * @param {Array} props.all `collections.all` from the page data
  * @param {string} props.currentURL the URL of the current page (`page.url` from the page data)
  */
-module.exports = async ({ site, quote, nav, all, currentURL }) => (
+module.exports = async ({ site, quote, nav: { nav }, all, currentURL }) => (
   <>
     <link rel="stylesheet" href="/assets/css/navbar-colors.css" />
     <link rel="stylesheet" href="/assets/css/nav.css" />
