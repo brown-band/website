@@ -1,11 +1,10 @@
 ---
-sport: hockey
-teams:
-  home:
-    name: Brown
-  away:
-    name: Harvard
-date: 1979-12-08
+sport = "hockey"
+date = 1979-12-08
+[teams.home]
+name = "Brown"
+[teams.away]
+name = "Harvard"
 ---
 
 Ladies and gentlemen, friends and alumni, and all you pseudo (that’s sway-doe) intellectuals, presenting... Now!! For the first time every, in glorious 3-D, The Band From the Brown Lagoon. Yes, that’s right folks. The spectacular technology of our age brings you 3-Dimensional Stereo Vision!

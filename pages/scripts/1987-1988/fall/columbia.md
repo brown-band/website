@@ -1,13 +1,12 @@
 ---
-sport: football
-teams:
-  home:
-    name: Brown
-    score: 19
-  away:
-    name: Columbia
-    score: 16
-date: 1987-11-21
+sport = "football"
+date = 1987-11-21
+[teams.home]
+name = "Brown"
+score = 19
+[teams.away]
+name = "Columbia"
+score = 16
 ---
 
 ## Pregame

@@ -1,14 +1,13 @@
 ---
-location: Fenway
-sport: football
-teams:
-  home:
-    name: Brown
-    score: 10
-  away:
-    name: Dartmouth
-    score: 33
-date: 2017-11-10
+sport = "football"
+location = "Fenway"
+date = 2017-11-10
+[teams.home]
+name = "Brown"
+score = 10
+[teams.away]
+name = "Dartmouth"
+score = 33
 ---
 
 ## Pregame

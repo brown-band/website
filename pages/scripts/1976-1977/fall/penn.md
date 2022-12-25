@@ -1,13 +1,12 @@
 ---
-sport: football
-teams:
-  home:
-    name: Brown
-    score: 6
-  away:
-    name: Penn
-    score: 7
-date: 1976-10-09
+sport = "football"
+date = 1976-10-09
+[teams.home]
+name = "Brown"
+score = 6
+[teams.away]
+name = "Penn"
+score = 7
 ---
 
 :sd[Due to excessive rain, the Band was not allowed to perform on the field, so the planned show was scrapped and a off-the-cuff show, written in the stands during the first quarter by Rich Carson and gang, was performed.]

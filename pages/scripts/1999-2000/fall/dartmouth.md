@@ -1,13 +1,12 @@
 ---
-sport: football
-teams:
-  home:
-    name: Brown
-    score: 35
-  away:
-    name: Dartmouth
-    score: 28
-date: 1999-11-13
+sport = "football"
+date = 1999-11-13
+[teams.home]
+name = "Brown"
+score = 35
+[teams.away]
+name = "Dartmouth"
+score = 28
 ---
 
 ## Halftime

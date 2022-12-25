@@ -1,11 +1,10 @@
 ---
-sport: hockey
-teams:
-  home:
-    name: Brown
-  away:
-    name: Colgate
-date: 1987-02-21
+sport = "hockey"
+date = 1987-02-21
+[teams.home]
+name = "Brown"
+[teams.away]
+name = "Colgate"
 ---
 
 Ladies and Gentlemen, Friends and Alumni, it’s the Brown University “We don’t play no crap!” Band!

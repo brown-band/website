@@ -1,13 +1,12 @@
 ---
-sport: football
-teams:
-  home:
-    name: Brown
-    score: 6
-  away:
-    name: Harvard
-    score: 21
-date: 1967-11-18
+sport = "football"
+date = 1967-11-18
+[teams.home]
+name = "Brown"
+score = 6
+[teams.away]
+name = "Harvard"
+score = 21
 ---
 
 Ladies and Gentlemen, Friends and Alumni presenting the remains of the Brown University Marching Band; Don Kent, President; Frank Marianoccio, Director; Mark Hochberg, Don Herron and Ken Pasternak Drum Majors; And Your Voice of the Band Paul Payton.

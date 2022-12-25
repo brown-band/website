@@ -1,14 +1,13 @@
 ---
-sport: hockey
-iceShowTheme: Alumni
-teams:
-  home:
-    name: Brown
-    score: 0
-  away:
-    name: Cornell
-    score: 4
-date: 2020-02-14
+sport = "hockey"
+date = 2020-02-14
+iceShowTheme = "Alumni"
+[teams.home]
+name = "Brown"
+score = 0
+[teams.away]
+name = "Cornell"
+score = 4
 ---
 
 Ladies and gentlemen, friends and alumni, presenting an organization that just joined Silver Singles dot com, it’s the Brown University “help i’ve fallen for you and i can’t get up - because the ice is slippery and not because I’m no longer young nor spry” BANNNDDDDDDDDDDD!

@@ -1,13 +1,12 @@
 ---
-sport: football
-teams:
-  home:
-    name: Brown
-    score: 58
-  away:
-    name: Penn
-    score: 51
-date: 1998-10-24
+sport = "football"
+date = 1998-10-24
+[teams.home]
+name = "Brown"
+score = 58
+[teams.away]
+name = "Penn"
+score = 51
 ---
 
 ## Pregame

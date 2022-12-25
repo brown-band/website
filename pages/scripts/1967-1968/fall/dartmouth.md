@@ -1,14 +1,13 @@
 ---
-sport: football
-subtitle: Homecoming
-teams:
-  home:
-    name: Brown
-    score: 7
-  away:
-    name: Dartmouth
-    score: 41
-date: 1967-10-21
+sport = "football"
+date = 1967-10-21
+subtitle = "Homecoming"
+[teams.home]
+name = "Brown"
+score = 7
+[teams.away]
+name = "Dartmouth"
+score = 41
 ---
 
 ## Longer Version

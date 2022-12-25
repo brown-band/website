@@ -1,13 +1,12 @@
 ---
-sport: football
-teams:
-  home:
-    name: Princeton
-    score: 7
-  away:
-    name: Brown
-    score: 0
-date: 1959-10-31
+sport = "football"
+date = 1959-10-31
+[teams.home]
+name = "Princeton"
+score = 7
+[teams.away]
+name = "Brown"
+score = 0
 ---
 
 The President of the United States has proclaimed next week as “National Education Week.” In recognition of this fact, the Brown Band will salute the intellectual pursuits of many of the Southern universities of the nation.

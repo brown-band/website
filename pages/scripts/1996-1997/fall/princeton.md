@@ -1,13 +1,12 @@
 ---
-sport: football
-teams:
-  home:
-    name: Princeton
-    score: 23
-  away:
-    name: Brown
-    score: 27
-date: 1996-10-12
+sport = "football"
+date = 1996-10-12
+[teams.home]
+name = "Princeton"
+score = 23
+[teams.away]
+name = "Brown"
+score = 27
 ---
 
 <small>_(We won, because we won, because we won, because we won...)_</small>

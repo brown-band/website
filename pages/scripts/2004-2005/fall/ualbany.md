@@ -1,13 +1,12 @@
 ---
-sport: football
-teams:
-  home:
-    name: Brown
-    score: 35
-  away:
-    name: UAlbany
-    score: 7
-date: 2004-09-18
+sport = "football"
+date = 2004-09-18
+[teams.home]
+name = "Brown"
+score = 35
+[teams.away]
+name = "UAlbany"
+score = 7
 ---
 
 ## Pregame

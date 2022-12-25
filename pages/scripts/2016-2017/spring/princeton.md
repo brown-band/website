@@ -1,14 +1,13 @@
 ---
-sport: hockey
-iceShowTheme: Alumni
-teams:
-  home:
-    name: Brown
-    score: 4
-  away:
-    name: Princeton
-    score: 4
-date: 2017-02-04
+sport = "hockey"
+date = 2017-02-04
+iceShowTheme = "Alumni"
+[teams.home]
+name = "Brown"
+score = 4
+[teams.away]
+name = "Princeton"
+score = 4
 ---
 
 Ladies and gentlemen, friends and alumni, presenting an organization that wrote this after spending 8 hours in the Ratty, it’s the Brown University “which came first, the French fry or the tater tot?” BANNNDDDDDDDDDDD!

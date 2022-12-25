@@ -1,13 +1,12 @@
 ---
-sport: football
-teams:
-  home:
-    name: Brown
-    score: 28
-  away:
-    name: Holy Cross
-    score: 18
-date: 1976-10-23
+sport = "football"
+date = 1976-10-23
+[teams.home]
+name = "Brown"
+score = 28
+[teams.away]
+name = "Holy Cross"
+score = 18
 ---
 
 Ladies and gentlemen, friends and alumni, and all you freshman mothers and fathers, and their parents. We’ve locked our next contestant, the Brown Band, into a sound-proof booth so they can’t hear what I’m about to say. You see, the Band’s twin sister, whom they haven’t seen for the past 5 years is in our stadium today. When we bring them out in the middle of the first formation, we ask you not to let them in on our secret. :sd[Pause.] All right Johnny, who’s our nest contextant? Brown Band, Come on down!

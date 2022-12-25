@@ -1,13 +1,12 @@
 ---
-sport: hockey
-teams:
-  home:
-    name: Brown
-    score: 0
-  away:
-    name: RPI
-    score: 4
-date: 2004-02-14
+sport = "hockey"
+date = 2004-02-14
+[teams.home]
+name = "Brown"
+score = 0
+[teams.away]
+name = "RPI"
+score = 4
 ---
 
 Ladies and Gentlemen, Friends and Alumni, presenting an organization that invites you to see Alice run for 4 hours straight, it’s the Brown University “Roses are red, so are some ants, I bet you can’t guess what I’ve got in my pants” BAND!

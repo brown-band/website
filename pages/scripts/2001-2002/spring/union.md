@@ -1,13 +1,12 @@
 ---
-sport: hockey
-teams:
-  home:
-    name: Brown
-    score: 4
-  away:
-    name: Union
-    score: 2
-date: 2002-02-22
+sport = "hockey"
+date = 2002-02-22
+[teams.home]
+name = "Brown"
+score = 4
+[teams.away]
+name = "Union"
+score = 2
 ---
 
 Ladies and Gentlemen, Friends and Alumni, presenting an organization that isn’t afraid to go down head first, it’s the Brown University “this luge is slippery when wet” BAND!!!

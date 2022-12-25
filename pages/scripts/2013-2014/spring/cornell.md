@@ -1,14 +1,13 @@
 ---
-sport: hockey
-iceShowTheme: Villain
-teams:
-  home:
-    name: Brown
-    score: 1
-  away:
-    name: Cornell
-    score: 2
-date: 2014-02-01
+sport = "hockey"
+date = 2014-02-01
+iceShowTheme = "Villain"
+[teams.home]
+name = "Brown"
+score = 1
+[teams.away]
+name = "Cornell"
+score = 2
 ---
 
 Ladies and gentlemen, friends and alumni, presenting an organization that’s here to denounce the evils of truth and love, it’s the Brown University “Meowth, that’s right!” BAAAAAAND!

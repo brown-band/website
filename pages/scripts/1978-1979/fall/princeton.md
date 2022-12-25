@@ -1,13 +1,12 @@
 ---
-sport: football
-teams:
-  home:
-    name: Princeton
-    score: 16
-  away:
-    name: Brown
-    score: 44
-date: 1978-10-07
+sport = "football"
+date = 1978-10-07
+[teams.home]
+name = "Princeton"
+score = 16
+[teams.away]
+name = "Brown"
+score = 44
 ---
 
 Ladies and Gentlemen, Friends and Alumni, and all you pusillanimous pussycats, presenting the only band to salivate before smelling the meat, it’s the Brown University Pavlovian Band.

@@ -1,13 +1,12 @@
 ---
-sport: football
-teams:
-  home:
-    name: Penn
-    score: 7
-  away:
-    name: Brown
-    score: 0
-date: 1965-10-02
+sport = "football"
+date = 1965-10-02
+[teams.home]
+name = "Penn"
+score = 7
+[teams.away]
+name = "Brown"
+score = 0
 ---
 
 :sd[Band forms in end zone]

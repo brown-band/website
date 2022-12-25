@@ -1,13 +1,12 @@
 ---
-sport: football
-teams:
-  home:
-    name: Brown
-    score: 22
-  away:
-    name: Cornell
-    score: 0
-date: 1985-10-19
+sport = "football"
+date = 1985-10-19
+[teams.home]
+name = "Brown"
+score = 22
+[teams.away]
+name = "Cornell"
+score = 0
 ---
 
 ## Halftime

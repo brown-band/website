@@ -1,7 +1,7 @@
 ---
-sport: hockey
-opponent: Harvard
-date: 1977-12-10
+sport = "hockey"
+date = 1977-12-10
+opponent = "Harvard"
 ---
 
 Ladies and Gentlemen, Friends and Alumni, and all you Ghosts of Crimson’s future: Presenting the only college band that does what we do… And we do it on skates, Meehan Rink’s answer to scotch on the rocks, it’s the Brown University Band, over ice.

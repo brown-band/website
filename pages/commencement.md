@@ -1,9 +1,9 @@
 ---
-title: Commencement Schedule 2022
-summary: Further details about non-mandatory events will be coming soon. Exact timing is subject to change.
+title = "Commencement Schedule 2022"
+summary = "Further details about non-mandatory events will be coming soon. Exact timing is subject to change."
 # comment out this line to re-enable the page
-# you’ll also want to update nav.yml
-permalink: false
+# you’ll also want to update nav.toml
+permalink = false
 ---
 
 :red[Red events are mandatory. Alumni may pick up their uniforms on Saturday instead of Friday.]

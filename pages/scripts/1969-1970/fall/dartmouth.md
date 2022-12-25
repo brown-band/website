@@ -1,14 +1,13 @@
 ---
-subtitle: Homecoming
-sport: football
-teams:
-  home:
-    name: Brown
-    score: 13
-  away:
-    name: Dartmouth
-    score: 38
-date: 1969-10-18
+sport = "football"
+date = 1969-10-18
+subtitle = "Homecoming"
+[teams.home]
+name = "Brown"
+score = 13
+[teams.away]
+name = "Dartmouth"
+score = 38
 ---
 
 Ladies, gentlemen, friends, Mr. Hanlon and alumni. Its that time of year again. As part of Brown’s unique homecoming festivities. The Band would like to present “golden oldies” — a melange of melancholy musical memorabilia, for those of you either old enough to remember or young enough to appreciate.

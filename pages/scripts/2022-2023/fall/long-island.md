@@ -1,13 +1,12 @@
 ---
-sport: rugby
-teams:
-  home:
-    name: Brown
-    score: 34
-  away:
-    name: Long Island
-    score: 19
-date: 2022-10-08
+sport = "rugby"
+date = 2022-10-08
+[teams.home]
+name = "Brown"
+score = 34
+[teams.away]
+name = "Long Island"
+score = 19
 ---
 
 Ladies and gentlemen, friends and alumni, presenting an organization from an island better than Long, it’s the Brown University “we’re nor a rhode or an island” BANNNDDDDDDDDDDD!

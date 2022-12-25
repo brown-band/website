@@ -1,7 +1,7 @@
 ---
-sport: hockey
-opponent: Colgate
-date: 1996-02-16
+sport = "hockey"
+date = 1996-02-16
+opponent = "Colgate"
 ---
 
 :sd[Band assembles at edge of arena]

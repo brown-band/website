@@ -1,13 +1,12 @@
 ---
-sport: football
-teams:
-  home:
-    name: Brown
-    score: 21
-  away:
-    name: Holy Cross
-    score: 3
-date: 1980-10-25
+sport = "football"
+date = 1980-10-25
+[teams.home]
+name = "Brown"
+score = 21
+[teams.away]
+name = "Holy Cross"
+score = 3
 ---
 
 Ladies and Gentlemen, friends and alumni, and all you freshman mothers and fathers and their parents, it’s the Brown University Band for President.

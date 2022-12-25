@@ -1,13 +1,12 @@
 ---
-sport: football
-teams:
-  home:
-    name: Brown
-    score: 7
-  away:
-    name: Stony Brook
-    score: 24
-date: 2010-09-18
+sport = "football"
+date = 2010-09-18
+[teams.home]
+name = "Brown"
+score = 7
+[teams.away]
+name = "Stony Brook"
+score = 24
 ---
 
 ## Pregame

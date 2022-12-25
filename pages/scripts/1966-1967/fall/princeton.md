@@ -1,14 +1,13 @@
 ---
-sport: football
-subtitle: Homecoming
-teams:
-  home:
-    name: Brown
-    score: 17
-  away:
-    name: Princeton
-    score: 24
-date: 1966-10-29
+sport = "football"
+date = 1966-10-29
+subtitle = "Homecoming"
+[teams.home]
+name = "Brown"
+score = 17
+[teams.away]
+name = "Princeton"
+score = 24
 ---
 
 Ladies and Gentlemen, presenting the Brown University Marching Band, Matin Fischer, Director; Laurence Pizer, President; Jack Monrad, Drummajor.

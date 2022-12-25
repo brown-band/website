@@ -1,13 +1,12 @@
 ---
-sport: football
-teams:
-  home:
-    name: Yale
-    score: 24
-  away:
-    name: Brown
-    score: 26
-date: 1983-09-17
+sport = "football"
+date = 1983-09-17
+[teams.home]
+name = "Yale"
+score = 24
+[teams.away]
+name = "Brown"
+score = 26
 ---
 
 Ladies and Gentlemen, Friends and Alumni, and all you Blue Weenies: If America had an official band, this would be it! Presenting the Brown University talent-free “never had it, never will” Band!

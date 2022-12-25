@@ -1,13 +1,12 @@
 ---
-sport: football
-teams:
-  home:
-    name: Penn State
-    score: 38
-  away:
-    name: Brown
-    score: 21
-date: 1983-11-05
+sport = "football"
+date = 1983-11-05
+[teams.home]
+name = "Penn State"
+score = 38
+[teams.away]
+name = "Brown"
+score = 21
 ---
 
 ## Halftime

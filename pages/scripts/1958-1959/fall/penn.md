@@ -1,13 +1,12 @@
 ---
-sport: football
-teams:
-  home:
-    name: Brown
-    score: 20
-  away:
-    name: Penn
-    score: 21
-date: 1958-10-18
+sport = "football"
+date = 1958-10-18
+[teams.home]
+name = "Brown"
+score = 20
+[teams.away]
+name = "Penn"
+score = 21
 ---
 
 ::script-note[Does this remind you of another 1958 script? Perhaps the Yale one above? If so, you’re not alone — they’re nearly identical. — JF]

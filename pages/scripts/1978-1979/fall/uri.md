@@ -1,13 +1,12 @@
 ---
-sport: football
-teams:
-  home:
-    name: Brown
-    score: 3
-  away:
-    name: URI
-    score: 17
-date: 1978-09-30
+sport = "football"
+date = 1978-09-30
+[teams.home]
+name = "Brown"
+score = 3
+[teams.away]
+name = "URI"
+score = 17
 ---
 
 Ladies and Gentlemen, Friends and Alumni, and all you unembraceable ewes, presenting, recently returned from a rousing, riotous, raucous, richly rewarding rambunctious romatic romp with reasonably rented Ramettes, it’s those travelling troubadors, That Roamin’ Band!

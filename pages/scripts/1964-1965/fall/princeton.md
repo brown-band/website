@@ -1,13 +1,12 @@
 ---
-sport: football
-teams:
-  home:
-    name: Brown
-    score: 0
-  away:
-    name: Princeton
-    score: 14
-date: 1964-10-31
+sport = "football"
+date = 1964-10-31
+[teams.home]
+name = "Brown"
+score = 0
+[teams.away]
+name = "Princeton"
+score = 14
 ---
 
 ## Pregame

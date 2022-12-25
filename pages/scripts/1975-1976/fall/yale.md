@@ -1,13 +1,12 @@
 ---
-sport: football
-teams:
-  home:
-    name: Brown
-    score: 27
-  away:
-    name: Yale
-    score: 12
-date: 1975-10-11
+sport = "football"
+date = 1975-10-11
+[teams.home]
+name = "Brown"
+score = 27
+[teams.away]
+name = "Yale"
+score = 12
 ---
 
 Ladies and Gentlemen, friends and Alumni, and all you freshmen mothers and fathers, and their parents. Presenting the one band only a mother could love, smuggled in especially for today’s performance from lovely, downtown Hohokus, New Jersey. It’s the Brown University Marching Contra-band.

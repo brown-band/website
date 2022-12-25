@@ -1,13 +1,12 @@
 ---
-sport: football
-teams:
-  home:
-    name: Brown
-    score: 3
-  away:
-    name: Penn
-    score: 0
-date: 1964-10-03
+sport = "football"
+date = 1964-10-03
+[teams.home]
+name = "Brown"
+score = 3
+[teams.away]
+name = "Penn"
+score = 0
 ---
 
 :sd[Band blocks in end zone. Band comes to attention.]

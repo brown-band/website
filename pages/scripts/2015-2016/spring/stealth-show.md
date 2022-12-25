@@ -1,5 +1,5 @@
 ---
-date: 2016-04-14
+date = 2016-04-14
 ---
 
 Ladies and gentlemen, friends and alumni, presenting an organization that is sneaking up behind you, it’s the Brown University “Boo!” BANNNNDDDDDDDDDDDDDDDDDD!

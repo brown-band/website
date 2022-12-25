@@ -1,13 +1,12 @@
 ---
-sport: football
-teams:
-  home:
-    name: Columbia
-    score: 40
-  away:
-    name: Brown
-    score: 38
-date: 1966-11-19
+sport = "football"
+date = 1966-11-19
+[teams.home]
+name = "Columbia"
+score = 40
+[teams.away]
+name = "Brown"
+score = 38
 ---
 
 Ladies and Gentlemen, presenting the Brown University Marching Band, Martin Fischer, Director, Laurence Pizer, President. John Philip Sousa, Drum Major, and your Voice of the Band, Jack Benney.

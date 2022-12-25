@@ -1,14 +1,13 @@
 ---
-sport: hockey
-iceShowTheme: Alumni
-teams:
-  home:
-    name: Brown
-    score: 2
-  away:
-    name: Dartmouth
-    score: 0
-date: 2019-02-23
+sport = "hockey"
+date = 2019-02-23
+iceShowTheme = "Alumni"
+[teams.home]
+name = "Brown"
+score = 2
+[teams.away]
+name = "Dartmouth"
+score = 0
 ---
 
 Ladies and gentlemen, friends and alumni, presenting an organization that’s looking a little Big Green in the gills, it’s the Brown University “i’m gonna - :sd[vomit noise]” BANNNDDDDDDDDDDD!

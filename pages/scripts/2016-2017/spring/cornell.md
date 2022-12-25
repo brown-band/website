@@ -1,14 +1,13 @@
 ---
-sport: hockey
-iceShowTheme: Meme
-teams:
-  home:
-    name: Brown
-    score: 1
-  away:
-    name: Cornell
-    score: 5
-date: 2017-02-11
+sport = "hockey"
+date = 2017-02-11
+iceShowTheme = "Meme"
+[teams.home]
+name = "Brown"
+score = 1
+[teams.away]
+name = "Cornell"
+score = 5
 ---
 
 Ladies and gentlemen, friends and alumni, presenting an organization that wants to know _“do ya like jazz?”_:sd[said like Jerry Seinfeld in the iconic role of Barry B. Benson in Bee Movie], it’s the Brown University “get you a Band that can do both” BANNNDDDDDDDDDDD!

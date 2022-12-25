@@ -1,13 +1,12 @@
 ---
-sport: football
-teams:
-  home:
-    name: Brown
-    score: 10
-  away:
-    name: Harvard
-    score: 27
-date: 1997-11-08
+sport = "football"
+date = 1997-11-08
+[teams.home]
+name = "Brown"
+score = 10
+[teams.away]
+name = "Harvard"
+score = 27
 ---
 
 :::script-note

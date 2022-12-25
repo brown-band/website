@@ -1,13 +1,12 @@
 ---
-sport: football
-teams:
-  home:
-    name: Brown
-    score: 12
-  away:
-    name: Harvard
-    score: 24
-date: 1963-11-16
+sport = "football"
+date = 1963-11-16
+[teams.home]
+name = "Brown"
+score = 12
+[teams.away]
+name = "Harvard"
+score = 24
 ---
 
 Presenting the Brown Univ. Marching Band:\

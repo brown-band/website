@@ -1,13 +1,12 @@
 ---
-sport: football
-teams:
-  home:
-    name: Brown
-    score: 0
-  away:
-    name: Yale
-    score: 21
-date: 1978-09-23
+sport = "football"
+date = 1978-09-23
+[teams.home]
+name = "Brown"
+score = 0
+[teams.away]
+name = "Yale"
+score = 21
 ---
 
 :sd[Show opens with lone swimmer in the middle of the field.]

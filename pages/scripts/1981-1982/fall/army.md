@@ -1,13 +1,12 @@
 ---
-sport: football
-teams:
-  home:
-    name: Army
-    score: 23
-  away:
-    name: Brown
-    score: 17
-date: 1981-09-26
+sport = "football"
+date = 1981-09-26
+[teams.home]
+name = "Army"
+score = 23
+[teams.away]
+name = "Brown"
+score = 17
 ---
 
 ## Halftime

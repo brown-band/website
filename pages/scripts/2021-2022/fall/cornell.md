@@ -1,13 +1,12 @@
 ---
-sport: football
-teams:
-  home:
-    name: Cornell
-    score: 45
-  away:
-    name: Brown
-    score: 49
-date: 2021-10-23
+sport = "football"
+date = 2021-10-23
+[teams.home]
+name = "Cornell"
+score = 45
+[teams.away]
+name = "Brown"
+score = 49
 ---
 
 ## Pregame

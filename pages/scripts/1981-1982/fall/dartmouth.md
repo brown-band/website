@@ -1,13 +1,12 @@
 ---
-sport: football
-teams:
-  home:
-    name: Dartmouth
-    score: 38
-  away:
-    name: Brown
-    score: 13
-date: 1981-11-14
+sport = "football"
+date = 1981-11-14
+[teams.home]
+name = "Dartmouth"
+score = 38
+[teams.away]
+name = "Brown"
+score = 13
 ---
 
 ## Halftime

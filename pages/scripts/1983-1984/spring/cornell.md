@@ -1,11 +1,10 @@
 ---
-sport: hockey
-teams:
-  home:
-    name: Brown
-  away:
-    name: Cornell
-date: 1984-01-28
+sport = "hockey"
+date = 1984-01-28
+[teams.home]
+name = "Brown"
+[teams.away]
+name = "Cornell"
 ---
 
 Ladies and gentlemen, friends and alumni, and all you athletic supporters, it’s the official band of the 1984 Olympics!

@@ -1,13 +1,12 @@
 ---
-sport: football
-teams:
-  home:
-    name: Lehigh
-    score: 7
-  away:
-    name: Brown
-    score: 10
-date: 1987-11-07
+sport = "football"
+date = 1987-11-07
+[teams.home]
+name = "Lehigh"
+score = 7
+[teams.away]
+name = "Brown"
+score = 10
 ---
 
 ## Pregame

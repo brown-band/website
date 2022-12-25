@@ -1,13 +1,12 @@
 ---
-sport: hockey
-teams:
-  home:
-    name: Brown
-    score: 3
-  away:
-    name: Clarkson
-    score: 4
-date: 2008-02-15
+sport = "hockey"
+date = 2008-02-15
+[teams.home]
+name = "Brown"
+score = 3
+[teams.away]
+name = "Clarkson"
+score = 4
 ---
 
 Ladies and Gentlemen, Friends and Alumni, Presenting an organization who loves to scat like Ella Fitzgerald, it.s the Brown University, defector I hardly know her, BAND!!!!!!!

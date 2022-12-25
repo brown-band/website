@@ -1,11 +1,10 @@
 ---
-sport: hockey
-teams:
-  home:
-    name: Brown
-  away:
-    name: St. Lawrence
-date: 1984-02-18
+sport = "hockey"
+date = 1984-02-18
+[teams.home]
+name = "Brown"
+[teams.away]
+name = "St. Lawrence"
 ---
 
 :sd[Band skates out onto ice. In front, one person is holding up a fish, olympic torch style. In back of them, the trombones play their Olympic Theme cheer. Band forms a fish on the ice.]

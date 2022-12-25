@@ -1,7 +1,7 @@
 ---
-sport: hockey
-opponent: Cornell
-date: 1977-02-19
+sport = "hockey"
+date = 1977-02-19
+opponent = "Cornell"
 ---
 
 Ladies and gentlemen, friends and alumni, Mr. and Mrs. America, and all the ships at sea. Direct from an appearance as a skating Peanut in the Inaugural Parade, featuring the world’s only skating string bass, it’s the worst disaster since the winter of ’77, The Brown University Skating Band.

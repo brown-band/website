@@ -1,13 +1,12 @@
 ---
-sport: football
-teams:
-  home:
-    name: Brown
-    score: 7
-  away:
-    name: Columbia
-    score: 0
-date: 1964-11-21
+sport = "football"
+date = 1964-11-21
+[teams.home]
+name = "Brown"
+score = 7
+[teams.away]
+name = "Columbia"
+score = 0
 ---
 
 :sd[Band forms Horseshoe]

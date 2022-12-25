@@ -1,13 +1,12 @@
 ---
-sport: football
-teams:
-  home:
-    name: Brown
-    score: 23
-  away:
-    name: Dartmouth
-    score: 29
-date: 2019-11-23
+sport = "football"
+date = 2019-11-23
+[teams.home]
+name = "Brown"
+score = 23
+[teams.away]
+name = "Dartmouth"
+score = 29
 ---
 
 ## Pregame

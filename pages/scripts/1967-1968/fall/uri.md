@@ -1,13 +1,12 @@
 ---
-sport: football
-teams:
-  home:
-    name: Brown
-    score: 8
-  away:
-    name: URI
-    score: 12
-date: 1967-09-30
+sport = "football"
+date = 1967-09-30
+[teams.home]
+name = "Brown"
+score = 8
+[teams.away]
+name = "URI"
+score = 12
 ---
 
 Ladies and Gentlemen! Friends and Alumni! Once again, it’s That Damn Band.

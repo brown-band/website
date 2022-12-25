@@ -1,13 +1,12 @@
 ---
-sport: football
-teams:
-  home:
-    name: Penn
-    score: 28
-  away:
-    name: Brown
-    score: 7
-date: 1967-10-07
+sport = "football"
+date = 1967-10-07
+[teams.home]
+name = "Penn"
+score = 28
+[teams.away]
+name = "Brown"
+score = 7
 ---
 
 Ladies and Gentlemen, Presenting the Brown University Marching Band: Frank Marranianoccio, Director; Don Kent, President; and Ken Pasternak, Drum Major. Today the brown band salutes the many sides of one of Pennsylvania’s most famous residents, Benjamin Franklin.

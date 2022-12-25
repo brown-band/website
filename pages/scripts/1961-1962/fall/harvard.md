@@ -1,13 +1,12 @@
 ---
-sport: football
-teams:
-  home:
-    name: Harvard
-    score: 21
-  away:
-    name: Brown
-    score: 6
-date: 1961-11-18
+sport = "football"
+date = 1961-11-18
+[teams.home]
+name = "Harvard"
+score = 21
+[teams.away]
+name = "Brown"
+score = 6
 ---
 
 :sd[Band in block at goal line]

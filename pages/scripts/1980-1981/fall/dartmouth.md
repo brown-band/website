@@ -1,14 +1,13 @@
 ---
-sport: football
-subtitle: Homecoming
-teams:
-  home:
-    name: Brown
-    score: 24
-  away:
-    name: Dartmouth
-    score: 28
-date: 1980-11-15
+sport = "football"
+date = 1980-11-15
+subtitle = "Homecoming"
+[teams.home]
+name = "Brown"
+score = 24
+[teams.away]
+name = "Dartmouth"
+score = 28
 ---
 
 Ladies and gentlemen, friends and alumni, and all you little green peons, it’s the John Nicholas Brown University Band. Once upon a time, there was a small boy, named John Nicholas Brown, growing up in the colonies. It could be seen, even at this early stage, that the events of his childhood were leading him to fulfill his ultimate destiny, the founding of a University.

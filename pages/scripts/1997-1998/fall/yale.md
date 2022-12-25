@@ -1,13 +1,12 @@
 ---
-sport: football
-teams:
-  home:
-    name: Yale
-    score: 14
-  away:
-    name: Brown
-    score: 52
-date: 1997-09-20
+sport = "football"
+date = 1997-09-20
+[teams.home]
+name = "Yale"
+score = 14
+[teams.away]
+name = "Brown"
+score = 52
 ---
 
 ## Halftime

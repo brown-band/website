@@ -1,13 +1,12 @@
 ---
-sport: football
-teams:
-  home:
-    name: Brown
-    score: 21
-  away:
-    name: Cornell
-    score: 3
-date: 1977-10-15
+sport = "football"
+date = 1977-10-15
+[teams.home]
+name = "Brown"
+score = 21
+[teams.away]
+name = "Cornell"
+score = 3
 ---
 
 Ladies and Gentlemen, Friends and Alumni, and all you Freshman Mothers and Fathers…and their parents: presenting the only Band in Providence banned in Providence, it’s the Brown University Band, in Providence.

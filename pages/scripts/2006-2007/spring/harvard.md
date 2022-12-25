@@ -1,13 +1,12 @@
 ---
-sport: hockey
-teams:
-  home:
-    name: Brown
-    score: 6
-  away:
-    name: Harvard
-    score: 6
-date: 2007-02-17
+sport = "hockey"
+date = 2007-02-17
+[teams.home]
+name = "Brown"
+score = 6
+[teams.away]
+name = "Harvard"
+score = 6
 ---
 
 Ladies and Gentlemen, Friends and Alumni, Presenting an organization that is still in awe of the Canadian Parliamentary system, it’s the Brown University “Power Street? I hardly know‘er street!” BAND!!!

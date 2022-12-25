@@ -1,11 +1,10 @@
 ---
-sport: hockey
-teams:
-  home:
-    name: Brown
-  away:
-    name: Princeton
-date: 1988-02-27
+sport = "hockey"
+date = 1988-02-27
+[teams.home]
+name = "Brown"
+[teams.away]
+name = "Princeton"
 ---
 
 Ladies and Gentlemen, Friends and Alumni, it’s the Brown University “we may suck at ice skating, but we’re the reigning world champions in the two-man spluge” Band!

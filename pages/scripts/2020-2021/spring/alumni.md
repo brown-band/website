@@ -1,7 +1,7 @@
 ---
-title: Alumni Ice Show
-subtitle: Performed digitally due to COVID-19
-date: 2021-04-09
+title = "Alumni Ice Show"
+subtitle = "Performed digitally due to COVID-19"
+date = 2021-04-09
 ---
 
 Ladies and gentlemen, friends and alumni, presenting an organization that has come untethered from the passage of time itself—There is no beginning, no middle, no end, no suspense, no moral, no causes, no effects, we are all bugs trapped in amber, and all that remains is the Brown University “Some things are beautiful, and a hell of a lot of it does actually hurt” BAAAAAND!!

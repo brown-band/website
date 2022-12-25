@@ -1,13 +1,12 @@
 ---
-sport: football
-teams:
-  home:
-    name: Cornell
-    score: 25
-  away:
-    name: Brown
-    score: 32
-date: 1980-10-18
+sport = "football"
+date = 1980-10-18
+[teams.home]
+name = "Cornell"
+score = 25
+[teams.away]
+name = "Brown"
+score = 32
 ---
 
 Ladies and gentlemen, friends and alumni, and all you Cornell flakes, it’s the Brown University Wedding Band.

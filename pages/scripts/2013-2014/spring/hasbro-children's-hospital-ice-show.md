@@ -1,5 +1,5 @@
 ---
-date: 2014-02-14
+date = 2014-02-14
 ---
 
 Ladies and gentlemen, friends and alumni, presenting an organization that’s so excited to be here, it’s the Brown University “Be Our Valentine” Baaaaaaaanddd!

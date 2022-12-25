@@ -1,13 +1,12 @@
 ---
-sport: football
-teams:
-  home:
-    name: Brown
-    score: 11
-  away:
-    name: Dartmouth
-    score: 27
-date: 1984-11-10
+sport = "football"
+date = 1984-11-10
+[teams.home]
+name = "Brown"
+score = 11
+[teams.away]
+name = "Dartmouth"
+score = 27
 ---
 
 ## Pregame

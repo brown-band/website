@@ -1,13 +1,12 @@
 ---
-sport: football
-teams:
-  home:
-    name: Brown
-    score: 41
-  away:
-    name: Dartmouth
-    score: 16
-date: 2001-11-10
+sport = "football"
+date = 2001-11-10
+[teams.home]
+name = "Brown"
+score = 41
+[teams.away]
+name = "Dartmouth"
+score = 16
 ---
 
 ::script-note[\*Sniff\* Last home game of the season means poems for the seniors. These are in haiku, which is a beautiful art form so long as it isn’t being broadcast over a PA system.]

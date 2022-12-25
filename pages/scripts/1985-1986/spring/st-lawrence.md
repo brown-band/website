@@ -1,11 +1,10 @@
 ---
-sport: hockey
-teams:
-  home:
-    name: Brown
-  away:
-    name: St. Lawrence
-date: 1986-02-15
+sport = "hockey"
+date = 1986-02-15
+[teams.home]
+name = "Brown"
+[teams.away]
+name = "St. Lawrence"
 ---
 
 ::script-note[Never performed.]

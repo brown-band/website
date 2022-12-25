@@ -1,14 +1,13 @@
 ---
-subtitle: Parents’ Weekend
-sport: football
-teams:
-  home:
-    name: Brown
-    score: 21
-  away:
-    name: Bucknell
-    score: 12
-date: 1993-10-16
+sport = "football"
+date = 1993-10-16
+subtitle = "Parents’ Weekend"
+[teams.home]
+name = "Brown"
+score = 21
+[teams.away]
+name = "Bucknell"
+score = 12
 ---
 
 ## Pregame

@@ -1,13 +1,12 @@
 ---
-sport: football
-teams:
-  home:
-    name: Columbia
-    score: 22
-  away:
-    name: Brown
-    score: 20
-date: 1962-09-29
+sport = "football"
+date = 1962-09-29
+[teams.home]
+name = "Columbia"
+score = 22
+[teams.away]
+name = "Brown"
+score = 20
 ---
 
 Introducing the Brown University Marching Band, Martin Fischer, Director, Dennis Wyckoff, Drum Major.

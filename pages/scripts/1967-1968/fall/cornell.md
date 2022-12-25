@@ -1,13 +1,12 @@
 ---
-sport: football
-teams:
-  home:
-    name: Cornell
-    score: 14
-  away:
-    name: Brown
-    score: 14
-date: 1967-11-11
+sport = "football"
+date = 1967-11-11
+[teams.home]
+name = "Cornell"
+score = 14
+[teams.away]
+name = "Brown"
+score = 14
 ---
 
 Ladies and Gentlemen. Farmers and Alumni, presenting the infamous Brown University Marching Band. Don Kent, President; Frank Marinaccio, Director; Don Herron and Ken Pasternak, Grange Representatives; And Your Voice of the Band, Paul Payton.

@@ -1,13 +1,12 @@
 ---
-sport: football
-teams:
-  home:
-    name: Columbia
-    score: 0
-  away:
-    name: Brown
-    score: 22
-date: 1958-09-27
+sport = "football"
+date = 1958-09-27
+[teams.home]
+name = "Columbia"
+score = 0
+[teams.away]
+name = "Brown"
+score = 22
 ---
 
 :sd[Band marks time while announcer reads]

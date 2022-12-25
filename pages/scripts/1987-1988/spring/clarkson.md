@@ -1,13 +1,12 @@
 ---
-sport: hockey
-teams:
-  home:
-    name: Brown
-    score: 5
-  away:
-    name: Clarkson
-    score: 2
-date: 1988-02-13
+sport = "hockey"
+date = 1988-02-13
+[teams.home]
+name = "Brown"
+score = 5
+[teams.away]
+name = "Clarkson"
+score = 2
 ---
 
 Ladies and Gentlemen, Friends and Alumni, and all you poor slobs who can’t hear us ‘cause of the lousy acoustics, it’s the Brown University “ice? what ice??” Band!!!

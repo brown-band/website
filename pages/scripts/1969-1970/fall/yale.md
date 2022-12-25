@@ -1,13 +1,12 @@
 ---
-sport: football
-teams:
-  home:
-    name: Yale
-    score: 27
-  away:
-    name: Brown
-    score: 13
-date: 1969-10-11
+sport = "football"
+date = 1969-10-11
+[teams.home]
+name = "Yale"
+score = 27
+[teams.away]
+name = "Brown"
+score = 13
 ---
 
 Ladies, gentlemen, friends, and alumni. Back by popular demand, its that All New Razzmatazz Damn Co-ed Band.

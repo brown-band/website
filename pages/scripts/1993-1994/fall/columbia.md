@@ -1,13 +1,12 @@
 ---
-sport: football
-teams:
-  home:
-    name: Brown
-    score: 28
-  away:
-    name: Columbia
-    score: 23
-date: 1993-11-20
+sport = "football"
+date = 1993-11-20
+[teams.home]
+name = "Brown"
+score = 28
+[teams.away]
+name = "Columbia"
+score = 23
 ---
 
 ## Halftime

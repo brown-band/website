@@ -1,13 +1,12 @@
 ---
-sport: football
-teams:
-  home:
-    name: Columbia
-    score: 13
-  away:
-    name: Brown
-    score: 31
-date: 1980-11-22
+sport = "football"
+date = 1980-11-22
+[teams.home]
+name = "Columbia"
+score = 13
+[teams.away]
+name = "Brown"
+score = 31
 ---
 
 Ladies and gentlemen, friends and alumni, and flatulent felines, it’s the Brown University a vote for Carter is a vote for Reagan Band.

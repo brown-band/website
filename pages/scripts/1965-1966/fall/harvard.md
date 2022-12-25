@@ -1,13 +1,12 @@
 ---
-sport: football
-teams:
-  home:
-    name: Brown
-    score: 8
-  away:
-    name: Harvard
-    score: 17
-date: 1965-11-13
+sport = "football"
+date = 1965-11-13
+[teams.home]
+name = "Brown"
+score = 8
+[teams.away]
+name = "Harvard"
+score = 17
 ---
 
 Ladies and Gentlemen, presenting the Brown University Marching Band, Martin Fischer, Director; Earl Holt, President; And Jack Monrad, Drum Major.

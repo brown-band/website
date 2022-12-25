@@ -1,7 +1,7 @@
 ---
-sport: hockey
-opponent: Cornell
-date: 1979-02-17
+sport = "hockey"
+date = 1979-02-17
+opponent = "Cornell"
 ---
 
 Ladies and Gentlemen, Friends and Alumni, and all you bum steers, presenting the only Band that never deals from a full deck, it’s the Brown University Royally Flushed Band!

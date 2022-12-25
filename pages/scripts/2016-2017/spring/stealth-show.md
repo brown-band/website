@@ -1,5 +1,5 @@
 ---
-date: 2017-04-13
+date = 2017-04-13
 ---
 
 Ladies and gentlemen, friends and alumni, presenting an organization that pulled out our camo khakis, it’s the Brown University “you can’t even see us right now” BANNNDDDDDDDDDDD!

@@ -1,11 +1,10 @@
 ---
-sport: hockey
-teams:
-  home:
-    name: Brown
-  away:
-    name: UVM
-date: 1986-02-08
+sport = "hockey"
+date = 1986-02-08
+[teams.home]
+name = "Brown"
+[teams.away]
+name = "UVM"
 ---
 
 Ladies and Gentlemen, Friends and Alumni, presenting the only campus extra-curricular activity that looks _bad_ on your resume, it’s the Brown University, “Let’s keep our faculties about us” Band!

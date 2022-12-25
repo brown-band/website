@@ -1,13 +1,12 @@
 ---
-sport: football
-teams:
-  home:
-    name: URI
-    score: 13
-  away:
-    name: Brown
-    score: 20
-date: 2014-10-04
+sport = "football"
+date = 2014-10-04
+[teams.home]
+name = "URI"
+score = 13
+[teams.away]
+name = "Brown"
+score = 20
 ---
 
 ## Halftime

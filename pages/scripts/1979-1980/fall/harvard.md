@@ -1,13 +1,12 @@
 ---
-sport: football
-teams:
-  home:
-    name: Brown
-    score: 23
-  away:
-    name: Harvard
-    score: 14
-date: 1979-11-03
+sport = "football"
+date = 1979-11-03
+[teams.home]
+name = "Brown"
+score = 23
+[teams.away]
+name = "Harvard"
+score = 14
 ---
 
 ## Halftime

@@ -1,13 +1,12 @@
 ---
-sport: football
-teams:
-  home:
-    name: Brown
-    score: 40
-  away:
-    name: URI
-    score: 14
-date: 1966-09-24
+sport = "football"
+date = 1966-09-24
+[teams.home]
+name = "Brown"
+score = 40
+[teams.away]
+name = "URI"
+score = 14
 ---
 
 Brown University Presents… That Damn Band!

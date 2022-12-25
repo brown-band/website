@@ -1,5 +1,5 @@
 ---
-date: 2017-04-19
+date = 2017-04-19
 ---
 
 Ladies and gentlemen, friends and alumni, presenting an organization that has spent many days and nights on college hill, it’s the Brown University “the nights are way more fun” BANNNDDDDDDDDDDD!

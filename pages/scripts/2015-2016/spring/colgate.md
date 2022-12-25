@@ -1,14 +1,13 @@
 ---
-sport: hockey
-iceShowTheme: Sci-Fi
-teams:
-  home:
-    name: Brown
-    score: 2
-  away:
-    name: Colgate
-    score: 3
-date: 2016-02-13
+sport = "hockey"
+date = 2016-02-13
+iceShowTheme = "Sci-Fi"
+[teams.home]
+name = "Brown"
+score = 2
+[teams.away]
+name = "Colgate"
+score = 3
 ---
 
 :sd[The first script used following a women’s hockey game in the history of the Brown Band]

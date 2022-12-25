@@ -1,5 +1,5 @@
 ---
-title: Arranging Music
+title = "Arranging Music"
 ---
 
 Members of the Brown Band are encouraged to arrange music for the Band to play! Some of our favorite songs are arrangements by current and past members of the Band.\

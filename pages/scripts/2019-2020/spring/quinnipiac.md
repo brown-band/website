@@ -1,13 +1,12 @@
 ---
-sport: hockey
-teams:
-  home:
-    name: Brown
-    score: 1
-  away:
-    name: Quinnipiac
-    score: 3
-date: 2020-01-31
+sport = "hockey"
+date = 2020-01-31
+[teams.home]
+name = "Brown"
+score = 1
+[teams.away]
+name = "Quinnipiac"
+score = 3
 ---
 
 Ladies and gentlemen, friends and alumni, presenting an organization that is the band, it’s the Brown University “we are the band and that’s good enough” BANNNDDDDDDDDDDD!

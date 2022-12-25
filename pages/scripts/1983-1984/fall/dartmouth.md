@@ -1,13 +1,12 @@
 ---
-sport: football
-teams:
-  home:
-    name: Dartmouth
-    score: 7
-  away:
-    name: Brown
-    score: 25
-date: 1983-11-12
+sport = "football"
+date = 1983-11-12
+[teams.home]
+name = "Dartmouth"
+score = 7
+[teams.away]
+name = "Brown"
+score = 25
 ---
 
 Hanover, the final frontier. These are the voyages of the Brown Band. Its four-year mission: to seek out new bars and 28 credits, to locate a woman at Dartmouth, to boldly form what no band has formed before— the amazing, inflating, triple-rotating, incredible marching slushball!!

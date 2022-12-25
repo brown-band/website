@@ -1,11 +1,10 @@
 ---
-sport: hockey
-teams:
-  home:
-    name: Brown
-  away:
-    name: Harvard
-date: 1983-02-25
+sport = "hockey"
+date = 1983-02-25
+[teams.home]
+name = "Brown"
+[teams.away]
+name = "Harvard"
 ---
 
 Ladies and Gentlemen, Friends and Alumni, and both of you loyal Brunonians who voted in the USC elections last week, it’s the Brown University “maybe Jacob Neusner was right after all” Band!

@@ -1,7 +1,7 @@
 ---
-sport: hockey
-opponent: Princeton
-date: 1981-01-30
+sport = "hockey"
+date = 1981-01-30
+opponent = "Princeton"
 ---
 
 Ladies and gentlemen, friends and alumni, and all you tiger lilies, it’s the Brown University Band on the Rocks. :sd[During this and the following lines the band skates out into two angle brackets open in opposite directions.]

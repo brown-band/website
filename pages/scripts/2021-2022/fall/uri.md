@@ -1,13 +1,12 @@
 ---
-sport: football
-teams:
-  home:
-    name: Brown
-    score: 45
-  away:
-    name: URI
-    score: 24
-date: 2021-09-18
+sport = "football"
+date = 2021-09-18
+[teams.home]
+name = "Brown"
+score = 45
+[teams.away]
+name = "URI"
+score = 24
 ---
 
 ## Pregame

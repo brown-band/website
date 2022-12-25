@@ -1,13 +1,12 @@
 ---
-sport: football
-teams:
-  home:
-    name: Harvard
-    score: 49
-  away:
-    name: Brown
-    score: 17
-date: 2021-09-24
+sport = "football"
+date = 2021-09-24
+[teams.home]
+name = "Harvard"
+score = 49
+[teams.away]
+name = "Brown"
+score = 17
 ---
 
 ## Pregame

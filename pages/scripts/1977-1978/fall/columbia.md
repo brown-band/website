@@ -1,13 +1,12 @@
 ---
-sport: football
-teams:
-  home:
-    name: Brown
-    score: 21
-  away:
-    name: Columbia
-    score: 14
-date: 1977-11-12
+sport = "football"
+date = 1977-11-12
+[teams.home]
+name = "Brown"
+score = 21
+[teams.away]
+name = "Columbia"
+score = 14
 ---
 
 Ladies and Gentlemen, Friends and Alumni, and all you roarin’ Leo Tards! Presenting the only band worth its weight in brass, its height in balloon strings, and its Mass in Manning Chapel, it’s the Brown University, off Broadway, On Target, Off Color, EnTendre Band! :sd[enter screaming]

@@ -1,14 +1,13 @@
 ---
-sport: football
-subtitle: Parent’s Weekend
-teams:
-  home:
-    name: Brown
-    score: 6
-  away:
-    name: Holy Cross
-    score: 17
-date: 1982-10-23
+sport = "football"
+date = 1982-10-23
+subtitle = "Parent’s Weekend"
+[teams.home]
+name = "Brown"
+score = 6
+[teams.away]
+name = "Holy Cross"
+score = 17
 ---
 
 Ladies and Gentlemen, Friends and Alumni, and all you freshman mothers and fathers, and their parents, we present the reasons that Brown received fourteen stars in the Selective Guide to American Colleges.

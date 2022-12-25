@@ -1,5 +1,5 @@
 ---
-date: 2018-04-15
+date = 2018-04-15
 ---
 
 Ladies and gentlemen, friends and alumni, presenting an organization that loves stable emulsions of oil, egg yolk, and either vinegar or lemon juice, it’s the Brown University “yes mayonnaise is an instrument!” BANNNDDDDDDDDDDD!

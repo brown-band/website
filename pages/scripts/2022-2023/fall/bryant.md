@@ -1,13 +1,12 @@
 ---
-sport: football
-teams:
-  home:
-    name: Brown
-    score: 44
-  away:
-    name: Bryant
-    score: 38
-date: 2022-09-17
+sport = "football"
+date = 2022-09-17
+[teams.home]
+name = "Brown"
+score = 44
+[teams.away]
+name = "Bryant"
+score = 38
 ---
 
 ## Pregame

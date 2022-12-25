@@ -1,13 +1,12 @@
 ---
-sport: hockey
-teams:
-  home:
-    name: Brown
-    score: 1
-  away:
-    name: Cornell
-    score: 4
-date: 2013-03-01
+sport = "hockey"
+date = 2013-03-01
+[teams.home]
+name = "Brown"
+score = 1
+[teams.away]
+name = "Cornell"
+score = 4
 ---
 
 Ladies and Gentlemen, friends and alumni, presenting an organization that’s willfully ignorant, it’s the Brown University “Upstate New York is Canada, Eh??” BAAANNNDDDD.

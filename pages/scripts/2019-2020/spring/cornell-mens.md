@@ -1,14 +1,13 @@
 ---
-sport: hockey
-iceShowTheme: Video Game
-teams:
-  home:
-    name: Brown
-    score: 0
-  away:
-    name: Cornell
-    score: 3
-date: 2020-02-22
+sport = "hockey"
+date = 2020-02-22
+iceShowTheme = "Video Game"
+[teams.home]
+name = "Brown"
+score = 0
+[teams.away]
+name = "Cornell"
+score = 3
 ---
 
 Ladies and gentlemen, friends and alumni, presenting an organization that just upgraded its physics engine, it’s the Brown University “Watch out, the ice is now realistically slippery” BANNNDDDDDDDDDDD!

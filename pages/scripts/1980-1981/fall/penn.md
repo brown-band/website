@@ -1,13 +1,12 @@
 ---
-sport: football
-teams:
-  home:
-    name: Brown
-    score: 42
-  away:
-    name: Penn
-    score: 22
-date: 1980-10-11
+sport = "football"
+date = 1980-10-11
+[teams.home]
+name = "Brown"
+score = 42
+[teams.away]
+name = "Penn"
+score = 22
 ---
 
 Ladies and gentlemen, friends and alumni, and all you quaker oats, it’s the Brown University “We used Penn as a backup school” Band.

@@ -1,13 +1,12 @@
 ---
-sport: football
-teams:
-  home:
-    name: Harvard
-    score: 6
-  away:
-    name: Brown
-    score: 14
-date: 1955-11-12
+sport = "football"
+date = 1955-11-12
+[teams.home]
+name = "Harvard"
+score = 6
+[teams.away]
+name = "Brown"
+score = 14
 ---
 
 :sd[Band plays chord]\

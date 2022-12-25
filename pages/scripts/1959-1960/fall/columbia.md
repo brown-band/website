@@ -1,13 +1,12 @@
 ---
-sport: football
-teams:
-  home:
-    name: Brown
-    score: 6
-  away:
-    name: Columbia
-    score: 21
-date: 1959-09-26
+sport = "football"
+date = 1959-09-26
+[teams.home]
+name = "Brown"
+score = 6
+[teams.away]
+name = "Columbia"
+score = 21
 ---
 
 Traditions and institutions form an integral part of student life at Brown. Today we will introduce some of these traditions to the class of 1963.

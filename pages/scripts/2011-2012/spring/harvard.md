@@ -1,13 +1,12 @@
 ---
-sport: hockey
-teams:
-  home:
-    name: Brown
-    score: 3
-  away:
-    name: Harvard
-    score: 3
-date: 2012-02-17
+sport = "hockey"
+date = 2012-02-17
+[teams.home]
+name = "Brown"
+score = 3
+[teams.away]
+name = "Harvard"
+score = 3
 ---
 
 Ladies and Gentlemen, friends and alumni, presenting an organization that’s never gonna give you up, it’s the Brown University “Rick Astley Was Cool Once!” BAAAANNNNNNNNDDDDDDDDD!

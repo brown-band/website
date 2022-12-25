@@ -1,5 +1,5 @@
 ---
-date: 1998-04-15
+date = 1998-04-15
 ---
 
 Ladies and gentlemen, friends and alumni- and prefrosh- presenting an organization that is the best class in the history of Brown University, it’s the Brown University “Good things come to those who wait-list” Band!

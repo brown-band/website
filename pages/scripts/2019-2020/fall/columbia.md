@@ -1,13 +1,12 @@
 ---
-sport: football
-teams:
-  home:
-    name: Columbia
-    score: 24
-  away:
-    name: Brown
-    score: 48
-date: 2019-11-16
+sport = "football"
+date = 2019-11-16
+[teams.home]
+name = "Columbia"
+score = 24
+[teams.away]
+name = "Brown"
+score = 48
 ---
 
 ## Halftime

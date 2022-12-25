@@ -1,13 +1,12 @@
 ---
-sport: hockey
-teams:
-  home:
-    name: Brown
-    score: 4
-  away:
-    name: Harvard
-    score: 2
-date: 2008-02-01
+sport = "hockey"
+date = 2008-02-01
+[teams.home]
+name = "Brown"
+score = 4
+[teams.away]
+name = "Harvard"
+score = 2
 ---
 
 Ladies and Gentlemen, Friends and Alumni, Presenting an organization that is brining in the equestrian team to test the new pool for water polo, it’s the Brown University, neighhhh splash, BAND!!!!!!!!!!

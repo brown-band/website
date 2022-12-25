@@ -1,13 +1,12 @@
 ---
-sport: football
-teams:
-  home:
-    name: Brown
-    score: 3
-  away:
-    name: Colgate
-    score: 27
-date: 1986-11-08
+sport = "football"
+date = 1986-11-08
+[teams.home]
+name = "Brown"
+score = 3
+[teams.away]
+name = "Colgate"
+score = 27
 ---
 
 ## Halftime

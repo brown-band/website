@@ -1,13 +1,12 @@
 ---
-sport: football
-teams:
-  home:
-    name: Brown
-    score: 10
-  away:
-    name: Harvard
-    score: 17
-date: 1983-10-29
+sport = "football"
+date = 1983-10-29
+[teams.home]
+name = "Brown"
+score = 10
+[teams.away]
+name = "Harvard"
+score = 17
 ---
 
 From Providence, where a glance at the streets will convince you that it’s no longer a one-horse town, it’s Late Afternoon with David Letterband. Today; diminutive sex therapist Dr. Ruth Westheimer, a visit to the Museum of the Hard to Believe, and viewer mail. And now, the only talk show host who still thinks 30 Rock is a carrel in the library, it’s the Brown University Da-vid LetterBand!

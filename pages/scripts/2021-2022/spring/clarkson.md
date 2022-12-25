@@ -1,14 +1,13 @@
 ---
-sport: hockey
-iceShowTheme: Water Sport
-teams:
-  home:
-    name: Brown
-    score: 1
-  away:
-    name: Clarkson
-    score: 8
-date: 2022-02-12
+sport = "hockey"
+date = 2022-02-12
+iceShowTheme = "Water Sport"
+[teams.home]
+name = "Brown"
+score = 1
+[teams.away]
+name = "Clarkson"
+score = 8
 ---
 
 Ladies and gentlemen, friends and alumni, presenting an organization that is attempting to acclimate to the inevitable onset of a nuclear winter, it’s the Brown University “Ukrainin’ our neck to look for ICBMs” BANNNDDDDDDDDDDD!

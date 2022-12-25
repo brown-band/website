@@ -1,7 +1,7 @@
 ---
-opponent: Princeton
-subtitle: Not performed due to COVID-19
-date: 2020-10-15
+opponent = "Princeton"
+subtitle = "Not performed due to COVID-19"
+date = 2020-10-15
 ---
 
 Ladies and gentlemen, friends and alumni, presenting an organization that is currently being stood up by the Princeton Band and is alone at a table for two, it’s the Brown University “i just want to be served” BANNNDDDDDDDDDDD!

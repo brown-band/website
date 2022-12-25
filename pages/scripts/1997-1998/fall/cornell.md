@@ -1,13 +1,12 @@
 ---
-sport: football
-teams:
-  home:
-    name: Brown
-    score: 37
-  away:
-    name: Cornell
-    score: 12
-date: 1997-11-01
+sport = "football"
+date = 1997-11-01
+[teams.home]
+name = "Brown"
+score = 37
+[teams.away]
+name = "Cornell"
+score = 12
 ---
 
 ## Pregame

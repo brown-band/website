@@ -1,13 +1,12 @@
 ---
-sport: football
-teams:
-  home:
-    name: Brown
-    score: 21
-  away:
-    name: URI
-    score: 0
-date: 1969-09-27
+sport = "football"
+date = 1969-09-27
+[teams.home]
+name = "Brown"
+score = 21
+[teams.away]
+name = "URI"
+score = 0
 ---
 
 :sd[Read while the Band is in the bushes]\

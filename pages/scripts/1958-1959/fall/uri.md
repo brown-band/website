@@ -1,13 +1,12 @@
 ---
-sport: football
-teams:
-  home:
-    name: Brown
-    score: 47
-  away:
-    name: URI
-    score: 6
-date: 1958-10-25
+sport = "football"
+date = 1958-10-25
+[teams.home]
+name = "Brown"
+score = 47
+[teams.away]
+name = "URI"
+score = 6
 ---
 
 :sd[Band forms in block in end zone.]

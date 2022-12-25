@@ -1,6 +1,6 @@
 ---
-title: Skating Party Show
-date: 1985-02-23
+title = "Skating Party Show"
+date = 1985-02-23
 ---
 
 Ladies and Gentlemen, friends and Alumni, Presenting the only non-nuclear power ever to be banned from the People’s Republic of China because of its Offensive Capability, It’s the Brown University “You can read about us in the Book of Revelations” Band.

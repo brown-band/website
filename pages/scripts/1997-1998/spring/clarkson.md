@@ -1,7 +1,7 @@
 ---
-sport: hockey
-opponent: Clarkson
-date: 1998-02-27
+sport = "hockey"
+date = 1998-02-27
+opponent = "Clarkson"
 ---
 
 Ladies and Gentlemen, friends and alumni, presenting an organization that French cuffs its Cavariccis, it’s the Brown University “2 Legit to Quit” Band!!!

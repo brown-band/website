@@ -1,13 +1,12 @@
 ---
-sport: football
-teams:
-  home:
-    name: Yale
-    score: 34
-  away:
-    name: Brown
-    score: 37
-date: 2001-11-03
+sport = "football"
+date = 2001-11-03
+[teams.home]
+name = "Yale"
+score = 34
+[teams.away]
+name = "Brown"
+score = 37
 ---
 
 ::script-note[This script shows that Communism isn’t as funny as it used to be. The stuff about the Yale newspaper is true. I’ve never seen an op-ed about handjobs before.]

@@ -1,5 +1,5 @@
 ---
-date: 2019-04-07
+date = 2019-04-07
 ---
 
 Ladies and gentlemen, friends and alumni, presenting an organization that definitely didn’t pay to be here, it’s the Brown University “still waiting on that tennis scholarship” BANNNDDDDDDDDDDD!

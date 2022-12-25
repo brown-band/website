@@ -1,13 +1,12 @@
 ---
-sport: football
-teams:
-  home:
-    name: Brown
-    score: 7
-  away:
-    name: Colgate
-    score: 48
-date: 1966-10-22
+sport = "football"
+date = 1966-10-22
+[teams.home]
+name = "Brown"
+score = 7
+[teams.away]
+name = "Colgate"
+score = 48
 ---
 
 Ladies and Gentlemen, presenting the Brown University Marching Band, Martin Frank Marinaccio, Director; Laurence Pizer, President; And Mary Poppins, Drummajor.

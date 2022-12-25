@@ -1,13 +1,12 @@
 ---
-sport: football
-teams:
-  home:
-    name: Brown
-    score: 10
-  away:
-    name: Princeton
-    score: 7
-date: 1977-10-01
+sport = "football"
+date = 1977-10-01
+[teams.home]
+name = "Brown"
+score = 10
+[teams.away]
+name = "Princeton"
+score = 7
 ---
 
 Ladies and gentlemen! Friends and alumni! And all you fast fading formerly frivouls and philandering, forever frenetically floundering Freshmen, Freshwomen, and Transfers! :sd[Deep breath] We take pride in presenting the Freshmen and Transfer Weak Committee Band.

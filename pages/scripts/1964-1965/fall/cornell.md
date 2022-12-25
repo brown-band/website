@@ -1,13 +1,12 @@
 ---
-sport: football
-teams:
-  home:
-    name: Brown
-    score: 31
-  away:
-    name: Cornell
-    score: 28
-date: 1964-11-07
+sport = "football"
+date = 1964-11-07
+[teams.home]
+name = "Brown"
+score = 31
+[teams.away]
+name = "Cornell"
+score = 28
 ---
 
 :sd[Block in Endzone]

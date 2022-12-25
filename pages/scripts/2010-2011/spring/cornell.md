@@ -1,13 +1,12 @@
 ---
-sport: hockey
-teams:
-  home:
-    name: Brown
-    score: 3
-  away:
-    name: Cornell
-    score: 2
-date: 2011-02-25
+sport = "hockey"
+date = 2011-02-25
+[teams.home]
+name = "Brown"
+score = 3
+[teams.away]
+name = "Cornell"
+score = 2
 ---
 
 Jeff: Ladies and Gentlemen, friends and alumni, presenting an organization that wants to train YOUR dragon, it’s the Brown University “And the Oscar goes to…” BAAAANNNNNDDDDDDD!

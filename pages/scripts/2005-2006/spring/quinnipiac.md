@@ -1,16 +1,15 @@
 ---
-sport: hockey
-teams:
-  home:
-    name: Brown
-    score: 5
-  away:
-    name: Quinnipiac
-    score: 3
+sport = "hockey"
 # original source said January 6, 2006, which was an
 # away game and almost certainly during winter break.
 # The home game for Brown v Quinnipiac feels much more probable.
-date: 2006-02-25
+date = 2006-02-25
+[teams.home]
+name = "Brown"
+score = 5
+[teams.away]
+name = "Quinnipiac"
+score = 3
 ---
 
 :sd[Read with Morgan Freeman-esque timbre]

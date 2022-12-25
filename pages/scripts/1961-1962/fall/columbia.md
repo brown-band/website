@@ -1,13 +1,12 @@
 ---
-sport: football
-teams:
-  home:
-    name: Brown
-    score: 0
-  away:
-    name: Columbia
-    score: 50
-date: 1961-09-30
+sport = "football"
+date = 1961-09-30
+[teams.home]
+name = "Brown"
+score = 0
+[teams.away]
+name = "Columbia"
+score = 50
 ---
 
 Ladies and Gentlemen, Introducing the Brown University Marching Band.\

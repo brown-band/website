@@ -1,13 +1,12 @@
 ---
-sport: football
-teams:
-  home:
-    name: Brown
-    score: 0
-  away:
-    name: Dartmouth
-    score: 20
-date: 1958-10-11
+sport = "football"
+date = 1958-10-11
+[teams.home]
+name = "Brown"
+score = 0
+[teams.away]
+name = "Dartmouth"
+score = 20
 ---
 
 :sd[Band forms in block on goal line.]

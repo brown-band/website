@@ -1,11 +1,10 @@
 ---
-sport: football
-teams:
-  home:
-    name: Cornell
-  away:
-    name: Brown
-date: 1986-10-18
+sport = "football"
+date = 1986-10-18
+[teams.home]
+name = "Cornell"
+[teams.away]
+name = "Brown"
 ---
 
 ## Halftime

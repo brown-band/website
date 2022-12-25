@@ -1,5 +1,5 @@
 ---
-date: 2014-04-17
+date = 2014-04-17
 ---
 
 Ladies and gentlemen, friends and alumni, presenting an organization whose accolades include topping many listicles, it’s the Brown University “Number One in the Ivy League for fun” BAAAAAAND!

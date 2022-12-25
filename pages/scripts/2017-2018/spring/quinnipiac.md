@@ -1,14 +1,13 @@
 ---
-sport: hockey
-iceShowTheme: Alumni
-teams:
-  home:
-    name: Brown
-    score: 0
-  away:
-    name: Quinnipiac
-    score: 3
-date: 2018-02-10
+sport = "hockey"
+date = 2018-02-10
+iceShowTheme = "Alumni"
+[teams.home]
+name = "Brown"
+score = 0
+[teams.away]
+name = "Quinnipiac"
+score = 3
 ---
 
 Ladies and gentlemen, friends and alumni, presenting an organization that just has a lot of feelings, it’s the Brown University “she doesn’t even go here anymore” BANNNDDDDDDDDDDD!

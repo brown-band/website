@@ -1,5 +1,5 @@
 ---
-date: 2012-04-16
+date = 2012-04-16
 ---
 
 Ladies and Gentlemen, Friends and Alumni, presenting an organization that’s won two Grammies, 3 Tonies, and the 1978 Pulitzer Prize for Explanatory Reporting, it’s the Brown University, and I’d just like to take a moment to thank the Academy, BAAAAANNNNDDDDD!!!!

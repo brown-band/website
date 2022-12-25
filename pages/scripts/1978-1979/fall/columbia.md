@@ -1,13 +1,12 @@
 ---
-sport: football
-teams:
-  home:
-    name: Columbia
-    score: 12
-  away:
-    name: Brown
-    score: 23
-date: 1978-11-18
+sport = "football"
+date = 1978-11-18
+[teams.home]
+name = "Columbia"
+score = 12
+[teams.away]
+name = "Brown"
+score = 23
 ---
 
 Ladies and Gentlemen, Friends and Alumni, and all you little boys blue, presenting, direct from a stylish chapeau in the Austrian Alps, it’s the Brown University Hat Band.

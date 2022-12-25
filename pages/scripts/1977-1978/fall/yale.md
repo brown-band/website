@@ -1,13 +1,12 @@
 ---
-sport: football
-teams:
-  home:
-    name: Yale
-    score: 10
-  away:
-    name: Brown
-    score: 9
-date: 1977-09-17
+sport = "football"
+date = 1977-09-17
+[teams.home]
+name = "Yale"
+score = 10
+[teams.away]
+name = "Brown"
+score = 9
 ---
 
 Ladies and gentlemen, friends and alumni, and all you fire hydrant fertilizers! Presenting, for the first time anywhere since last year, the worst, the sloppiest, the ugliest, the most imprecise bumbling, tone-deaf, spasticated, flat-chested, Havard rejects ever to come into the Yale Bowl! But first, the Brown University Marching Band.

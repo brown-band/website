@@ -1,13 +1,12 @@
 ---
-sport: football
-teams:
-  home:
-    name: Harvard
-    score: 14
-  away:
-    name: Brown
-    score: 16
-date: 1976-10-30
+sport = "football"
+date = 1976-10-30
+[teams.home]
+name = "Harvard"
+score = 14
+[teams.away]
+name = "Brown"
+score = 16
 ---
 
 Ladies and Gentlemen, Friends and Alumni, and all you Crimson stains. Presenting the high wires of the Marching circuits, with a frequency to handle any resistance. Breaker 1-9, it’s the Brown University Citizen’s Band.

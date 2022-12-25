@@ -1,14 +1,13 @@
 ---
-sport: football
-subtitle: homecoming
-teams:
-  home:
-    name: Brown
-    score: 20
-  away:
-    name: Penn
-    score: 7
-date: 1957-10-19
+sport = "football"
+date = 1957-10-19
+subtitle = "homecoming"
+[teams.home]
+name = "Brown"
+score = 20
+[teams.away]
+name = "Penn"
+score = 7
 ---
 
 ## Pregame

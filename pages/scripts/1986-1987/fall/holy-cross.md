@@ -1,13 +1,12 @@
 ---
-sport: football
-teams:
-  home:
-    name: Brown
-    score: 7
-  away:
-    name: Holy Cross
-    score: 22
-date: 1986-10-25
+sport = "football"
+date = 1986-10-25
+[teams.home]
+name = "Brown"
+score = 7
+[teams.away]
+name = "Holy Cross"
+score = 22
 ---
 
 ## Halftime

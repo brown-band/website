@@ -2,7 +2,7 @@
 # very much uncertain about this date
 # I believe it must be in april (because admission)
 # and before april 15 (because https://talk.collegeconfidential.com/t/484115)
-date: 2008-04-14
+date = 2008-04-14
 ---
 
 Girls and Boys, future-Friends and future-future-Alumni, presenting an organization that matriculates three or four times a day and fives times a day on Sunday, it’s the Brown University, you can now do it in a gender-neutral double, BANNNNNNNNDDD.

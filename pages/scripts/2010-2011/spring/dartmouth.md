@@ -1,13 +1,12 @@
 ---
-sport: hockey
-teams:
-  home:
-    name: Brown
-    score: 0
-  away:
-    name: Dartmouth
-    score: 3
-date: 2011-02-04
+sport = "hockey"
+date = 2011-02-04
+[teams.home]
+name = "Brown"
+score = 0
+[teams.away]
+name = "Dartmouth"
+score = 3
 ---
 
 Ladies and Gentlemen, friends and alumni, presenting an organization that just hibernated for six weeks, it’s the Brown University “We literally ARE Brown Bears” BAAAANNNNNNNNDDDDDDDDD!

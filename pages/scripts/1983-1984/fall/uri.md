@@ -1,13 +1,12 @@
 ---
-sport: football
-teams:
-  home:
-    name: Brown
-    score: 16
-  away:
-    name: URI
-    score: 30
-date: 1983-09-24
+sport = "football"
+date = 1983-09-24
+[teams.home]
+name = "Brown"
+score = 16
+[teams.away]
+name = "URI"
+score = 30
 ---
 
 Ladies and gentlemen, friends, buddies and alumni, and all you R.I. “N.E.”’s, presenting the only band capable of drowning on a bus from Providence to Kingston, it’s the Brown University “our tuition is bigger than your endowment” Band!

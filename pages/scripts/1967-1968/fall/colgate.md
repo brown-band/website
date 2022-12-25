@@ -1,13 +1,12 @@
 ---
-sport: football
-teams:
-  home:
-    name: Brown
-    score: 7
-  away:
-    name: Colgate
-    score: 0
-date: 1967-10-28
+sport = "football"
+date = 1967-10-28
+[teams.home]
+name = "Brown"
+score = 7
+[teams.away]
+name = "Colgate"
+score = 0
 ---
 
 ## Long Version

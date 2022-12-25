@@ -1,14 +1,13 @@
 ---
-sport: football
-subtitle: Homecoming
-teams:
-  home:
-    name: Brown
-    score: 38
-  away:
-    name: Yale
-    score: 63
-date: 2021-11-06
+sport = "football"
+date = 2021-11-06
+subtitle = "Homecoming"
+[teams.home]
+name = "Brown"
+score = 38
+[teams.away]
+name = "Yale"
+score = 63
 ---
 
 ## Pregame

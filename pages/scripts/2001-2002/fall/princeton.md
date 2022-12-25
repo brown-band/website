@@ -1,13 +1,12 @@
 ---
-sport: football
-teams:
-  home:
-    name: Brown
-    score: 35
-  away:
-    name: Princeton
-    score: 24
-date: 2001-10-13
+sport = "football"
+date = 2001-10-13
+[teams.home]
+name = "Brown"
+score = 35
+[teams.away]
+name = "Princeton"
+score = 24
 ---
 
 ::script-note[Halftime for this show was never written as we knew ahead of time that it would be claimed my Manos.]

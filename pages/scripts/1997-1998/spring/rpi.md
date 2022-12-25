@@ -1,7 +1,7 @@
 ---
-sport: hockey
-opponent: RPI
-date: 1998-02-06
+sport = "hockey"
+date = 1998-02-06
+opponent = "RPI"
 ---
 
 Ladies and Gentlemen, friends and alumni, presenting an organization that gets knocked down, but gets up again, it’s the Brown University “flirting with… disaster” Band!

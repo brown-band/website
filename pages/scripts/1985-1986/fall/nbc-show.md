@@ -1,5 +1,5 @@
 ---
-date: 1985-10-17
+date = 1985-10-17
 ---
 
 _Brown Band vs. University of Michigan Band -- Live on the Green from NBC’s Today Show_

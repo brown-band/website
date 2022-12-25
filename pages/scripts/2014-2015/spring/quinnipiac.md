@@ -1,14 +1,13 @@
 ---
-sport: hockey
-iceShowTheme: Sidekick
-teams:
-  home:
-    name: Brown
-    score: 3
-  away:
-    name: Quinnipiac
-    score: 5
-date: 2015-01-30
+sport = "hockey"
+date = 2015-01-30
+iceShowTheme = "Sidekick"
+[teams.home]
+name = "Brown"
+score = 3
+[teams.away]
+name = "Quinnipiac"
+score = 5
 ---
 
 Ladies and gentlemen, friends and alumni, presenting an organization that’s here to help save the day, it’s the Brown University “it’s a bird, it’s a plane, it’s Superman! No wait, it’s Superman’s less impressive, less well-known sidekick” BAAAAANNDDDDD!!!

@@ -37,6 +37,13 @@ module.exports = (eleventyConfig) => {
   eleventyConfig.addDataExtension("toml", (contents) =>
     require("@iarna/toml").parse(contents)
   );
+  // make front matter be TOML too
+  eleventyConfig.setFrontMatterParsingOptions({
+    engines: {
+      toml: require("@iarna/toml").parse,
+    },
+    language: "toml",
+  });
   // add NODE_ENV as a global value
   eleventyConfig.addGlobalData("NODE_ENV", env);
 

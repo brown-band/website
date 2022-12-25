@@ -5,3 +5,6 @@ pagedjs-interface.css
 .netlify
 pnpm-lock.yaml
 bootstrap.css
+# :( because of TOML front matter
+# and because it doesn’t do too much hopefully?
+*.md

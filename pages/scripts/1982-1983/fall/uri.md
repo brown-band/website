@@ -1,13 +1,12 @@
 ---
-sport: football
-teams:
-  home:
-    name: Brown
-    score: 24
-  away:
-    name: URI
-    score: 20
-date: 1982-09-25
+sport = "football"
+date = 1982-09-25
+[teams.home]
+name = "Brown"
+score = 24
+[teams.away]
+name = "URI"
+score = 20
 ---
 
 Ladies and Gentlemen, we call your attention to the East end of the stadium where the all-new, high-stepping, Brown University precision marching machine, complete with sparkling new uniforms, is now prepared to entertain you.

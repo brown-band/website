@@ -1,7 +1,7 @@
 ---
-sport: hockey
-opponent: Dartmouth
-date: 1977-03-05
+sport = "hockey"
+date = 1977-03-05
+opponent = "Dartmouth"
 ---
 
 :sd[Band skates out randomly. Two come to center ice wearing business suits, carrying portfolios.]

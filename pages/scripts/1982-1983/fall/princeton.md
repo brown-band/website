@@ -1,13 +1,12 @@
 ---
-sport: football
-teams:
-  home:
-    name: Princeton
-    score: 28
-  away:
-    name: Brown
-    score: 23
-date: 1982-10-02
+sport = "football"
+date = 1982-10-02
+[teams.home]
+name = "Princeton"
+score = 28
+[teams.away]
+name = "Brown"
+score = 23
 ---
 
 Ladies and Gentlemen, Friends and Alumni, and all you unkissed oranges, it’s the Brown University Band News Bears.

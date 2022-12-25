@@ -1,14 +1,13 @@
 ---
-subtitle: Homecoming
-sport: football
-teams:
-  home:
-    name: Brown
-    score: 16
-  away:
-    name: Princeton
-    score: 34
-date: 1993-10-09
+sport = "football"
+date = 1993-10-09
+subtitle = "Homecoming"
+[teams.home]
+name = "Brown"
+score = 16
+[teams.away]
+name = "Princeton"
+score = 34
 ---
 
 ## Pregame

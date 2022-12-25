@@ -1,14 +1,13 @@
 ---
-sport: football
-subtitle: Homecoming & Senior Show
-teams:
-  home:
-    name: Brown
-    score: 16
-  away:
-    name: Dartmouth
-    score: 22
-date: 1982-11-13
+sport = "football"
+date = 1982-11-13
+subtitle = "Homecoming & Senior Show"
+[teams.home]
+name = "Brown"
+score = 16
+[teams.away]
+name = "Dartmouth"
+score = 22
 ---
 
 ## Pregame

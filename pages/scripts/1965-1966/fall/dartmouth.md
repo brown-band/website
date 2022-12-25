@@ -1,14 +1,13 @@
 ---
-sport: football
-subtitle: Homecoming
-teams:
-  home:
-    name: Brown
-    score: 9
-  away:
-    name: Dartmouth
-    score: 35
-date: 1965-10-16
+sport = "football"
+date = 1965-10-16
+subtitle = "Homecoming"
+[teams.home]
+name = "Brown"
+score = 9
+[teams.away]
+name = "Dartmouth"
+score = 35
 ---
 
 Ladies and gentlemen, presenting the Brown University Marching band, Martin Fischer, Director; Earl Holt, President; and Jack Monrad, Drum Major.

@@ -1,13 +1,12 @@
 ---
-sport: football
-teams:
-  home:
-    name: Brown
-    score: 14
-  away:
-    name: Yale
-    score: 6
-date: 1976-09-18
+sport = "football"
+date = 1976-09-18
+[teams.home]
+name = "Brown"
+score = 14
+[teams.away]
+name = "Yale"
+score = 6
 ---
 
 Ladies and Gentlemen, Friends and Alumni, and all you sons of fem:script-tab[]ale mascots. Presenting the only group that flunked out freshman week; direct from a quick engagement in the Faunce House Rest Room; it’s the Brown University Freshman Week Disorientation Band.

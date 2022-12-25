@@ -1,14 +1,13 @@
 ---
-sport: football
-subtitle: Family Weekend
-teams:
-  home:
-    name: Brown
-    score: 42
-  away:
-    name: Princeton
-    score: 56
-date: 2021-10-16
+sport = "football"
+date = 2021-10-16
+subtitle = "Family Weekend"
+[teams.home]
+name = "Brown"
+score = 42
+[teams.away]
+name = "Princeton"
+score = 56
 ---
 
 ## Pregame

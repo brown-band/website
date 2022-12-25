@@ -1,13 +1,12 @@
 ---
-sport: football
-teams:
-  home:
-    name: Princeton
-    score: 10
-  away:
-    name: Brown
-    score: 24
-date: 1986-10-04
+sport = "football"
+date = 1986-10-04
+[teams.home]
+name = "Princeton"
+score = 10
+[teams.away]
+name = "Brown"
+score = 24
 ---
 
 ## Halftime

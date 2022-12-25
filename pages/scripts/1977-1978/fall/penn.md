@@ -1,13 +1,12 @@
 ---
-sport: football
-teams:
-  home:
-    name: Penn
-    score: 14
-  away:
-    name: Brown
-    score: 7
-date: 1977-10-08
+sport = "football"
+date = 1977-10-08
+[teams.home]
+name = "Penn"
+score = 14
+[teams.away]
+name = "Brown"
+score = 7
 ---
 
 Signore e Signori, Amici ed Alumni e qualsiasi altro che mi capisce, presentando l’unica banda che non sa parlare con se stessa, la BROWN UNIVERSITY SEMI-LINGUAL BAND.

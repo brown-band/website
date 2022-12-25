@@ -1,7 +1,7 @@
 ---
-sport: hockey
-opponent: Princeton
-date: 1982-03-07
+sport = "hockey"
+date = 1982-03-07
+opponent = "Princeton"
 ---
 
 Ladies and Gentlemen, Friends and Alumni, and all you paper tigers, Hurry, Hurry, Hurry, step right up, it’s the Brown University Circus-ized Band.

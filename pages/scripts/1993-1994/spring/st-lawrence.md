@@ -1,7 +1,7 @@
 ---
-sport: hockey
-opponent: St. Lawrence
-date: 1994-03-05
+sport = "hockey"
+date = 1994-03-05
+opponent = "St. Lawrence"
 ---
 
 Ladies and gentleman, friends and alumni, presenting an organization that some call the fourth branch of government: it’s the Brown University, a charter member of the Friends of Bill club, BAND!!!!!

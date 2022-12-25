@@ -1,14 +1,13 @@
 ---
-sport: hockey
-iceShowTheme: Under the Sea
-teams:
-  home:
-    name: Brown
-    score: 4
-  away:
-    name: UConn
-    score: 6
-date: 2018-02-03
+sport = "hockey"
+date = 2018-02-03
+iceShowTheme = "Under the Sea"
+[teams.home]
+name = "Brown"
+score = 4
+[teams.away]
+name = "UConn"
+score = 6
 ---
 
 Ladies and gentlemen, friends and alumni, presenting an organization that thinks it better down where it’s wetter, it’s the Brown University “Chef Louis just wanted a nice crab dinner” BANNNDDDDDDDDDDD!
