@@ -1,4 +1,4 @@
----
++++
 sport = "football"
 date = 2019-09-21
 [teams.home]
@@ -7,7 +7,7 @@ score = 30
 [teams.away]
 name = "Brown"
 score = 35
----
++++
 
 Ladies and gentlemen, friends and alumni, presenting an organization that recently contracted the West Nile Virus, it’s the Brown University “wait, it’s not just a river in Egypt?!” BANNNDDDDDDDDDDD!
 

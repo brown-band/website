@@ -1,8 +1,8 @@
----
++++
 sport = "hockey"
 date = 1976-02-07
 opponent = "Penn"
----
++++
 
 Ladies and Gentlemen, Friends and Alumni, and all you Bleeding Hearts: Presenting the only band to ever get cursed at by Dial-a-Prayer, straight from a back alley in Chicago, it’s the Brown University Skating St. Valentine’s Day Massacre.
 

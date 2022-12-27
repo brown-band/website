@@ -1,4 +1,4 @@
----
++++
 sport = "football"
 date = 1983-10-08
 [teams.home]
@@ -7,7 +7,7 @@ score = 24
 [teams.away]
 name = "Brown"
 score = 24
----
++++
 
 Ladies and Gentlemen, Friends, Romans, and Countrymen: We come not to praise Penn, but to bury it. Direct from counting the cars on the New Jersey Turnpike, it’s the Brown University “the sword is mightier than the Penn” Band!
 

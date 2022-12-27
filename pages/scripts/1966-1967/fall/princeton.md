@@ -1,4 +1,4 @@
----
++++
 sport = "football"
 date = 1966-10-29
 subtitle = "Homecoming"
@@ -8,7 +8,7 @@ score = 17
 [teams.away]
 name = "Princeton"
 score = 24
----
++++
 
 Ladies and Gentlemen, presenting the Brown University Marching Band, Matin Fischer, Director; Laurence Pizer, President; Jack Monrad, Drummajor.
 

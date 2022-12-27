@@ -1,8 +1,8 @@
----
++++
 sport = "hockey"
 date = 1997-03-01
 opponent = "Dartmouth"
----
++++
 
 Ladies and gentlemen, friends and alumni, and a warm welcome to any and all wealthy patrons of the arts in attendance this evening, presenting an organization representing the pinnacle of artistic integrity -- yes, we DARE call it art -- it’s the Brown University Multimedia Installation on Ice!
 

@@ -1,11 +1,11 @@
----
++++
 sport = "hockey"
 date = 1984-02-25
 [teams.home]
 name = "Brown"
 [teams.away]
 name = "Yale"
----
++++
 
 :sd[Band skates out in sleepwear into a champagne glass]
 

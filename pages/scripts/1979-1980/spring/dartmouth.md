@@ -1,8 +1,8 @@
----
++++
 sport = "hockey"
 date = 1980-03-01
 opponent = "Dartmouth"
----
++++
 
 Ladies and gentlemen, friends and alumni, and all you nine hole greens, reemed by satellite from Lake Placid, New York, it’s the official band of the 1980 Olympics, the Brown University Band of Gold.
 

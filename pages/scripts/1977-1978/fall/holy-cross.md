@@ -1,4 +1,4 @@
----
++++
 sport = "football"
 date = 1977-10-22
 [teams.home]
@@ -7,7 +7,7 @@ score = 13
 [teams.away]
 name = "Brown"
 score = 44
----
++++
 
 Ladies and Gentlemen, Friends and Alumni, and all you holy Cross-Eyed Crusaders, presenting the only band that has ever come here out of Divine Providence, it’s the Brown University Altered Boys Band!
 

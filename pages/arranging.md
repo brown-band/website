@@ -1,6 +1,6 @@
----
++++
 title = "Arranging Music"
----
++++
 
 Members of the Brown Band are encouraged to arrange music for the Band to play! Some of our favorite songs are arrangements by current and past members of the Band.\
 If you are interested in arranging, you should let the [conductors](/leadership/#conductors) know before you get started! We’d be happy to give you suggestions, and we’ll check our library to make sure you don’t arrange a song we already have.

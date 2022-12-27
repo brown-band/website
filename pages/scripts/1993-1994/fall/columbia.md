@@ -1,4 +1,4 @@
----
++++
 sport = "football"
 date = 1993-11-20
 [teams.home]
@@ -7,7 +7,7 @@ score = 28
 [teams.away]
 name = "Columbia"
 score = 23
----
++++
 
 ## Halftime
 

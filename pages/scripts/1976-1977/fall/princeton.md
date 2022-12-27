@@ -1,4 +1,4 @@
----
++++
 sport = "football"
 date = 1976-10-02
 [teams.home]
@@ -7,7 +7,7 @@ score = 7
 [teams.away]
 name = "Brown"
 score = 13
----
++++
 
 Ladies and Gentlemen, Friends and Alumni, and all you Frosted Flakes. We all know that Princeton is lacking in the biology department, both educationally and physically. So the Brown Band has taken it upon itself to fill the void with every last juicy drop of information. So for all you bleeding hearts, presenting the Brown University Lonely Hearts Club Band.
 

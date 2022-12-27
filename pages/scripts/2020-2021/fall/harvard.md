@@ -1,8 +1,8 @@
----
++++
 opponent = "Harvard"
 subtitle = "Not performed due to COVID-19"
 date = 2020-09-26
----
++++
 
 Ladies and gentlemen, friends and alumni, presenting an organization that’s getting a repetitive strain wrist injury, and not from anything fun, it’s the Brown University “How Long Has My Camera Been On” BANNNDDDDDDDDDDD!
 

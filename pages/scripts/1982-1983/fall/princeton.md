@@ -1,4 +1,4 @@
----
++++
 sport = "football"
 date = 1982-10-02
 [teams.home]
@@ -7,7 +7,7 @@ score = 28
 [teams.away]
 name = "Brown"
 score = 23
----
++++
 
 Ladies and Gentlemen, Friends and Alumni, and all you unkissed oranges, it’s the Brown University Band News Bears.
 

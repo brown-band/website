@@ -1,4 +1,4 @@
----
++++
 sport = "football"
 date = 1977-11-05
 [teams.home]
@@ -7,7 +7,7 @@ score = 10
 [teams.away]
 name = "Brown"
 score = 13
----
++++
 
 Ladies and Gentlemen, Friends and Alumni, and all you well-fertilized Greens! Presenting, straight from a three-week self-defense course at the A.S.P.C.Us, the only Band that’s ever escaped from Hanover with their instruments intact, it’s the Brown University Don’t Take Us For Granite Band!
 

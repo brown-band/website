@@ -1,4 +1,4 @@
----
++++
 sport = "hockey"
 date = 1984-01-28
 [teams.home]
@@ -7,7 +7,7 @@ score = 5
 [teams.away]
 name = "Cornell"
 score = 4
----
++++
 
 Ladies and gentlemen, friends and alumni, and all you athletic supporters, it’s the official band of the 1984 Olympics!
 

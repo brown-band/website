@@ -1,4 +1,4 @@
----
++++
 sport = "football"
 date = 1980-10-25
 [teams.home]
@@ -7,7 +7,7 @@ score = 21
 [teams.away]
 name = "Holy Cross"
 score = 3
----
++++
 
 Ladies and Gentlemen, friends and alumni, and all you freshman mothers and fathers and their parents, it’s the Brown University Band for President.
 

@@ -1,4 +1,4 @@
----
++++
 sport = "football"
 date = 1975-10-04
 [teams.home]
@@ -7,7 +7,7 @@ score = 8
 [teams.away]
 name = "Brown"
 score = 17
----
++++
 
 Ladies and Gentlemen, friends and Alumni, and all you Milton Bradley dropouts, presenting the phoniest band that funny money can buy, straight from a two-week engagement monopolizing the streets of Atlantic City, New Jersey, it’s the Brown University all-purpose utility band.
 

@@ -1,4 +1,4 @@
----
++++
 sport = "hockey"
 date = 1988-02-06
 [teams.home]
@@ -7,7 +7,7 @@ score = 0
 [teams.away]
 name = "RPI"
 score = 6
----
++++
 
 Ladies and Gentlemen, Friends and Alumni, and all you Ands, Buts and Bobby Orrs, it’s the Brown University “Hell no, we won’t go!” Band!
 

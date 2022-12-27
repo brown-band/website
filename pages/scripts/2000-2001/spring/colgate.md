@@ -1,4 +1,4 @@
----
++++
 sport = "hockey"
 date = 2001-02-03
 [teams.home]
@@ -7,7 +7,7 @@ score = 1
 [teams.away]
 name = "Colgate"
 score = 4
----
++++
 
 Ladies and gentlemen, friends and alumni, presenting an organization that flosses daily, it’s the Brown University “say ahhh!!!” :sd[band says “aaaah”] Band!
 

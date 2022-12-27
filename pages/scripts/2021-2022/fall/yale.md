@@ -1,4 +1,4 @@
----
++++
 sport = "football"
 date = 2021-11-06
 subtitle = "Homecoming"
@@ -8,7 +8,7 @@ score = 38
 [teams.away]
 name = "Yale"
 score = 63
----
++++
 
 ## Pregame
 

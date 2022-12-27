@@ -1,4 +1,4 @@
----
++++
 sport = "football"
 date = 1977-09-24
 [teams.home]
@@ -7,7 +7,7 @@ score = 28
 [teams.away]
 name = "URI"
 score = 10
----
++++
 
 And we paid a dollar to see that? Get those walking carpets off the field! Ladies and gentlemen, friends and alumni, droids, sandpeople, Ramettes, and other Space Cadets! Presenting the only band that can travel through hyperspace as well as it dusts crops, it’s the Brown University Skywalker Band!
 

@@ -1,4 +1,4 @@
----
++++
 sport = "football"
 date = 1958-10-25
 [teams.home]
@@ -7,7 +7,7 @@ score = 47
 [teams.away]
 name = "URI"
 score = 6
----
++++
 
 :sd[Band forms in block in end zone.]
 

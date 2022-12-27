@@ -1,4 +1,4 @@
----
++++
 sport = "football"
 date = 1980-11-01
 [teams.home]
@@ -7,7 +7,7 @@ score = 17
 [teams.away]
 name = "Brown"
 score = 16
----
++++
 
 :sd[The show starts out with a single persen dressed as a witch on the 50-yard line. Four people carrying a carton painted like a house come out and drop the box on top of the witch. Dorothy and Toto then appear from the box.]
 

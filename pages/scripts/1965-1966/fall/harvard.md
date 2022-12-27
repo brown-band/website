@@ -1,4 +1,4 @@
----
++++
 sport = "football"
 date = 1965-11-13
 [teams.home]
@@ -7,7 +7,7 @@ score = 8
 [teams.away]
 name = "Harvard"
 score = 17
----
++++
 
 Ladies and Gentlemen, presenting the Brown University Marching Band, Martin Fischer, Director; Earl Holt, President; And Jack Monrad, Drum Major.
 

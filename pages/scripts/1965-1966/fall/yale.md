@@ -1,4 +1,4 @@
----
++++
 sport = "football"
 date = 1965-10-09
 [teams.home]
@@ -7,7 +7,7 @@ score = 3
 [teams.away]
 name = "Brown"
 score = 0
----
++++
 
 ::script-note[This script, along with a few others from this year, were typed on “United States Senate Committee on Interstate and Foreign Commerce” letterhead. — JF]
 

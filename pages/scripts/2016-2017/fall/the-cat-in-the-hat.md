@@ -1,6 +1,6 @@
----
++++
 date = 2016-10-26
----
++++
 
 Ladies and gentlemen, friends and alumni, presenting an organization that loves a good challenge, it’s the Brown University “now defend these candidates!” BANNNDDDDDDDDDDD!
 

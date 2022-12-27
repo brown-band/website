@@ -1,4 +1,4 @@
----
++++
 sport = "football"
 date = 1980-11-22
 [teams.home]
@@ -7,7 +7,7 @@ score = 13
 [teams.away]
 name = "Brown"
 score = 31
----
++++
 
 Ladies and gentlemen, friends and alumni, and flatulent felines, it’s the Brown University a vote for Carter is a vote for Reagan Band.
 

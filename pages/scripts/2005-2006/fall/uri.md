@@ -1,4 +1,4 @@
----
++++
 sport = "football"
 date = 2004-10-01
 [teams.home]
@@ -7,7 +7,7 @@ score = 45
 [teams.away]
 name = "URI"
 score = 35
----
++++
 
 ## Pregame
 

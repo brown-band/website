@@ -1,4 +1,4 @@
----
++++
 sport = "football"
 date = 1980-10-18
 [teams.home]
@@ -7,7 +7,7 @@ score = 25
 [teams.away]
 name = "Brown"
 score = 32
----
++++
 
 Ladies and gentlemen, friends and alumni, and all you Cornell flakes, it’s the Brown University Wedding Band.
 

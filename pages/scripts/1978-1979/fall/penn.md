@@ -1,4 +1,4 @@
----
++++
 sport = "football"
 date = 1978-10-14
 [teams.home]
@@ -7,7 +7,7 @@ score = 14
 [teams.away]
 name = "Penn"
 score = 0
----
++++
 
 Ladies and Gentlemen, Friends and Alumni, and all you freshman mothers and fathers, and their parents, presenting, direct from a syndicated column in the <u>New York Times</u> and the <u>New York Herald-Tribune</u>, it’s the Brown University Nothing to Write Home About Band.
 

@@ -1,4 +1,4 @@
----
++++
 sport = "hockey"
 date = 2016-02-06
 iceShowTheme = "Alumni"
@@ -8,7 +8,7 @@ score = 3
 [teams.away]
 name = "Dartmouth"
 score = 6
----
++++
 
 Ladies and gentlemen, friends and alumni, presenting an organization that’s back in Providence, it’s the Brown University “we hope that we’ve been missed” BANNNNDDDDDDDDDDD!
 

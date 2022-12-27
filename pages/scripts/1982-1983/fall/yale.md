@@ -1,4 +1,4 @@
----
++++
 sport = "football"
 date = 1982-09-18
 [teams.home]
@@ -7,7 +7,7 @@ score = 28
 [teams.away]
 name = "Yale"
 score = 21
----
++++
 
 Ladies and Gentlemen, Friends and Alumni, and all you future supporters of the band, it’s the Brown University, “Don’t we need new uniforms?” Band.
 

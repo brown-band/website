@@ -1,4 +1,4 @@
----
++++
 sport = "hockey"
 date = 1986-12-06
 [teams.home]
@@ -7,7 +7,7 @@ score = 4
 [teams.away]
 name = "St. Lawrence"
 score = 3
----
++++
 
 Ladies and Gentlemen, Friends and Alumni, presenting an organization whose left foot doesn’t know what its right foot is doing—sort of like one of our national Presidents; it’s the Brown University “Master skating” Band!
 

@@ -1,4 +1,4 @@
----
++++
 sport = "football"
 date = 1978-10-28
 [teams.home]
@@ -7,7 +7,7 @@ score = 31
 [teams.away]
 name = "Holy Cross"
 score = 25
----
++++
 
 Ladies and Gentlemen, Friends and Alumni, Brothers and Sisters, and all you sacred cows, presenting, direct from a 40-year engagement moseying around in the Sinai Desert, it’s the Brown University Reigning Catechismic and Dogmatic Band!
 

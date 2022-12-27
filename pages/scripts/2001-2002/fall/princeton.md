@@ -1,4 +1,4 @@
----
++++
 sport = "football"
 date = 2001-10-13
 [teams.home]
@@ -7,7 +7,7 @@ score = 35
 [teams.away]
 name = "Princeton"
 score = 24
----
++++
 
 ::script-note[Halftime for this show was never written as we knew ahead of time that it would be claimed my Manos.]
 

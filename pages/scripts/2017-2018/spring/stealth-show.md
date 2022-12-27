@@ -1,6 +1,6 @@
----
++++
 date = 2018-04-24
----
++++
 
 Ladies and gentlemen, friends and alumni, presenting an organization that is hoping finals will go away if we plug our ears, it’s the Brown University “lalalalalalalalala” Band!
 

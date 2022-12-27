@@ -1,4 +1,4 @@
----
++++
 sport = "football"
 date = 1981-10-17
 [teams.home]
@@ -7,7 +7,7 @@ score = 9
 [teams.away]
 name = "Cornell"
 score = 14
----
++++
 
 ## Halftime
 

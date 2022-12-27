@@ -1,4 +1,4 @@
----
++++
 sport = "hockey"
 date = 2011-02-04
 [teams.home]
@@ -7,7 +7,7 @@ score = 0
 [teams.away]
 name = "Dartmouth"
 score = 3
----
++++
 
 Ladies and Gentlemen, friends and alumni, presenting an organization that just hibernated for six weeks, it’s the Brown University “We literally ARE Brown Bears” BAAAANNNNNNNNDDDDDDDDD!
 

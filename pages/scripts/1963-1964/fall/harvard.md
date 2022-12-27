@@ -1,4 +1,4 @@
----
++++
 sport = "football"
 date = 1963-11-16
 [teams.home]
@@ -7,7 +7,7 @@ score = 12
 [teams.away]
 name = "Harvard"
 score = 24
----
++++
 
 Presenting the Brown Univ. Marching Band:\
 :script-tab Martin Fischer, Conductor\

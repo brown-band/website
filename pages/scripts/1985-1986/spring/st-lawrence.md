@@ -1,4 +1,4 @@
----
++++
 sport = "hockey"
 date = 1986-02-15
 [teams.home]
@@ -7,7 +7,7 @@ score = 3
 [teams.away]
 name = "St. Lawrence"
 score = 5
----
++++
 
 ::script-note[Never performed.]
 

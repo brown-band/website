@@ -1,4 +1,4 @@
----
++++
 sport = "football"
 date = 1999-11-13
 [teams.home]
@@ -7,7 +7,7 @@ score = 35
 [teams.away]
 name = "Dartmouth"
 score = 28
----
++++
 
 ## Halftime
 

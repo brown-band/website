@@ -1,4 +1,4 @@
----
++++
 sport = "football"
 date = 1993-10-16
 subtitle = "Parents’ Weekend"
@@ -8,7 +8,7 @@ score = 21
 [teams.away]
 name = "Bucknell"
 score = 12
----
++++
 
 ## Pregame
 

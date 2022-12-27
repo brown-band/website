@@ -1,4 +1,4 @@
----
++++
 sport = "football"
 date = 1983-10-22
 [teams.home]
@@ -7,7 +7,7 @@ score = 31
 [teams.away]
 name = "Brown"
 score = 10
----
++++
 
 No, wait—stay in the stands, please! Don’t leave. We’ll be good this time, we promise. Really. Just stay here and see how nice we can be. Thanks, we really appreciate it. Ladies and gentlemen, friends and alumni, and all you purveyors of fine halftime entertainment, it’s the Brown University “quality” Band!
 

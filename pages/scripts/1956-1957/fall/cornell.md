@@ -1,4 +1,4 @@
----
++++
 sport = "football"
 date = 1956-11-10
 subtitle = "Homecoming"
@@ -8,7 +8,7 @@ score = 13
 [teams.away]
 name = "Cornell"
 score = 6
----
++++
 
 ## Pregame
 

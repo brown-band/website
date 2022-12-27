@@ -1,4 +1,4 @@
----
++++
 sport = "soccer"
 date = 2022-10-15
 [teams.home]
@@ -7,7 +7,7 @@ score = 1
 [teams.away]
 name = "Harvard"
 score = 1
----
++++
 
 Ladies and gentlemen, friends and alumni, presenting an organization that is about to run around screaming, it’s the Brown University “AAAAAAAAAAAAAAA” BANNNDDDDDDDDDDD!
 

@@ -1,4 +1,4 @@
----
++++
 sport = "football"
 date = 1982-11-13
 subtitle = "Homecoming & Senior Show"
@@ -8,7 +8,7 @@ score = 16
 [teams.away]
 name = "Dartmouth"
 score = 22
----
++++
 
 ## Pregame
 

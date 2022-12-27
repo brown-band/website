@@ -1,4 +1,4 @@
----
++++
 sport = "football"
 date = 2001-09-29
 [teams.home]
@@ -7,7 +7,7 @@ score = 38
 [teams.away]
 name = "URI"
 score = 42
----
++++
 
 ::script-note[Sadly, the only known use of the term “foot candle” in a band script context was cut by ceremony’s harsh mohel. Be on the lookout for its appearance next season.]
 

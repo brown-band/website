@@ -1,7 +1,7 @@
----
++++
 title = "Fanueil Hall Show"
 date = 1998-02-28
----
++++
 
 Ladies and Gentlemen, friends and alumni, presenting the organization that trashed the U.S. Men’s Hockey Team’s hotel room, it’s the Brown University “Really, it was us. For real. Really!” Band!!
 

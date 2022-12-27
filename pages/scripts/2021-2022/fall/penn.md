@@ -1,4 +1,4 @@
----
++++
 sport = "football"
 date = 2021-10-30
 subtitle = "Halloween Show"
@@ -8,7 +8,7 @@ score = 17
 [teams.away]
 name = "Brown"
 score = 17
----
++++
 
 ## Pregame
 

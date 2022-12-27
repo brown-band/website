@@ -1,6 +1,6 @@
----
++++
 summary = "If you are a fellow band and you are coming up to Brown University, then this is the place for you! Follow the below guidelines to help us out as well as make sure your journey to and stay at Brown goes smoothly:"
----
++++
 
 At least three weeks before the event, you should email our [Corresponding Secretary](/leadership/#corresponding-secretary) at [brownbandcorsec@gmail.com](mailto:brownbandcorsec@gmail.com).
 

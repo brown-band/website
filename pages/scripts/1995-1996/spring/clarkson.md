@@ -1,8 +1,8 @@
----
++++
 sport = "hockey"
 date = 1996-02-24
 opponent = "Clarkson"
----
++++
 
 :sd[Band gathers at edge of ice and shivers in anticipation, or maybe it’s just the cold]
 

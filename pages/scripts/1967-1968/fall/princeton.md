@@ -1,4 +1,4 @@
----
++++
 sport = "football"
 date = 1967-11-04
 [teams.home]
@@ -7,7 +7,7 @@ score = 48
 [teams.away]
 name = "Brown"
 score = 14
----
++++
 
 ::script-note[this one is the same as the Yale script. huh. — JF]
 

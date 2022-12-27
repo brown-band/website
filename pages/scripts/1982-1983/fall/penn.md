@@ -1,4 +1,4 @@
----
++++
 sport = "football"
 date = 1982-10-09
 [teams.home]
@@ -7,7 +7,7 @@ score = 21
 [teams.away]
 name = "Penn"
 score = 24
----
++++
 
 Ladies and Gentlemen, Friends and Alumni, and all you Penn tup Frustrations, it’s the Brown University “Why are all famous men named after holidays” Band!!
 

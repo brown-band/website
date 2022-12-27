@@ -1,4 +1,4 @@
----
++++
 sport = "football"
 date = 2022-09-24
 [teams.home]
@@ -7,7 +7,7 @@ score = 28
 [teams.away]
 name = "Harvard"
 score = 35
----
++++
 
 ## Pregame
 

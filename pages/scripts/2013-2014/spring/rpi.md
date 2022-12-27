@@ -1,4 +1,4 @@
----
++++
 sport = "hockey"
 date = 2014-02-28
 iceShowTheme = "Alumni"
@@ -8,7 +8,7 @@ score = 0
 [teams.away]
 name = "RPI"
 score = 3
----
++++
 
 Ladies and gentlemen, friends and alumni, presenting an organization that today consists of friends and alumni, it’s the Brown University “ladies and gentlemen” BAAAAAND!
 

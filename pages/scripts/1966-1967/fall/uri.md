@@ -1,4 +1,4 @@
----
++++
 sport = "football"
 date = 1966-09-24
 [teams.home]
@@ -7,7 +7,7 @@ score = 40
 [teams.away]
 name = "URI"
 score = 14
----
++++
 
 Brown University Presents… That Damn Band!
 

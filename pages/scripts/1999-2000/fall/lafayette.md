@@ -1,4 +1,4 @@
----
++++
 sport = "football"
 date = 1999-09-25
 [teams.home]
@@ -7,7 +7,7 @@ score = 35
 [teams.away]
 name = "Lafayette"
 score = 28
----
++++
 
 ## Pregame
 

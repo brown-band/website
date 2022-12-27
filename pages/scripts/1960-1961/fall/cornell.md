@@ -1,4 +1,4 @@
----
++++
 sport = "football"
 date = 1960-11-05
 [teams.home]
@@ -7,7 +7,7 @@ score = 7
 [teams.away]
 name = "Cornell"
 score = 6
----
++++
 
 Ladies and Gentlemen: The Drown University Marching Band\
 Martin Fischer, Director : Farrell Fleming Drum Major.

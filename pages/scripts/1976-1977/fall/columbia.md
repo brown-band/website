@@ -1,4 +1,4 @@
----
++++
 sport = "football"
 date = 1976-11-13
 [teams.home]
@@ -7,7 +7,7 @@ score = 17
 [teams.away]
 name = "Brown"
 score = 28
----
++++
 
 Ladies and gentleman, friends and alumni, and all you Bronx Zoo Escapees.
 

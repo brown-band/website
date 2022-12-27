@@ -1,7 +1,7 @@
----
++++
 title = "Sound Off!"
 summary = "The following is a transcription of a booklet that was produced in commemoration of the Brown Band’s 50<sup>th</sup> anniversary in 1974. Authorship is unknown and assumed to be anonymous."
----
++++
 
 In the fall of 1924 a tall, blond Freshman sat with a group of classmates in the old wooden football stands of Andrews Field preparing to watch his first Brown football contest. Before the kickoff he turned to ask a Sophomore acquaintance when the Brown Band would put in an appearance.
 

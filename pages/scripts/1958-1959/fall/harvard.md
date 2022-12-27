@@ -1,4 +1,4 @@
----
++++
 sport = "football"
 date = 1958-11-15
 [teams.home]
@@ -7,7 +7,7 @@ score = 22
 [teams.away]
 name = "Brown"
 score = 29
----
++++
 
 ## Pregame
 

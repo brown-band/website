@@ -1,4 +1,4 @@
----
++++
 sport = "football"
 date = 1967-10-21
 subtitle = "Homecoming"
@@ -8,7 +8,7 @@ score = 7
 [teams.away]
 name = "Dartmouth"
 score = 41
----
++++
 
 ## Longer Version
 

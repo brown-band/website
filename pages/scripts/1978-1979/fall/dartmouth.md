@@ -1,4 +1,4 @@
----
++++
 sport = "football"
 date = 1978-11-11
 [teams.home]
@@ -7,7 +7,7 @@ score = 21
 [teams.away]
 name = "Dartmouth"
 score = 31
----
++++
 
 Ladies and Gentlemen, Friends and Alumni, and all you grosser greens, the Brown Band takes you back to the good old days, when men were men and women were chaste. Presenting the Brown University Catch as Catch Can Band!
 

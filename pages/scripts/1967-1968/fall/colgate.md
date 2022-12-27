@@ -1,4 +1,4 @@
----
++++
 sport = "football"
 date = 1967-10-28
 [teams.home]
@@ -7,7 +7,7 @@ score = 7
 [teams.away]
 name = "Colgate"
 score = 0
----
++++
 
 ## Long Version
 

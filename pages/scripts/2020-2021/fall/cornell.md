@@ -1,8 +1,8 @@
----
++++
 opponent = "Cornell"
 subtitle = "Not performed due to COVID-19"
 date = 2020-10-03
----
++++
 
 :sd[Star Wars rolling credits]
 

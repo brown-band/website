@@ -1,4 +1,4 @@
----
++++
 sport = "football"
 date = 1980-09-27
 [teams.home]
@@ -7,7 +7,7 @@ score = 20
 [teams.away]
 name = "Bucknell"
 score = 28
----
++++
 
 Ladies and gentlemen, friends and alumni, and all you buckwheats, it’s the Brown University Custard’s Last Band.
 

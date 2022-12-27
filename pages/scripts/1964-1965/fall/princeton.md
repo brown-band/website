@@ -1,4 +1,4 @@
----
++++
 sport = "football"
 date = 1964-10-31
 [teams.home]
@@ -7,7 +7,7 @@ score = 0
 [teams.away]
 name = "Princeton"
 score = 14
----
++++
 
 ## Pregame
 

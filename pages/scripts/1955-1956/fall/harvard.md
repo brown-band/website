@@ -1,4 +1,4 @@
----
++++
 sport = "football"
 date = 1955-11-12
 [teams.home]
@@ -7,7 +7,7 @@ score = 6
 [teams.away]
 name = "Brown"
 score = 14
----
++++
 
 :sd[Band plays chord]\
 :sd[Announcer begins reading right after chord]\

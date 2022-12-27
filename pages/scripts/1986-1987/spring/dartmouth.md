@@ -1,11 +1,11 @@
----
++++
 sport = "hockey"
 date = 1987-02-01
 [teams.home]
 name = "Brown"
 [teams.away]
 name = "Dartmouth"
----
++++
 
 Ladies and Gentlemen, Friends and Alumni, back from the third leg of the America’s Cup where they raised the spirits of many by being athletic supporters down under; it’s the Brown University; “Give us six million dollars or else Oral Roberts will live” Band.
 

@@ -1,4 +1,4 @@
----
++++
 sport = "football"
 date = 1977-10-29
 [teams.home]
@@ -7,7 +7,7 @@ score = 20
 [teams.away]
 name = "Harvard"
 score = 15
----
++++
 
 Ladies and Gentlemen, Friends and Alumni, and all you little Red Rotten Hoods, presenting, straight from a 3 week engagement in Las Vegas, and a quickie divorce in Reno, the only band any alumnus would be proud to take home to Mother (while Father’s out of town), it’s the Brown University Pre-alumni Band, with no strings attached.
 

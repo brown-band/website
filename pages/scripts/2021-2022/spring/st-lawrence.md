@@ -1,4 +1,4 @@
----
++++
 sport = "hockey"
 date = 2022-02-05
 iceShowTheme = "Alumni"
@@ -8,7 +8,7 @@ score = 1
 [teams.away]
 name = "St. Lawrence"
 score = 2
----
++++
 
 Ladies and gentlemen, friends and alumni, presenting an organization that came here to play hockey and break ankles, and just ran out of hockey, it’s the Brown University “Dunking on the Olds” BAND!!!!
 

@@ -1,11 +1,11 @@
----
++++
 sport = "hockey"
 date = 1983-02-05
 [teams.home]
 name = "Brown"
 [teams.away]
 name = "Dartmouth"
----
++++
 
 Ladies and Gentlemen, Friends and Alumni, and all you excited participants, it’s the Brown University “Not ready for the Ice Capades” Band.
 

@@ -1,4 +1,4 @@
----
++++
 sport = "football"
 date = 2001-09-22
 [teams.home]
@@ -7,7 +7,7 @@ score = 27
 [teams.away]
 name = "Brown"
 score = 20
----
++++
 
 ::script-note[This is the first trial of a virgin scriptwright. As you may notice, it runs a little long, and was cut both for length and for content (who knew people would be upset by Lawrence Summers references?). It exists here in its original form.]
 

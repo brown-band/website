@@ -1,4 +1,4 @@
----
++++
 sport = "football"
 date = 1967-10-14
 [teams.home]
@@ -7,7 +7,7 @@ score = 35
 [teams.away]
 name = "Brown"
 score = 0
----
++++
 
 Introducing the Brown University Marching Band, Don Kent, President; Frank Marrianoccio, Director; Mark Hochberg, Ken Pasternak and Don Herron Drum Majors.
 

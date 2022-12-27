@@ -1,4 +1,4 @@
----
++++
 sport = "football"
 date = 1998-10-17
 [teams.home]
@@ -7,7 +7,7 @@ score = 38
 [teams.away]
 name = "Fordham"
 score = 27
----
++++
 
 ## Pregame
 

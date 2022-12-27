@@ -1,8 +1,8 @@
----
++++
 sport = "hockey"
 date = 1978-02-25
 opponent = "Dartmouth"
----
++++
 
 Ladies and gentlemen, friends and alumni, and all you semi-tough, semi-intelligent, semi-tight, semi-Ivy League Dartmouth semi-literates, presenting — direct from appearances on the <u>Today Show</u>, the <u>NBC News</u>, <u>WJAR Newscam 10</u>, the <u>Providence-Journal Bulletin</u>, <u>AND</u> the grand ballroom of the Holiday Inn — it’s those debutantes of the snow balls, the Brown University semi-formal, semi-skating, coming-out Band.
 

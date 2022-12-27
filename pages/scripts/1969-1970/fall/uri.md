@@ -1,4 +1,4 @@
----
++++
 sport = "football"
 date = 1969-09-27
 [teams.home]
@@ -7,7 +7,7 @@ score = 21
 [teams.away]
 name = "URI"
 score = 0
----
++++
 
 :sd[Read while the Band is in the bushes]\
 Ladies, Gentlemen, Friends, and Alumni, it’s that All New Razzmatazz <u>Damn</u> Co-Ed Band.

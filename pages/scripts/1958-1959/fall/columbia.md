@@ -1,4 +1,4 @@
----
++++
 sport = "football"
 date = 1958-09-27
 [teams.home]
@@ -7,7 +7,7 @@ score = 0
 [teams.away]
 name = "Brown"
 score = 22
----
++++
 
 :sd[Band marks time while announcer reads]
 

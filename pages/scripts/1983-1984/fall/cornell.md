@@ -1,4 +1,4 @@
----
++++
 sport = "football"
 date = 1983-10-15
 subtitle = "Parent’s Weekend"
@@ -8,7 +8,7 @@ score = 14
 [teams.away]
 name = "Cornell"
 score = 3
----
++++
 
 Ladies and gentlemen, friends and alumni, and a11 you freshman mothers and fathers, and their parents, presenting the only band you are encouraged to bend, staple, and mutilate, it’s the Brown University “wait—isn’t that a six pack on the fifty-yard line?” Band!
 

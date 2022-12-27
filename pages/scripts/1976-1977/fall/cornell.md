@@ -1,4 +1,4 @@
----
++++
 sport = "football"
 date = 1976-10-16
 [teams.home]
@@ -7,7 +7,7 @@ score = 12
 [teams.away]
 name = "Brown"
 score = 28
----
++++
 
 Ladies and Gentleman, Friends and Alumni, and all you panama red. Presenting the only band to be thrown out at home for reaching third base, direct from a seventh inning stretch, it’s the Brown University Rubber Band.
 

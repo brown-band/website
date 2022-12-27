@@ -1,8 +1,8 @@
----
++++
 sport = "hockey"
 date = 1978-02-04
 opponent = "Penn"
----
++++
 
 Ladies and Gentlemen, Friends and Alumni, and all you rested and relaxed returning rambunctious rink rooters, Presenting: Meehan’s most monotonously melodious macho morons meticulously mangling Mozart’s marvelous melodies, and making much more mature music than most mere mortal matriculators could possibly want to hear. It’s the world’s only and 17th best skating band, the Brown University World War II Precision Skating Drill Team!
 

@@ -1,4 +1,4 @@
----
++++
 sport = "football"
 date = 2001-10-06
 [teams.home]
@@ -7,7 +7,7 @@ score = 40
 [teams.away]
 name = "Fordham"
 score = 23
----
++++
 
 ::script-note[Techhouse is the new band frat.]
 

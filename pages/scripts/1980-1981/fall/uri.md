@@ -1,4 +1,4 @@
----
++++
 sport = "football"
 date = 1980-11-27
 subtitle = "Thanksgiving"
@@ -8,7 +8,7 @@ score = 9
 [teams.away]
 name = "URI"
 score = 3
----
++++
 
 Ladies and gentlemen, friends and alumni, and that entire RAM band, presenting the only turkey band in Rhode Island, the Brown University “Do you think we’ll make Macy’s by 12?” Band.
 

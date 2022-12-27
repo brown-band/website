@@ -1,8 +1,8 @@
----
++++
 sport = "hockey"
 date = 1978-12-09
 opponent = "Harvard"
----
++++
 
 Ladies and Gentlemen, Friends and Alumni, and all you high holiday cantor-bridgians, presenting, direct from a front page article in the <u>Brown Daily Herald</u>, it’s the Brown University Muckraking Band!
 

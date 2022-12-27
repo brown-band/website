@@ -1,4 +1,4 @@
----
++++
 sport = "football"
 date = 1961-09-30
 [teams.home]
@@ -7,7 +7,7 @@ score = 0
 [teams.away]
 name = "Columbia"
 score = 50
----
++++
 
 Ladies and Gentlemen, Introducing the Brown University Marching Band.\
 Farrell Fleming - Drum Major\

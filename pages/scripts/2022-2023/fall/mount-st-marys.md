@@ -1,4 +1,4 @@
----
++++
 sport = "rugby"
 date = 2022-10-01
 [teams.home]
@@ -7,7 +7,7 @@ score = 33
 [teams.away]
 name = "Mount St. Mary’s"
 score = 0
----
++++
 
 Ladies and gentlemen, friends and alumni, presenting an organization of cuddly bunnies, it’s the Brown University “what are you doing with that glockenspiel?” BANNNDDDDDDDDDDD!
 

@@ -1,4 +1,4 @@
----
++++
 sport = "hockey"
 date = 1985-02-02
 [teams.home]
@@ -7,7 +7,7 @@ score = 2
 [teams.away]
 name = "Harvard"
 score = 3
----
++++
 
 Lady and gentleman, friend and alumnus, and the people who are making us do our show after the game, it’s the Brown University “This is even more fun than Winter Weekend” Band!
 

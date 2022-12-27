@@ -1,4 +1,4 @@
----
++++
 sport = "football"
 date = 1958-10-04
 [teams.home]
@@ -7,7 +7,7 @@ score = 35
 [teams.away]
 name = "Yale"
 score = 29
----
++++
 
 :sd[Band in block on goal line]
 

@@ -1,4 +1,4 @@
----
++++
 sport = "football"
 date = 2001-10-20
 [teams.home]
@@ -7,7 +7,7 @@ score = 14
 [teams.away]
 name = "Penn"
 score = 27
----
++++
 
 ::script-note[This script was for parents’ weekend. Thanks go out to all the Bible resources on the web, and King “Elvis” James for his version of said Book.]
 

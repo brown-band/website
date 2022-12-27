@@ -1,4 +1,4 @@
----
++++
 sport = "football"
 date = 1975-09-27
 [teams.home]
@@ -7,7 +7,7 @@ score = 41
 [teams.away]
 name = "URI"
 score = 20
----
++++
 
 Enough of these RAM-ifications, Ladies, and Gentlemen, Friends and Alumni and all you sheepish grins, presenting the only band who’s hairdresser doesn’t even know for sure, straight from a quick engagement in the U.R.I. locker room, it’s the Pembroke College bump and grind Band.
 

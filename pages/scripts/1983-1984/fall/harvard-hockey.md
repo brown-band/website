@@ -1,4 +1,4 @@
----
++++
 sport = "hockey"
 date = 1983-12-03
 [teams.home]
@@ -7,7 +7,7 @@ score = 3
 [teams.away]
 name = "Harvard"
 score = 2
----
++++
 
 Ladies and Gentlemen, Friends and Alumni, and all you pre-professional pugilists, it’s the Brown University “Did you know they have plus-minus grading at Harvard, too?” Band!
 

@@ -1,4 +1,4 @@
----
++++
 sport = "football"
 date = 1997-11-08
 [teams.home]
@@ -7,7 +7,7 @@ score = 10
 [teams.away]
 name = "Harvard"
 score = 27
----
++++
 
 :::script-note
 

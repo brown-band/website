@@ -1,4 +1,4 @@
----
++++
 sport = "football"
 date = 1983-10-01
 subtitle = "Homecoming"
@@ -8,7 +8,7 @@ score = 16
 [teams.away]
 name = "Princeton"
 score = 27
----
++++
 
 Ladies and gentlemen, friends and alumni, and all you little Princetons and princesses, sit back and relax as you hear the tale of the Princeton and the Pauper, as told by the Brown University “hippyish and laid back” Band.
 

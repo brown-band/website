@@ -1,8 +1,8 @@
----
++++
 sport = "hockey"
 date = 1980-02-09
 opponent = "Princeton"
----
++++
 
 Ladies and gentlemen, friends and alumni, it’s Saturday night! And it’s time for the Mr. Bill Show. We’re going to send Mr. Bill to the Princeton Eating Clubs. Look, here comes dinner.
 

@@ -1,4 +1,4 @@
----
++++
 sport = "football"
 date = 1982-10-30
 [teams.home]
@@ -7,7 +7,7 @@ score = 34
 [teams.away]
 name = "Brown"
 score = 0
----
++++
 
 Ladies and Gentlemen, friends and alumni, and all you Commoners, presenting 150 of the 11,000,000 unemployed Americans, it’s the Brown University “It’s all Reagan’s fault” Band.
 

@@ -1,4 +1,4 @@
----
++++
 sport = "hockey"
 # original source said January 6, 2006, which was an
 # away game and almost certainly during winter break.
@@ -10,7 +10,7 @@ score = 5
 [teams.away]
 name = "Quinnipiac"
 score = 3
----
++++
 
 :sd[Read with Morgan Freeman-esque timbre]
 

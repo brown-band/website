@@ -1,4 +1,4 @@
----
++++
 sport = "football"
 date = 2021-10-16
 subtitle = "Family Weekend"
@@ -8,7 +8,7 @@ score = 42
 [teams.away]
 name = "Princeton"
 score = 56
----
++++
 
 ## Pregame
 

@@ -1,4 +1,4 @@
----
++++
 sport = "football"
 date = 1966-10-08
 [teams.home]
@@ -7,7 +7,7 @@ score = 24
 [teams.away]
 name = "Brown"
 score = 0
----
++++
 
 Ladies and Gentlemen, presenting the Brown University Marching Band Martin Ficher, Director; Laurence Pixer, President; And Jack Monrad, Drum Major, in a salute to the non-candidates on 1966.
 

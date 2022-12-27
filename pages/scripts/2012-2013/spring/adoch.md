@@ -1,6 +1,6 @@
----
++++
 date = 2013-04-15
----
++++
 
 Ladies and Gentlemen, prospective friends and prospective alumni, presenting an organization that expects all of you to join it, it’s the Brown University “SHAMELESS SELF PROMOTION” Baaannnnnnnddddd!!!!
 

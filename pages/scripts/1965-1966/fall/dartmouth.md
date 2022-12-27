@@ -1,4 +1,4 @@
----
++++
 sport = "football"
 date = 1965-10-16
 subtitle = "Homecoming"
@@ -8,7 +8,7 @@ score = 9
 [teams.away]
 name = "Dartmouth"
 score = 35
----
++++
 
 Ladies and gentlemen, presenting the Brown University Marching band, Martin Fischer, Director; Earl Holt, President; and Jack Monrad, Drum Major.
 

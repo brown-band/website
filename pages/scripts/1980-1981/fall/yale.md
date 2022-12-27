@@ -1,4 +1,4 @@
----
++++
 sport = "football"
 date = 1980-09-20
 [teams.home]
@@ -7,7 +7,7 @@ score = 17
 [teams.away]
 name = "Yale"
 score = 45
----
++++
 
 Ladies and gentlemen, friends and alumni, and all you freshmen newcomers, presenting the Brown University Matriculating Band.
 

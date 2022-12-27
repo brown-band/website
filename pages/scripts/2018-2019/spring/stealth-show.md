@@ -1,6 +1,6 @@
----
++++
 date = 2019-04-25
----
++++
 
 Ladies and gentlemen, friends and alumni, presenting an organization that wasn’t invited to Spring Weekend for the 69th year in a row, it’s the Brown University “LET US IIIIIIIN” BANNNDDDDDDDDDDD!
 

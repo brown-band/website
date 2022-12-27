@@ -1,4 +1,4 @@
----
++++
 sport = "football"
 date = 2013-10-12
 [teams.home]
@@ -7,7 +7,7 @@ score = 14
 [teams.away]
 name = "Brown"
 score = 41
----
++++
 
 ## Pregame
 

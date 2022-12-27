@@ -1,4 +1,4 @@
----
++++
 sport = "hockey"
 date = 2012-02-17
 [teams.home]
@@ -7,7 +7,7 @@ score = 3
 [teams.away]
 name = "Harvard"
 score = 3
----
++++
 
 Ladies and Gentlemen, friends and alumni, presenting an organization that’s never gonna give you up, it’s the Brown University “Rick Astley Was Cool Once!” BAAAANNNNNNNNDDDDDDDDD!
 

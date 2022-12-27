@@ -1,4 +1,4 @@
----
++++
 sport = "football"
 date = 1980-10-11
 [teams.home]
@@ -7,7 +7,7 @@ score = 42
 [teams.away]
 name = "Penn"
 score = 22
----
++++
 
 Ladies and gentlemen, friends and alumni, and all you quaker oats, it’s the Brown University “We used Penn as a backup school” Band.
 

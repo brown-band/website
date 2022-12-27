@@ -1,4 +1,4 @@
----
++++
 sport = "football"
 date = 1962-09-29
 [teams.home]
@@ -7,7 +7,7 @@ score = 22
 [teams.away]
 name = "Brown"
 score = 20
----
++++
 
 Introducing the Brown University Marching Band, Martin Fischer, Director, Dennis Wyckoff, Drum Major.
 

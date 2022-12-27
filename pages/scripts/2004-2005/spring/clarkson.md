@@ -1,4 +1,4 @@
----
++++
 sport = "hockey"
 date = 2005-02-19
 [teams.home]
@@ -7,7 +7,7 @@ score = 5
 [teams.away]
 name = "Clarkson"
 score = 2
----
++++
 
 Ladies and Gentleman, Alumni, and People Who are Just Friends, We Swear, presenting an organization that’s 86% effective when used correctly, it’s the Brown University “Does my tongue taste funny to you?,” BAND!
 

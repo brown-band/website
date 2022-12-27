@@ -1,4 +1,4 @@
----
++++
 sport = "football"
 date = 1980-10-04
 [teams.home]
@@ -7,7 +7,7 @@ score = 11
 [teams.away]
 name = "Brown"
 score = 28
----
++++
 
 Ladies and gentlemen, friends and alumni, and all you Nassau nerds, it’s the Brown University if you’ve got athletes foot, don’t blame Desenex, footballing Band.
 

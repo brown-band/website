@@ -1,4 +1,4 @@
----
++++
 sport = "football"
 date = 1978-11-04
 [teams.home]
@@ -7,7 +7,7 @@ score = 30
 [teams.away]
 name = "Brown"
 score = 31
----
++++
 
 Ladies and Gentlemen, Friends and Alumni, and all you Harvard yardbirds, presenting, straight from a record breaking engagement at WBRU, it’s the Brown University “Anything You Can Do We Can Do Bigger” Band!
 

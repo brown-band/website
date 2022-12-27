@@ -1,4 +1,4 @@
----
++++
 sport = "football"
 date = 1966-10-01
 [teams.home]
@@ -7,7 +7,7 @@ score = 0
 [teams.away]
 name = "Penn"
 score = 20
----
++++
 
 Ladies and Gentlemen, presenting the Brown University Marching Band, Martin Fischer, Director; Laurence Pizer, President; And Jack Monrad, Drum Major, in a salute to Pembrokers and Pembroke on its 75th Anniversity.
 

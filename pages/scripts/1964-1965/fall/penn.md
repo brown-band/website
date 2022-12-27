@@ -1,4 +1,4 @@
----
++++
 sport = "football"
 date = 1964-10-03
 [teams.home]
@@ -7,7 +7,7 @@ score = 3
 [teams.away]
 name = "Penn"
 score = 0
----
++++
 
 :sd[Band blocks in end zone. Band comes to attention.]
 

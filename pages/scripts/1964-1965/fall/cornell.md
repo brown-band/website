@@ -1,4 +1,4 @@
----
++++
 sport = "football"
 date = 1964-11-07
 [teams.home]
@@ -7,7 +7,7 @@ score = 31
 [teams.away]
 name = "Cornell"
 score = 28
----
++++
 
 :sd[Block in Endzone]
 

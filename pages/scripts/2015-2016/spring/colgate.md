@@ -1,4 +1,4 @@
----
++++
 sport = "hockey"
 date = 2016-02-13
 iceShowTheme = "Sci-Fi"
@@ -8,7 +8,7 @@ score = 2
 [teams.away]
 name = "Colgate"
 score = 3
----
++++
 
 :sd[The first script used following a women’s hockey game in the history of the Brown Band]
 

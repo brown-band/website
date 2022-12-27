@@ -1,4 +1,4 @@
----
++++
 sport = "football"
 date = 2006-09-30
 [teams.home]
@@ -7,7 +7,7 @@ score = 28
 [teams.away]
 name = "Brown"
 score = 21
----
++++
 
 <!-- not sure what the original punctuation for U.RI and U..RI was intended to be before it got blown away (before I got my hands on it) -->
 

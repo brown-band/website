@@ -1,4 +1,4 @@
----
++++
 sport = "football"
 date = 1976-11-06
 [teams.home]
@@ -7,7 +7,7 @@ score = 35
 [teams.away]
 name = "Dartmouth"
 score = 21
----
++++
 
 Ladies and Gentleman, Friends and Alumni, and all you—:sd[change voice] Now wait a minute; I’m fed up with these band shenanigans, and all this beating around the bush. Come out from behind there and for once act like a real band.
 

@@ -1,4 +1,4 @@
----
++++
 sport = "hockey"
 date = 2012-02-03
 [teams.home]
@@ -7,7 +7,7 @@ score = 1
 [teams.away]
 name = "Clarkson"
 score = 3
----
++++
 
 Ladies and Gentlemen, friends and alumni, presenting an organization that isn’t a bird and isn’t a plane, it’s the Brown University “HOLY COUNTERSKATE, BATMAN!” BAAAANNNNNNNNDDDDDDDDD!
 

@@ -1,4 +1,4 @@
----
++++
 sport = "football"
 date = 1978-10-21
 [teams.home]
@@ -7,7 +7,7 @@ score = 13
 [teams.away]
 name = "Brown"
 score = 21
----
++++
 
 Ladies and Gentlemen, Friends and Alumni, and all you 4-H Farm Leaguers, presenting the scourge of New England, the Brown University Carberry High School Band, with drum major, Elrod #hitecomb, president, Buster Highman, and the Brazenettes, Bubbles and Boopsie.
 

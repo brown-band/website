@@ -1,4 +1,4 @@
----
++++
 sport = "football"
 date = 1982-11-06
 [teams.home]
@@ -7,7 +7,7 @@ score = 22
 [teams.away]
 name = "Brown"
 score = 23
----
++++
 
 Ladies and Gentlemen, friends and alumni, William and Mary and Ted and Alice, it’s the Brown University planned obsolescence Band.
 

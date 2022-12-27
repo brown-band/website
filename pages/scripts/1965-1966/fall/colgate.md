@@ -1,4 +1,4 @@
----
++++
 sport = "football"
 date = 1965-10-23
 subtitle = "Parents’ Weekend"
@@ -8,7 +8,7 @@ score = 6
 [teams.away]
 name = "Colgate"
 score = 0
----
++++
 
 Ladies and Gentlemen, presenting the Brown University Marching Band: Martin Fischer, Director; Earl Holt, President; and Jack Monrad, Drum Major.
 

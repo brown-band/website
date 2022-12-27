@@ -1,4 +1,4 @@
----
++++
 sport = "football"
 date = 1986-09-20
 [teams.home]
@@ -7,7 +7,7 @@ score = 21
 [teams.away]
 name = "Yale"
 score = 7
----
++++
 
 ## Halftime
 

@@ -1,4 +1,4 @@
----
++++
 sport = "football"
 date = 1964-10-10
 [teams.home]
@@ -7,7 +7,7 @@ score = 15
 [teams.away]
 name = "Brown"
 score = 7
----
++++
 
 In honor of the 400<sup>th</sup> Anniversary of William Shakespeare’s birth, the Brown Band presents scenes from his plays, together with the songs he might have used if he had been writing for the <del>Yale</del> <small>(Dartmouth)</small> Community. The Band has formed a 400 year old birthday cake.
 

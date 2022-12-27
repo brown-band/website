@@ -1,4 +1,4 @@
----
++++
 sport = "football"
 date = 2001-10-20
 [teams.home]
@@ -7,7 +7,7 @@ score = 21
 [teams.away]
 name = "Brown"
 score = 49
----
++++
 
 ::script-note[Pregame for this script was the only flat-out rejection we got this season. The replacement was haphazard and dull, so here’s the original: (Larry Flint did speak at Cornell, btw.)]
 

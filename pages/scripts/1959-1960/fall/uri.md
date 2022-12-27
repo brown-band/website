@@ -1,4 +1,4 @@
----
++++
 sport = "football"
 date = 1959-10-24
 [teams.home]
@@ -7,7 +7,7 @@ score = 6
 [teams.away]
 name = "URI"
 score = 0
----
++++
 
 :sd[Band on goal line plays “Fanfare”.]
 

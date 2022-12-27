@@ -1,4 +1,4 @@
----
++++
 sport = "football"
 date = 1978-11-18
 [teams.home]
@@ -7,7 +7,7 @@ score = 12
 [teams.away]
 name = "Brown"
 score = 23
----
++++
 
 Ladies and Gentlemen, Friends and Alumni, and all you little boys blue, presenting, direct from a stylish chapeau in the Austrian Alps, it’s the Brown University Hat Band.
 

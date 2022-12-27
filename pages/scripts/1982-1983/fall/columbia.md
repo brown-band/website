@@ -1,4 +1,4 @@
----
++++
 sport = "football"
 date = 1982-11-20
 subtitle = "The Final Game at <a href='https://en.wikipedia.org/wiki/Robert_K._Kraft_Field_at_Lawrence_A._Wien_Stadium#Baker_Athletics_Complex_history'>Baker Field</a>"
@@ -8,7 +8,7 @@ score = 21
 [teams.away]
 name = "Brown"
 score = 35
----
++++
 
 Ladies and Gentlemen, Friends and Alumni, and dearly beloved, it’s the Brown University Night of the Living Band
 

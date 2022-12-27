@@ -1,4 +1,4 @@
----
++++
 sport = "football"
 date = 1965-10-02
 [teams.home]
@@ -7,7 +7,7 @@ score = 7
 [teams.away]
 name = "Brown"
 score = 0
----
++++
 
 :sd[Band forms in end zone]
 

@@ -1,4 +1,4 @@
----
++++
 sport = "hockey"
 date = 2015-02-28
 iceShowTheme = "Alumni"
@@ -8,7 +8,7 @@ score = 2
 [teams.away]
 name = "Colgate"
 score = 4
----
++++
 
 Ladies and gentlemen, friends and alumni, presenting an organization that’s welcoming back its alumni with open, frosty arms, it’s the Brown University “there’s snow place like home” BAAAAAND!
 

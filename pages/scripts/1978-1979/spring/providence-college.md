@@ -1,8 +1,8 @@
----
++++
 sport = "hockey"
 date = 1979-02-03
 opponent = "Providence College"
----
++++
 
 Ladies and Gentlemen, Friends and Alumni, and all you half-court friars, presenting the only band that scores on every lay-up, from the finest basketball college in Providence, it’s the Brown University Technically Foul Band!
 

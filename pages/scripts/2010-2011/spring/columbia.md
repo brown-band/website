@@ -1,4 +1,4 @@
----
++++
 sport = "basketball"
 date = 2011-02-04
 [teams.home]
@@ -7,7 +7,7 @@ score = 74
 [teams.away]
 name = "Columbia"
 score = 91
----
++++
 
 Ladies and Gentlemen, friends and alumni! Presenting an organization that thinks fall 2003 was a fantastic time to be alive, it’s the Brown University “There’s Nothing Wrong with Reusing and Recycling” BAAANNNNDDDDD!
 

@@ -1,4 +1,4 @@
----
++++
 sport = "football"
 location = "Fenway"
 date = 2017-11-10
@@ -8,7 +8,7 @@ score = 10
 [teams.away]
 name = "Dartmouth"
 score = 33
----
++++
 
 ## Pregame
 

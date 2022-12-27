@@ -1,4 +1,4 @@
----
++++
 sport = "football"
 date = 1993-10-09
 subtitle = "Homecoming"
@@ -8,7 +8,7 @@ score = 16
 [teams.away]
 name = "Princeton"
 score = 34
----
++++
 
 ## Pregame
 

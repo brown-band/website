@@ -1,4 +1,4 @@
----
++++
 sport = "football"
 date = 1976-09-25
 [teams.home]
@@ -7,7 +7,7 @@ score = 3
 [teams.away]
 name = "URI"
 score = 0
----
++++
 
 Enough of this flocking around. Ladies and Gentlemen, Friends and Alumni, and all you intermingling _Ram_-parts. As everyone knows, true revolutionaries don’t wear spiffy tri-colored uniforms from Sears, Roebuck & Co. Instead they wear ragged clothes, fight with whatever arms they can find, and attack from behind the bushes. :sd[Band runs out from behind bushes.] Ladies and Gentlemen, the Brown University Bearfoot Band. :sd[Come out barefoot, in ragged clothes with slings, crutches, bandages, etc.]
 

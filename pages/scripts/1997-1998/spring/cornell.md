@@ -1,8 +1,8 @@
----
++++
 sport = "hockey"
 date = 1998-02-20
 opponent = "Cornell"
----
++++
 
 Ladies and gentlemen, friends and alumni, presenting an organization with an ego problem AND an id problem, it’s the Brown University “Freud where prohibited” Band!
 

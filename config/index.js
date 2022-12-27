@@ -42,6 +42,7 @@ module.exports = (eleventyConfig) => {
     engines: {
       toml: require("@iarna/toml").parse,
     },
+    delimiters: "+++",
     language: "toml",
   });
   // add NODE_ENV as a global value

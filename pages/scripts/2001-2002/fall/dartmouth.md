@@ -1,4 +1,4 @@
----
++++
 sport = "football"
 date = 2001-11-10
 [teams.home]
@@ -7,7 +7,7 @@ score = 41
 [teams.away]
 name = "Dartmouth"
 score = 16
----
++++
 
 ::script-note[\*Sniff\* Last home game of the season means poems for the seniors. These are in haiku, which is a beautiful art form so long as it isn’t being broadcast over a PA system.]
 

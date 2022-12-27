@@ -1,4 +1,4 @@
----
++++
 sport = "hockey"
 date = 2007-02-03
 [teams.home]
@@ -7,7 +7,7 @@ score = 6
 [teams.away]
 name = "Quinnipiac"
 score = 3
----
++++
 
 Ladies and Gentlemen, Friends and Alumni, Presenting an organization that was recently voted best scramble band in America in the most recent Quinnipiac poll, it’s the Brown University “Blitz the Pitz? How ‘bout Mayhem in Meehan?!!” BAND!!!!!!!
 

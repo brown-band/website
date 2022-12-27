@@ -1,4 +1,4 @@
----
++++
 sport = "football"
 date = 1982-10-16
 [teams.home]
@@ -7,7 +7,7 @@ score = 19
 [teams.away]
 name = "Brown"
 score = 38
----
++++
 
 Ladies and Gentlemen, Friends and Alumni, and all you Dairy Heirs, it’s the Brown University Holier than Cow Band.
 

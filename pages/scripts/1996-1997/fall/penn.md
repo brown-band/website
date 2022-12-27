@@ -1,4 +1,4 @@
----
++++
 sport = "football"
 date = 1996-10-26
 [teams.home]
@@ -7,7 +7,7 @@ score = 27
 [teams.away]
 name = "Penn"
 score = 21
----
++++
 
 ## Pregame
 

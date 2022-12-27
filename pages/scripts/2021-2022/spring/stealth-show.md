@@ -1,6 +1,6 @@
----
++++
 date = 2022-04-20
----
++++
 
 Ladies and gentlemen, friends and alumni, presenting an organization that is rapidly approaching you with an offer you can’t morally refuse and a hot pink flyswatter at the ready in case you try, it’s the Brown University “salesmanship is next to Godsmanship” BAAAAND!
 

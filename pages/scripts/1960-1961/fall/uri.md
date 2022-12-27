@@ -1,4 +1,4 @@
----
++++
 sport = "football"
 date = 1960-10-22
 [teams.home]
@@ -7,7 +7,7 @@ score = 36
 [teams.away]
 name = "URI"
 score = 14
----
++++
 
 Introducing The Brown University Marching Band, Martin Fischer - Director, Farrell Fleming - Drum Major.
 
