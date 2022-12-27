@@ -158,7 +158,7 @@ function ButtonImage({ urls, buttons, name, semester }) {
     button && (
       <a href={button.image}>
         <img
-          src={button.thumbnail}
+          src={urls.buttons + "/" + button.thumbnail}
           alt={`button: ${button.alt}`}
           class="semester-button"
           onerror="this.parentNode.remove()"
