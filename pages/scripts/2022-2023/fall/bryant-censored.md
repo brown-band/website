@@ -27,8 +27,8 @@ Catch us at halftime when we cut deep into Bryant’s student culture!
 
 Ladies and gentlemen, friends and alumni, presenting an organization that can’t wait to meet Tupper 3, it’s the Brown University :sd[scriptreader imitates a bulldog growl] BANNNDDDDDDDDD!
 
-Happy national pasta week… is any linguini out there? Apparently not, considering that you’ve earned a whopping two out of five stars on [campuspastaindex.org](https://campuspastaindex.org). We suppose it’s true that Bryant is a “training ground for the businesspenne and -conchiglie of the future,” considering that your dining halls allow for precisely as many pasta shapes as you’ve had Tuppers — 2. Rest in peace, Tupper 1!\
-I guess that’s what happens when you go to Bryant—where the only things that aren’t al dente are the walls of your many rotund buildings. Watch now as the Band demonstrates proper pasta etiquette by playing "Eat Like You’re in Pompeii."
+Happy almost national coming out week… is anybody out there? Apparently not, considering that you’ve earned a whopping two out of five stars [on campusprideindex.org](https://campusprideindex.org/campuses/details/1572?campus=bryant-university). We suppose it’s true that Bryant is a “training ground for the businessmen and -women of the future,” considering that your databases allow for precisely as many genders as you’ve had Tuppers — 2. Rest in peace, Tupper 1!\
+I guess that’s what happens when you go to Bryant—where the only things that aren’t straight are the walls of your many rotund buildings. Watch now as the Band demonstrates proper social etiquette by playing “It’s OK to be Gay.”
 
 :sd[Band forms a bone and plays Pompeii.]
 
