@@ -1,7 +1,7 @@
 lockfileVersion: 5.4
 
 specifiers:
-  '@11ty/eleventy': 2.0.0-canary.23
+  '@11ty/eleventy': 2.0.0-beta.1
   '@11ty/eleventy-fetch': ^3.0.0
   '@11ty/eleventy-server-browsersync': ^1.0.2
   '@fontsource/niconne': ^4.5.9
@@ -51,7 +51,7 @@ dependencies:
   bootstrap: 5.3.0-alpha1
 
 devDependencies:
-  '@11ty/eleventy': 2.0.0-canary.23
+  '@11ty/eleventy': 2.0.0-beta.1
   '@11ty/eleventy-fetch': 3.0.0
   '@11ty/eleventy-server-browsersync': 1.0.2
   '@iarna/toml': 2.2.5
@@ -96,8 +96,8 @@ packages:
     resolution: {integrity: sha512-5R+DsT9LJ9tXiSQ4y+KLFppCkQyXhzAm1AIuBWE/sbU0hSXY5pkhoqQYEcPJQFg/nglL+wD55iv2j+7O96UAvg==}
     dev: true
 
-  /@11ty/eleventy-dev-server/1.0.0-canary.14:
-    resolution: {integrity: sha512-yIPRZCEieqe7943P8h+xG60db/82yp10iOgd8IRKiobLhWw43xDJtro8QnjTF4A9gRkx7UmulwTPkGbD1Lt8xQ==}
+  /@11ty/eleventy-dev-server/1.0.1:
+    resolution: {integrity: sha512-lTj9uAvXeArmdoEF1qpBbSq6h4ZgCe7DPhYrl1XcZxe10kpH/e9noajBT9EBzNOzKBcYvVAIin/IbhUMyyUy/g==}
     engines: {node: '>=14'}
     hasBin: true
     dependencies:
@@ -111,7 +111,7 @@ packages:
       morphdom: 2.6.1
       please-upgrade-node: 3.2.0
       ssri: 8.0.1
-      ws: 8.11.0
+      ws: 8.12.0
     transitivePeerDependencies:
       - bufferutil
       - supports-color
@@ -150,13 +150,13 @@ packages:
       normalize-path: 3.0.0
     dev: true
 
-  /@11ty/eleventy/2.0.0-canary.23:
-    resolution: {integrity: sha512-Vl8L/NjBvIgMusE3uBvWFCmUmiNw7OE6k1Dz9vRindqviJY9g77A8AFft7YEVPs7oVilzQFHVqtGeQigOrm6SA==}
+  /@11ty/eleventy/2.0.0-beta.1:
+    resolution: {integrity: sha512-j/V73NWO3i8VnVBWHytDbHxyexomKwrbHiDOLs3LyNaaB3MYZIvGYYf10NVLDO37Zq9CacIfP6a69Njjg9rJDg==}
     engines: {node: '>=14'}
     hasBin: true
     dependencies:
       '@11ty/dependency-tree': 2.0.1
-      '@11ty/eleventy-dev-server': 1.0.0-canary.14
+      '@11ty/eleventy-dev-server': 1.0.1
       '@11ty/eleventy-utils': 1.0.1
       '@iarna/toml': 2.2.5
       '@sindresorhus/slugify': 1.1.2
@@ -174,11 +174,11 @@ packages:
       is-glob: 4.0.3
       iso-639-1: 2.1.15
       kleur: 4.1.5
-      liquidjs: 10.3.3
+      liquidjs: 10.4.0
       lodash.chunk: 4.2.0
       lodash.get: 4.4.2
       lodash.set: 4.3.2
-      luxon: 3.1.1
+      luxon: 3.2.1
       markdown-it: 13.0.1
       micromatch: 4.0.5
       minimist: 1.2.7
@@ -1642,7 +1642,7 @@ packages:
   /filelist/1.0.4:
     resolution: {integrity: sha512-w1cEuf3S+DrLCQL7ET6kz+gmlJdbq9J7yXCSjK/OZCPA+qEN1WyF4ZAf0YYJa4/shHJra2t/d/r8SV4Ji+x+8Q==}
     dependencies:
-      minimatch: 5.1.2
+      minimatch: 5.1.6
     dev: true
 
   /fill-range/7.0.1:
@@ -2380,8 +2380,8 @@ packages:
       uc.micro: 1.0.6
     dev: true
 
-  /liquidjs/10.3.3:
-    resolution: {integrity: sha512-o6s4rOn81x0FlF9SJEQEx3f/j3iL0Iq3zqOsbFEcsoi7Ivn6jEXBEi2Xl5k0oYc7KqYS54uGOa9XC4Ahk7zdFA==}
+  /liquidjs/10.4.0:
+    resolution: {integrity: sha512-4fpR8KFJ96bXkzynK9Yo1jwn7sjOkJfKawSbEXINc39DZfy7r5SYtcAM5T/Ccg5n0xoZf6ap5Gap4VwFCJiQ1g==}
     engines: {node: '>=14'}
     hasBin: true
     dev: true
@@ -2458,8 +2458,8 @@ packages:
       yallist: 4.0.0
     dev: true
 
-  /luxon/3.1.1:
-    resolution: {integrity: sha512-Ah6DloGmvseB/pX1cAmjbFvyU/pKuwQMQqz7d0yvuDlVYLTs2WeDHQMpC8tGjm1da+BriHROW/OEIT/KfYg6xw==}
+  /luxon/3.2.1:
+    resolution: {integrity: sha512-QrwPArQCNLAKGO/C+ZIilgIuDnEnKx5QYODdDtbFaxzsbZcc/a7WFq7MhsVYgRlwawLtvOUESTlfJ+hc/USqPg==}
     engines: {node: '>=12'}
     dev: true
 
@@ -2942,8 +2942,8 @@ packages:
       brace-expansion: 2.0.1
     dev: true
 
-  /minimatch/5.1.2:
-    resolution: {integrity: sha512-bNH9mmM9qsJ2X4r2Nat1B//1dJVcn3+iBLa3IgqJ7EbGaDNepL9QSHOxN4ng33s52VMMhhIfgCYDk3C4ZmlDAg==}
+  /minimatch/5.1.6:
+    resolution: {integrity: sha512-lKwV/1brpG6mBUFHtb7NUmtABCb2WZZmm2wNiOA5hAb8VdCS4B3dtMWyvcoViccwAW/COERjXLt0zP1zXUN26g==}
     engines: {node: '>=10'}
     dependencies:
       brace-expansion: 2.0.1
@@ -4641,12 +4641,12 @@ packages:
     resolution: {integrity: sha512-l4Sp/DRseor9wL6EvV2+TuQn63dMkPjZ/sp9XkghTEbV9KlPS1xUsZ3u7/IQO4wxtcFB4bgpQPRcR3QCvezPcQ==}
     dev: true
 
-  /ws/8.11.0:
-    resolution: {integrity: sha512-HPG3wQd9sNQoT9xHyNCXoDUa+Xw/VevmY9FoHyQ+g+rrMn4j6FB4np7Z0OhdTgjx6MgQLK7jwSy1YecU1+4Asg==}
+  /ws/8.12.0:
+    resolution: {integrity: sha512-kU62emKIdKVeEIOIKVegvqpXMSTAMLJozpHZaJNDYqBjzlSYXQGviYwN1osDLJ9av68qHd4a2oSjd7yD4pacig==}
     engines: {node: '>=10.0.0'}
     peerDependencies:
       bufferutil: ^4.0.1
-      utf-8-validate: ^5.0.2
+      utf-8-validate: '>=5.0.2'
     peerDependenciesMeta:
       bufferutil:
         optional: true
