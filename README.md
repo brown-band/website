@@ -267,13 +267,12 @@ There are a few extensions to Markdown that this project uses to make it easier 
 
 ### Adding an issue of The Bandstand
 
-1. Add an entry to `bandstands.yml` (in the `new` section, unless you’ve recovered an old Bandstand!):
+1. Rename the PDF to <code>_volume_-_issue_.pdf</code> (e.g. `1-1.pdf`) (or whatever identifying name is on the first couple of pages of the PDF, we’ve recently gotten much less consistent about using a volume number) and commit it to the [brown-band/bandstand](https://github.com/brown-band/bandstand) repository. Push those changes.
+2. Add an entry to `bandstands.yml` (in the `new` section, unless you’ve recovered an old Bandstand!):
    - `volume` and `issue`: take this from the first or second page of the PDF
    - `date`: whatever the PDF says (such as “April 1980” or “Fall 2018”)
    - Make sure to keep the file in chronological order.
-2. Rename the PDF to <code>_volume_-_issue_.pdf</code> (e.g. `1-1.pdf`)
-3. Connect to `students.brown.edu` over SSH and upload the PDF to the appropriate folder of `/var/www/html/Brown_Band/the-bandstand/` (either `old` or `new`, corresponding to the key under which you listed it in `bandstands.yml`).
-4. Commit and push the changes to this repository.
+3. Commit and push the changes to this repository.
 
 ### Adding an icon
 
