@@ -54,7 +54,7 @@ module.exports = async ({ site, quote, nav: { nav }, all, currentURL }) => (
                         !ch.disabled &&
                         !ch.heading &&
                         !ch.url &&
-                        findPage(ch, all).url === currentURL
+                        findPage(ch.page ?? ch, all).url === currentURL
                     )
                       ? " active"
                       : "")
@@ -87,7 +87,7 @@ module.exports = async ({ site, quote, nav: { nav }, all, currentURL }) => (
                       return (
                         <li class="dropdown-item disabled">{link.disabled}</li>
                       );
-                    } else if (link.title) {
+                    } else if (link.title && link.url) {
                       return (
                         <li>
                           <a class="dropdown-item" href={link.url}>
@@ -96,7 +96,7 @@ module.exports = async ({ site, quote, nav: { nav }, all, currentURL }) => (
                         </li>
                       );
                     } else {
-                      const page = findPage(link, all);
+                      const page = findPage(link.page ?? link, all);
                       return (
                         <li>
                           <a
@@ -106,7 +106,7 @@ module.exports = async ({ site, quote, nav: { nav }, all, currentURL }) => (
                             }
                             href={page.url}
                           >
-                            {page.data.title}
+                            {link.url ?? page.data.title}
                           </a>
                         </li>
                       );
@@ -115,17 +115,6 @@ module.exports = async ({ site, quote, nav: { nav }, all, currentURL }) => (
                 </ul>
               </li>
             ))}
-            <li class="nav-item mx-sm-3 mx-md-1">
-              <a
-                href="/contact/"
-                class={
-                  "nav-link" +
-                  (findPage("contact", all).url === currentURL ? " active" : "")
-                }
-              >
-                Contact
-              </a>
-            </li>
           </ul>
         </div>
         <div class="col-lg-1" />

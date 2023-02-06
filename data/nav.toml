@@ -35,3 +35,13 @@ content = [
   # "commencement",
   "arranging",
 ]
+
+[[nav]]
+title = "Contact"
+content = [
+  { page = "contact", title = "Get in Touch!" },
+  { url = "https://www.instagram.com/brownbandstagram/", title = "Instagram" },
+  { url = "https://www.facebook.com/BrownBand/", title = "Facebook" },
+  { url = "https://www.youtube.com/user/BrownUBandstand", title = "YouTube" },
+  { url = "https://twitter.com/BrownUBandStand", title = "Twitter" },
+]
