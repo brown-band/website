@@ -26,17 +26,6 @@ content = [
 ]
 
 [[nav]]
-title = "More Info"
-content = [
-  "giving",
-  "visiting-bands",
-  "ivy-bands",
-  "ivy-bands-agreement",
-  # "commencement",
-  "arranging",
-]
-
-[[nav]]
 title = "Contact"
 content = [
   { page = "contact", title = "Get in Touch!" },
@@ -44,4 +33,15 @@ content = [
   { url = "https://www.facebook.com/BrownBand/", title = "Facebook" },
   { url = "https://www.youtube.com/user/BrownUBandstand", title = "YouTube" },
   { url = "https://twitter.com/BrownUBandStand", title = "Twitter" },
+]
+
+[[nav]]
+title = "More"
+content = [
+  "giving",
+  "visiting-bands",
+  "ivy-bands",
+  "ivy-bands-agreement",
+  # "commencement",
+  "arranging",
 ]
