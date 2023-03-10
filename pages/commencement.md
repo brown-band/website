@@ -2,8 +2,8 @@
 title = "Commencement Schedule 2022"
 summary = "Further details about non-mandatory events will be coming soon. Exact timing is subject to change."
 # comment out this line to re-enable the page
-# you’ll also want to update nav.toml
-permalink = false
+# you’ll also want to update nav.toml & index.md
+# permalink = false
 +++
 
 :red[Red events are mandatory. Alumni may pick up their uniforms on Saturday instead of Friday.]
@@ -15,113 +15,94 @@ tr:last-child td { border-bottom: none }
 h3 { margin-top: 2rem }
 </style>
 
-### Tuesday, May 24<sup>th</sup> {#tuesday}
+### Saturday, May 20<sup>th</sup> {#saturday-before}
+
+<table class="table">
+<tr>
+  <td style="width: 100px">All Day</td>
+  <td>Students move into Perkins</td>
+</tr>
+</table>
+
+### Tuesday, May 23<sup>rd</sup> {#tuesday}
+
+<table class="table">
+<tr>
+  <td style="width: 100px">11:00am</td>
+  <td>Newport Trip</td>
+</tr>
+</table>
+
+### Wednesday, May 24<sup>th</sup> {#wednesday}
 
 <table class="table">
 <tr>
   <td style="width: 100px">12:30pm</td>
   <td>Fulton: Music Stuffing</td>
 </tr>
-</table>
-
-### Wednesday, May 25<sup>th</sup> {#wednesday}
-
-<table class="table">
 <tr>
-  <td style="width: 100px">11:30am</td>
-  <td>Newport Trip</td>
+  <td>4:45pm–5:00pm</td>
+  <td>Fulton: Uniform Pickup</td>
 </tr>
 <tr>
-  <td>7:00pm–8:30pm</td>
-  <td>Fulton: Student Rehearsal (Mandatory for Students staying for commencement week)</td>
+  <td>6:00pm–7:30pm</td>
+  <td>
+  
+  :red[Fulton: Student Rehearsal]<br>:red[(Mandatory for Students)]</td>
 </tr>
 <tr>
-  <td>8:30pm</td>
+  <td>8:00pm</td>
   <td>Dave and Busters</td>
 </tr>
 </table>
 
-### Thursday, May 26<sup>th</sup> {#thursday}
+### Thursday, May 25<sup>th</sup> {#thursday}
 
 <table class="table">
 <tr>
-  <td style="width: 100px">10:00am–5:15pm</td>
-  <td>
-
-    Flugenflagel: Picnic and Retreat (meet at Fulton)
-
-    Bring games, frisbees, etc. and don’t forget sunscreen. There will be a barbecue and Band T-shirts.
-
-    (This is open to current students and seniors only.)
-
-  </td>
+  <td style="width: 100px">11:00am–4:00pm</td>
+  <td>Gano St. Park: Flugenflagel<br>(Current students and seniors only)</td>
 </tr>
 </table>
 
-### Friday, May 27<sup>th</sup> {#friday}
+### Saturday, May 27<sup>th</sup> {#saturday}
 
 <table class="table">
 <tr>
-  <td style="width: 100px">1:00pm–4:00pm</td>
-  <td>
-
-    :red[Fulton: Rehearsal]
-
-    :red[Mandatory for playing at Saturday’s 2020 Commencement]
-
-  </td>
-</tr>
-<tr>
-  <td>4:00pm–5:00pm</td>
-  <td>Fulton: Uniform Pickup</td>
-</tr>
-<tr>
-  <td>9:00pm</td>
-  <td>Campus Dance</td>
-</tr>
-</table>
-
-### Saturday, May 28<sup>th</sup> {#saturday}
-
-<table class="table">
-<tr>
-  <td style="width: 100px">8:15am</td>
-  <td>Breakfast/Fulton Call Time</td>
-</tr>
-<tr>
-  <td>10:00am–11:00am</td>
+  <td>10:00am–12:00pm</td>
   <td>
   
-  :red[Class of 2020 Commencement: Faunce Arch (Waterman and Brown Streets): Commencement Procession (khakis, polo, blazer required)]</td>
+    :red[Fulton: Rehearsal]</td>
 </tr>
 <tr>
-  <td>12:30pm–3:00pm</td>
+  <td>12:00pm–1:00pm</td>
+  <td>Lunch break and uniform distribution</td>
+</tr>
+<tr>
+  <td>1:00pm–2:30pm</td>
   <td>
   
-  :red[Fulton: Rehearsal]</td>
+    :red[Fulton: Rehearsal]</td>
 </tr>
 <tr>
   <td>2:30pm–3:00pm</td>
-  <td>
-
-    Alumni may pick up their uniforms</td>
-
+  <td>Uniform distribution</td>
 </tr>
 <tr>
-  <td>3:00pm</td>
+  <td>3:15pm</td>
   <td>
   
-    :red[Campus March (polo required)]
+    :red[Campus March (polo/khakis required)<br>(Mandatory for students)]
   
   </td>
 </tr>
 <tr>
   <td>4:30pm</td>
-  <td>Commencement Band Reception on Orwig Lawn (Rain location: Fulton Rehearsal Hall) (Bandies, alums, and family welcome!)</td>
+  <td>Perkins Courtyard: Commencement Band Reception<br>(Rain location: Fulton) (Bandies, alums, and family welcome!)</td>
 </tr>
 </table>
 
-### Sunday, May 29<sup>th</sup> {#sunday}
+### Sunday, May 28<sup>th</sup> {#sunday}
 
 <table class="table">
 <tr>
@@ -132,17 +113,17 @@ h3 { margin-top: 2rem }
   <td>9:00am</td>
   <td>
   
-    :red[Faunce Arch (Waterman and Brown Streets): Commencement Procession (khakis, polo, blazer required) Class of 2022 commencement]</td>
+    :red[Faunce Arch (Waterman and Brown Streets): Commencement Procession (khakis, polo, blazer required)]</td>
 </tr>
 <tr>
-  <td>3:00pm–4:00pm</td>
+  <td>2:30pm–4:00pm</td>
   <td>
   
     :red[Fulton: Uniform Return]</td>
 </tr>
 </table>
 
-### Monday, May 30<sup>th</sup> {#monday}
+### Monday, May 29<sup>th</sup> {#monday}
 
 <table class="table">
 <tr>
