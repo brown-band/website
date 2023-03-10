@@ -1,12 +1,12 @@
 +++
-title = "Commencement Schedule 2022"
+title = "Commencement Schedule 2023"
 summary = "Further details about non-mandatory events will be coming soon. Exact timing is subject to change."
 # comment out this line to re-enable the page
 # you’ll also want to update nav.toml & index.md
 # permalink = false
 +++
 
-:red[Red events are mandatory. Alumni may pick up their uniforms on Saturday instead of Friday.]
+:red[Red events are mandatory.]
 
 <style>
 td > p { margin-bottom: 0.5rem }
