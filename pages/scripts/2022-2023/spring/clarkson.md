@@ -18,7 +18,16 @@ Welcome to Providence, Clarkson! Today, we have invited one of our most experien
 
 Reinvigorated by our breath of fresh air, we stumble back onto campus. Classes start tomorrow, but we don’t know our purpose yet so how are we supposed to achieve it here at Clarkson? WIth the registration deadline nearing, we frantically read through the list of available majors. A few jump out at us:
 
-A. Conservative Arts, _interdisciplinary_ B. Effective Prevention of Pump-Induced Trauma C. Global supply chain management (have you Ever Given this major a thought?) D. Personal industrial hygiene (gotta keep the equipment clean) E. Maple syrup appreciation, and F. The Princeton band
+:::script-list
+
+- A. Conservative Arts, _interdisciplinary_
+- B. Effective Prevention of Pump-Induced Trauma
+- C. Global supply chain management (have you Ever Given this major a thought?)
+- D. Personal industrial hygiene (gotta keep the equipment clean)
+- E. Maple syrup appreciation, and
+- F. The Princeton band
+
+::::
 
 Watch now as the Band chooses the right major for us, sees a falling pump, and plays “Stop, Rock, and Roll.”
 
