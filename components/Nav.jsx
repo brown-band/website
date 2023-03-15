@@ -39,7 +39,9 @@ module.exports = async ({ site, quote, nav: { nav }, all, currentURL }) => (
                 {site.title}
               </span>
               <span class="header-quote">
-                {(await (<Markdown content={quote.random()} />))[0].children}
+                <span>
+                  {(await (<Markdown content={quote.random()} />))[0].children}
+                </span>
               </span>
             </div>
           </a>
