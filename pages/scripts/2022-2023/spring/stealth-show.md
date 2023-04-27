@@ -23,10 +23,10 @@ My name’s 2001 Honda Civic, and I’m looking for your headmaster. I hear her 
 
 As real Brown students, we are proud to continue Brown’s tradition of cutting-edge anthropological research, and we’re currently wondering—what’s in all those vases? Inhale from this oblong glassware, prepare to be probed (if you’re comfortable with that), and watch now as the band plays “Long Schlong Song.”
 
-:sd[Band forms a bong and plays Ding Dong Song.]
+:sd[Band forms a bong and plays “Ding Dong Song.”]
 
 The time has come and resistance is futile. We breathe in deeply. Our eyes are becoming red, our stomachs are a-rumble, and our contamination badges are beeping, but we don’t care! The only three letters we love more than UFO are THC, and we can’t get enough. ET, please light up. Watch now as the band—oh, who gives a shit, hu-man? Watch now as the band arms our lasers and plays “WEED THEME.”
 
-:sd[Band forms a UFO and plays Wii Theme.]
+:sd[Band forms a UFO and plays “Wii Theme.”]
 
 Roswell that ends well. Brown Band Out.
