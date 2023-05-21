@@ -181,3 +181,7 @@ li > ._69-list {
   justify-self: flex-end;
   align-self: flex-start;
 }
+.giving-image {
+  width: 50%;
+  margin: 3%;
+}

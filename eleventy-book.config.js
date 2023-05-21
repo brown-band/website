@@ -1,5 +1,6 @@
 // @ts-check
 
+// @ts-ignore
 const renderPDF = import("./book/to-pdf.js").then((m) => m.renderPDF);
 
 process.on("unhandledRejection", (err) => {
@@ -23,7 +24,7 @@ module.exports = (eleventyConfig) => {
     // uncomment to instead make a huge PDF of all scripts
     // allTheScripts: true,
     extraYear: false,
-    graduationYear: 2022,
+    graduationYear: 2023,
   });
 
   eleventyConfig.addPassthroughCopy({
