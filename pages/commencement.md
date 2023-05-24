@@ -98,7 +98,7 @@ h3 { margin-top: 2rem }
 </tr>
 <tr>
   <td>4:30pm</td>
-  <td>Perkins Courtyard: Commencement Band Reception<br>(Rain location: Fulton) (Bandies, alums, and family welcome!)</td>
+  <td>Orwig Lawn: Commencement Band Reception<br>(Rain location: Fulton) (Bandies, alums, and family welcome!)</td>
 </tr>
 </table>
 
