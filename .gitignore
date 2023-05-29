@@ -8,3 +8,5 @@ book-html
 .cache
 .netlify
 *.log
+
+.DS_Store

@@ -1,6 +1,7 @@
 const { Raw } = require("eleventy-hast-jsx");
 const Nav = require("../components/Nav");
 const Footer = require("../components/Footer");
+const Carousel = require("../components/Carousel");
 
 exports.data = {
   layout: "base.jsx",
@@ -38,6 +39,7 @@ exports.default = async ({ site, quote, nav, collections, page, content }) => (
     )}
 
     <div class="container mt-4 mb-5 px-md-0 flex-shrink-0">
+    {page.url == "/" ? (await (<Carousel folder="homepage" />)) : null }
       <div class="row">
         <div class="col-lg-1 col-xl-2" />
         <main class="col-lg-7 col-xl-6">

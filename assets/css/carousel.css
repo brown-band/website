@@ -9,3 +9,8 @@
   width: 100%;
   object-fit: cover;
 }
+
+[data-bs-theme=dark] .carousel .carousel-control-prev-icon, [data-bs-theme=dark] .carousel .carousel-control-next-icon {
+  color: white;
+  filter: invert(0);
+}

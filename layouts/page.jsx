@@ -41,7 +41,7 @@ const getToc = async (toc, content) => {
 exports.default = async (data) => {
   const toc = await getToc(data.toc, data.content);
   return (
-    <article>
+      <article>
       {toc && toc.length ? (
         <>
           <TocButton />
@@ -61,6 +61,6 @@ exports.default = async (data) => {
       ) : null}
 
       <Raw html={data.content} />
-    </article>
+    </article>    
   );
 };

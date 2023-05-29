@@ -100,7 +100,7 @@ async function Person({ even, person }) {
       </h3>
       <div>
         {person.endowed ? (
-          <h4 style="color: #59260b">{person.endowed}</h4>
+          <h4 style="color: var(—brown-brand)">{person.endowed}</h4>
         ) : null}
       </div>
 
@@ -141,7 +141,7 @@ async function PeopleTable({ sections }) {
                 {person.year === "GS" ? person.year : "’" + person.year}
                 <div>
                   {person.endowed ? (
-                    <p style="color: #59260b; margin-bottom: 0;">
+                    <p style="color: var(—brown-brand)s; margin-bottom: 0;">
                       {person.endowed}
                     </p>
                   ) : null}
