@@ -56,8 +56,8 @@ devDependencies:
     specifier: ^16.0.3
     version: 16.0.3
   eleventy-hast-jsx:
-    specifier: ^0.3.4
-    version: 0.3.4
+    specifier: ^0.3.5
+    version: 0.3.5
   fast-glob:
     specifier: ^3.2.12
     version: 3.2.12
@@ -1469,8 +1469,8 @@ packages:
     resolution: {integrity: sha512-5VXLW4Qw89vM2WTICHua/y8v7fKGDRVa2VPOtBB9IpLvW316B+xd8yD1wTmLPY2ot/00P/qt87xdolj4aG/Lzg==}
     dev: true
 
-  /eleventy-hast-jsx@0.3.4:
-    resolution: {integrity: sha512-fSjOWou02dcxZwfhqtmqyJvuhTye2/uOPrZ03fbzjlNFP5iD0Mnoog293GnQJ9RKk1luvZsQESOl0XcBzRNf6g==}
+  /eleventy-hast-jsx@0.3.5:
+    resolution: {integrity: sha512-ubPeKLL8vsAMOwwwf3G9zVMlGE5rBgTMLUK6EeYQhEGzJda8lHAKQwg8tLGUgCAfF6+3zx1C+cYAN1hPJvShWA==}
     engines: {node: '>=16.0.0'}
     dependencies:
       '@11ty/eleventy-utils': 1.0.1
