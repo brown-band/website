@@ -98,6 +98,14 @@ async function Person({ even, person }) {
         )}
         {person.year}
       </h3>
+      <div>
+      {person.endowed ? (
+          <h4 style="color: #59260b">{person.endowed}</h4>
+        ) : (
+          null        
+        )}
+
+      </div>
 
       {even && (
         <img
@@ -134,6 +142,13 @@ async function PeopleTable({ sections }) {
               <td>
                 <a href={"mailto:" + person.email}>{person.name}</a>{" "}
                 {person.year === "GS" ? person.year : "’" + person.year}
+                <div>
+                  {person.endowed ? (
+                      <p style="color: #59260b; margin-bottom: 0;">{person.endowed}</p>
+                    ) : (
+                      null
+                    )}
+                </div>
               </td>
             </tr>
           ))
