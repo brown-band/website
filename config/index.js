@@ -9,7 +9,9 @@ require("dotenv").config();
 module.exports = (eleventyConfig) => {
   const env = process.env.NODE_ENV || "development";
   // enables JSX-based templates and components
-  eleventyConfig.addPlugin(require("eleventy-hast-jsx").plugin);
+  eleventyConfig.addPlugin(require("eleventy-hast-jsx").plugin, {
+    componentsDir: "components",
+  });
   // minify and/or format HTML, purge unused CSS in production
   eleventyConfig.addPlugin(require("./minify"));
 
@@ -24,7 +26,11 @@ module.exports = (eleventyConfig) => {
   eleventyConfig.addExtension("md", {
     async compile(inputContent, inputPath) {
       let result = import("./markdown.mjs").then(({ render }) =>
-        render(inputContent, inputPath)
+        render(
+          inputContent,
+          inputPath,
+          eleventyConfig[require("eleventy-hast-jsx").renderComponent]
+        )
       );
       return () => result;
     },
