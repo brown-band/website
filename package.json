@@ -27,7 +27,7 @@
     "date-fns": "^2.29.3",
     "date-fns-tz": "^1.3.7",
     "dotenv": "^16.0.3",
-    "eleventy-hast-jsx": "^0.3.4",
+    "eleventy-hast-jsx": "^0.3.5",
     "fast-glob": "^3.2.12",
     "hast-util-to-html": "^8.0.3",
     "listify": "^1.0.3",
