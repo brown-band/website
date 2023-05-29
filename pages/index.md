@@ -6,7 +6,7 @@ summary = "Are you a Brown University undergraduate, grad student, or employee? 
 
 **[Commencement Schedule 2023 &rarr;](/commencement/)**
 
-{% component "Carousel", folder="homepage" %}
+::component[Carousel]{folder="homepage"}
 
 ## Why join the band?
 

@@ -2,7 +2,6 @@
 import fs from "node:fs";
 import path from "node:path";
 
-import { map } from "unist-util-map";
 import { unified } from "unified";
 
 import rehypeParse from "rehype-parse";
@@ -35,9 +34,17 @@ const processorToString = processor
   // convert the HTML nodes to an HTML string
   .use(rehypeStringify, { allowDangerousHtml: true });
 
-/** @param {string} str */
-export async function render(str, path) {
-  const file = await processorToString.process({ value: str, path });
+/**
+ * @param {string} str
+ * @param {string} path
+ * @param {import("eleventy-hast-jsx").RenderComponent} renderComponent
+ */
+export async function render(str, path, renderComponent) {
+  const file = await processorToString.process({
+    value: str,
+    path,
+    data: { renderComponent },
+  });
   return file.value.toString("utf8");
 }
 
@@ -226,6 +233,20 @@ function directivesPlugin() {
         });
       }
 
+      // component: run eleventy-hast-jsx
+      if (node.type === "leafDirective" && node.name === "component") {
+        if (node.children.length !== 1 || node.children[0].type !== "text") {
+          throw new Error(`Expected a component name`);
+        }
+        const name = node.children[0].value;
+        return file.data
+          .renderComponent(name, node.attributes)
+          .then((renderedHtml) => ({
+            type: "html",
+            value: renderedHtml,
+          }));
+      }
+
       // otherwise, return the node unchanged
       return node;
     });
@@ -357,4 +378,21 @@ function findPrefix(paragraph) {
       ],
     }),
   };
+}
+
+// Copied from unist-util-map to make it async
+function map(tree, mapFunction) {
+  return preorder(tree, null, null);
+
+  async function preorder(node, index, parent) {
+    const newNode = Object.assign({}, await mapFunction(node, index, parent));
+
+    if ("children" in node) {
+      newNode.children = await Promise.all(
+        node.children.map((child, index) => preorder(child, index, node))
+      );
+    }
+
+    return newNode;
+  }
 }
