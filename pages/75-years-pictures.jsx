@@ -1,5 +1,4 @@
 const slugify = require("@sindresorhus/slugify");
-
 exports.data = {
   title: "75 Years in Pictures",
 };
