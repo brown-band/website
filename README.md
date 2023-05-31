@@ -28,7 +28,7 @@ Optionally, check out the external documentation for packages this project uses 
 - [Eleventy](https://www.11ty.dev/docs/)
 - [Node.js](https://nodejs.org/en/docs/)
 - [`eleventy-hast-jsx`](https://github.com/j-f1/eleventy-hast-jsx)
-- [Bootstrap](https://getbootstrap.com/docs/5.1/)
+- [Bootstrap](https://getbootstrap.com/docs/5.3/)
 - [CommonMark](https://commonmark.org/help/)
 - [unified](https://unifiedjs.com/learn/)
 - [PurgeCSS](https://purgecss.com/configuration.html)
