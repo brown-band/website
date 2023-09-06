@@ -3,13 +3,13 @@ name = "[Librarians](/constitution#IIIC2)"
 people = [
   { name = "Jillian Belluck", email = "jillian_belluck@brown.edu", year = 25 },
   { name = "Shaw Miller", email = "thomas_s_miller@brown.edu", year = 23.5 },
+  { name = "Julia Granato", email = "julia_r_granato@brown.edu", year = 25 },
 ]
 
 [[appointedPositions]]
 name = "[Social Chairs](/constitution#IIIC8)"
 people = [
   { name = "Jace Damon", email = "jace_damon@brown.edu", year = 25 },
-  { name = "Noah Vaughan", email = "noah_vaughan@brown.edu", year = 23 },
   { name = "Shaw Miller", email = "thomas_s_miller@brown.edu", year = 23.5 },
   { name = "Owen Landry", email = "owen_landry@brown.edu", year = 26 },
 ]
@@ -18,8 +18,6 @@ people = [
 name = "[PRR Chairs](/constitution#IIIC4)"
 people = [
   { name = "Devon Newman", email = "devon_newman@brown.edu", year = 25 },
-  { name = "Janelle Barnett", email = "janelle_barnett@brown.edu", year = 24 },
-  { name = "Noah Vaughan", email = "noah_vaughan@brown.edu", year = 23 },
 ]
 
 [[appointedPositions]]

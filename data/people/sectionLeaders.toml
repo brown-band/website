@@ -13,7 +13,6 @@ people = [
 [[sectionLeaders]]
 name = "Saxophones & Mellophones"
 people = [
-  { name = "Eliana Hornbuckle", email = "eliana_hornbuckle@brown.edu", year = 24 },
   { name = "Tyler Gurth", email = "tyler_gurth@brown.edu", year = 25 },
   { name = "Morgan Dethlefsen", email = "morgan_dethlefsen@brown.edu", year = 26 },
 ]
