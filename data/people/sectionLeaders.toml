@@ -2,6 +2,7 @@
 name = "Clarinets"
 people = [
   { name = "Bryce Gray", email = "bryce_gray@brown.edu", year = 25 },
+  { name = "Valentin Garcia", email = "valentin_garcia@brown.edu", year = 26 },
 ]
 
 [[sectionLeaders]]
