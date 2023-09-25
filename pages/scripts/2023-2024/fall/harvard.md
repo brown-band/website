@@ -10,6 +10,7 @@ score = 31
 +++
 
 ## Pregame
+
 Ladies and gentlemen, friends and alumni, presenting an organization with a very talented woodwind section, it’s the Brown University "Quick Fingering" BANNNDDDDDDDDDDD!
 
 I have to say, Harvard, you sure do have a beautiful campus! I guess it’s not for nothing that you have the largest academic endowment in the world. Your large endowment results in beautiful erections like the Widener Library–and the Cage has aroused our interest even further! Watch now as the band forms a cage and reaches the pinnacle of its performance with "Bad Romance"!
@@ -18,8 +19,8 @@ I have to say, Harvard, you sure do have a beautiful campus! I guess it’s not 
 
 Catch us at halftime when we can really take our time with things.
 
-
 ## Halftime
+
 Ladies and gentlemen, friends and alumni, presenting an organization that had to try really hard not to mention some of your alumni, it’s the Brown University "it’s always the trombones" BANNNDDDDDDDDDDD!
 
 Harvard prides itself on tradition; it’s so traditional, in fact, that one of the staff members took a tip from med students in the Victorian era! Somehow, this is still only the second weirdest dismemberment incident at Harvard–sorry, Mr. Parkman. Thank goodness they tore down the old Gore Hall, or we’d have a bloody mess on our hands in more ways than one. Get ready for a visceral show as the band forms a shovel and plays "Grave Robbing Song"

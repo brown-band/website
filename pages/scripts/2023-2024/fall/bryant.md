@@ -17,11 +17,11 @@ It's easy to forget just how wild people can get at their first football game of
 
 :sd[Band forms a worm and plays Doctor Worm]
 
-Bryant University is in the top 1% of return on investment for colleges, and they sure are proud of it! No one comes out higher than Bryant students *cough* *cough*! Here are some of the historic positions past Bryant alumni have gone into:
+Bryant University is in the top 1% of return on investment for colleges, and they sure are proud of it! No one comes out higher than Bryant students _cough_ _cough_! Here are some of the historic positions past Bryant alumni have gone into:
 
 :::script-list
 
-- A. Secretary of Agriculture… of New Jersey *as absolutely disgusted as possible*
+- A. Secretary of Agriculture… of New Jersey _as absolutely disgusted as possible_
 - B. Founder of one of the nation's first university dairy programs
 - C. Supporting actor on a sitcom that ended in 1993
 - D. Lacrosse player for the Long Island Lizards, a real sports team that exists,
