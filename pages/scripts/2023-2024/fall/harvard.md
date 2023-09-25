@@ -1,6 +1,6 @@
 +++
 sport = "football"
-date = 2022-09-22
+date = 2023-09-22
 [teams.home]
 name = "Harvard"
 score = 34
