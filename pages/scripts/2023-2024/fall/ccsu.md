@@ -10,6 +10,7 @@ score = 20
 +++
 
 ## Pregame
+
 Ladies and gentlemen, friends and alumni, presenting an organization that’s XX, it’s the Brown University “XX” BANNNDDDDDDDDDDD!
 
 It's finally that time of year where we can bring out something we treasure very deeply: our giant baton! Our world-record-breaking-in-size giant baton to be exact! While our skill with it may be questionable - you know what they say. It's the size that truly matters!
@@ -19,6 +20,7 @@ Watch now as the band swings our baton, and plays "Baton more-and-more"
 :sd[Band forms B and plays #3.]
 
 ## Halftime
+
 Ladies and gentlemen, friends and alumni, presenting an organization that’s welcoming a whole new era, it’s the Brown University “let there be light” BANNNDDDDDDDDDDD!
 
 Central Connecticut State University–a school with a history nearly as lengthy as its name. All sorts of students have passed through its hallowed halls, and it seems some of them had unfinished business. Visitors to the student center's 1849 room have reported all sorts of spooooky happenings . . . like a lost cell phone being found there, and a chair being moved! Surely, this is the work of foul spirits! There is no other possible explanation! Call up your local exorcist–because who else you gonna call?–and watch now as the band plays "Smooth Transition to the Other Side"!
@@ -29,7 +31,6 @@ While the 1849 room may have some specters, the 1849 Semesters Cafe once had spi
 
 :sd[Band forms a cup and plays We’re all in this Together.]
 
-
 Fortunately, students nowadays spend their late nights in a more wholesome and virtuous environment–the devil's den! Devils Den @ 10 PM, that is–a casual weekly program committed to providing a welcoming atmosphere with their D.E.V.I.L.S. acronym. We were so inspired by this that we created an acronym to list our own goals for the future!
 
 :::script-list
@@ -37,7 +38,7 @@ Fortunately, students nowadays spend their late nights in a more wholesome and v
 - D. Drinking… a lot. No, more than that.
 - E. Escaping Harvard with that bass
 - V. Coming up with words that start with ‘V’
-- I. *Pauses* I give up
+- I. _Pauses_ I give up
 - L. Conducting with our very large baton and
 - F. The Princeton band
 
