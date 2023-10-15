@@ -31,8 +31,6 @@ Let's take a second to appreciate all of URI's unique, storied, completely origi
 
 :sd[Band forms L and plays Hips Don't Lie.]
 
-Paragraph 2:
-
 Unfortunately, it seems as though URI's fallen on hard times. They've resorted to renting out their own mascot just to make ends meet! Here's just some of the things you can purchase Rhody's services for:
 
 :::script-list
