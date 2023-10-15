@@ -156,7 +156,7 @@ function ButtonImage({ urls, buttons, name, semester }) {
   return (
     semester.semester === "fall" &&
     button && (
-      <a href={button.image}>
+      <a href={`${urls.buttons}/${button.image}`}>
         <img
           src={urls.buttons + "/" + button.thumbnail}
           alt={`button: ${button.alt}`}
