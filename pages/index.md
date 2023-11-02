@@ -7,12 +7,6 @@ summary = "Are you a Brown University undergraduate, grad student, or employee? 
 
 <!-- **[Commencement Schedule 2023 &rarr;](/commencement/)** -->
 
-## Come to our First Rehearsal!
-
-We'd love to see you join us on Tuesday, 9/12 at 6pm in Fulton Rehearsal Hall.
-
-Preceded at 5:15pm with an ice cream social!
-
 ## Why join the band?
 
 The Band is a fun-loving group of Brunonians who help to keep school spirit alive at Brown. Whether we are following the football team on the road, cheering on men’s and women’s basketball and hockey here in Providence, or playing for major school events, such as Convocation, we are Ever True to Brown. We interact with alumni, administrators and other students, sharing our love for Brown and leading our appreciative audiences in displaying our school spirit. And when the night falls, we party like there’s no tomorrow. Here are some other reasons to join:
