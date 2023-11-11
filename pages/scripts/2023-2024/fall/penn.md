@@ -21,18 +21,18 @@ Catch us at halftime when we use our athletics budget to buy Kik.
 
 ## Halftime
 
-Ladies and gentlemen, friends and alumni, presenting an organization that for some reason can’t see their reflection, it’s the Brown University *spoken in a Dracula accent* “blah blah blah” BANNNDDDDDDDDDDD
+Ladies and gentlemen, friends and alumni, presenting an organization that for some reason can’t see their reflection, it’s the Brown University _spoken in a Dracula accent_ “blah blah blah” BANNNDDDDDDDDDDD
 
 Since it’s Halloweekend, we thought we’d give you all a good scare! Here are some of the most terrifying things about Penn:
 
 :::script-list
+
 - A. If you step on the compass, a plague of locusts descends upon you
 - B. The cold, dead eyes of your mascot
-- C. The wrath of an enraged pacifist 
+- C. The wrath of an enraged pacifist
 - D. ENIAC, the Evil, Never-Inhibited Annihilation Computer
 - E. The probability of indictment on the year of your 55th reunion, and
-- F. The Princeton band
-:::
+- F. The Princeton band :::
 
 We can’t tell if you’re screaming in fright or because it’s midterm season! Either way, uncover your eyes and watch now as the band plays “October”!
 
@@ -40,7 +40,7 @@ We can’t tell if you’re screaming in fright or because it’s midterm season
 
 We’d like to propose a toast–no no, wait, don’t throw it yet! A toast to the iron moral backbone of Penn’s students and faculty, and to their perfect ratio. At Penn, you’ll never find “Sine moribus vanae.”
 
-Watch now as the band plays “Toast 2, toast 1’s better half” 
+Watch now as the band plays “Toast 2, toast 1’s better half”
 
 :sd[Band forms B and plays #2.]
 

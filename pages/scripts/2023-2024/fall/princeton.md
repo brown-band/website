@@ -38,13 +38,13 @@ Wipe off the dust, and watch now as the band plays “The Lacerations that I Get
 We truly appreciate all of our bandies, from our quietest flute to our loudest cymbal. The Princeton Band clearly does too, giving out a bunch of exciting awards every year. Here are some of our favorites:
 
 :::script-list
+
 - A. The Turkey of the Year award, given to the band member who has exercised the worst judgment (such as choosing to play trumpet)
 - B. The Freshman Lush, awarded the “Little Whizzer” for best establishing the spirit of the - band after drinking… lots of milk, Mom
 - C. The Grossest Member… I think this one explains itself
 - D. The “What’re you Doin’ in There?” Award, given to the two band members who spent the most time “reorganizing the band closet” together.
-- E. The “Presidential Attitude,” the award given to the bandie who has consumed the most “Jimmy Carter’s” in one sitting and 
-- F. The Princeton band
-:::
+- E. The “Presidential Attitude,” the award given to the bandie who has consumed the most “Jimmy Carter’s” in one sitting and
+- F. The Princeton band :::
 
 Still, all these awards have nothing on the prestige of the Brown Band’s very own Dochebag Award. Watch now as the band engages with our bandie siblings from another state’s traditions and plays “Raise Your Grossest Glass”
 

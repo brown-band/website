@@ -23,7 +23,6 @@ Still, with a university as old as Yale, there are surely going to be some promi
 
 Catch us at halftime when we buy your mascot for $5.
 
-
 ## Halftime
 
 Ladies and gentlemen, friends and alumni, presenting an organization that will never raise your taxes, it’s the Brown University “read my lips” BANNNDDDDDDDDDDD!
@@ -35,17 +34,16 @@ Inflation has been on the rise lately, huh? And no, I’m not talking about that
 We’ve heard of a lot of secret organizations over at Yale, and the Band’s top investigators have been sent to bring them all out into the open - here’s the ones we've found to exist:
 
 :::script-list
+
 - A. Skull and Bones, who are ready to take your Order
 - B. Spade and Grave… at least for the next couple of days
 - C. Mac and Cheese–keep an eye out for impastas
 - D. Leaf and Handle… wait, that’s just our shopping list
 - E. H and W, a society it takes 20 years to leave, and
-- F. The Princeton band
-:::
+- F. The Princeton band :::
 
 Watch now as the band discovers what’s really in the tomb basements and plays “In the Fray-Masons.”
 
 :sd[Band forms B and plays In the Fray.]
 
 Go back to Hartford. Brown Band Out.
-
