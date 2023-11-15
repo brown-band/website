@@ -40,7 +40,9 @@ We’ve heard of a lot of secret organizations over at Yale, and the Band’s to
 - C. Mac and Cheese–keep an eye out for impastas
 - D. Leaf and Handle… wait, that’s just our shopping list
 - E. H and W, a society it takes 20 years to leave, and
-- F. The Princeton band :::
+- F. The Princeton band
+
+:::
 
 Watch now as the band discovers what’s really in the tomb basements and plays “In the Fray-Masons.”
 
