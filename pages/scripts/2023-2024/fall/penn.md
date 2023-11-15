@@ -32,7 +32,9 @@ Since it’s Halloweekend, we thought we’d give you all a good scare! Here are
 - C. The wrath of an enraged pacifist
 - D. ENIAC, the Evil, Never-Inhibited Annihilation Computer
 - E. The probability of indictment on the year of your 55th reunion, and
-- F. The Princeton band :::
+- F. The Princeton band
+
+:::
 
 We can’t tell if you’re screaming in fright or because it’s midterm season! Either way, uncover your eyes and watch now as the band plays “October”!
 
