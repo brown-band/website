@@ -18,6 +18,7 @@ people = [
 name = "[PRR Chairs](/constitution#IIIC4)"
 people = [
   { name = "Devon Newman", email = "devon_newman@brown.edu", year = 25 },
+  { name = "Shravya Sunkugari", email = "shravya_sunkugari@brown.edu", year = 27 },
 ]
 
 [[appointedPositions]]
@@ -35,6 +36,7 @@ people = [
   { name = "George Chudley", email = "george_chudley@brown.edu", year = 26 },
   { name = "Eitan Frank", email = "eitan_frank@brown.edu", year = 26 },
   { name = "Owen Landry", email = "owen_landry@brown.edu", year = 26 },
+  { name = "Coral Roost Rothenberg", email = "coral_roost_rothenberg@brown.edu", year = 27 },
 ]
 
 [[appointedPositions]]
