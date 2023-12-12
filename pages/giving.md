@@ -1,11 +1,8 @@
-#### To donate online to the Brown Band, follow these easy steps!
+#### To donate online to the Brown Band, see below!
 
 <hr />
 
-1. Please visit [gifts.brown.edu](https://gifts.brown.edu/). Click on “Search for a Fund”.
-   - <img class="giving-image" src="/assets/images/giving/searchfund.png"/>
-2. Search for “Brown Band”.
-   - <img class="giving-image" src="/assets/images/giving/searchband.png"/>
+Please visit [the band giving website](https://go.brown.edu/BrownBandGifts). From there, you can fill out the inputs to make your contribution!
 
 That's all!
 
