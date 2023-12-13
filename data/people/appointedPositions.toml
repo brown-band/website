@@ -26,6 +26,7 @@ name = "[Scriptwriters](/constitution#IIIC6)"
 people = [
   { name = "George Chudley", email = "george_chudley@brown.edu", year = 26 },
   { name = "Eitan Frank", email = "eitan_frank@brown.edu", year = 26 },
+  { name = "Jace Damon", email = "jace_damon@brown.edu", year = 25 },
 ]
 
 [[appointedPositions]]
