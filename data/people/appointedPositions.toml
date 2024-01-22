@@ -2,7 +2,6 @@
 name = "[Librarians](/constitution#IIIC2)"
 people = [
   { name = "Jillian Belluck", email = "jillian_belluck@brown.edu", year = 25 },
-  { name = "Shaw Miller", email = "thomas_s_miller@brown.edu", year = 23.5 },
   { name = "Julia Granato", email = "julia_r_granato@brown.edu", year = 25 },
 ]
 
@@ -10,7 +9,6 @@ people = [
 name = "[Social Chairs](/constitution#IIIC8)"
 people = [
   { name = "Jace Damon", email = "jace_damon@brown.edu", year = 25 },
-  { name = "Shaw Miller", email = "thomas_s_miller@brown.edu", year = 23.5 },
   { name = "Owen Landry", email = "owen_landry@brown.edu", year = 26 },
 ]
 
@@ -27,6 +25,7 @@ people = [
   { name = "George Chudley", email = "george_chudley@brown.edu", year = 26 },
   { name = "Eitan Frank", email = "eitan_frank@brown.edu", year = 26 },
   { name = "Jace Damon", email = "jace_damon@brown.edu", year = 25 },
+  { name = "Shravya Sunkugari", email = "shravya_sunkugari@brown.edu", year = 27 },
 ]
 
 [[appointedPositions]]
