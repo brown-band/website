@@ -26,6 +26,7 @@ people = [
   { name = "Eitan Frank", email = "eitan_frank@brown.edu", year = 26 },
   { name = "Jace Damon", email = "jace_damon@brown.edu", year = 25 },
   { name = "Shravya Sunkugari", email = "shravya_sunkugari@brown.edu", year = 27 },
+  { name = "Victor Chang", email = "victor_a_chang@brown.edu", year = 27 },
 ]
 
 [[appointedPositions]]
@@ -37,6 +38,7 @@ people = [
   { name = "Eitan Frank", email = "eitan_frank@brown.edu", year = 26 },
   { name = "Owen Landry", email = "owen_landry@brown.edu", year = 26 },
   { name = "Coral Roost Rothenberg", email = "coral_roost_rothenberg@brown.edu", year = 27 },
+  { name = "Annie Johnson", email = "annie_johnson@brown.edu", year = 27 },
 ]
 
 [[appointedPositions]]
@@ -45,6 +47,7 @@ people = [
   { name = "Joshua Lobsenz", email = "joshua_lobsenz@brown.edu", year = 24 },
   { name = "Tyler Gurth", email = "tyler_gurth@brown.edu", year = 25, endowed = "Edward Guiliano '72 Alumni Liaison"},
   { name = "Adam Dieck", email = "adam_dieck@brown.edu", year = 24 },
+  { name = "Albert Lou", email = "albert_lou@brown.edu", year = 26 },
 ]
 
 [[appointedPositions]]
