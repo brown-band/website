@@ -39,4 +39,5 @@ people = [
   { name = "George Chudley", email = "george_chudley@brown.edu", year = 26 },
   { name = "Isabella Jaurez Galeas", email = "isabella_juarez_galeas@brown.edu", year = 27 },
   { name = "Xinyi Wang", email = "xinyi_wang5@brown.edu", year = 25 },
+  { name = "Giancarlo Mendoza", email = "giancarlo_mendoza@brown.edu", year = 27 },
 ]
