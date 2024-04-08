@@ -9,6 +9,8 @@ people = [
 name = "Flutes"
 people = [
   { name = "Jillian Belluck", email = "jillian_belluck@brown.edu", year = 25, endowed = "Princeton University Band Flute Section Leader" },
+  { name = "Aly Rajwani", email = "aly_rajwani@brown.edu", year = 27},
+
 ]
 
 [[sectionLeaders]]
@@ -22,6 +24,8 @@ people = [
 name = "Trumpets"
 people = [
   { name = "Joshua Lobsenz", email = "joshua_lobsenz@brown.edu", year = 24, endowed = "Edward Guiliano '72 Trumpet Section Leader" },
+  { name = "Daniel Tamburro", email = "daniel_tamburro@brown.edu", year = 27},
+  { name = "Eddie Nguyen", email = "edward_nguyen@brown.edu", year = 27},
 ]
 
 [[sectionLeaders]]
