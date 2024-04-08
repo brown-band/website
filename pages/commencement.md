@@ -1,5 +1,5 @@
 +++
-title = "Commencement Schedule 2023"
+title = "Commencement Schedule 2024"
 summary = "Further details about non-mandatory events will be coming soon. Exact timing is subject to change."
 # comment out this line to re-enable the page
 # you’ll also want to update nav.toml & index.md
@@ -15,7 +15,7 @@ tr:last-child td { border-bottom: none }
 h3 { margin-top: 2rem }
 </style>
 
-### Saturday, May 20<sup>th</sup> {#saturday-before}
+### Saturday, May 18<sup>th</sup> {#saturday-before}
 
 <table class="table">
 <tr>
@@ -24,7 +24,7 @@ h3 { margin-top: 2rem }
 </tr>
 </table>
 
-### Tuesday, May 23<sup>rd</sup> {#tuesday}
+### Tuesday, May 21<sup>rd</sup> {#tuesday}
 
 <table class="table">
 <tr>
@@ -33,7 +33,7 @@ h3 { margin-top: 2rem }
 </tr>
 </table>
 
-### Wednesday, May 24<sup>th</sup> {#wednesday}
+### Wednesday, May 2<sup>th</sup> {#wednesday}
 
 <table class="table">
 <tr>
@@ -41,11 +41,11 @@ h3 { margin-top: 2rem }
   <td>Fulton: Music Stuffing</td>
 </tr>
 <tr>
-  <td>4:45pm–5:00pm</td>
+  <td>3:45pm–4:45pm</td>
   <td>Fulton: Uniform Pickup</td>
 </tr>
 <tr>
-  <td>6:00pm–7:30pm</td>
+  <td>5:30pm–7:30pm</td>
   <td>
   
   :red[Fulton: Student Rehearsal]<br>:red[(Mandatory for Students)]</td>
@@ -56,7 +56,7 @@ h3 { margin-top: 2rem }
 </tr>
 </table>
 
-### Thursday, May 25<sup>th</sup> {#thursday}
+### Thursday, May 23<sup>th</sup> {#thursday}
 
 <table class="table">
 <tr>
@@ -65,31 +65,21 @@ h3 { margin-top: 2rem }
 </tr>
 </table>
 
-### Saturday, May 27<sup>th</sup> {#saturday}
+### Saturday, May 25<sup>th</sup> {#saturday}
 
 <table class="table">
 <tr>
-  <td>10:00am–12:00pm</td>
+  <td>9:30am–12:30pm</td>
   <td>
   
     :red[Fulton: Rehearsal]</td>
 </tr>
 <tr>
-  <td>12:00pm–1:00pm</td>
+  <td>12:30pm–1:30pm</td>
   <td>Lunch break and uniform distribution</td>
 </tr>
 <tr>
-  <td>1:00pm–2:30pm</td>
-  <td>
-  
-    :red[Fulton: Rehearsal]</td>
-</tr>
-<tr>
-  <td>2:30pm–3:00pm</td>
-  <td>Uniform distribution</td>
-</tr>
-<tr>
-  <td>3:15pm</td>
+  <td>1:30pm</td>
   <td>
   
     :red[Campus March (polo/khakis required)<br>(Mandatory for students)]
@@ -98,11 +88,11 @@ h3 { margin-top: 2rem }
 </tr>
 <tr>
   <td>4:30pm</td>
-  <td>Orwig Lawn: Commencement Band Reception<br>(Rain location: Fulton) (Bandies, alums, and family welcome!)</td>
+  <td>Perkins Courtyard: Commencement Band Reception<br>(Rain location: Fulton) (Bandies, alums, and family welcome!)</td>
 </tr>
 </table>
 
-### Sunday, May 28<sup>th</sup> {#sunday}
+### Sunday, May 26<sup>th</sup> {#sunday}
 
 <table class="table">
 <tr>
@@ -123,7 +113,7 @@ h3 { margin-top: 2rem }
 </tr>
 </table>
 
-### Monday, May 29<sup>th</sup> {#monday}
+### Monday, May 27<sup>th</sup> {#monday}
 
 <table class="table">
 <tr>

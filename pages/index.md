@@ -5,11 +5,11 @@ pageHeader = "Join the Band!"
 summary = "Are you a Brown University undergraduate, grad student, or employee? Does your heart swell with pride whenever a touchdown, basket, or goal is scored in defense of Brunonia’s honor? Do your friends refuse to attend sporting events with you because they are embarrassed by your loud and heartfelt cheering? Do you like bagels? If yes, you’re already Brown Band material - all you have to do now is join up!"
 +++
 
+**[Commencement Schedule 2024 &rarr;](/commencement/)**
+
 ## Giving to the Band
 
 At this pivotal time in the Band's history (100th year coming up!), we are raising funds to celebrate our centennial year, and get new instruments and supplies for the band. If you feel inclined, we would greatly appreciate support to the band of, as we are a "size doesn't matter band", any amount! [Click here for the donation page](https://bbis.advancement.brown.edu/BBPhenix/give-now?did=2e1b15fb-92ea-492e-8812-17fe6bad16c8).
-
-<!-- **[Commencement Schedule 2023 &rarr;](/commencement/)** -->
 
 ## Why join the band?
 
