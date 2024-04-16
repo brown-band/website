@@ -9,7 +9,7 @@ summary = "Are you a Brown University undergraduate, grad student, or employee? 
 
 ## Giving to the Band
 
-At this pivotal time in the Band's history (100th year coming up!), we are raising funds to celebrate our centennial year, and get new instruments and supplies for the band. If you feel inclined, we would greatly appreciate support to the band of, as we are a "size doesn't matter band", any amount! [Click here for the donation page](https://bbis.advancement.brown.edu/BBPhenix/give-now?did=2e1b15fb-92ea-492e-8812-17fe6bad16c8).
+At this pivotal time in the Band's history (100th year coming up!), we are raising funds to celebrate our centennial year, and get new instruments and supplies for the band. If you feel inclined, we would greatly appreciate support to the band of, as we are a "size doesn't matter band", any amount! [Click here for the donation page](https://go.brown.edu/BrownBandGifts).
 
 ## Why join the band?
 
