@@ -1,6 +1,6 @@
 +++
 title = "Commencement Schedule 2024"
-summary = "Further details about non-mandatory events will be coming soon. Exact timing is subject to change."
+summary = "Further details about non-mandatory events will be coming soon. Exact timing is subject to change. Alumni of the band? [ Sign up for Commencement today!](https://docs.google.com/forms/d/e/1FAIpQLSdsJEln4tuk3XDPbnLuG28ANgUzx9l5IvGxvPOlP6_YSchzHQ/viewform)"
 # comment out this line to re-enable the page
 # you’ll also want to update nav.toml & index.md
 # permalink = false
