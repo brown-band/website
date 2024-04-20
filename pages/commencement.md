@@ -1,6 +1,6 @@
 +++
 title = "Commencement Schedule 2024"
-summary = "Further details about non-mandatory events will be coming soon. Exact timing is subject to change. Alumni of the band? [ Sign up for Commencement today!](https://docs.google.com/forms/d/e/1FAIpQLSdsJEln4tuk3XDPbnLuG28ANgUzx9l5IvGxvPOlP6_YSchzHQ/viewform)"
+summary = "Further details about non-mandatory events will be coming soon. Exact timing is subject to change."
 # comment out this line to re-enable the page
 # you’ll also want to update nav.toml & index.md
 # permalink = false
@@ -14,6 +14,10 @@ td > p:last-child { margin: 0 }
 tr:last-child td { border-bottom: none }
 h3 { margin-top: 2rem }
 </style>
+
+## Signups
+
+Alumni of the band? [Sign up for Commencement today!](https://docs.google.com/forms/d/e/1FAIpQLSdsJEln4tuk3XDPbnLuG28ANgUzx9l5IvGxvPOlP6_YSchzHQ/viewform)
 
 ### Saturday, May 18<sup>th</sup> {#saturday-before}
 
