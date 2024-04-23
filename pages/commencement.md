@@ -28,7 +28,7 @@ Alumni of the band? [Sign up for Commencement today!](https://docs.google.com/fo
 </tr>
 </table>
 
-### Tuesday, May 21<sup>rd</sup> {#tuesday}
+### Tuesday, May 21<sup>st</sup> {#tuesday}
 
 <table class="table">
 <tr>
@@ -37,7 +37,7 @@ Alumni of the band? [Sign up for Commencement today!](https://docs.google.com/fo
 </tr>
 </table>
 
-### Wednesday, May 2<sup>th</sup> {#wednesday}
+### Wednesday, May 22<sup>nd</sup> {#wednesday}
 
 <table class="table">
 <tr>
@@ -60,7 +60,7 @@ Alumni of the band? [Sign up for Commencement today!](https://docs.google.com/fo
 </tr>
 </table>
 
-### Thursday, May 23<sup>th</sup> {#thursday}
+### Thursday, May 23<sup>rd</sup> {#thursday}
 
 <table class="table">
 <tr>
