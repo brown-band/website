@@ -36,8 +36,12 @@ Want to learn more about the past 100 years of our beloved band?
 
 Author and former percussionist Sean Briody, co 2019, pays homage to the band's roots and vibrant history in this steller book! Check out The Brown University Band: An Ever True History out [on Amazon!](https://www.amazon.com/Brown-University-Band-History-Sports/dp/1467154431)
 
+<div style="display: flex; justify-content: center; margin: 1%;">
 <img src="/assets/images/centennial/book_cover.png" alt="Book cover for The Brown University Band: An Ever True History" width="50%">
+</div>
 
 :red[Want to get involved with Centennial Planning, Fundraising Efforts, or share ideas? Contact the alumni liaisons at brownbandals@gmail.com].
 
+<div style="display: flex; justify-content: center; margin: 1%;">
 <img src="/assets/images/centennial/bband_100.png" alt="Brown Band centennial logo." width="50%">
+</div>
