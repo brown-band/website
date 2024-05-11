@@ -242,10 +242,16 @@ There are a few extensions to Markdown that this project uses to make it easier 
    - Meta Serif Pro (from [Adobe Fonts](https://fonts.adobe.com/fonts/ff-meta-serif))
    - Fira Sans (from [Adobe Fonts](https://fonts.adobe.com/fonts/fira-sans) or [Font Squirrel](https://www.fontsquirrel.com/fonts/fira-sans))
    - Brown has [instructions](https://ithelp.brown.edu/kb/articles/install-adobe-creative-cloud-desktop-application) to set up a free Creative Cloud account to access Adobe Fonts
-3. Run `pnpm build:book`, then open `book/book.pdf` in your favorite PDF viewer. Expect it to be around 100 pages.
-4. Make sure there are no typos and everything is laid out decently
+3. Run the following commands to make sure you have all the dependencies:
+
+- `cd book`
+- `pnpm install`
+- `cd ..`
+
+4. Run `pnpm build:book`, then open `book/book.pdf` in your favorite PDF viewer. Expect it to be around 100 pages.
+5. Make sure there are no typos and everything is laid out decently
    - If you have to make changes, run `pnpm start:book` and open http://localhost:8080 in your browser to get a live preview of what the book will look like. Note that you will have to manually refresh to get CSS changes to apply, due to the way the library that slices the HTML into pages works.
-5. View remaining steps in the Webmaster Reference Document, under the “Making script books” section
+6. View remaining steps in the Webmaster Reference Document, under the “Making script books” section
 
 ### Adding/removing pages
 
