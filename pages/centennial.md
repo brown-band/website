@@ -30,7 +30,7 @@ All Brown Band alumni are invited to pick up their instrument (no matter how dus
 
 ## Fundraising
 
-Fundraising efforts are still being planned by the band leadership. If you want to get an early start, [check out our giving page!](/giving/)
+We have launched our ambitious fundraising campaign! Please [check out our giving page!](/giving/)
 
 ## The Brown University Band: An Ever True History
 
