@@ -12,11 +12,21 @@ summary = "The Brown Band turns 100 in fall of 2024! We would love to host a yea
 
 #### Centennial Alumni Game + Gala, September 28th, 2024
 
-All Brown Band alumni and their families are invited to join the band in celebration of our 100th anniversary on September 28th! March down to Brown Stadium with us and swell our ranks so we double… no triple… no QUINTUPLE the size of the Harvard Band (if size matters). Then come join us for a banquet that night, as we celebrate 100 years of memories, shenanigans, and dancing! If you are interested in joining, please fill out [this interest form](https://www.google.com/url?q=https://forms.gle/Cr2dzFF6c6Vbmw6y9&source=gmail&ust=1713728551922000&usg=AOvVaw2GxxhNNfBqke5ehbyUMPPS) so we know the kind of venue we need to reserve. Spouses + families are invited!
+All Brown Band alumni and their families are invited to join the band in celebration of our 100th anniversary on September 28th! March down to Brown Stadium with us and swell our ranks so we double… no triple… no QUINTUPLE the size of the Harvard Band (if size matters). Then come join us for a banquet that night, as we celebrate 100 years of memories, shenanigans, and dancing! If you are interested in joining, please fill out [our RSVP](https://forms.gle/KycdWrLyBKzGnCdF9)!
 
-A formal RSVP will be made available soon.
+Gala tickets will be made available soon.
 
 Accomodations can be made with the help of [Brown's visitor info](https://www.brown.edu/about/visit/accommodations)
+
+_Schedule for Friday (September 27th) and Saturday (September 28th):_
+
+**Friday 4-5 pm**: Sean Briody ‘19, author of The Brown University Band: An Ever True History, will be at the Brown Bookstore to discuss his book. There’s no better time to learn about the Band’s history and purchase a signed copy of the book!
+
+**Friday 6-7:30 pm**: If you’re planning on playing an instrument for Saturday’s game, join us Friday evening on campus for an optional music rehearsal. We will hand out instruments to those who are borrowing, rehearse some of the Band’s most important tunes, and review Saturday’s schedule.
+
+**Saturday 8 am**: Call time at Fulton Rehearsal Hall for the football game. After a brief breakfast (food and coffee provided), we will head to field rehearsal, where we will rehearse our field show forms and run through the music. Then, we will march to the stadium, enjoy the game, and be back at Fulton by roughly 4:30 pm. For those who may not wish to march, you may ride the band bus to the stadium. Or you may meet us at the stadium.
+
+**Saturday 6-11 pm**: Celebrate the Band’s 100th at our Centennial Gala, the ultimate Bandquet! More details and ticket information will be released shortly, so be on the lookout.
 
 #### Alumni Ice Show, TBD (Mid February)
 
