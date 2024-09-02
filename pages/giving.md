@@ -2,13 +2,15 @@
 
 <hr />
 
+The Brown Band is supported in part by Brown University Athletics and Recreation. Gifts through the Brown University Sports Foundation help support additional operational costs including instrument purchases and repair, uniforms, travel and, of course, band buttons. All gifts through the Sports Foundation are included in the Brown Annual Fund and are eligible for membership in the Brown Annual Fund’s recognition societies. Thank you for your support!
+
 ### Giving Link
 
 Please visit [the band giving website](https://go.brown.edu/BrownBandGifts). From there, you can fill out the inputs to make your contribution! That's all!
 
 #### Gift Recognition
 
-To be recognized for your gift (so we can mail you a thank you, and include you in the donation tiers) please [fill out this form](https://docs.google.com/forms/d/e/1FAIpQLSfNc-XJn6hrW3V_BmgN7TPr7idzSRKJYyMb6xPNpeySM1MAiA/viewform). If you have trouble filling out the form, email brownbandals@gmail.com for assistance! You should fill out this form each time you make a donation, so that we can aggregate totals for our giving tiers.
+To be recognized by the band for your gift (so we can mail you a thank you, and include you in the donation tiers) please [fill out this form](https://docs.google.com/forms/d/e/1FAIpQLSfNc-XJn6hrW3V_BmgN7TPr7idzSRKJYyMb6xPNpeySM1MAiA/viewform). If you have trouble filling out the form, email brownbandals@gmail.com for assistance! You should fill out this form each time you make a donation, so that we can aggregate totals for our giving tiers.
 
 #### Centennial Goals
 
