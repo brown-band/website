@@ -74,41 +74,41 @@ _Here are some other examples of items your donation will support:_
 
 #### Donors of the Band
 
-Brian Guest Ben Leib David Muller Jalene and Brian Hornbuckle Leigh R Hochberg Ronald Wilson Susan Gilmore
+Brian Guest | Ben Leib | David Muller | Jalene and Brian Hornbuckle | Leigh R Hochberg | Ronald Wilson | Susan Gilmore
 
 #### Button Benefactors
 
-Adam Roth-Saks Alan Seiden Alexandra Asrow Alycia Mosley Austin Amy Andrews Bradford C. Lavigne Daniel Macks David Cabatingan Derek Wilson & Kristen Sorgi-Wilson Elizabeth and John Cowles Frank Smith Gabriel Buchbaum Hilary B Gerstein Iuliu Balibanu Jeff Carpenter John Weiss Joshua Evan Lobsenz Kyle Myerson Larry Ciummo Lena Barsky Malachi Hornbuckle Nicholas Briggs Nick Hagerty Nick Hastings Rozan Stone Anderson Sarah Cocuzzo
+Adam Roth-Saks | Alan Seiden | Alexandra Asrow | Alycia Mosley Austin | Amy Andrews | Bradford C. Lavigne | Daniel Macks | David Cabatingan | Derek Wilson & Kristen Sorgi-Wilson | Elizabeth and John Cowles | Frank Smith | Gabriel Buchbaum | Hilary B Gerstein | Iuliu Balibanu | Jeff Carpenter | John Weiss | Joshua Evan Lobsenz | Kyle Myerson | Larry Ciummo | Lena Barsky | Malachi Hornbuckle | Nicholas Briggs | Nick Hagerty | Nick Hastings | Rozan Stone Anderson | Sarah Cocuzzo
 
 <hr/>
 
 #### Forevermore Circle
 
-Bill Dedman and Pam Belluck Jessica Kirschner John Angelo Gnassi Joshua Waitzman Mitchell Lester Robert Miorelli Tony Green
+Bill Dedman and Pam Belluck | Jessica Kirschner | John Angelo Gnassi | Joshua Waitzman | Mitchell Lester | Robert Miorelli | Tony Green
 
 <hr/>
 
 #### Ever True Circle
 
-Adam Siegel John Cucco Marie J Trenga Michael Weston Philip Johnson Steven Levine The Gurth Family
+Adam Siegel | John Cucco | Marie J Trenga | Michael Weston | Philip Johnson | Steven Levine | The Gurth Family
 
 <hr/>
 
 #### Conductor's Circle
 
-Edward Guiliano Elaine Nguyen Friends of Seth Chernick '79 Joseph Hollander Karen Mellor Nick Keirstead Rosie Perera
+Edward Guiliano | Elaine Nguyen | Friends of Seth Chernick '79 | Joseph Hollander | Karen Mellor | Nick Keirstead | Rosie Perera
 
 <hr/>
 
 #### Elrod Society
 
-Darlene M. Netcoh Scott F Johnston Steven Klurfeld Melissa Birch Glerum
+Darlene M. Netcoh | Scott F Johnston | Steven Klurfeld | Melissa Birch Glerum
 
 <hr/>
 
 #### Irving Harris Founders Circle
 
-Douglas Traver Michael ONeil Kenneth R Sloan and Christine A Curcio
+Douglas Traver | Michael ONeil | Kenneth R Sloan and Christine A Curcio
 
 <hr/>
 
