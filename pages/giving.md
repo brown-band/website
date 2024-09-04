@@ -36,18 +36,13 @@ We would greatly appreciate your support at any level towards the Band. Starting
   - Donations at this level that are received by April 15, 2025 will be engraved on a plaque to be hung in Fulton Rehearsal Hall, to honor champions of our centennial campaign.
 
 #### Specific Asks:
+
 Please let us know if you would like your gift to be directed to any of the following band needs by emailing us directly at BrownBandALs@gmail.com.
 
+_Centennial Activities_ $2,500: Centennial Gala Sponsor $1,000: Centennial Gala Supporter $2,000: Centennial buttons $350: Commemorative Centennial kazoos
 
-*Centennial Activities*
-$2,500: Centennial Gala Sponsor
-$1,000: Centennial Gala Supporter
-$2,000: Centennial buttons
-$350: Commemorative Centennial kazoos
+_Percussion Fund_ Donations to the Percussion Fund will help support the purchase of the following instruments:
 
-
-*Percussion Fund*
-Donations to the Percussion Fund will help support the purchase of the following instruments:
 - $810: snare drum (5 needed)
 - $385: snare drum harness (5 needed)
 - $225: snare drum stand (5 needed)
@@ -62,8 +57,8 @@ Donations to the Percussion Fund will help support the purchase of the following
 - $1,430: bells (1 needed)
 - $400: miscellaneous percussion (cow bells, jam block, whistle, mounted hi-hats)
 
+_Here are some other examples of items your donation will support:_
 
-*Here are some other examples of items your donation will support:*
 - $6,000: Buttons for a year!
 - $25: Enough reeds to last the clarinets through football season
 - $25: A flute armband music holder and music folder
@@ -73,90 +68,48 @@ Donations to the Percussion Fund will help support the purchase of the following
 - $100: Lyres, music folders, and music for 5 trumpets
 - $1,000: One year of instrument repairs
 
-
 ### Giving Tiers
 
 <hr/>
 
 #### Donors of the Band
-Brian Guest
-Ben Leib
-David Muller
-Jalene and Brian Hornbuckle
-Leigh R Hochberg
-Ronald Wilson
-Susan Gilmore
+
+Brian Guest Ben Leib David Muller Jalene and Brian Hornbuckle Leigh R Hochberg Ronald Wilson Susan Gilmore
 
 #### Button Benefactors
-Adam Roth-Saks
-Alan Seiden
-Alexandra Asrow
-Alycia Mosley Austin
-Amy Andrews
-Bradford C. Lavigne 
-Daniel Macks
-David Cabatingan
-Derek Wilson & Kristen Sorgi-Wilson
-Elizabeth and John Cowles
-Frank Smith
-Gabriel Buchbaum
-Hilary B Gerstein
-Iuliu Balibanu
-Jeff Carpenter
-John Weiss
-Joshua Evan Lobsenz
-Kyle Myerson
-Larry Ciummo
-Lena Barsky
-Malachi Hornbuckle
-Nicholas Briggs
-Nick Hagerty
-Nick Hastings
-Rozan Stone Anderson
-Sarah Cocuzzo
+
+Adam Roth-Saks Alan Seiden Alexandra Asrow Alycia Mosley Austin Amy Andrews Bradford C. Lavigne Daniel Macks David Cabatingan Derek Wilson & Kristen Sorgi-Wilson Elizabeth and John Cowles Frank Smith Gabriel Buchbaum Hilary B Gerstein Iuliu Balibanu Jeff Carpenter John Weiss Joshua Evan Lobsenz Kyle Myerson Larry Ciummo Lena Barsky Malachi Hornbuckle Nicholas Briggs Nick Hagerty Nick Hastings Rozan Stone Anderson Sarah Cocuzzo
+
 <hr/>
 
 #### Forevermore Circle
-Bill Dedman and Pam Belluck
-Jessica Kirschner
-John Angelo Gnassi
-Joshua Waitzman
-Mitchell Lester
-Robert Miorelli
-Tony Green
+
+Bill Dedman and Pam Belluck Jessica Kirschner John Angelo Gnassi Joshua Waitzman Mitchell Lester Robert Miorelli Tony Green
+
 <hr/>
 
 #### Ever True Circle
-Adam Siegel
-John Cucco
-Marie J Trenga
-Michael Weston
-Philip Johnson
-Steven Levine
-The Gurth Family
+
+Adam Siegel John Cucco Marie J Trenga Michael Weston Philip Johnson Steven Levine The Gurth Family
+
 <hr/>
 
 #### Conductor's Circle
-Edward Guiliano
-Elaine Nguyen
-Friends of Seth Chernick '79
-Joseph Hollander
-Karen Mellor
-Nick Keirstead
-Rosie Perera
+
+Edward Guiliano Elaine Nguyen Friends of Seth Chernick '79 Joseph Hollander Karen Mellor Nick Keirstead Rosie Perera
+
 <hr/>
 
 #### Elrod Society
-Darlene M. Netcoh
-Scott F Johnston
-Steven Klurfeld
-Melissa Birch Glerum
+
+Darlene M. Netcoh Scott F Johnston Steven Klurfeld Melissa Birch Glerum
+
 <hr/>
 
 #### Irving Harris Founders Circle
-Douglas Traver
-Michael ONeil
-Kenneth R Sloan and Christine A Curcio
+
+Douglas Traver Michael ONeil Kenneth R Sloan and Christine A Curcio
+
 <hr/>
 
 If you would prefer to mail a check, please contact the alumni liaisons at brownbandals@gmail.com. For other ways to give, please consult [Brown Giving](https://alumni-friends.brown.edu/giving/how-give).
