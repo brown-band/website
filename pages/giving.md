@@ -83,16 +83,18 @@ Adam Roth-Saks | Alan Seiden | Alexandra Asrow | Alycia Mosley Austin | Amy Andr
 <hr/>
 
 #### Forevermore Circle
+
 Adam Siegel | John Cucco | Marie J Trenga | Michael Weston | Philip Johnson | Steven Levine | The Gurth Family
+
 <hr/>
 
 #### Ever True Circle
+
 Edward Guiliano | Elaine Nguyen | Friends of Seth Chernick '79 | Joseph Hollander | Karen Mellor | Nick Keirstead | Rosie Perera
 
 <hr/>
 
 #### Conductor's Circle
-
 
 <hr/>
 
