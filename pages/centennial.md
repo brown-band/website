@@ -14,7 +14,7 @@ summary = "The Brown Band turns 100 in fall of 2024! We would love to host a yea
 
 All Brown Band alumni and their families are invited to join the band in celebration of our 100th anniversary on September 28th! March down to Brown Stadium with us and swell our ranks so we double… no triple… no QUINTUPLE the size of the Harvard Band (if size matters). Then come join us for a banquet that night, as we celebrate 100 years of memories, shenanigans, and dancing! If you are interested in joining, please fill out [our RSVP](https://forms.gle/KycdWrLyBKzGnCdF9)!
 
-Gala tickets will be made available soon.
+**Gala tickets are now available and have been emailed. Please email brownbandals@gmail.com if you would like to receive one and haven't already..**
 
 Accomodations can be made with the help of [Brown's visitor info](https://www.brown.edu/about/visit/accommodations)
 
