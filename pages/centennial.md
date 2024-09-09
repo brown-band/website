@@ -14,19 +14,19 @@ summary = "The Brown Band turns 100 in fall of 2024! We would love to host a yea
 
 All Brown Band alumni and their families are invited to join the band in celebration of our 100th anniversary on September 28th! March down to Brown Stadium with us and swell our ranks so we double… no triple… no QUINTUPLE the size of the Harvard Band (if size matters). Then come join us for a banquet that night, as we celebrate 100 years of memories, shenanigans, and dancing! If you are interested in joining, please fill out [our RSVP](https://forms.gle/KycdWrLyBKzGnCdF9)!
 
-**Gala tickets are now available and have been emailed. Please email brownbandals@gmail.com if you would like to receive one and haven't already..**
+**Registration for the Centennial Gala on September 28 is now open. If you would like to attend the gala but did not receive the invitation, please email brownbandals@gmail.com.**
 
 Accomodations can be made with the help of [Brown's visitor info](https://www.brown.edu/about/visit/accommodations)
 
 _Schedule for Friday (September 27th) and Saturday (September 28th):_
 
-**Friday 4-5 pm**: Sean Briody ‘19, author of The Brown University Band: An Ever True History, will be at the Brown Bookstore to discuss his book. There’s no better time to learn about the Band’s history and purchase a signed copy of the book!
+**Friday 4-5 pm**: Sean Briody ‘19, author of The Brown University Band: An Ever True History, will be at the Brown Bookstore to discuss his book. There’s no better time to learn about the Band’s history and purchase a signed copy of the book! A link to the talk can be found [here](https://www.facebook.com/photo.php?fbid=1065902205449580&set=a.541782651194874&type=3&ref=embed_page).
 
 **Friday 6-7:30 pm**: If you’re planning on playing an instrument for Saturday’s game, join us Friday evening on campus for an optional music rehearsal. We will hand out instruments to those who are borrowing, rehearse some of the Band’s most important tunes, and review Saturday’s schedule.
 
 **Saturday 8 am**: Call time at Fulton Rehearsal Hall for the football game. After a brief breakfast (food and coffee provided), we will head to field rehearsal, where we will rehearse our field show forms and run through the music. Then, we will march to the stadium, enjoy the game, and be back at Fulton by roughly 4:30 pm. For those who may not wish to march, you may ride the band bus to the stadium. Or you may meet us at the stadium.
 
-**Saturday 6-11 pm**: Celebrate the Band’s 100th at our Centennial Gala, the ultimate Bandquet! More details and ticket information will be released shortly, so be on the lookout.
+**Saturday 6-11 pm**: Saturday 6-11 pm: Celebrate the Band’s 100th at our Centennial Gala, the ultimate Bandquet! Tickets and Registration can be found [here](https://brown.co1.qualtrics.com/jfe/form/SV_9TsiEbJwP1vK6BU). Registration is due September 19th.
 
 #### Alumni Ice Show, TBD (Mid February)
 
@@ -55,5 +55,5 @@ Author and former percussionist Sean Briody, co 2019, pays homage to the band's 
 :red[Want to get involved with Centennial Planning, Fundraising Efforts, or share ideas? Contact the alumni liaisons at brownbandals@gmail.com].
 
 <div style="display: flex; justify-content: center; margin: 1%;">
-<img src="/assets/images/centennial/bband_100.png" alt="Brown Band centennial logo." width="50%">
+<img src="/assets/images/Fancy_Elrod.png" alt="Brown Band centennial logo." width="50%">
 </div>
