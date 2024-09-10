@@ -12,7 +12,7 @@ summary = "The Brown Band turns 100 in fall of 2024! We would love to host a yea
 
 #### Centennial Alumni Game + Gala, September 28th, 2024
 
-All Brown Band alumni and their families are invited to join the band in celebration of our 100th anniversary on September 28th! March down to Brown Stadium with us and swell our ranks so we double… no triple… no QUINTUPLE the size of the Harvard Band (if size matters). Then come join us for a banquet that night, as we celebrate 100 years of memories, shenanigans, and dancing! If you are interested in joining, please fill out [our RSVP](https://forms.gle/KycdWrLyBKzGnCdF9)! Note, this form is for the Foobtall Game *only*.
+All Brown Band alumni and their families are invited to join the band in celebration of our 100th anniversary on September 28th! March down to Brown Stadium with us and swell our ranks so we double… no triple… no QUINTUPLE the size of the Harvard Band (if size matters). Then come join us for a banquet that night, as we celebrate 100 years of memories, shenanigans, and dancing! If you are interested in joining, please fill out [our RSVP](https://forms.gle/KycdWrLyBKzGnCdF9)! Note, this form is for the Foobtall Game _only_.
 
 **Registration for the Centennial Gala on September 28 is now open. See the registration form linked below.**
 
