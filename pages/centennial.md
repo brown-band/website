@@ -12,9 +12,9 @@ summary = "The Brown Band turns 100 in fall of 2024! We would love to host a yea
 
 #### Centennial Alumni Game + Gala, September 28th, 2024
 
-All Brown Band alumni and their families are invited to join the band in celebration of our 100th anniversary on September 28th! March down to Brown Stadium with us and swell our ranks so we double… no triple… no QUINTUPLE the size of the Harvard Band (if size matters). Then come join us for a banquet that night, as we celebrate 100 years of memories, shenanigans, and dancing! If you are interested in joining, please fill out [our RSVP](https://forms.gle/KycdWrLyBKzGnCdF9)!
+All Brown Band alumni and their families are invited to join the band in celebration of our 100th anniversary on September 28th! March down to Brown Stadium with us and swell our ranks so we double… no triple… no QUINTUPLE the size of the Harvard Band (if size matters). Then come join us for a banquet that night, as we celebrate 100 years of memories, shenanigans, and dancing! If you are interested in joining, please fill out [our RSVP](https://forms.gle/KycdWrLyBKzGnCdF9)! Note, this form is for the Foobtall Game *only*.
 
-**Registration for the Centennial Gala on September 28 is now open. If you would like to attend the gala but did not receive the invitation, please email brownbandals@gmail.com.**
+**Registration for the Centennial Gala on September 28 is now open. See the registration form linked below.**
 
 Accomodations can be made with the help of [Brown's visitor info](https://www.brown.edu/about/visit/accommodations)
 
@@ -24,9 +24,11 @@ _Schedule for Friday (September 27th) and Saturday (September 28th):_
 
 **Friday 6-7:30 pm**: If you’re planning on playing an instrument for Saturday’s game, join us Friday evening on campus for an optional music rehearsal. We will hand out instruments to those who are borrowing, rehearse some of the Band’s most important tunes, and review Saturday’s schedule.
 
-**Saturday 8 am**: Call time at Fulton Rehearsal Hall for the football game. After a brief breakfast (food and coffee provided), we will head to field rehearsal, where we will rehearse our field show forms and run through the music. Then, we will march to the stadium, enjoy the game, and be back at Fulton by roughly 4:30 pm. For those who may not wish to march, you may ride the band bus to the stadium. Or you may meet us at the stadium.
+**Saturday 8 am**: Call time at Fulton Rehearsal Hall for the football game. After a brief breakfast (food and coffee provided), we will head to field rehearsal, where we will rehearse our field show forms and run through the music. Then, we will march to the stadium, enjoy the game, and be back at Fulton by roughly 4:30 pm. For those who may not wish to march, you may ride the band bus to the stadium. Or you may meet us at the stadium. If you would like to join us for the Football Game, you may [RSVP here with the Football Game Form](https://forms.gle/KwKWWL5mGf9CjT949). Registration is due September 19th.
 
-**Saturday 6-11 pm**: Saturday 6-11 pm: Celebrate the Band’s 100th at our Centennial Gala, the ultimate Bandquet! Tickets and Registration can be found [here](https://brown.co1.qualtrics.com/jfe/form/SV_9TsiEbJwP1vK6BU). Registration is due September 19th.
+**Saturday 6-11 pm**: Saturday 6-11 pm: Celebrate the Band’s 100th at our Centennial Gala, the ultimate Bandquet! Tickets and Registration for the gala can be found [here, on the Gala Registration Form](https://brown.co1.qualtrics.com/jfe/form/SV_9TsiEbJwP1vK6BU). Registration is due September 19th.
+
+**Kindly note that there are two separate forms: one for the football game, and one for the Centennial Gala later in the evening.** Filling out one form does not imply attendance at the other event!
 
 #### Alumni Ice Show, TBD (Mid February)
 
