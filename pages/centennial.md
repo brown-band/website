@@ -24,7 +24,7 @@ Accomodations can be made with the help of [Brown's visitor info](https://www.br
 
 _Schedule for Friday (September 27th) and Saturday (September 28th):_
 
-**Friday 4-5 pm**: Sean Briody ‘19, author of The Brown University Band: An Ever True History, will be at the Brown Bookstore to discuss his book. There’s no better time to learn about the Band’s history and purchase a signed copy of the book! A link to the talk can be found [here](https://www.facebook.com/photo.php?fbid=1065902205449580&set=a.541782651194874&type=3&ref=embed_page).
+**Friday 4-5 pm**: Sean Briody ‘19, author of The Brown University Band: An Ever True History, will be at the Brown Bookstore to discuss his book. There’s no better time to learn about the Band’s history and purchase a signed copy of the book! [A link to the talk can be found here](https://www.facebook.com/photo.php?fbid=1065902205449580&set=a.541782651194874&type=3&ref=embed_page).
 
 **Friday 6-7:30 pm**: If you’re planning on playing an instrument for Saturday’s game, join us Friday evening on campus for an optional music rehearsal. We will hand out instruments to those who are borrowing, rehearse some of the Band’s most important tunes, and review Saturday’s schedule.
 
