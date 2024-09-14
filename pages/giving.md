@@ -74,7 +74,7 @@ _Here are some other examples of items your donation will support:_
 
 #### Donors of the Band
 
-Brian Guest '13 | Ben Leib '12 | David Muller '81 | Jalene and Brian Hornbuckle | James Lobsenz '87 | Leigh R Hochberg '90 | Ronald Wilson '78 | Susan Gilmore '85 | Todd Richman '79
+Brian Guest '13 | Ben Leib '12 | David Muller '81 | Jalene and Brian Hornbuckle P'22 P'25 | James Lobsenz '87 | Leigh R Hochberg '90 | Ronald Wilson '78 | Susan Gilmore '85 | Todd Richman '79
 
 #### Button Benefactors
 
