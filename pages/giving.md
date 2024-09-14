@@ -95,7 +95,9 @@ Elaine Nguyen '15 | Friends of Seth Chernick '79 | Greg Golrick '02 and Christin
 <hr/>
 
 #### Conductor's Circle
+
 Irv Lustig '83 P'13
+
 <hr/>
 
 #### Elrod Society
