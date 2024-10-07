@@ -32,6 +32,7 @@ people = [
 name = "Low Brass"
 people = [
   { name = "Devon Newman", email = "devon_newman@brown.edu", year = 25 },
+  { name = "Owen Landry", email = "owen_landry@brown.edu", year = 26 },
 ]
 
 [[sectionLeaders]]
