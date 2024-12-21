@@ -45,7 +45,7 @@ Yale alumni go on to do many things, but the most amazing ones are the ones who 
 - B. David A Thomas, Professor at Harvard University
 - C. Andrew M Gleason, Professor at Harvard University
 - D. Howard Koh, Professor at Harvard University
-- E. William Thomson Sedgewick, founder of the (quietly) MIT- (loudly) Harvard School of Public Health and
+- E. William Thomson Sedgewick, founder of the (quietly) MIT (loudly) Harvard School of Public Health and
 - F. The Princeton band :::
 
 Spin your head at all this greatness, and watch now as the band plays "Ivy Wonderland"
