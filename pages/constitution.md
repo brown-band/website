@@ -12,6 +12,10 @@ Membership in the Band is open to all undergraduate and graduate students of Bro
 
 Band members are students who have attended at least four band activities, defined as rehearsals, performances, and any other events as designated by the President. Membership entitles individuals the right to vote in all band proceedings.
 
+#### B1: Probation {#IIB1}
+
+Band members on probationary status may not perform with the Band or attend official events with the Band (excluding elections). They may still vote in al
+
 ### Section C: Anti-Discrimination Clause {#IIC}
 
 The Band is committed to fostering an inclusive, anti-discriminatory environment in which all individuals are treated with respect and dignity, regardless of any identities they may hold. The Band prohibits harassment and retaliation by its membership and leadership alike. The Band encourages its members to voice concerns and commits to engaging in effective and equitable conflict management.
@@ -142,15 +146,35 @@ Quorum is constituted by a number of band members greater than or equal to two-t
 
 ## Article X: GENERAL REGULATIONS {#X}
 
-### Section A: Member Dismissal {#XA}
+### Section A: Expected Member Conduct {#XA}
 
-Any Band member may be dismissed only by unanimous vote of the Band Board.
+All members of the Band must adhere to Brown University’s Student Code of Conduct, as well as additional standards to support the welfare of the Band, including but not limited to:
 
-### Section B: Borrowing of Band Property {#XB}
+- **Professional behavior in Band uniform**: during official Band events and while in uniform, members are expected to publicly represent the Band in especially good faith.
+- **Band Media**: No Band member may represent the Band as a whole or speak on behalf of the Band in public media without granted permission from the President.
+- **Digital Communications**: This Expected Member Conduct applies in equal weight to behavior in the Band’s online forums.
+
+### Section B: Disciplinary Action (3 Strikes Policy) {#XB}
+
+The Band assumes a three strike policy in regard to violation of the Expected Member Conduct (see Section A above). Strikes are defined as any action taken by a Band member that is in violation of this Code and/or reflects poorly on the Band as a whole, as determined by the Band Board. Prior to voting on a strike, an incident report must be filled out detailing the offense; this will be reviewed at the next Band Board meeting. This is to be used as a reference during voting.
+
+- Strike one may be granted by a majority vote from the Band Board, and an appropriate corresponding disciplinary action shall be determined by the Band Board.
+- Strike two may only be granted by a unanimous vote of the Band Board, and shall result in member probation (see Article II, section B1).
+- Strike three may only be granted by a unanimous vote from the Band Board, and shall result in immediate member dismissal. Extraordinarily unacceptable incidents may warrant immediate dismissal prior to three strikes—this may be employed only by a unanimous vote of the Band Board.
+
+If a strike is passed, the offending Band member must be informed of such by the President of the Band (or the Vice President in the event that the President is the offending member). During this meeting, the incident report must be presented to offending Band member. If they claim that the report is inaccurate or unjust, they may request a review. In this case, the offending member must write a new report detailing the event(s). The Band Board shall then re-vote on the matter, considering both reports, under which case a unanimous vote is required to still pass the strike. In the event that the offending member is part of the Band Board, they may still be allowed to vote on their own strikes.
+
+The Recording Secretary shall keep a record of all incident reports and strikes. Band members have the right to view any incident report in which they were involved at any time.
+
+### Section C: Member Dismissal {#XC}
+
+Any Band member may be dismissed only by unanimous vote of the Band Board after having violated the Band’s Expected Member Conduct (see Section B above). For a member of the Band Board to be dismissed or put on probation, they must first be impeached (See Article VIII).
+
+### Section D: Borrowing of Band Property {#XD}
 
 All members who have been issued Band or University property shall sign for said property and be responsible for the condition of this property and return it when it is called for. Any member failing to turn in Band or University property will be charged for said property.
 
-### Section C: Damage to Band Property {#XC}
+### Section E: Damage to Band Property {#XE}
 
 Any Band member who damages the Band or University's equipment (outside of normal maintenance problems) will be responsible for any repairs or payment for said repairs. If a member has concerns about this, the matter shall be brought before the Band Board.
 
