@@ -12,25 +12,9 @@ summary = "The Brown Band turns 100 in fall of 2024! We would love to host a yea
 
 #### Centennial Alumni Game + Gala, September 28th, 2024
 
-All Brown Band alumni and their families are invited to join the band in celebration of our 100th anniversary on September 28th! March down to Brown Stadium with us and swell our ranks so we double… no triple… no QUINTUPLE the size of the Harvard Band (if size matters). Then come join us for a Gala that night, as we celebrate 100 years of memories, shenanigans, and dancing!
+Thank you for making our Centennial Game such a success! With over 200 bandies on the field, we helped Brown be victorious over the Harvard Crimson!
 
-If you would like to join us for the **Football Game**, you may [RSVP here with the Football Game Form](https://forms.gle/KwKWWL5mGf9CjT949).
-
-Tickets and Registration for the gala can be found [here, on the Gala Registration Form](https://brown.co1.qualtrics.com/jfe/form/SV_9TsiEbJwP1vK6BU).
-
-**These are separate forms. Filling out one does not imply attendance at the other!** Registration is due September 19th at 9pm EST.
-
-Accomodations can be made with the help of [Brown's visitor info](https://www.brown.edu/about/visit/accommodations)
-
-_Schedule for Friday (September 27th) and Saturday (September 28th):_
-
-**Friday 4-5 pm**: Sean Briody ‘19, author of The Brown University Band: An Ever True History, will be at the Brown Bookstore to discuss his book. There’s no better time to learn about the Band’s history and purchase a signed copy of the book! [A link to the talk can be found here](https://www.facebook.com/photo.php?fbid=1065902205449580&set=a.541782651194874&type=3&ref=embed_page).
-
-**Friday 6-7:30 pm**: If you’re planning on playing an instrument for Saturday’s game, join us Friday evening on campus for an optional music rehearsal. We will hand out instruments to those who are borrowing, rehearse some of the Band’s most important tunes, and review Saturday’s schedule.
-
-**Saturday 8 am**: Call time at Fulton Rehearsal Hall for the football game. After a brief breakfast (food and coffee provided), we will head to field rehearsal, where we will rehearse our field show forms and run through the music. Then, we will march to the stadium, enjoy the game, and be back at Fulton by roughly 4:30 pm. For those who may not wish to march, you may ride the band bus to the stadium. Or you may meet us at the stadium.
-
-**Saturday 6-11 pm**: Saturday 6-11 pm: Celebrate the Band’s 100th at our Centennial Gala, the ultimate Bandquet!
+Brown also wrote a [lovely article detailing the event](https://www.brown.edu/news/2024-11-14/brown-band).
 
 #### Alumni Ice Show, TBD (Mid February)
 
