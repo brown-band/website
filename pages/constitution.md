@@ -204,6 +204,6 @@ Each senior band member who attends the annual Bandquet shall be given a gift; t
 
 ## Article XII {#XII}
 
-This constitution, ratified on November 8, 2022, supersedes all former constitutions of the Brown University Band.
+This constitution, ratified on November 5, 2024, supersedes all former constitutions of the Brown University Band.
 
 We, the undersigned, attest to the validity of the above information and that we are members in good standing of the Brown University Band.
