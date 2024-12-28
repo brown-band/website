@@ -35,7 +35,7 @@ This paragraph previously contained misinformation concerning the existence of a
 
 Watch now as the band forms the emblem Skull and Bones would not have if it existed, which it doesn't, and plays "Nothing's Wrong Song"
 
-:sd[Band forms a bone (penis) and plays Ding Dong Song]
+:sd[Band forms a bone and plays Ding Dong Song]
 
 Yale alumni go on to do many things, but the most amazing ones are the ones who give back. Yale graduates teach around the world, and we just wanted to highlight those who are promoting knowledge in leading universities:
 

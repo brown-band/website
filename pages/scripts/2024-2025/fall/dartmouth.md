@@ -17,7 +17,7 @@ Do you hear the trumpets blaring? We do, unfortunately. A message comes from He 
 
 Watch now as the band fights ice with fire and plays "We'll Fire YOUR Flames."
 
-:sd[Band forms an icicle (penis) and plays Through the Fire and the Flames]
+:sd[Band forms an icicle and plays Through the Fire and the Flames]
 
 Whew! Glad that's over. All the excitement around here can really rock a fella–it's enough to give you a heart attack! This is what a college is supposed to look like, Ike? Well, we might have our differences, but Brown and Dartmouth do both love their Greens!
 
