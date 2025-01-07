@@ -16,9 +16,9 @@ Thank you for making our Centennial Game such a success! With over 200 bandies o
 
 Brown also wrote a [lovely article detailing the event](https://www.brown.edu/news/2024-11-14/brown-band).
 
-#### Alumni Ice Show, TBD (Mid February)
+#### Alumni Ice Show, Saturday March 1st, 7pm
 
-Find your skates burried in your closet and take to the ice with the world's first Ice Skating Band! Alumni are welcome to join the band for our annual Alumni Ice Show in mid February!
+Find your skates burried in your closet and take to the ice with the world's first Ice Skating Band! Alumni are welcome to join the band for our annual Alumni Ice Show against the Harvard Crimson!
 
 #### University Commencement 2025, May 2025
 
