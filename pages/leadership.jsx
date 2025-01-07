@@ -26,7 +26,7 @@ exports.default = async ({ people: rawPeople }) => {
 
       <Heading title="Band Board Officers" id="band-board" section="IIIA" />
 
-      <p>For the term ending November 2024</p>
+      <p>For the term ending November 2025</p>
 
       {await Promise.all(
         people.bandBoard.map((person, i) => (
