@@ -52,7 +52,7 @@ jobs:
           DEBUG: Eleventy:Benchmark
 
       - name: Upload Built Site
-        uses: actions/upload-pages-artifact@v1
+        uses: actions/upload-pages-artifact@v3
         with:
           path: public/
           retention-days: 90
