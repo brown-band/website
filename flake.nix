@@ -1,6 +1,9 @@
 {
   description = "Flake for the Brown Band website";
-  inputs.utils.url = "github:numtide/flake-utils";
+  inputs = {
+    nixpkgs.url = "nixpkgs/nixos-24.11";
+    utils.url = "github:numtide/flake-utils";
+  };
 
   outputs = {
     self,
@@ -13,7 +16,7 @@
       in {
         devShells.default = pkgs.mkShell rec {
           buildInputs = with pkgs; [
-            nodejs_19
+            nodejs_20
             pnpm_10
           ];
 

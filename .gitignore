@@ -10,3 +10,6 @@ book-html
 *.log
 
 .DS_Store
+
+# For Nix shell things
+profile* 
