@@ -10,7 +10,7 @@ name = "Flutes"
 people = [
   { name = "Jillian Belluck", email = "jillian_belluck@brown.edu", year = 25, endowed = "Princeton University Band Flute Section Leader" },
   { name = "Aly Rajwani", email = "aly_rajwani@brown.edu", year = 27},
-
+  { name = "Coral Roost Rothenburg", email = "coral_roost_rothenburg@brown.edu", year = 27},
 ]
 
 [[sectionLeaders]]
@@ -31,6 +31,7 @@ name = "Low Brass"
 people = [
   { name = "Devon Newman", email = "devon_newman@brown.edu", year = 25 },
   { name = "Owen Landry", email = "owen_landry@brown.edu", year = 26 },
+  { name = "Mia Kamisato", email = "mia_kamisato@brown.edu", year = 27},
 ]
 
 [[sectionLeaders]]
