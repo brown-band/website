@@ -3,6 +3,7 @@ name = "[Librarians](/constitution#IIIC2)"
 people = [
   { name = "Jillian Belluck", email = "jillian_belluck@brown.edu", year = 25 },
   { name = "Julia Granato", email = "julia_r_granato@brown.edu", year = 25 },
+  { name = "Eddie Nguyen", email = "edward_nguyen@brown.edu", year = 27},
 ]
 
 [[appointedPositions]]
@@ -10,6 +11,8 @@ name = "[Social Chairs](/constitution#IIIC8)"
 people = [
   { name = "Jace Damon", email = "jace_damon@brown.edu", year = 25 },
   { name = "Owen Landry", email = "owen_landry@brown.edu", year = 26 },
+  { name = "Jimmy Zhang", email = "junxiang_zhang@brown.edu", year = 25},
+  { name = "Coral Roost Rothenberg", email = "coral_roost_rothenberg@brown.edu", year = 27 },
 ]
 
 [[appointedPositions]]
@@ -48,10 +51,15 @@ people = [
   { name = "Jillian Belluck", email = "jillian_belluck@brown.edu", year = 25 },
   { name = "Tyler Gurth", email = "tyler_gurth@brown.edu", year = 25, endowed = "Edward Guiliano '72 Alumni Liaison"},
   { name = "Albert Lou", email = "albert_lou@brown.edu", year = 26 },
+  { name = "Jimmy Zhang", email = "junxiang_zhang@brown.edu", year = 25},
+  { name = "Eddie Nguyen", email = "edward_nguyen@brown.edu", year = 27},
+  { name = "Mia Kamisato", email = "mia_kamisato@brown.edu", year = 27},
 ]
 
 [[appointedPositions]]
 name = "[Webmasters](/constitution#IIIC7)"
 people = [
   { name = "Tyler Gurth", email = "tyler_gurth@brown.edu", year = 25 },
+  { name = "Eddie Nguyen", email = "edward_nguyen@brown.edu", year = 27},
+  { name = "Alison Zeng", email = "alison_zeng@brown.edu", year = 27},
 ]
