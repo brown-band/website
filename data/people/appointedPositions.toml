@@ -21,6 +21,10 @@ people = [
   { name = "Devon Newman", email = "devon_newman@brown.edu", year = 25 },
   { name = "Shravya Sunkugari", email = "shravya_sunkugari@brown.edu", year = 27 },
   { name = "Sophia Wotman", email = "sophia_wotman@brown.edu", year = 26 },
+  { name = "Jimmy Zhang", email = "junxiang_zhang@brown.edu", year = 25},
+  { name = "Coral Roost Rothenberg", email = "coral_roost_rothenberg@brown.edu", year = 27 },
+  { name = "Mia Kamisato", email = "mia_kamisato@brown.edu", year = 27},
+  { name = "Ian Cressman", email = "ian_cressman@brown.edu", year = 28},
 ]
 
 [[appointedPositions]]
@@ -31,6 +35,8 @@ people = [
   { name = "Jace Damon", email = "jace_damon@brown.edu", year = 25 },
   { name = "Shravya Sunkugari", email = "shravya_sunkugari@brown.edu", year = 27 },
   { name = "Victor Chang", email = "victor_a_chang@brown.edu", year = 27 },
+  { name = "Owen Landry", email = "owen_landry@brown.edu", year = 26 },
+  { name = "Isabella Juarez Galeas", email = "isabella_juarez_galeas@brown.edu", year = 27 },
 ]
 
 [[appointedPositions]]
@@ -43,6 +49,8 @@ people = [
   { name = "Owen Landry", email = "owen_landry@brown.edu", year = 26 },
   { name = "Coral Roost Rothenberg", email = "coral_roost_rothenberg@brown.edu", year = 27 },
   { name = "Annie Johnson", email = "annie_johnson@brown.edu", year = 27 },
+  { name = "Ryan Zou", email = "ryan_zou@brown.edu", year = 28 }, 
+  { name = "Mike Woodilla", email = "mike_woodilla@brown.edu", year = 27 },
 ]
 
 [[appointedPositions]]
