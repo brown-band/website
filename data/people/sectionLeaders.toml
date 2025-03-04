@@ -29,7 +29,6 @@ people = [
 [[sectionLeaders]]
 name = "Low Brass"
 people = [
-  { name = "Devon Newman", email = "devon_newman@brown.edu", year = 25 },
   { name = "Owen Landry", email = "owen_landry@brown.edu", year = 26 },
   { name = "Mia Kamisato", email = "mia_kamisato@brown.edu", year = 27},
 ]

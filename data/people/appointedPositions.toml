@@ -18,7 +18,6 @@ people = [
 [[appointedPositions]]
 name = "[PRR Chairs](/constitution#IIIC4)"
 people = [
-  { name = "Devon Newman", email = "devon_newman@brown.edu", year = 25 },
   { name = "Shravya Sunkugari", email = "shravya_sunkugari@brown.edu", year = 27 },
   { name = "Sophia Wotman", email = "sophia_wotman@brown.edu", year = 26 },
   { name = "Jimmy Zhang", email = "junxiang_zhang@brown.edu", year = 25},
