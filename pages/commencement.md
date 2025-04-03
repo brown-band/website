@@ -1,5 +1,5 @@
 +++
-title = "Commencement Schedule 2024"
+title = "Commencement Schedule 2025"
 summary = "Further details about non-mandatory events will be coming soon. Exact timing is subject to change."
 # comment out this line to re-enable the page
 # you’ll also want to update nav.toml & index.md
@@ -17,9 +17,9 @@ h3 { margin-top: 2rem }
 
 ## Signups
 
-Alumni of the band? [Sign up for Commencement today!](https://docs.google.com/forms/d/e/1FAIpQLSdsJEln4tuk3XDPbnLuG28ANgUzx9l5IvGxvPOlP6_YSchzHQ/viewform)
+Alumni of the band? [Sign up for Commencement today!](https://docs.google.com/forms/d/e/1FAIpQLSdwspEwElnmbKWGXEyztk91nl_WUk1uwcZzY5iSJvOM5nrJOg/viewform)
 
-### Saturday, May 18<sup>th</sup> {#saturday-before}
+### Saturday, May 17<sup>th</sup> {#saturday-before}
 
 <table class="table">
 <tr>
@@ -28,28 +28,28 @@ Alumni of the band? [Sign up for Commencement today!](https://docs.google.com/fo
 </tr>
 </table>
 
-### Tuesday, May 21<sup>st</sup> {#tuesday}
+### Tuesday, May 20<sup>th</sup> {#tuesday}
 
 <table class="table">
 <tr>
-  <td style="width: 100px">11:00am</td>
+  <td style="width: 100px">TBD</td>
   <td>Newport Trip</td>
 </tr>
 </table>
 
-### Wednesday, May 22<sup>nd</sup> {#wednesday}
+### Wednesday, May 21<sup>st</sup> {#wednesday}
 
 <table class="table">
 <tr>
-  <td style="width: 100px">12:30pm</td>
+  <td>TBD</td>
   <td>Fulton: Music Stuffing</td>
 </tr>
 <tr>
-  <td>3:45pm–4:45pm</td>
+  <td>TBD</td>
   <td>Fulton: Uniform Pickup</td>
 </tr>
 <tr>
-  <td>5:30pm–7:30pm</td>
+  <td>TBD</td>
   <td>
   
   :red[Fulton: Student Rehearsal]<br>:red[(Mandatory for Students)]</td>
@@ -60,30 +60,43 @@ Alumni of the band? [Sign up for Commencement today!](https://docs.google.com/fo
 </tr>
 </table>
 
-### Thursday, May 23<sup>rd</sup> {#thursday}
+### Thursday, May 22<sup>nd</sup> {#thursday}
 
 <table class="table">
 <tr>
-  <td style="width: 100px">11:00am–4:00pm</td>
+  <td>TBD</td>
   <td>Gano St. Park: Flugenflagel<br>(Current students and seniors only)</td>
 </tr>
 </table>
 
-### Saturday, May 25<sup>th</sup> {#saturday}
+### Friday, May 23<sup>rd</sup> {#saturday}
 
 <table class="table">
 <tr>
-  <td>9:30am–12:30pm</td>
+  <td>TBD</td>
+  <td>Fulton: Commencement Band Cocktail Hour<br>(Bandies, alumni, and family welcome!)<br>(Sign-up details soon!)</td>
+</tr>
+<tr> 
+  <td>9:00pm</td> 
+  <td>Campus Dance</td>
+</tr> 
+</table>
+
+### Saturday, May 24<sup>th</sup> {#saturday}
+
+<table class="table">
+<tr>
+  <td>TBD</td>
   <td>
   
     :red[Fulton: Rehearsal]</td>
 </tr>
 <tr>
-  <td>12:30pm–1:30pm</td>
+  <td>TBD</td>
   <td>Lunch break and uniform distribution</td>
 </tr>
 <tr>
-  <td>1:30pm</td>
+  <td>TBD</td>
   <td>
   
     :red[Campus March (polo/khakis required)<br>(Mandatory for students)]
@@ -91,33 +104,33 @@ Alumni of the band? [Sign up for Commencement today!](https://docs.google.com/fo
   </td>
 </tr>
 <tr>
-  <td>4:30pm</td>
-  <td>Perkins Courtyard: Commencement Band Reception<br>(Rain location: Fulton) (Bandies, alums, and family welcome!)</td>
+  <td>TBD</td>
+  <td> <a href="https://maps.app.goo.gl/YBvr6KjVQgeaRJyB9">Manning Walk Lawn</a>: Commencement Band Dinner<br>(Bandies, alumni, and family welcome!)<br>(Sign-up details soon!)</td>
 </tr>
 </table>
 
-### Sunday, May 26<sup>th</sup> {#sunday}
+### Sunday, May 25<sup>th</sup> {#sunday}
 
 <table class="table">
 <tr>
-  <td style="width: 100px">8:00am</td>
+  <td>TBD</td>
   <td>Fulton: Breakfast</td>
 </tr>
 <tr>
-  <td>9:00am</td>
+  <td>TBD</td>
   <td>
   
     :red[Faunce Arch (Waterman and Brown Streets): Commencement Procession (khakis, polo, blazer required)]</td>
 </tr>
 <tr>
-  <td>2:30pm–4:00pm</td>
+  <td>TBD</td>
   <td>
   
     :red[Fulton: Uniform Return]</td>
 </tr>
 </table>
 
-### Monday, May 27<sup>th</sup> {#monday}
+### Monday, May 26<sup>th</sup> {#monday}
 
 <table class="table">
 <tr>
