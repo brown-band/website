@@ -1,6 +1,6 @@
 +++
 title = "Commencement Schedule 2025"
-summary = "Further details about non-mandatory events will be coming soon. Exact timing is subject to change."
+summary = "Further details about events will be coming soon. Exact timing is subject to change."
 # comment out this line to re-enable the page
 # you’ll also want to update nav.toml & index.md
 # permalink = false
