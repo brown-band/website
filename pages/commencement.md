@@ -73,7 +73,7 @@ Alumni of the band? [Sign up for Commencement today!](https://docs.google.com/fo
 
 <table class="table">
 <tr>
-  <td>TBD</td>
+  <td>6:00pm-8:30pm</td>
   <td>Fulton: Commencement Band Cocktail Hour<br>(Bandies, alumni, and family welcome!)<br>(Sign-up details soon!)</td>
 </tr>
 <tr> 
@@ -104,8 +104,8 @@ Alumni of the band? [Sign up for Commencement today!](https://docs.google.com/fo
   </td>
 </tr>
 <tr>
-  <td>TBD</td>
-  <td> <a href="https://maps.app.goo.gl/YBvr6KjVQgeaRJyB9">Manning Walk Lawn</a>: Commencement Band Dinner<br>(Bandies, alumni, and family welcome!)<br>(Sign-up details soon!)</td>
+  <td>4:00pm-7:00pm</td>
+  <td> <a href="https://maps.app.goo.gl/YBvr6KjVQgeaRJyB9">Manning Walk Lawn</a>: Commencement Band BBQ<br>(Bandies, alumni, and family welcome!)<br>(Sign-up details soon!)</td>
 </tr>
 </table>
 
