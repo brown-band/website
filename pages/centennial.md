@@ -10,6 +10,16 @@ summary = "The Brown Band turns 100 in fall of 2024! We would love to host a yea
 
 ## Events
 
+#### University Commencement 2025, May 2025
+
+All Brown Band alumni are invited to pick up their instrument (no matter how dusty!) and join the band in a weekend replete with campus marches, dances, and memories! March into cadence with the Band as we lead the charge in the commencement procession!
+
+Join us 6:00pm-8:30pm Friday, May 23rd for a Commencement Band Cocktail Hour. Bandies, alumni, and family welcome!
+
+On Saturday from 4:00pm-7:00pm, come cookout with the band on <a href="https://maps.app.goo.gl/YBvr6KjVQgeaRJyB9">Manning Walk Lawn</a> for Commencement Band BBQ.
+
+Sign-up details coming soon.
+
 #### Centennial Alumni Game + Gala, September 28th, 2024
 
 Thank you for making our Centennial Game such a success! With over 200 bandies on the field, we helped Brown be victorious over the Harvard Crimson!
@@ -19,10 +29,6 @@ Brown also wrote a [lovely article detailing the event](https://www.brown.edu/ne
 #### Alumni Ice Show, Saturday March 1st, 7pm
 
 Find your skates burried in your closet and take to the ice with the world's first Ice Skating Band! Alumni are welcome to join the band for our annual Alumni Ice Show against the Harvard Crimson!
-
-#### University Commencement 2025, May 2025
-
-All Brown Band alumni are invited to pick up their instrument (no matter how dusty!) and join the band in a weekend replete with campus marches, dances, and memories! March into cadence with the Band as we lead the charge in the commencement procession!
 
 <img src="/assets/images/centennial/josh.jpg" alt="A bandie conducts the band." width="100%">
 
