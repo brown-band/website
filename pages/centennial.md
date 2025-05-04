@@ -18,7 +18,7 @@ Join us 6:00pm-8:30pm Friday, May 23rd for our Centennial Opening Reception. Ban
 
 On Saturday from 4:00pm-7:00pm, come cookout with the band on <a href="https://maps.app.goo.gl/YBvr6KjVQgeaRJyB9">Manning Walk Lawn</a> for a Centennial Band BBQ. Get tickets [here](https://www.eventbrite.com/e/brown-band-centennial-barbecue-tickets-1350550947239?aff=oddtdtcreator)!
 
-Visit our [commencement page](/commencement/) for more details on other events this weekend! 
+Visit our [commencement page](/commencement/) for more details on other events this weekend!
 
 #### Centennial Alumni Game + Gala, September 28th, 2024
 
