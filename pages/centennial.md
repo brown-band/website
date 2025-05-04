@@ -14,11 +14,11 @@ summary = "The Brown Band turns 100 in fall of 2024! We would love to host a yea
 
 All Brown Band alumni are invited to pick up their instrument (no matter how dusty!) and join the band in a weekend replete with campus marches, dances, and memories! March into cadence with the Band as we lead the charge in the commencement procession!
 
-Join us 6:00pm-8:30pm Friday, May 23rd for a Commencement Band Cocktail Hour. Bandies, alumni, and family welcome!
+Join us 6:00pm-8:30pm Friday, May 23rd for our Centennial Opening Reception. Bandies, alumni, and family welcome! Get tickets [here](https://www.eventbrite.com/e/brown-band-centennial-opening-reception-tickets-1312058465189?aff=oddtdtcreator)!
 
-On Saturday from 4:00pm-7:00pm, come cookout with the band on <a href="https://maps.app.goo.gl/YBvr6KjVQgeaRJyB9">Manning Walk Lawn</a> for Commencement Band BBQ.
+On Saturday from 4:00pm-7:00pm, come cookout with the band on <a href="https://maps.app.goo.gl/YBvr6KjVQgeaRJyB9">Manning Walk Lawn</a> for a Centennial Band BBQ. Get tickets [here](https://www.eventbrite.com/e/brown-band-centennial-barbecue-tickets-1350550947239?aff=oddtdtcreator)!
 
-Sign-up details coming soon.
+Visit our [commencement page](/commencement/) for more details on other events this weekend! 
 
 #### Centennial Alumni Game + Gala, September 28th, 2024
 
@@ -28,9 +28,7 @@ Brown also wrote a [lovely article detailing the event](https://www.brown.edu/ne
 
 #### Alumni Ice Show, Saturday March 1st, 7pm
 
-Find your skates burried in your closet and take to the ice with the world's first Ice Skating Band! Alumni are welcome to join the band for our annual Alumni Ice Show against the Harvard Crimson!
-
-<img src="/assets/images/centennial/josh.jpg" alt="A bandie conducts the band." width="100%">
+Find your skates buried in your closet and take to the ice with the world's first Ice Skating Band! Alumni are welcome to join the band for our annual Alumni Ice Show against the Harvard Crimson!
 
 ## Fundraising
 

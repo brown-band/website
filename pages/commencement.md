@@ -69,16 +69,16 @@ Alumni of the band? [Sign up for Commencement today!](https://docs.google.com/fo
 </tr>
 </table>
 
-### Friday, May 23<sup>rd</sup> {#saturday}
+### Friday, May 23<sup>rd</sup> {#friday}
 
 <table class="table">
 <tr>
   <td>6:00pm-8:30pm</td>
-  <td>Fulton: Commencement Band Cocktail Hour<br>(Bandies, alumni, and family welcome!)<br>(Sign-up details soon!)</td>
+  <td>Fulton: Centennial Opening Reception<br>(Bandies, alumni, and family welcome!)<br>(Get tickets <a href="https://www.eventbrite.com/e/brown-band-centennial-opening-reception-tickets-1312058465189?aff=oddtdtcreator">here</a>!)</td>
 </tr>
 <tr> 
   <td>9:00pm</td> 
-  <td>Campus Dance</td>
+  <td>Campus Dance<br>(Tickets through <a href="https://alumni-friends.brown.edu/events/campus-dance">Brown</a>)</td>
 </tr> 
 </table>
 
@@ -105,7 +105,7 @@ Alumni of the band? [Sign up for Commencement today!](https://docs.google.com/fo
 </tr>
 <tr>
   <td>4:00pm-7:00pm</td>
-  <td> <a href="https://maps.app.goo.gl/YBvr6KjVQgeaRJyB9">Manning Walk Lawn</a>: Commencement Band BBQ<br>(Bandies, alumni, and family welcome!)<br>(Sign-up details soon!)</td>
+  <td> <a href="https://maps.app.goo.gl/YBvr6KjVQgeaRJyB9">Manning Walk Lawn</a>: Centennial BBQ<br>(Bandies, alumni, and family welcome!)<br>(Get tickets <a href="https://www.eventbrite.com/e/brown-band-centennial-barbecue-tickets-1350550947239?aff=oddtdtcreator">here</a>!)</td>
 </tr>
 </table>
 
