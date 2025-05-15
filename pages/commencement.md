@@ -32,7 +32,7 @@ Alumni of the band? [Sign up for Commencement today!](https://docs.google.com/fo
 
 <table class="table">
 <tr>
-  <td style="width: 100px">TBD</td>
+  <td style="width: 100px">9:00am</td>
   <td>Newport Trip</td>
 </tr>
 </table>
@@ -41,15 +41,11 @@ Alumni of the band? [Sign up for Commencement today!](https://docs.google.com/fo
 
 <table class="table">
 <tr>
-  <td>TBD</td>
-  <td>Fulton: Music Stuffing</td>
+  <td>12:00 pm</td>
+  <td>Fulton: Music Stuffing & Uniform Pickup</td>
 </tr>
 <tr>
-  <td>TBD</td>
-  <td>Fulton: Uniform Pickup</td>
-</tr>
-<tr>
-  <td>TBD</td>
+  <td>6:00 pm</td>
   <td>
   
   :red[Fulton: Student Rehearsal]<br>:red[(Mandatory for Students)]</td>
@@ -64,7 +60,7 @@ Alumni of the band? [Sign up for Commencement today!](https://docs.google.com/fo
 
 <table class="table">
 <tr>
-  <td>TBD</td>
+  <td>12:00 pm</td>
   <td>Gano St. Park: Flugenflagel<br>(Current students and seniors only)</td>
 </tr>
 </table>
