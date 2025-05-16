@@ -101,7 +101,7 @@ Alumni of the band? [Sign up for Commencement today!](https://docs.google.com/fo
 </tr>
 <tr>
   <td>4:00pm-7:00pm</td>
-  <td> <a href="https://maps.app.goo.gl/YBvr6KjVQgeaRJyB9">Manning Walk Lawn</a>: Centennial BBQ<br>(Bandies, alumni, and family welcome!)<br>(Get tickets <a href="https://www.eventbrite.com/e/brown-band-centennial-barbecue-tickets-1350550947239?aff=oddtdtcreator">here</a>!)</td>
+  <td> <a href="https://maps.app.goo.gl/KS6nGGbuhoGzJ39e8">RI Historical Society</a>: Centennial BBQ<br>(Bandies, alumni, and family welcome!)<br>(Get tickets <a href="https://www.eventbrite.com/e/brown-band-centennial-barbecue-tickets-1350550947239?aff=oddtdtcreator">here</a>!)</td>
 </tr>
 </table>
 
