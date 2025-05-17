@@ -88,11 +88,11 @@ Alumni of the band? [Sign up for Commencement today!](https://docs.google.com/fo
     :red[Fulton: Rehearsal]</td>
 </tr>
 <tr>
-  <td>12:15 pm</td>
+  <td>12:15pm</td>
   <td>Lunch break and uniform distribution</td>
 </tr>
 <tr>
-  <td>1:45 pm</td>
+  <td>1:45pm</td>
   <td>
   
     :red[Campus March (polo/khakis required)<br>(Mandatory for students)]
@@ -109,17 +109,17 @@ Alumni of the band? [Sign up for Commencement today!](https://docs.google.com/fo
 
 <table class="table">
 <tr>
-  <td>8:00 am</td>
+  <td>8:00am</td>
   <td>Fulton: Breakfast</td>
 </tr>
 <tr>
-  <td>9:30 am</td>
+  <td>9:30am</td>
   <td>
   
     :red[Faunce Arch (Waterman and Brown Streets): Commencement Procession (khakis, polo, blazer required)]</td>
 </tr>
 <tr>
-  <td>3:00 pm</td>
+  <td>3:00pm</td>
   <td>
   
     :red[Fulton: Uniform Return]</td>
