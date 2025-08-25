@@ -1,4 +1,4 @@
-We have _two_ alumni mailings lists. As of Fall 2025, both are hosted by Brown via listserv.
+We have _two_ alumni mailings lists. As of Fall 2025, both are hosted by Brown via listserv. The best way to reach the ALs is by emailing [brownbandals@gmail.com](mailto:brownbandals@gmail.com).
 
 ## The Everything List
 
