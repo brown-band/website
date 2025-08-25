@@ -12,13 +12,7 @@ summary = "The Brown Band turns 100 in fall of 2024! We would love to host a yea
 
 #### University Commencement 2025, May 2025
 
-All Brown Band alumni are invited to pick up their instrument (no matter how dusty!) and join the band in a weekend replete with campus marches, dances, and memories! March into cadence with the Band as we lead the charge in the commencement procession!
-
-Join us 6:00pm-8:30pm Friday, May 23rd for our Centennial Opening Reception. Bandies, alumni, and family welcome! Get tickets [here](https://www.eventbrite.com/e/brown-band-centennial-opening-reception-tickets-1312058465189?aff=oddtdtcreator)!
-
-On Saturday from 4:00pm-7:00pm, come cookout with the band on <a href="https://maps.app.goo.gl/YBvr6KjVQgeaRJyB9">Manning Walk Lawn</a> for a Centennial Band BBQ. Get tickets [here](https://www.eventbrite.com/e/brown-band-centennial-barbecue-tickets-1350550947239?aff=oddtdtcreator)!
-
-Visit our [commencement page](/commencement/) for more details on other events this weekend!
+We had a great time at Commencement with everybody! We had a full house for the big day on the Faunce porch and a wonderful turnout for our Opening Reception and BBQ beforehand. Thank you so much for coming and helping to maintain the Band's 100 year winning streak! 
 
 #### Centennial Alumni Game + Gala, September 28th, 2024
 
