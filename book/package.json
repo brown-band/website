@@ -5,5 +5,9 @@
     "pagedjs": "^0.4.0",
     "pretty-ms": "^8.0.0",
     "puppeteer-core": "^19.4.0"
+  },
+  "devDependencies": {
+    "cross-env": "^7.0.3",
+    "rimraf": "^6.0.1"
   }
 }

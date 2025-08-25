@@ -5,6 +5,7 @@
     "build": "rm -r public 2>/dev/null; NODE_ENV=production eleventy",
     "start:book": "nodemon --watch eleventy-book.config.js --watch config --watch book/to-pdf.js -x 'eleventy --serve --config=eleventy-book.config.js'",
     "build:book": "rm -r book-html 2>/dev/null; BAND_BOOK_ONESHOT=1 eleventy --serve --config=eleventy-book.config.js",
+    "build:bookwindows": "rimraf book-html && cross-env BAND_BOOK_ONESHOT=1 eleventy --serve --config=eleventy-book.config.js",
     "format": "prettier --write .",
     "postinstall": "node postinstall.mjs"
   },
@@ -26,6 +27,7 @@
     "@sindresorhus/slugify": "^1.1.2",
     "@stefanprobst/rehype-extract-toc": "^2.2.0",
     "clean-css": "^5.3.1",
+    "cross-env": "^7.0.3",
     "d3-array": "^3.2.1",
     "date-fns": "^2.29.3",
     "date-fns-tz": "^1.3.7",
@@ -49,6 +51,7 @@
     "remark-heading-id": "^1.0.0",
     "remark-parse": "^10.0.1",
     "remark-rehype": "^10.1.0",
+    "rimraf": "^6.0.1",
     "semver": "^7.3.8",
     "subset-font": "^2.0.0",
     "title": "^3.5.3",

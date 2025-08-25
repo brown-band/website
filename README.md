@@ -248,10 +248,11 @@ There are a few extensions to Markdown that this project uses to make it easier 
 - `pnpm install`
 - `cd ..`
 
-4. Run `pnpm build:book`, then open `book/book.pdf` in your favorite PDF viewer. Expect it to be around 100 pages.
-5. Make sure there are no typos and everything is laid out decently
+4. In `to-pdf.js`, verify that the build directory and executable path match your system.
+5. Run `pnpm build:book` if you are building on Mac, or `pnpm build:bookwindows` on Windows, then open `book/book.pdf` in your favorite PDF viewer. Expect it to be around 100 pages.
+6. Make sure there are no typos and everything is laid out decently
    - If you have to make changes, run `pnpm start:book` and open http://localhost:8080 in your browser to get a live preview of what the book will look like. Note that you will have to manually refresh to get CSS changes to apply, due to the way the library that slices the HTML into pages works.
-6. View remaining steps in the Webmaster Reference Document, under the “Making script books” section
+7. View remaining steps in the Webmaster Reference Document, under the “Making script books” section
 
 ### Adding/removing pages
 

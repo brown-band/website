@@ -5,17 +5,27 @@
 import * as path from "node:path";
 import puppeteer from "puppeteer-core";
 import prettyMS from "pretty-ms";
+import { fileURLToPath } from "url";
 
 const ms = (ms) => prettyMS(ms, { secondsDecimalDigits: 2, verbose: true });
 
-const __dirname = path.dirname(
-  decodeURIComponent(new URL(import.meta.url).pathname)
-);
-const output = path.join(__dirname, "book.pdf");
+// ON MAC: Uncomment the following, comment the Windows text
 
+// const __dirname = path.dirname(
+//   decodeURIComponent(new URL(import.meta.url).pathname)
+// );
+// const output = path.join(__dirname, "book.pdf");
+
+// ON WINDOWS: Uncomment the following, comment the Mac text
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
+const output = path.resolve(__dirname, "book.pdf");
+
+console.log(`[Book] Path: ${output}`);
+
+// UPDATE EXECUTABLE PATH TO WHEREVER CHROME IS INSTALLED
 const browser = await puppeteer.launch({
-  executablePath:
-    "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome",
+  executablePath: "C:/Program Files/Google/Chrome/Application/chrome.exe",
 });
 
 export async function renderPDF(port) {

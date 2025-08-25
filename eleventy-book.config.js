@@ -24,7 +24,7 @@ module.exports = (eleventyConfig) => {
     // uncomment to instead make a huge PDF of all scripts
     // allTheScripts: true,
     extraYear: false,
-    graduationYear: 2024,
+    graduationYear: 2025,
   });
 
   eleventyConfig.addPassthroughCopy({
