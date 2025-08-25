@@ -12,7 +12,7 @@ summary = "The Brown Band turns 100 in fall of 2024! We would love to host a yea
 
 #### University Commencement 2025, May 2025
 
-We had a great time at Commencement with everybody! We had a full house for the big day on the Faunce porch and a wonderful turnout for our Opening Reception and BBQ beforehand. Thank you so much for coming and helping to maintain the Band's 100 year winning streak! 
+We had a great time at Commencement with everybody! We had a full house for the big day on the Faunce porch and a wonderful turnout for our Opening Reception and BBQ beforehand. Thank you so much for coming and helping to maintain the Band's 100 year winning streak!
 
 #### Centennial Alumni Game + Gala, September 28th, 2024
 
