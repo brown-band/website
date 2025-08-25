@@ -8,10 +8,6 @@ summary = "Are you a Brown University undergraduate, grad student, or employee? 
 
 The band's first rehearsal will be Tuesday, September 12th at 6:00pm in Fulton Rehearsal Hall. It will be preceded by an ice cream social at 5:00pm. We would love to have you there! To join our mailing list, use [this link](https://docs.google.com/forms/d/e/1FAIpQLScJHkNFJ3TO91DiLW8Md36x8BRHqXWUfHYPrZc31fnJA36SIQ/viewform).
 
-<div style="height: 9%; background-color: #ED1C24; text-align: center; color: white;">
-<p>The Band turns 100 in Fall 2024. <a style="color: whitesmoke;" href="/centennial/">Check out our Centennial Page!</a></p>
-</div>
-
 ## Giving to the Band
 
 At this pivotal time in the Band's history (100th year coming up!), we are raising funds to celebrate our centennial year, and get new instruments and supplies for the band. If you feel inclined, we would greatly appreciate support to the band of, as we are a "size doesn't matter band", any amount! [Click here for the donation page](https://go.brown.edu/BrownBandGifts).
