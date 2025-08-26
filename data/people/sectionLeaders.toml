@@ -1,14 +1,12 @@
 [[sectionLeaders]]
 name = "Clarinets"
 people = [
-  { name = "Bryce Gray", email = "bryce_gray@brown.edu", year = 25 },
   { name = "Valentin Garcia", email = "valentin_garcia@brown.edu", year = 26 },
 ]
 
 [[sectionLeaders]]
 name = "Flutes"
 people = [
-  { name = "Jillian Belluck", email = "jillian_belluck@brown.edu", year = 25, endowed = "Princeton University Band Flute Section Leader" },
   { name = "Aly Rajwani", email = "aly_rajwani@brown.edu", year = 27},
   { name = "Coral Roost Rothenburg", email = "coral_roost_rothenburg@brown.edu", year = 27},
 ]
@@ -16,7 +14,8 @@ people = [
 [[sectionLeaders]]
 name = "Saxophones & Mellophones"
 people = [
-  { name = "Tyler Gurth", email = "tyler_gurth@brown.edu", year = 25 },
+  { name = "Mike Woodilla", email = "mike_woodilla@brown.edu", year = 27 },
+  { name = "Ryan Zou", email = "ryan_zou@brown.edu", year = 28 },
 ]
 
 [[sectionLeaders]]
@@ -37,9 +36,7 @@ people = [
 [[sectionLeaders]]
 name = "Percussion"
 people = [
-  { name = "Jace Damon", email = "jace_damon@brown.edu", year = 25 },
   { name = "Eitan Frank", email = "eitan_frank@brown.edu", year = 26, endowed = "Lexie's ('05) Lead Banger Percussion Section Leader"},
   { name = "George Chudley", email = "george_chudley@brown.edu", year = 26 },
   { name = "Isabella Juarez Galeas", email = "isabella_juarez_galeas@brown.edu", year = 27 },
-  { name = "Xinyi Wang", email = "xinyi_wang5@brown.edu", year = 25 },
 ]
