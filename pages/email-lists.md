@@ -2,7 +2,7 @@ We have _two_ alumni mailings lists. As of Fall 2025, both are hosted by Brown v
 
 **CHECK YOUR SPAM FOR EMAILS!** Gmail likes to mark messages from Brown listserv as spam. It is very important that you mark our emails as not spam to receive them in your inbox. We also recommend setting a filter to ensure that they don't get sent to spam in the future (see below).
 
-## The Everything List
+## The Mass List
 
 This is the most important list. This is where we send the big updates that you will not want to miss, such as information about alumni games, commencement, and fundraising. Emails are less frequent than the weekly list. **If you only wish to be on one list, this is the one to be on.**
 
