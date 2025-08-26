@@ -1,6 +1,6 @@
 We have _two_ alumni mailings lists. As of Fall 2025, both are hosted by Brown via listserv. The best way to reach the ALs is by emailing [brownbandals@gmail.com](mailto:brownbandals@gmail.com).
 
-**CHECK YOUR SPAM FOR EMAILS!** Gmail likes to mark messages from Brown listserv as spam. It is very important that you mark our emails as not spam to receive them in your inbox. 
+**CHECK YOUR SPAM FOR EMAILS!** Gmail likes to mark messages from Brown listserv as spam. It is very important that you mark our emails as not spam to receive them in your inbox.
 
 ## The Everything List
 
