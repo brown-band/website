@@ -1,6 +1,6 @@
 We have _two_ alumni mailings lists. As of Fall 2025, both are hosted by Brown via listserv. The best way to reach the ALs is by emailing [brownbandals@gmail.com](mailto:brownbandals@gmail.com).
 
-**CHECK YOUR SPAM FOR EMAILS!** Gmail likes to mark messages from Brown listserv as spam. It is very important that you mark our emails as not spam to receive them in your inbox. We also recommend setting a filter to ensure that they don't get sent to spam in the future (see below). 
+**CHECK YOUR SPAM FOR EMAILS!** Gmail likes to mark messages from Brown listserv as spam. It is very important that you mark our emails as not spam to receive them in your inbox. We also recommend setting a filter to ensure that they don't get sent to spam in the future (see below).
 
 ## The Everything List
 
@@ -14,18 +14,18 @@ This is for regular updates on the band's adventures. Emails are usually weekly 
 
 Subscribe or unsubscribe to the list with this [link](https://listserv.brown.edu/cgi-bin/wa?SUBED1=band-alumni-weekly&A=1).
 
-## Preventing Emails from Going to Spam (Gmail) 
+## Preventing Emails from Going to Spam (Gmail)
 
-To always prevent these emails from going to spam, you can create a filter in Gmail. 
+To always prevent these emails from going to spam, you can create a filter in Gmail.
 
 First, go to Settings > See all settings > Filters and Blocked Addresses
 
-Then, click "Create a new filter" 
+Then, click "Create a new filter"
 
-In the FROM field, put brownbandals@gmail.com 
+In the FROM field, put brownbandals@gmail.com
 
-Then, click "Create filter" 
+Then, click "Create filter"
 
-On the next screen, select "Never send it to Spam" and then click "Create filter" to confirm. 
+On the next screen, select "Never send it to Spam" and then click "Create filter" to confirm.
 
 This will prevent all emails sent from the AL email from going to spam. There may also be some automated emails from listserv that will also go to spam. You can add a filter to prevent this the same way as before, but with the FROM field as listserv@listserv.brown.edu.
