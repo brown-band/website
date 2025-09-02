@@ -21,8 +21,7 @@ people = [
 [[sectionLeaders]]
 name = "Trumpets"
 people = [
-  { name = "Daniel Tamburro", email = "daniel_tamburro@brown.edu", year = 27, endowed = "Edward Guiliano '72 Trumpet Section Leader"},
-  { name = "Eddie Nguyen", email = "edward_nguyen@brown.edu", year = 27},
+  { name = "Eddie Nguyen", email = "edward_nguyen@brown.edu", year = 27, endowed = "Edward Guiliano '72 Trumpet Section Leader"},
   { name = "Sarah Kramer", email = "sarah_e_kramer@brown.edu", year = 28}, 
 ]
 
