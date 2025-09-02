@@ -14,6 +14,18 @@ This is for regular updates on the band's adventures. Emails are usually weekly 
 
 Subscribe or unsubscribe to the list with this [link](https://listserv.brown.edu/cgi-bin/wa?SUBED1=band-alumni-weekly&A=1).
 
+## Preventing Emails from Going to Spam (General) 
+
+Usually, if you add a sender to a contact on whichever service that you use, their messages will not go to spam. So if you add the AL email (brownbandals@gmail.com) to your contacts, it should not go to spam. Instructions for a few common email services are linked below. 
+
+[Gmail](https://support.google.com/contacts/answer/1069522?hl=en&co=GENIE.Platform%3DDesktop)
+
+[iCloud](https://support.apple.com/guide/icloud/create-or-edit-contacts-mmfba737da/icloud)
+
+[Outlook](https://support.microsoft.com/en-us/office/add-a-contact-in-outlook-1ef8f35b-04be-4bd0-ac9c-6d6a146887ce)
+
+[Yahoo](https://help.yahoo.com/kb/add-edit-delete-contacts-yahoo-mail-sln28059.html)
+
 ## Preventing Emails from Going to Spam (Gmail)
 
 To always prevent these emails from going to spam, you can create a filter in Gmail.
