@@ -41,6 +41,8 @@ people = [
   { name = "Annie Johnson", email = "annie_johnson@brown.edu", year = 28 },
   { name = "Ryan Zou", email = "ryan_zou@brown.edu", year = 28 }, 
   { name = "Mike Woodilla", email = "mike_woodilla@brown.edu", year = 27 },
+  { name = "Leana Lee", email = "leana_lee@brown.edu", year = 28 },
+  { name = "Owen Shipley-Dean", email = "owen_shipley-dean@brown.edu", year = 27 },
 ]
 
 [[appointedPositions]]
