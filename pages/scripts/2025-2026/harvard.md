@@ -9,7 +9,6 @@ name = "Harvard"
 score = 41
 +++
 
-
 ## Pregame
 
 Ladies and gentlemen, friends and alumni, presenting an organization that has very strong opinions on long snappers, it’s the Brown University “Yeah, well, you know, uh, it’s an interesting conversation” BANNNDDDDDDDDDDD!
@@ -46,7 +45,7 @@ Watch now as the band goes out on a limb and plays “Dismember.”
 
 Harvard has way too many alumni to all make fun of in one script. What if we fused all Harvard students together into one person? Here’s what we think they would be like:
 
-::: script-list 
+::: script-list
 
 - A. Very, very, very affluent
 - B. Older than calculus, and about as derivative

@@ -17,7 +17,7 @@ We’re here today to play against the best college 160 miles away from NYC! Tha
 
 Watch now as the Band blasts off and plays “A Wrinkle in Time.”
 
-:sd[Band forms “a rocket”  and plays Time Warp.]
+:sd[Band forms “a rocket” and plays Time Warp.]
 
 You can learn a lot about a college from its mascot. You can see just how strong and powerful every Brown student is just from a look at our bear. You can see just how original Cornell is from looking at THEIR bear. And Dartmouth! And of course, what better animal than the ram to show off URI: All fluff and no substance.
 
@@ -45,11 +45,12 @@ Watch now as the band avoids New Haven and plays “Rhode to Nowhere.”
 
 Have you ever seen a cliff towering over the sea with an empty bench for two? This, too, is URI. Here are some other types of URI we have categorized:
 
-::: script-list 
+::: script-list
+
 - A. Doomed URI
 - B. Toxic URI
 - C. Subtextual URI
-- D. URI on Ice 
+- D. URI on Ice
 - E. URI Gagarin
 - F. The Princeton band!
 

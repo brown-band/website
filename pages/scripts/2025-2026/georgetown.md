@@ -9,7 +9,8 @@ name = "Brown"
 score = 46
 +++
 
-## Pregame 
+## Pregame
+
 Ladies and gentlemen, friends and alumni, presenting an organization that didn’t Jack their mascot from another school, it’s the Brown University (_Vampire voice_) “Three bulldogs, ah-ah-ah!” BANNNDDDDDDDDDDD!
 
 Ah, good ol’ Georgetown University. A school of faith and spirituality, located right near the staircase where a certain priest took a tumble down–a situation most residents of DC find themselves in on a daily basis. It’s a good thing that Georgetown students have such spiritual guidance, as they are beset by all manner of demons such as “the rats in the dorms” and “the designers of the Washington Metro.”
@@ -24,7 +25,7 @@ Watch now as the band cooks its books and plays “Not Mobsters.”
 
 :sd[Band forms “a gavel” and plays Rock Lobster]
 
-Maybe the sketchy brother wasn’t the best way to go…The Band is now under investigation by the Central Intelligence Agency. Something about our polos causing a “Red Scare.” We won’t be able to prove whatever happens to us now, but don’t worry, it’ll probably be declassified twenty years down the line. 
+Maybe the sketchy brother wasn’t the best way to go…The Band is now under investigation by the Central Intelligence Agency. Something about our polos causing a “Red Scare.” We won’t be able to prove whatever happens to us now, but don’t worry, it’ll probably be declassified twenty years down the line.
 
 Watch now as the band establishes a proxy government and plays “Party in the CIA.”
 
@@ -57,7 +58,7 @@ Georgetown’s had a big impact on American history, and as they say, history is
 - C. Who’s really buried in the Tombs
 - D. Why people still want to join the Chimes–imagine having an acapella group on campus
 - E. The prurient interests of the guy who sculpted the bulldog statue
-- F. The Princeton Band 
+- F. The Princeton Band
 
 :::
 
