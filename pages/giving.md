@@ -84,5 +84,4 @@ Douglas Traver '77 | Edward Guiliano '72 | Michael ONeil '74 | Kenneth R Sloan '
 
 <hr/>
 
-
 #### Thank you for your generosity in supporting our activities! We wouldn't be "the band" without the support of our beloved alumni and friends!
