@@ -1,22 +1,20 @@
-### To donate online to the Brown Band, see below!
-
 <hr />
 
 The Brown Band is supported in part by Brown University Athletics and Recreation. Gifts through the Brown University Sports Foundation help support additional operational costs including instrument purchases and repair, uniforms, travel and, of course, band buttons. All gifts through the Sports Foundation are included in the Brown Annual Fund and are eligible for membership in the Brown Annual Fund’s recognition societies. Thank you for your support!
 
-<div style="height: 9%; background-color: #ED1C24; text-align: center; color: white;">
-<p>So far the band has raised $120,000 in 2024 towards our Centennial Year!</p>
-</div>
-
-### Giving Link
+### How to Give
 
 Please visit [the band giving website](https://go.brown.edu/BrownBandGifts). From there, you can fill out the inputs to make your contribution! That's all!
 
+If you would prefer to mail a check, please contact the alumni liaisons at brownbandals@gmail.com. For other ways to give, please consult [Brown Giving](https://alumni-friends.brown.edu/giving/how-give).
+
+At this time, the Band is also looking for alumni to match gifts and sponsor giving challenges. If you have any questions about starting a giving challenge, significant donations, or opportunities, please contact to the Alumni Liaisons via email and let us know!
+
 #### Gift Recognition
 
-To be recognized by the band for your gift (so we can mail you a thank you, and include you in the donation tiers) please [fill out this form](https://forms.gle/SitXnmFHeCPvxPSu7). If you have trouble filling out the form, email brownbandals@gmail.com for assistance! You should fill out this form each time you make a donation, so that we can aggregate totals for our giving tiers.
+To be recognized by the band for your gift (so we can include you in the donation tiers) please [fill out this form](https://forms.gle/SitXnmFHeCPvxPSu7). If you have trouble filling out the form, email brownbandals@gmail.com for assistance! You should fill out this form each time you make a donation, so that we can aggregate totals for our giving tiers.
 
-#### Centennial Goals
+#### Fundraising Goals
 
 In our 100th year, the Band set an ambitious goal to raise $100,000, and we exceeded it! We are now considering new fundraising goals for uniforms, and will announce that campaign soon.
 
@@ -86,8 +84,5 @@ Douglas Traver '77 | Edward Guiliano '72 | Michael ONeil '74 | Kenneth R Sloan '
 
 <hr/>
 
-If you would prefer to mail a check, please contact the alumni liaisons at brownbandals@gmail.com. For other ways to give, please consult [Brown Giving](https://alumni-friends.brown.edu/giving/how-give).
-
-At this time, the Band is also looking for alumni to match gifts and sponsor giving challenges. If you have any questions about starting a giving challenge, significant donations, or opportunities, please contact to the Alumni Liaisons via email and let us know!
 
 #### Thank you for your generosity in supporting our activities! We wouldn't be "the band" without the support of our beloved alumni and friends!
