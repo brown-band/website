@@ -26,7 +26,7 @@ We had a great time at Commencement with everybody! We had a full house for the 
 
 ## Fundraising
 
-We successfully raised over $100k for our 100th year! Thank you all for your generosity :) 
+We successfully raised over $100k for our 100th year! Thank you all for your generosity :)
 
 ## The Brown University Band: An Ever True History
 
