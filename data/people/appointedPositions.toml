@@ -37,7 +37,6 @@ people = [
   { name = "George Chudley", email = "george_chudley@brown.edu", year = 26 },
   { name = "Eitan Frank", email = "eitan_frank@brown.edu", year = 26 },
   { name = "Owen Landry", email = "owen_landry@brown.edu", year = 26 },
-  { name = "Coral Roost Rothenberg", email = "coral_roost_rothenberg@brown.edu", year = 27 },
   { name = "Annie Johnson", email = "annie_johnson@brown.edu", year = 28 },
   { name = "Ryan Zou", email = "ryan_zou@brown.edu", year = 28 }, 
   { name = "Mike Woodilla", email = "mike_woodilla@brown.edu", year = 27 },
