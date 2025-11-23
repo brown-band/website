@@ -8,6 +8,7 @@ people = [
 name = "[Social Chairs](/constitution#IIIC8)"
 people = [
   { name = "Coral Roost Rothenberg", email = "coral_roost_rothenberg@brown.edu", year = 27 },
+  { name = "Owen Landry", email = "owen_landry@brown.edu", year = 26 },
 ]
 
 [[appointedPositions]]
