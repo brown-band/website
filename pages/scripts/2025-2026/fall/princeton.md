@@ -19,15 +19,15 @@ Watch now as the band goes out to get milk and plays “When You Coming Home, Mo
 
 :sd[Band forms The Milky Way and plays “Stacy’s Mom.”]
 
-Princeton, we’re disappointed in you. You literally stick your heads out of a window and howl twice a year, and you couldn’t get any furries on the design team for your mascot? No wonder there isn’t a Mrs. Princeton Tiger any more. Here, we’ve scouted out a list of your competition. 
+Princeton, we’re disappointed in you. You literally stick your heads out of a window and howl twice a year, and you couldn’t get any furries on the design team for your mascot? No wonder there isn’t a Mrs. Princeton Tiger any more. Here, we’ve scouted out a list of your competition.
 
-:::script-list 
+:::script-list
 
 - A. Tony the Tiger (duh)
-- B. Tigress (Kung Fu Panda) 
-- C. Vitaly (Madagascar 3) 
-- D. Shere Khan (Jungle Book)  
-- E. That one tiger from Zootopia 
+- B. Tigress (Kung Fu Panda)
+- C. Vitaly (Madagascar 3)
+- D. Shere Khan (Jungle Book)
+- E. That one tiger from Zootopia
 - F. The Princeton band!?
 
 :::

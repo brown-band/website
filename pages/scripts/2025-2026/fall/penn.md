@@ -27,7 +27,7 @@ Watch now as the band unionizes and plays “Trust-Busters.”
 
 Of course, the wicked witches of Wharton aren’t the only thing to be frightened of. Here are some more of the scariest things about Penn:
 
-:::script-list 
+:::script-list
 
 - A. It’s less than an hour away from New Jersey.
 - B. There are nearly 40 frats and sororities, and 0 good parties.

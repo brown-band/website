@@ -12,7 +12,7 @@ Watch now as the band forms X and plays We Want Him Back.
 
 What truly is a band? What is music? Where are we? Let’s try and figure it out. Possibilities include:
 
-:::script-list 
+:::script-list
 
 - A. Three Perkins rats in a trench coat
 - B. An important pillar of the Rhode Island wine and spirits industry
@@ -34,4 +34,3 @@ Regardez maintenant comment le band le bat.
 :sd[Band forms France and plays “Beat It”.]
 
 (Cbat on the Melodica) Brown Band Out.
-

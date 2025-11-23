@@ -41,7 +41,7 @@ Give a great warm welcome to bandies past, present, and future! Yale’s alumni 
 
 Watch now as the band reclaims its lost children and plays “Bandie Wonderland.”
 
-:sd[Band forms music note and plays “Boogie Wonderland”]  
+:sd[Band forms music note and plays “Boogie Wonderland”]
 
 While you’re in the grand old city of New Haven, there’s plenty of things to do and sights to see. Here are a few of our favorites!
 
@@ -56,7 +56,7 @@ While you’re in the grand old city of New Haven, there’s plenty of things to
 
 :::
 
-If you look to your left, you’ll see a wild Yalie in their natural habitat–pain and sadness. Watch now as the band gets stuck in traffic and plays “Off Course.” 
+If you look to your left, you’ll see a wild Yalie in their natural habitat–pain and sadness. Watch now as the band gets stuck in traffic and plays “Off Course.”
 
 :sd[Band forms a horseshoe and plays The Horse.]
 

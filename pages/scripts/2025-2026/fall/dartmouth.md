@@ -19,7 +19,6 @@ Watch now as the band retires to suburbia and plays “Through the Bingo Games�
 
 :sd[Band forms suburbia and plays Through the Fire and Flames.]
 
-
 Rhode Island has run out of room, so we’re off to explore the world! Here’s a few destinations we have in mind!
 
 :::script-list
@@ -33,17 +32,17 @@ Rhode Island has run out of room, so we’re off to explore the world! Here’s 
 
 :::
 
-Watch now as the band faces its worst fear and plays “Every Application We Fill.”  
+Watch now as the band faces its worst fear and plays “Every Application We Fill.”
 
 :sd[Band forms a job application and plays Every Time We Touch.]
 
 Thank you for a great four years! Catch us at halftime when we get jobs at Lockheed-Martin.
 
-## Halftime 
+## Halftime
 
 Ladies and gentlemen, friends and alumni, presenting an organization that loves its senior citizens, it’s the Brown University “it’s not a problem til you graduate” BANNNDDDDDDDDDDD!
 
-We know this is everyone’s most anticipated game of the year and fans want one thing and one thing only…THE BROWN BAND!!! Well, we’ve heard the cries of our adoring fans and decided to give them exactly what they asked for. But before we get into our jaw dropping performance we want to honor all 6 or 7 of our fabulous seniors with… rhyme!!! 
+We know this is everyone’s most anticipated game of the year and fans want one thing and one thing only…THE BROWN BAND!!! Well, we’ve heard the cries of our adoring fans and decided to give them exactly what they asked for. But before we get into our jaw dropping performance we want to honor all 6 or 7 of our fabulous seniors with… rhyme!!!
 
 :sd[Band forms a Champagne flute and plays Bits and Pieces.]
 
