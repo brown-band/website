@@ -178,6 +178,8 @@ For band board and the conductors, provide the following properties:
   - If you’re seeing unexpected behavior because people are graduating on or after 2100, I’m sorry. (actually I’m probably dead and therefore not capable of being sorry)
 - `bio`: bio provided by the person. Markdown is supported, so make sure to escape any special characters with a `\` (check by running `pnpm start` and then visiting http://localhost:8080/leadership/ to see if there’s anything that needs changing)
 
+Upload the images under `assets/images/people` with the appropriate name. It uses the `person.name` field put through [slugify](https://slugify.online/) with dashes. You can use that link to debug if the image is not showing up. Also, ask people to send you their images cropped the way that they want via email. 
+
 For section leaders and appointed positions, provide the following properties:
 
 - `name`: the name of the position. Markdown is supported.
