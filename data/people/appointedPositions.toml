@@ -2,6 +2,10 @@
 name = "[Librarians](/constitution#IIIC2)"
 people = [
   { name = "Eddie Nguyen", email = "edward_nguyen@brown.edu", year = 27},
+  { name = "Mike Woodilla", email = "mike_woodilla@brown.edu", year = 27 },
+  { name = "Ryan Zou", email = "ryan_zou@brown.edu", year = 28 }, 
+  { name = "Geoffrey Tillisch", email = "geoffrey_tillisch@brown.edu", year = 28 }, 
+  { name = "Desmond Roper", email = "desmond_roper@brown.edu", year = 29 },
 ]
 
 [[appointedPositions]]
@@ -9,6 +13,8 @@ name = "[Social Chairs](/constitution#IIIC8)"
 people = [
   { name = "Coral Roost Rothenberg", email = "coral_roost_rothenberg@brown.edu", year = 27 },
   { name = "Owen Landry", email = "owen_landry@brown.edu", year = 26 },
+  { name = "Ryan Zou", email = "ryan_zou@brown.edu", year = 28 }, 
+  { name = "Ella Giampietro", email = "gabriella_giampietro@brown.edu", year = 28 }, 
 ]
 
 [[appointedPositions]]
@@ -19,6 +25,7 @@ people = [
   { name = "Coral Roost Rothenberg", email = "coral_roost_rothenberg@brown.edu", year = 27 },
   { name = "Mia Kamisato", email = "mia_kamisato@brown.edu", year = 27},
   { name = "Ian Cressman", email = "ian_cressman@brown.edu", year = 28},
+  { name = "Owen Landry", email = "owen_landry@brown.edu", year = 26 },
 ]
 
 [[appointedPositions]]
@@ -42,6 +49,8 @@ people = [
   { name = "Mike Woodilla", email = "mike_woodilla@brown.edu", year = 27 },
   { name = "Leana Lee", email = "leana_lee@brown.edu", year = 28 },
   { name = "Owen Shipley-Dean", email = "owen_shipley-dean@brown.edu", year = 27 },
+  { name = "Desmond Roper", email = "desmond_roper@brown.edu", year = 29 },
+  { name = "Cassia Klein", email = "cassia_klein@brown.edu", year = 29 },
 ]
 
 [[appointedPositions]]
@@ -50,6 +59,8 @@ people = [
   { name = "Albert Lou", email = "albert_lou@brown.edu", year = 26, endowed = "Edward Guiliano '72 Alumni Liaison"},
   { name = "Eddie Nguyen", email = "edward_nguyen@brown.edu", year = 27},
   { name = "Mia Kamisato", email = "mia_kamisato@brown.edu", year = 27},
+  { name = "Ryan Zou", email = "ryan_zou@brown.edu", year = 28 }, 
+  { name = "Mike Woodilla", email = "mike_woodilla@brown.edu", year = 27 },
 ]
 
 [[appointedPositions]]
