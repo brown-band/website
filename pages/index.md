@@ -6,11 +6,7 @@ summary = "Are you a Brown University undergraduate, grad student, or employee? 
 
 +++
 
-The band's first rehearsal will be Tuesday, September 12th at 6:00pm in Fulton Rehearsal Hall. It will be preceded by an ice cream social at 5:00pm. We would love to have you there! To join our mailing list, use [this link](https://docs.google.com/forms/d/e/1FAIpQLScJHkNFJ3TO91DiLW8Md36x8BRHqXWUfHYPrZc31fnJA36SIQ/viewform).
-
-## Giving to the Band
-
-At this pivotal time in the Band's history (100th year coming up!), we are raising funds to celebrate our centennial year, and get new instruments and supplies for the band. If you feel inclined, we would greatly appreciate support to the band of, as we are a "size doesn't matter band", any amount! [Click here for the donation page](https://go.brown.edu/BrownBandGifts).
+The band's first rehearsal will be Tuesday, September 9th at 6:00pm in Fulton Rehearsal Hall. It will be preceded by an ice cream social at 5:00pm. We would love to have you there! To join our mailing list, use [this link](https://docs.google.com/forms/d/e/1FAIpQLScJHkNFJ3TO91DiLW8Md36x8BRHqXWUfHYPrZc31fnJA36SIQ/viewform).
 
 ## Why join the band?
 
@@ -36,3 +32,7 @@ Don’t play or own any instruments? That’s fine with us too. We will teach yo
 ## So how do I sign up?
 
 Just come to our rehearsals on every Tuesday at 6pm at [Fulton](/fulton/), which is on the corner of Hope and Benevolent Streets (just behind the Orwig Music building). We’ll give you a tour of our facilities and a taste of the music you’ll be soon playing. Feel free to email the [Recording Secretary](/leadership/#recording-secretary) to get on our mailing list. Or, if you have any questions, email anyone on [Band Board](/leadership/#band-board). Lastly, check the [schedule](/schedule/) to see our upcoming games. We look forward to welcoming you to the Brown Band!
+
+## Giving to the Band
+
+We are always raising money for instruments, supplies, and regular operating costs. For more information, visit our [giving page](giving). If you feel inclined, we would greatly appreciate support to the band of, as we are a "size doesn't matter band", any amount! [Click here for the donation page](https://go.brown.edu/BrownBandGifts).
