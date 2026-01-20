@@ -1,20 +1,11 @@
 [[conductors]]
 position = "Head Student Conductor"
-name = "Aly Rajwani"
-email = "aly_rajwani@brown.edu"
-link = "null"
-year = 27
-endowed = "Edward Guiliano '72 Head Conductor"
-bio = "Aly hails from Canada - a fact which some find obvious and others unbelievable. In Band, he plays the flute melodica and dabbles in arranging. Aly plans on studying Mathematics, because he loves numbers, and Computer Science, so that he has the option of selling out. Beyond that, here are some quick facts: he regularly rewatches the Kung Fu Panda trilogy (the fourth movie doesn’t count); he thinks sudoku and 2048 are the greatest games ever created; he once drew a mouse, which his mother confused for an elephant; and he loves being part of the Brown Band!"
-
-[[conductors]]
-position = "Assistant Student Conductor"
 name = "Everton Prospere"
 email = "everton_prospere@brown.edu"
 link = "null"
 year = 27
-endowed = "Nicholas J Everage Student Conductor"
-bio = "Everton is a PROUD New Yorker…and no, he isn’t from the city! He grew up in a town on Long Island called Valley Stream, which isn’t located in a valley and only has a teeny tiny creek. In the band, you can find him questioning why he chose to play the sousaphone in elementary school, an instrument he still struggles to hold up. Everton began his conducting journey in front of a mirror while listening to anime music, but fervently enjoys waving his hands in front of an actual band as an assistant conductor! Outside of music, he is concentrating in Political Science and Hispanic Studies. You can often find Everton playing tennis at the courts on campus, procrastinating on his phone in the Rock Stacks/SciLi upper floors, or watching a show on Netflix (he is currently binging the Crown…RIP Queen Lizzie!)."
+endowed = "Edward Guiliano '72 Head Conductor"
+bio = "Everton is a PROUD New Yorker…and no, he isn’t from the city! He grew up in a town on Long Island called Valley Stream, which isn’t located in a valley and only has a teeny tiny creek. Besides conducting, in the band, you can find him attempting to hold a sousa, which is especially a sight to see during field and ice shows. Everton began his conducting journey in front of a mirror while listening to anime intros, but fervently enjoys waving his hands in front of an actual band! Outside of music, he is concentrating in Political Science and Hispanic Studies. You can often find Everton playing tennis at the courts on campus, procrastinating on his phone in the Rock Stacks/SciLi upper floors, or binging a show on Hulu/Netflix (he always needs a good recommendation!!!)"
 
 
 [[conductors]]
@@ -23,4 +14,13 @@ name = "Sarah Kramer"
 email = "sarah_e_kramer@brown.edu"
 link = "https://www.youtube.com/watch?v=-qSTHfI0V3k"
 year = 28
-bio = "Sarah comes from good ol’ Levittown, Pennsylvania (yes, the one from your history class) and is VERY proud of her Philly roots (except when the Phillies let her down again). When not conducting you can find her playing ~~mellophone~~ trumpet and struggling to find the correct song in her flip folder before we start playing. Sarah currently plans on studying Geochemistry or Environmental Science. She’ll decide eventually. Outside of band, you can find Sarah copyediting and handling social media for the Brown Daily Herald, at Dave’s Coffee fueling her caffeine addiction, or listening to her 7-hour-long, solely Taylor Swift playlist (or her 10-hour-long jazz playlist aptly named “Chet Baker is so hot”). Sarah’s super excited to continue in band as a baby conductor and cannot wait to go to more games!"
+endowed = "Nicholas J Everage Student Conductor"
+bio = "Sarah hails from good ol’ Levittown, Pennsylvania, the suburbiest of Philadelphia suburbs! Speaking of Philadelphia, Go Birds! In band, you may find Sarah playing ~~mellophone~~ trumpet, laughing at her own jokes, or crashing out over the football team. Sarah is planning to concentrate in Geochemistry and Environmental Chemistry, which is definitely not just an excuse to look at fun rocks all day. She also gets access to fun radioactive chemicals! When not trapped in Macmillan by this little thing called “employment,” you can find Sarah looking for a place to fuel her caffeine addiction (she yearns for a Dunkin on Thayer), listening to audiobooks, thrifting, or picking flowers like a whimsical child."
+
+[[conductors]]
+position = "Assistant Student Conductor"
+name = "Emah Shinall"
+email = "emah_shinall@brown.edu"
+link = "null"
+year = 29
+bio = "Emah comes from the swamps of Louisiana, and if you ask her, she'll tell you that she doesn’t have the Louisiana accent because she “ain’t from down da bayou.”  In band, she plays the mellophone (#fellomello), but if you lose sight of her, just follow the trail of people with braided hair.  You’ll find her braiding the hair of her next victim. Emah is planning on concentrating in Education Studies and Applied Mathematics to become a high school math teacher.  Outside of academics, she loves to go to the drag strip because _we like the cars, the cars that go vroom._  If a “cool” car or motorcycle passes by, she’ll start rambling as if she knows anything about cars; however, she really only knows how to drive stick shift.  And she’ll never let you forget that she has her motorcycle endorsement, as if those words mean anything when you don’t own a motorcycle."
