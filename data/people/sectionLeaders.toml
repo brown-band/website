@@ -1,7 +1,9 @@
 [[sectionLeaders]]
 name = "Clarinets"
 people = [
-  { name = "Valentin Garcia", email = "valentin_garcia@brown.edu", year = 26 },
+  { name = "Ian Cressman", email = "ian_cressman@brown.edu", year = 28 },
+  { name = "Irish Folds", email = "irish_folds@brown.edu", year = 27 },
+  { name = "Shunsuke Sakagami", email = "shunsuke_sakagami@brown.edu", year = 27 },
 ]
 
 [[sectionLeaders]]
@@ -30,6 +32,8 @@ name = "Low Brass"
 people = [
   { name = "Owen Landry", email = "owen_landry@brown.edu", year = 26 },
   { name = "Mia Kamisato", email = "mia_kamisato@brown.edu", year = 27},
+  { name = "Geoffrey Tillisch", email = "geoffrey_tillisch@brown.edu", year = 28},
+  { name = "Sophie Winaker", email = "sophie_winaker@brown.edu", year = 28},
 ]
 
 [[sectionLeaders]]
@@ -38,4 +42,7 @@ people = [
   { name = "Eitan Frank", email = "eitan_frank@brown.edu", year = 26, endowed = "Lexie's ('05) Lead Banger Percussion Section Leader"},
   { name = "George Chudley", email = "george_chudley@brown.edu", year = 26 },
   { name = "Isabella Juarez Galeas", email = "isabella_juarez_galeas@brown.edu", year = 27 },
+  { name = "Ella Giampietro", email = "gabriella_giampietro@brown.edu", year = 28 },
+  { name = "Leana Lee", email = "leana_lee@brown.edu", year = 28 },
+  { name = "Owen Shipley-Dean", email = "owen_shipley-dean@brown.edu", year = 27 },
 ]
