@@ -27,7 +27,7 @@ The Band is a fun-loving group of Brunonians who help to keep school spirit aliv
 
 The honest and complete answer is absolutely nothing. We know that your time is valuable, so the band doesn’t have strict attendance requirements. If you can’t make all the games, you can choose to come to few each semester, and no one would think twice if you were a slacker busy person. Come when you want, leave when you want, and have as much fun as you want.
 
-Don’t play or own any instruments? That’s fine with us too. We will teach you how to play the instrument of your choice - heck, we’ll even let you borrow one so you can take it to your dorm and disturb all your friends. All we ask is if you can clap in rhythm (drums is for you) or if you can blow hard (the trumpet, my friend).
+Don’t play or own any instruments? That’s fine with us too. We will teach you how to play an instrument [^1] - heck, we’ll even let you borrow one so you can take it to your dorm and disturb all your friends. All we ask is if you can clap in rhythm (drums is for you) or if you can blow hard (the trumpet, my friend).
 
 ## So how do I sign up?
 
@@ -36,3 +36,5 @@ Just come to our rehearsals on every Tuesday at 6pm at [Fulton](/fulton/), whic
 ## Giving to the Band
 
 We are always raising money for instruments, supplies, and regular operating costs. For more information, visit our [giving page](giving). If you feel inclined, we would greatly appreciate support to the band of, as we are a "size doesn't matter band", any amount! [Click here for the donation page](https://go.brown.edu/BrownBandGifts).
+
+[^1]: Our percussion section always offers lessons for new players. For other instruments, lessons can be arranged but are student-offered and therefore highly dependent upon the availability of our current members.
