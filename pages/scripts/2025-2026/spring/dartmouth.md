@@ -25,10 +25,10 @@ Watch now as the band repeats past mistakes and plays “Rough.”
 
 So, how did everyone’s Marriage Pact go? _Pause_ Yeah, that’s what we figured. Here are some useful tips to avoid future romantic woes:
 
-:::script-list 
+:::script-list
 
 - A. Drop out of Brown
-- B. Ignore your feelings, buy a little treat! 
+- B. Ignore your feelings, buy a little treat!
 - C. Purchase the premium version of your dating app
 - D. Watch out for suspiciously heart-shaped clouds of pink smoke,
 - E. Enjoy the poetry of Sappho, and
