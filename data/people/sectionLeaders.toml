@@ -10,7 +10,7 @@ people = [
 name = "Flutes"
 people = [
   { name = "Aly Rajwani", email = "aly_rajwani@brown.edu", year = 27},
-  { name = "Coral Roost Rothenburg", email = "coral_roost_rothenburg@brown.edu", year = 27},
+  { name = "Coral Roost Rothenberg", email = "coral_roost_rothenberg@brown.edu", year = 27},
 ]
 
 [[sectionLeaders]]
