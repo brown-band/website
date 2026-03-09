@@ -11,7 +11,7 @@ score = 2
 
 Ladies and gentlemen, friends and alumni, presenting an organization that really misses Yuri on Ice, it’s the Brown University “why is it called yuri if they’re both boys?” BANNNDDDDDDDDDDD!
 
-Did you miss us? Well we hope your _skating_ is getting better! We heard that hockey got pretty popular over the winter break. We never knew a hockey game could get so… heated. Like some kind of rivalry or something. Well in any case, we hope the players _stay passionate_ on the ice tonight. Watch now as the band hits the cottage and plays “Hips Don’t Lie”. 
+Did you miss us? Well we hope your _skating_ is getting better! We heard that hockey got pretty popular over the winter break. We never knew a hockey game could get so… heated. Like some kind of rivalry or something. Well in any case, we hope the players _stay passionate_ on the ice tonight. Watch now as the band hits the cottage and plays “Hips Don’t Lie”.
 
 :sd[Band forms Corn and plays Hips Don’t Lie]
 
