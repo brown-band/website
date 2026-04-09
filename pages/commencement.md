@@ -81,6 +81,7 @@ h3 { margin-top: 2rem }
   <td>
 
     :red[Fulton: Rehearsal]</td>
+
 </tr>
 <tr>
   <td>12:30pm</td>
@@ -118,6 +119,7 @@ h3 { margin-top: 2rem }
   <td>
 
     :red[Fulton: Uniform Return]</td>
+
 </tr>
 </table>
 
