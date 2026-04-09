@@ -39,6 +39,7 @@ content = [
 title = "More"
 content = [
   "schedule",
+  "commencement",
   "visiting-bands",
   "ivy-bands",
   "ivy-bands-agreement",
