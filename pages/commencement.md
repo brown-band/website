@@ -17,7 +17,7 @@ h3 { margin-top: 2rem }
 
 ## Signups
 
-<!-- TODO: Alumni of the band? [Sign up for Commencement today!](https://docs.google.com/forms/d/e/1FAIpQLSdwspEwElnmbKWGXEyztk91nl_WUk1uwcZzY5iSJvOM5nrJOg/viewform) -->
+Alumni of the band? [Sign up for Commencement today!](https://forms.gle/M8BpQvTN5ukMaVXLA) 
 
 ### Saturday, May 16<sup>th</sup> {#saturday-before}
 
