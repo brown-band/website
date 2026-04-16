@@ -12,7 +12,7 @@ Watch now as the band gets in the barber’s chair and plays “Poker Forehead�
 
 Shut up, MOM. Silence from you. You’re cut off, from yakking. This campus is truly something special. It’s so amazing to see us unite against a common force—embdash UCSB –- the university of casual sex and beer-emdash- But alas, we failed. We might be joining our Athletics in not having the best record, but at least we can say: we’re all yakking it in this together.
 
-Watch now as the band yaks it to *SWAGGATRON SIREN* and plays “Yakacabana.”
+Watch now as the band yaks it to _SWAGGATRON SIREN_ and plays “Yakacabana.”
 
 :sd[Band forms cup pongs and plays Copacabana.]
 
@@ -20,7 +20,7 @@ The best thing about being a graduating senior is that you don’t need to worry
 
 :::script-list
 
-- A. Help Congress decree a new law to curtail rampant inflation after 33 attempts. To learn more, look up “Trump Inflation Rule 34” 
+- A. Help Congress decree a new law to curtail rampant inflation after 33 attempts. To learn more, look up “Trump Inflation Rule 34”
 - B. Explore Providence! There’s the Point Tavern, Wild Colonial, Wick Pub, your mom’s house.
 - C. Avoid explaining what “yuri” is to Karen Mellor
 - D. Ragebait your roommates (Band: “AND THEY WERE ROOMMATES”)
@@ -30,7 +30,6 @@ The best thing about being a graduating senior is that you don’t need to worry
 - H. Orse
 
 :::
-
 
 Watch now as the band struggles with their daily Horsle.
 
