@@ -4,9 +4,13 @@ The Brown Band is supported in part by Brown University Athletics and Recreation
 
 ### How to Give
 
-Please visit [the band giving website](https://go.brown.edu/BrownBandGifts). From there, you can fill out the inputs to make your contribution! That's all!
+There are two funds that support the Band: the Brown Band Annual Fund, and the Brown Band Endowed Fund. The Annual Fund provides immediate resources, while the endowment is for long-term investment. Please reach out to the ALs at brownbandals@gmail.com if you have questions about the difference between the funds. 
 
-If you would prefer to mail a check, please contact the alumni liaisons at brownbandals@gmail.com. For other ways to give, please consult [Brown Giving](https://alumni-friends.brown.edu/giving/how-give).
+To donate to the Annual Fund, please visit [the Band giving page](https://go.brown.edu/BrownBandGifts). From there, you can fill out the inputs to make your contribution! That's all!
+
+To donate to the Endowed Fund, please visit [Brown's giving website](https://alumni-friends.brown.edu/giving/how-give) and consult this [step-by-step guide](https://drive.google.com/file/d/1lVvtghQzfI8ygcw4XFIMvHeG0gq8fFaw/view?usp=sharing) to make a gift. 
+
+If you would prefer to mail a check, please contact the Alumni Liaisons at brownbandals@gmail.com. For other ways to give, please consult [Brown Giving](https://alumni-friends.brown.edu/giving/how-give).
 
 At this time, the Band is also looking for alumni to match gifts and sponsor giving challenges. If you have any questions about starting a giving challenge, significant donations, or opportunities, please contact to the Alumni Liaisons via email and let us know!
 
