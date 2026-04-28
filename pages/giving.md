@@ -4,7 +4,7 @@ The Brown Band is supported in part by Brown University Athletics and Recreation
 
 ### How to Give
 
-There are two funds that support the Band: the Brown Band Annual Fund, and the Brown Band Endowed Fund. The Annual Fund provides immediate resources, while the endowment is for long-term investment. Please reach out to the ALs at brownbandals@gmail.com if you have questions about the difference between the funds. 
+There are two funds that support the Band: the Brown Band Annual Fund and the Brown Band Endowed Fund. The Annual Fund provides immediate resources, while the Endowed Fund is for long-term investment. Please reach out to the ALs at brownbandals@gmail.com if you have questions about the difference between the funds. 
 
 To donate to the Annual Fund, please visit [the Band giving page](https://go.brown.edu/BrownBandGifts). From there, you can fill out the inputs to make your contribution! That's all!
 
