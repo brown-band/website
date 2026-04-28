@@ -8,7 +8,7 @@ There are two funds that support the Band: the Brown Band Annual Fund and the Br
 
 To donate to the Annual Fund, please visit [the Band giving page](https://go.brown.edu/BrownBandGifts). From there, you can fill out the inputs to make your contribution! That's all!
 
-To donate to the Endowed Fund, please visit [Brown's giving website](https://alumni-friends.brown.edu/giving/how-give) and consult this [step-by-step guide](https://drive.google.com/file/d/1lVvtghQzfI8ygcw4XFIMvHeG0gq8fFaw/view?usp=sharing) to make a gift. 
+To donate to the Endowed Fund, please visit [Brown's giving website](https://alumni-friends.brown.edu/giving/how-give) and consult this [step-by-step guide](https://drive.google.com/file/d/1lVvtghQzfI8ygcw4XFIMvHeG0gq8fFaw/view?usp=sharing) to make a gift.
 
 If you would prefer to mail a check, please contact the Alumni Liaisons at brownbandals@gmail.com. For other ways to give, please consult [Brown Giving](https://alumni-friends.brown.edu/giving/how-give).
 

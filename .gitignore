@@ -13,3 +13,4 @@ book-html
 
 # For Nix shell things
 profile* 
+.env
