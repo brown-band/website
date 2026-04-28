@@ -62,4 +62,5 @@ name = "[Webmasters](/constitution#IIIC7)"
 people = [
   { name = "Eddie Nguyen", email = "edward_nguyen@brown.edu", year = 27},
   { name = "Alison Zeng", email = "alison_zeng@brown.edu", year = 27},
+  { name = "Noah Shepard", email = "noah_shepard@brown.edu", year = 29},
 ]
