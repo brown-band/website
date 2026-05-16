@@ -88,7 +88,7 @@ Alumni of the band? [Sign up for Commencement today!](https://forms.gle/M8BpQvTN
   <td>Lunch break and uniform distribution</td>
 </tr>
 <tr>
-  <td>1:30pm</td>
+  <td>2:00pm</td>
   <td>
   
     :red[Campus March (polo/khakis required)<br>(Mandatory for students)]</td>
