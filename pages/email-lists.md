@@ -6,20 +6,17 @@ We have _two_ alumni mailings lists. As of Fall 2026, both are hosted on a Googl
 
 This is the most important list. This is where we send the big updates that you will not want to miss, such as information about alumni games, commencement, and fundraising. Emails are less frequent than the weekly list. **If you only wish to be on one list, this is the one to be on.**
 
-Subscribe to the list with this [link](https://groups.google.com/a/group.brown.edu/g/brown-band-all/). 
-If you do not have a Google Account, you will not be able to join the group this way. 
-Email the ALs (brownbandals@gmail.com) and you will be sent an invitation. 
+Subscribe to the list with this [link](https://groups.google.com/a/group.brown.edu/g/brown-band-all/). If you do not have a Google Account, you will not be able to join the group this way. Email the ALs (brownbandals@gmail.com) and you will be sent an invitation.
 
-Unsubscribe (we'll miss you!) with this [link](https://groups.google.com/a/group.brown.edu/g/brown-band-all/membership). 
+Unsubscribe (we'll miss you!) with this [link](https://groups.google.com/a/group.brown.edu/g/brown-band-all/membership).
 
 ## The Weekly List
 
 This is for regular updates on the band's adventures. Emails are usually weekly during the football and hockey seasons, but will tend to slow down during breaks and later into the spring semester. We recommend being on both this one AND the everything list because we will not send the full details of events to the weekly list. Subscribe if you want the most recent news on how we're doing!
 
-You can subscribe to the list [here](https://groups.google.com/a/group.brown.edu/g/band-alumni-weekly/) and unsubscribe [here](https://groups.google.com/a/group.brown.edu/g/band-alumni-weekly/membership). 
+You can subscribe to the list [here](https://groups.google.com/a/group.brown.edu/g/band-alumni-weekly/) and unsubscribe [here](https://groups.google.com/a/group.brown.edu/g/band-alumni-weekly/membership).
 
-Note that if you do not have a Google Account, you will not be able to join the group this way. 
-Email the ALs (brownbandals@gmail.com) and you will be sent an invitation. 
+Note that if you do not have a Google Account, you will not be able to join the group this way. Email the ALs (brownbandals@gmail.com) and you will be sent an invitation.
 
 ## Preventing Emails from Going to Spam (General)
 
@@ -47,4 +44,4 @@ Then, click "Create filter"
 
 On the next screen, select "Never send it to Spam" and then click "Create filter" to confirm.
 
-This will prevent all emails sent from the AL email from going to spam. 
+This will prevent all emails sent from the AL email from going to spam.
