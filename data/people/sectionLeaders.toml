@@ -38,8 +38,7 @@ people = [
 [[sectionLeaders]]
 name = "Percussion"
 people = [
-  # { name = "Eitan Frank", email = "eitan_frank@brown.edu", year = 26, endowed = "Lexie's ('05) Lead Banger Percussion Section Leader"},
-  { name = "Isabella Juarez Galeas", email = "isabella_juarez_galeas@brown.edu", year = 27 },
+  { name = "Isabella Juarez Galeas", email = "isabella_juarez_galeas@brown.edu", year = 27, endowed = "Lexie's ('05) Lead Banger Percussion Section Leader"},
   { name = "Ella Giampietro", email = "gabriella_giampietro@brown.edu", year = 28 },
   { name = "Leana Lee", email = "leana_lee@brown.edu", year = 28 },
   { name = "Owen Shipley-Dean", email = "owen_shipley-dean@brown.edu", year = 27 },
