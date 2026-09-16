@@ -29,6 +29,7 @@ content = [
 title = "Contact"
 content = [
   { page = "contact", title = "Get in Touch!" },
+  { url = "https://brownconnectplus.brown.edu/topics/48800/home", title = "BrownConnect+" }, 
   { url = "https://www.instagram.com/brownbandstagram/", title = "Instagram" },
   { url = "https://www.facebook.com/BrownBand/", title = "Facebook" },
   { url = "https://www.youtube.com/user/BrownUBandstand", title = "YouTube" },
