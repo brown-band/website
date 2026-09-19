@@ -19,6 +19,14 @@ bio = "Sarah hails from good ol’ Levittown, Pennsylvania, the suburbiest of Ph
 
 [[conductors]]
 position = "Assistant Student Conductor"
+name = "Aly Rajwani"
+email = "aly_rajwani@brown.edu"
+link = "null"
+year = 27
+bio = "Aly hails from Canada - a fact which some find obvious and others unbelievable. In Band, he plays the ~~flute~~ ~~melodica~~ trumpet and dabbles in arranging. Aly plans on studying Mathematics, because he loves numbers, and Computer Science, so that he has the option of selling out. Beyond that, here are some quick facts: he regularly rewatches the Kung Fu Panda trilogy (the fourth movie doesn’t count); he thinks sudoku and 2048 are the greatest games ever created; he once drew a mouse, which his mother confused for an elephant; and he loves being part of the Brown Band!"
+
+[[conductors]]
+position = "Assistant Student Conductor"
 name = "Emah Shinall"
 email = "emah_shinall@brown.edu"
 link = "null"
