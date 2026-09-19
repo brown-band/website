@@ -21,6 +21,7 @@ people = [
   { name = "Coral Roost Rothenberg", email = "coral_roost_rothenberg@brown.edu", year = 27 },
   { name = "Mia Kamisato", email = "mia_kamisato@brown.edu", year = 27},
   { name = "Ian Cressman", email = "ian_cressman@brown.edu", year = 28},
+  { name = "Sarah Kramer", email = "sarah_e_kramer@brown.edu", year = 28}, 
 ]
 
 [[appointedPositions]]
