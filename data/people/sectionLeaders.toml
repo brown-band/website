@@ -1,7 +1,6 @@
 [[sectionLeaders]]
 name = "Clarinets"
 people = [
-  { name = "Ian Cressman", email = "ian_cressman@brown.edu", year = 28 },
   { name = "Irish Folds", email = "irish_folds@brown.edu", year = 27 },
   { name = "Shunsuke Sakagami", email = "shunsuke_sakagami@brown.edu", year = 27 },
 ]
