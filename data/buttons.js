@@ -94,11 +94,7 @@ module.exports = async () => {
               schoolId,
               label,
               image: image ? `${year}/${image}` : null,
-              thumbnail: image
-                ? image.endsWith(".svg")
-                  ? `${year}/${image}`
-                  : `${year}/${image.split(".")[0]}.webp`
-                : null,
+              thumbnail: image ? `${year}/${image}` : null,
             };
           })
         ),
