@@ -21,7 +21,7 @@ Watch now as the band hallucinates a performance and plays Drones Fly.
 
 Enough of that. We’d like to take a moment to thank John P. Band for inventing this sport that we love so. In fact, we’d like to acknowledge a list of our favorite Johns, including John Harvard.
 
-::: script-list
+:::script-list
 
 - A. Comma, Long
 - B. Son
