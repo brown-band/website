@@ -96,10 +96,10 @@ And we’ll help them go to town.
 And we will all be happy  
 With a victory for Brown.
 
-Let’s give a cheer for dear old Brown, and her team of valiant men,  
+Let’s give a cheer for dear old Brown, the best there's ever been, 
 We’ll raise our voices to the sky, for we will win again,  
 We’ll back our team with all our might, just to raise a winning score,  
-Because it’s fight, fight for Brown boys, and for Brown forevermore.
+Because it’s fight, fight for Bruno, and for Brown forevermore.
 
 ---
 
