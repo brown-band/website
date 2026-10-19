@@ -39,10 +39,10 @@ Okay, enough about feet now. Did you know that Brown’s president used to work 
 
 :::script-list
 
-- A. Anne Carson (should’ve given her tenure!) 
-- B. Big Boy Bezos (maybe he could fund a reopening of their office of campus engagement) 
-- C. Chris Paxson, rebranded on focus group advice 
-- D. Ruth J. Simmons—her name has a certain je ne sais quad to it 
+- A. Anne Carson (should’ve given her tenure!)
+- B. Big Boy Bezos (maybe he could fund a reopening of their office of campus engagement)
+- C. Chris Paxson, rebranded on focus group advice
+- D. Ruth J. Simmons—her name has a certain je ne sais quad to it
 - E. Einstein, who would certainly enjoy the new data center
 - F. The Princeton Band!
 
