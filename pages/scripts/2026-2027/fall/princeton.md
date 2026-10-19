@@ -9,7 +9,7 @@ name = "Princeton"
 score = 16
 +++
 
-##Pregame
+## Pregame
 
 Ladies and gentlemen, friends and alumni, presenting an organization that could have been on a $5,000 boat rn, it’s the Brown University “who let Everton write the script” BANNNDDDDDDDDDDD!
 
@@ -23,7 +23,7 @@ You might think that Princeton’s avant-garde colors are just for shock value, 
 
 Catch us at halftime when we talk about feet.
 
-Halftime
+## Halftime
 
 Ladies and gentlemen, friends and alumni, presenting an organization that does NOT enjoy drinking tabasco in any form, it’s the Brown University “we’d rather have peanut butter” BANNNDDDDDDDDDDD!
 
