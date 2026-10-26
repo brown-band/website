@@ -7,7 +7,7 @@ score = 31
 [teams.home]
 name = "Brown"
 score = 38
-+++ 
++++
 
 ## Pregame
 
@@ -19,7 +19,7 @@ Watch now as the band asks for a cut of the inheritance money and plays “5 to 
 
 :sd[Band forms Dollar Bill and plays 9 to 5.]
 
-In full honesty, we love you, parents! Maybe even more than your children, especially after getting aired out on Sidechat this morning. If you can’t swing inheritance money, would you consider adopting us instead? We promise the Band can live up to any expectations your kiddos are failing to meet! We woke up at 8 in the morning today out of our volition. Our grooming habits are impeccable—peep the uniform. We read through every single email that hits our inboxes, thanks, Shun! Contact us by email, phone, or fax if you’re ready for 40-odd additions to your household. 
+In full honesty, we love you, parents! Maybe even more than your children, especially after getting aired out on Sidechat this morning. If you can’t swing inheritance money, would you consider adopting us instead? We promise the Band can live up to any expectations your kiddos are failing to meet! We woke up at 8 in the morning today out of our volition. Our grooming habits are impeccable—peep the uniform. We read through every single email that hits our inboxes, thanks, Shun! Contact us by email, phone, or fax if you’re ready for 40-odd additions to your household.
 
 Watch now as the band fills out some paperwork and plays “Shut Up, Dad”.
 
@@ -56,7 +56,7 @@ Well, since we’ve already talked about the events at Brown for this special we
 
 :::
 
-Watch now as the band leads you in circles and plays, “Not at all true”. 
+Watch now as the band leads you in circles and plays, “Not at all true”.
 
 :sd[Band forms B and plays Ever True.]
 
