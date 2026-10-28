@@ -195,12 +195,22 @@ First, save a lossless copy of the button image to the [`brown-band/buttons`](ht
 1. In the `buttons` repository, create a new folder inside `buttons` with the current year if it doesn’t already exist, i.e. `2031-2032`
 2. Add `.png` (or `.svg` or any other lossless/vector format) files for each button to that folder, with lowercased names. Replace spaces in the name with dashes.
 
-Next, back in this repo, create a new file inside the `buttons` folder with the current year and the `.yml` extension, i.e. `2031-2032.yml`:
+Next, back in this repo, create a new file inside the `buttons` folder with the current year and the `.toml` extension, i.e. `2031-2032.toml`:
 
 - Use the following format for each line: <code>_College Name (with proper spaces and capitalization)_ = "_Description on Button_"</code>]
 - If the college name has spaces, enclose it in quotes (`""`).
 - For the description, include any text on the button. For graphic elements (such as images), enclose a brief description of the graphic in braces (`{}`).
 - Look at old buttons for examples of how to write the description!
+
+Occasionally, the Band creates special buttons that do not correspond to specific event. To add these to the website under the Special Buttons category update `data/specialButtons.toml` 
+
+```
+[[specialButtons]]
+year = 2048
+school = "School/Event"
+image = "2048-2040/special-button.png"
+label = "Label following the same rules as above."
+``` 
 
 You might need to remove the `.cache` folder to tell Eleventy to re-download the list of buttons from the `buttons` repository.
 

@@ -21,3 +21,23 @@ year = 2020
 school = "Brown × Yale"
 image = "2020-2021/brown-yale-crossover.png"
 label = "HEY! BALE {picture of a hay bale}"
+
+[[specialButtons]]
+year = 2026
+school = "Brown"
+image = "2026-2027/ever-true-a.png"
+label = "Ever True {Infinite Possibility} by Hadley McCormack"
+
+[[specialButtons]]
+year = 2026
+school = "Brown"
+image = "2026-2027/ever-true-b.png"
+label = "Ever True {Sayles Hall} by Hadley McCormack"
+
+[[specialButtons]]
+year = 2026
+school = "Brown"
+image = "2026-2027/ever-true-c.png"
+label = "Ever True {Van Wickle Gates} by Hadley McCormack"
+
+
