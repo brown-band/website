@@ -114,6 +114,10 @@ darkColor = "white"
 [marshall]
 color = "#00ac3e" # “Primary
 
+[new-haven]
+color = "#003366" # Navy Blue
+darkColor = "#ffcc33" # Gold
+
 [pembroke]
 color = "var(--brown-brand)" # I couldn’t find a color so I just went with Brown brown
 
