@@ -202,7 +202,7 @@ Next, back in this repo, create a new file inside the `buttons` folder with the 
 - For the description, include any text on the button. For graphic elements (such as images), enclose a brief description of the graphic in braces (`{}`).
 - Look at old buttons for examples of how to write the description!
 
-Occasionally, the Band creates special buttons that do not correspond to specific event. To add these to the website under the Special Buttons category update `data/specialButtons.toml` 
+Occasionally, the Band creates special buttons that do not correspond to specific event. To add these to the website under the Special Buttons category update `data/specialButtons.toml`
 
 ```
 [[specialButtons]]
@@ -210,7 +210,7 @@ year = 2048
 school = "School/Event"
 image = "2048-2040/special-button.png"
 label = "Label following the same rules as above."
-``` 
+```
 
 You might need to remove the `.cache` folder to tell Eleventy to re-download the list of buttons from the `buttons` repository.
 
